@@ -1,0 +1,31 @@
+#EXTINF:0 type="stream" tvg-logo="http://www.redecanais.com/imgs-videos/Legi%e3o%20dos%20Super-Her%f3is.jpg" , Legião dos Super-Heróis
+http://0.0.0.0
+
+#EXTINF:0 type="stream" tvg-logo="http://www.redecanais.com/imgs-videos/Legi%e3o%20dos%20Super-Her%f3is.jpg" , Episódio 01
+rdc://RCServer01/videos/574df2a7.mp4
+#EXTINF:0 type="stream" tvg-logo="http://www.redecanais.com/imgs-videos/Legi%e3o%20dos%20Super-Her%f3is.jpg" , Episódio 02
+rdc://RCServer01/videos/4c31ea31.flv
+#EXTINF:0 type="stream" tvg-logo="http://www.redecanais.com/imgs-videos/Legi%e3o%20dos%20Super-Her%f3is.jpg" , Episódio 03
+rdc://RCServer01/videos/a15ced1b.flv
+#EXTINF:0 type="stream" tvg-logo="http://www.redecanais.com/imgs-videos/Legi%e3o%20dos%20Super-Her%f3is.jpg" , Episódio 04
+rdc://RCServer01/videos/2caee90f.mp4
+#EXTINF:0 type="stream" tvg-logo="http://www.redecanais.com/imgs-videos/Legi%e3o%20dos%20Super-Her%f3is.jpg" , Episódio 05
+rdc://RCServer01/videos/7b6f06a4.flv
+#EXTINF:0 type="stream" tvg-logo="http://www.redecanais.com/imgs-videos/Legi%e3o%20dos%20Super-Her%f3is.jpg" , Episódio 06
+rdc://RCServer01/videos/69023492.mp4
+#EXTINF:0 type="stream" tvg-logo="http://www.redecanais.com/imgs-videos/Legi%e3o%20dos%20Super-Her%f3is.jpg" , Episódio 07
+rdc://RCServer01/videos/66a2beb7.flv
+#EXTINF:0 type="stream" tvg-logo="http://www.redecanais.com/imgs-videos/Legi%e3o%20dos%20Super-Her%f3is.jpg" , Episódio 08
+rdc://RCServer01/videos/3e02a0e1.mp4
+#EXTINF:0 type="stream" tvg-logo="http://www.redecanais.com/imgs-videos/Legi%e3o%20dos%20Super-Her%f3is.jpg" , Episódio 09
+rdc://RCServer01/videos/53d609ae.mp4
+#EXTINF:0 type="stream" tvg-logo="http://www.redecanais.com/imgs-videos/Legi%e3o%20dos%20Super-Her%f3is.jpg" , Episódio 10
+rdc://RCServer01/videos/25d023ca.mp4
+#EXTINF:0 type="stream" tvg-logo="http://www.redecanais.com/imgs-videos/Legi%e3o%20dos%20Super-Her%f3is.jpg" , Episódio 11
+rdc://RCServer01/videos/2ea328b5.flv
+#EXTINF:0 type="stream" tvg-logo="http://www.redecanais.com/imgs-videos/Legi%e3o%20dos%20Super-Her%f3is.jpg" , Episódio 12
+rdc://RCServer01/videos/ca03fb98.mp4
+#EXTINF:0 type="stream" tvg-logo="http://www.redecanais.com/imgs-videos/Legi%e3o%20dos%20Super-Her%f3is.jpg" , Episódio 13
+rdc://RCServer01/videos/d3656dd0.mp4
+#EXTINF:-1,Se Inscreva em Nosso Canal http://bit.ly/canalkodish
+rdc://

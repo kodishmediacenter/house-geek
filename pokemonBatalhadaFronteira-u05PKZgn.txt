@@ -1,0 +1,96 @@
+#EXTM3U
+
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP423
+tdc://videos/PKMONEP423.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP424
+tdc://videos/PKMONEP424.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP425
+tdc://videos/PKMONEP425.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP426
+tdc://videos/PKMONEP426.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP427
+tdc://videos/PKMONEP427.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP428
+tdc://videos/PKMONEP428.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP429
+tdc://videos/PKMONEP429.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP430
+tdc://videos/PKMONEP430.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP431
+tdc://videos/PKMONEP431.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP432
+tdc://videos/PKMONEP432.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP433
+tdc://videos/PKMONEP433.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP434
+tdc://videos/PKMONEP434.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP435
+tdc://videos/PKMONEP435.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP436
+tdc://videos/PKMONEP436.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP437
+tdc://videos/PKMONEP437.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP438
+tdc://videos/PKMONEP438.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP439
+tdc://videos/PKMONEP439.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP440
+tdc://videos/PKMONEP440.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP441
+tdc://videos/PKMONEP441.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP442
+tdc://videos/PKMONEP442.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP443
+tdc://videos/PKMONEP443.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP444
+tdc://videos/PKMONEP444.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP445
+tdc://videos/PKMONEP445.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP446
+tdc://videos/PKMONEP446.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP447
+tdc://videos/PKMONEP447.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP448
+tdc://videos/PKMONEP448.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP449
+tdc://videos/PKMONEP449.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP450
+tdc://videos/PKMONEP450.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP451
+tdc://videos/PKMONEP451.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP452
+tdc://videos/PKMONEP452.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP453
+tdc://videos/PKMONEP453.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP454
+tdc://videos/PKMONEP454.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP455
+tdc://videos/PKMONEP455.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP456
+tdc://videos/PKMONEP456.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP457
+tdc://videos/PKMONEP457.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP458
+tdc://videos/PKMONEP458.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP459
+tdc://videos/PKMONEP459.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP460
+tdc://videos/PKMONEP460.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP461
+tdc://videos/PKMONEP461.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP462
+tdc://videos/PKMONEP462.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP463
+tdc://videos/PKMONEP463.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP464
+tdc://videos/PKMONEP464.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP465
+tdc://videos/PKMONEP465.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP466
+tdc://videos/PKMONEP466.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP467
+tdc://videos/PKMONEP467.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP468
+tdc://videos/PKMONEP468.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/081cfba53345a7c9cfcb30c4a340b086.jpg' group-title='Batalha da Fronteira',EP469
+tdc://videos/PKMONEP469.mp4

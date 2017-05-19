@@ -1,0 +1,229 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Znjsyw5.jpg" group-title="GDRIVE",Esquadrão Suicida - Dublado - 720p 
+https://docs.google.com/file/d/0BzaT4rP-IkDyNW9OQjlTWmllLWs
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2rKSage.jpg" group-title="GDRIVE",ARQ - Dublado
+https://docs.google.com/file/d/0B-Qbai0AfmrpTUEtWjZ1UzQwcDg/edit 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/stto8Ev.jpg" group-title="GDRIVE",A ERA DO GELO 5 – O BIG BANG DUBLADO
+https://docs.google.com/file/d/0B-Qbai0AfmrpZlQ5SHBuaE1peFk/edit 
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/eeYy7SI.jpg" group-title="LANÇAMENTOS",Anjos-da-Noite-Guerras-de-Sangue
+http://198.16.68.242/ebjhpljffyqwws4phuxt23gxxitlwpn7tbsicljq2fltgugo6b2kxtfdrm2a/video.mp4?start=0
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/jXcuH72.jpg" group-title="LANÇAMENTOS",Conexão Ásia Dublado
+http://50.7.173.82/ezjhpv5wfeqwws4phvht24wv7g6i2nryy2aslw5s6s7d3garfjylrhbmpi6a/video.mp4?start=0
+
+#EXTINF:-1 tvg-logo="http://www.filmesonlinegratis.com/wp-content/uploads/2016/12/bb85b306a9.png" group-title="Filmes Dublado",Spectral - 2016 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/SPCTRL.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vlkw6Jj.jpg" group-title="Filmes Dublado",Uma Noite Com a Familia Blacks - 2016 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/UMANTCMAFMLBLC.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UHBzO00.jpg" group-title="Filmes Dublado",Uma Cancao - 2016 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/UMACNCAO.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DU7hIKq.jpg" group-title="Filmes Dublado",O Dragao do Natal - 2016 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ODRGODNTL.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NAoDtaL.jpg" group-title="Filmes Dublado",Nosso Fiel Traidor - 2016 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/NOSSFILTRDR.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mkNnCYw.jpg" group-title="Filmes Dublado",Mercy - 2016 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MRCY.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Mldi5K5.jpg" group-title="Filmes Dublado",Jason Bourne - 2016 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/JSONBRNE.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0GG0hvW.jpg" group-title="Filmes Dublado",Horas Decisivas  - 2016 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/HRSDCSVS.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H5902Tw.jpg" group-title="Filmes Dublado",Honey 3: No Ritmo do Amor  - 2016 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/HONY3.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4rAXV6t.jpg" group-title="Filmes Dublado",Elvis e Nixon - 2016 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ELVSENIXN.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OTRItjs.jpg" group-title="Filmes Dublado",Cantando de Galo - 2015 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CATNDGL.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gD1l1dM.jpg" group-title="Filmes Legendado",Tanthropoid  - 2016 - 720p -Legendado
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ATHRPDLEG.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Xir2bVJ.jpg" group-title="Filmes Dublado",Truque de Mestre  - 2013 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/TRQDMSTR.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bl5Z4io.jpg" group-title="Filmes Dublado",Truque de Mestre O Segundo Ato - 2016 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/TRQDMSTR2.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8yEd7X6.jpg" group-title="Filmes Dublado",Quando as Luzes se Apagam  - 2016 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/QNDASLZSAPGM.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Hk65zEO.jpg" group-title="Filmes Dublado",Assassino a Preco Fixo - 2011 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ASASINOAPRCFX.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ew4TKp6.jpg" group-title="Filmes Dublado", Aguas Rasas - 2016 - 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/AGUSRAS.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/v7m2nGX.jpg" group-title="Filmes Dublado",EsquadrAo Suicida 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ESQDSCD.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hAABo3P.jpg" group-title="Filmes Dublado",Tini Depois de Violetta 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/TNDPSDVLTA.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9EEC5iM.jpg" group-title="Filmes Dublado",Star Trek Sem Fronteiras 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/STRTRK13.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kYgiL15.jpg" group-title="Filmes Dublado",Alem da Escuridao Star Trek 2013
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/STRTRK12.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Gj3ENCr.jpg" group-title="Filmes Dublado",Star Trek 2009
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/STRTRK11.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xVJ2D3J.jpg" group-title="Filmes Dublado",Procurando Dory 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/PRCNDRY.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Ih7g8I.jpg" group-title="Filmes Dublado",Os Cacadores 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OSCDRS.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TsfwYxO.jpg" group-title="Filmes Dublado",Hitman Agente 47 2015
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/HTMNAGT47.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jtJAgGN.jpg" group-title="Filmes Dublado",Hitman Assassino 47 2007
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/HTMNASNO47.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oHQL8UF.jpg" group-title="Filmes Dublado",Caca Fantasmas 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CACFNTSM2016.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fcnFbEw.jpg" group-title="Filmes Dublado",Os Caca Fantasmas 2 1989
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CACFNTSM2.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ypNbAaU.jpg" group-title="Filmes Dublado",Os Caca Fantasmas 1984
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CACFNTSM.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/c6YJ7JD.jpg" group-title="Filmes Dublado",A Fera 2011
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/AFERA.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XFovmDH.jpg" group-title="Filmes Dublado",A Bruxa do Cabelo Branco do Reino Lunar 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ABRXDCBLBRNCRNLNR.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/59lleUK.jpg" group-title="Filmes Dublado",Misterio de Anubis A Pedra de Ra 2013
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MSTRDANBSAPDRDRA.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OFEg0d6.jpg" group-title="Filmes Dublado",A Lenda de Tarzan 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ALNDETRZN.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TRrRdur.jpg" group-title="Filmes Dublado",Independence Day O Ressurgimento 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/INDPNDAYORSGMNT.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/q4eHLIt.jpg" group-title="Filmes Dublado",A Era do Gelo O Big Bang 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/AERDGLOBB.mp4
+
+EXTINF:-1 tvg-logo="http://i.imgur.com/OUMvdeZ.jpg" group-title="Filmes Dublado",Transformers O Filme 1986
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/TRNSFRMSOFLME.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Qis7kVl.jpg" group-title="Filmes Dublado",Assalto ao Poder 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ASLTOAOPDR.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/VpdMRoE.jpg" group-title="LANÇAMENTOS",Sete Homens e Um Destino (Legendado)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/SETHMNSEUDSTNLEG.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/xkUgxMR.jpg" group-title="LANÇAMENTOS",Uma Aventura de Babás (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/UMAVNTRDBABS.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/ANXFQh7.jpg" group-title="LANÇAMENTOS",Procurando Dory (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/PRCNDRY.mp4 
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/BuWwXw5.jpg" group-title="LANÇAMENTOS",Os Caçadores (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OSCDRS.mp4 
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/eilQ1Z2.jpg" group-title="LANÇAMENTOS",Star Trek: Sem Fronteiras (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/STRTRK13.mp4 
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/E6sQJwa.jpg" group-title="LANÇAMENTOS",A Lenda de Tarzan (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ALNDETRZN.mp4
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/Ur8CRp4.jpg" group-title="LANÇAMENTOS",A Era do Gelo: O Big Bang (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/AERDGLOBB.mp4
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/9LjnyOk.jpg" group-title="LANÇAMENTOS",Independence Day: O Ressurgimento (2016) 
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/INDPNDAYORSGMNT.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/tnKjB08.jpg" group-title="LANÇAMENTOS",Pets: A Vida Secreta dos Bichos (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/PETSAVSDBS.mp4 
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/8QR1kBP.png" group-title="LANÇAMENTOS",Assalto Ao Poder (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ASLTOAOPDR.mp4 
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/j9EzyQq.jpg" group-title="LANÇAMENTOS",Triple 9 (2016)
+http://2.ec.cx/vd/dd/RC/RCFServer2/ondemand/TRPL9.mp4 
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/zDoLq9v.jpg" group-title="LANÇAMENTOS",As Tartarugas Ninja: Fora das Sombras (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ASTARTGUSNJSFRDSSMBRS.mp4 
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/JjESLHq.jpg" group-title="LANÇAMENTOS",Barbie: Aventura nas Estrelas (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BARBIRAVNESTLS.mp4 
+
+ #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/xPT4AQY.jpg" group-title="LANÇAMENTOS",Desnorteados (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/DESNRTAD.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/dENTLzg.jpg" group-title="LANÇAMENTOS",Invocação do Mal 2 (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/INVCAODML2.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/fesPEt3.png" group-title="LANÇAMENTOS",À Procura da Liberdade (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/APRCURDLBRD.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/aJSZNc5.jpg" group-title="LANÇAMENTOS",A Série Divergente: Convergente (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ASREDVRGNTCNVGNT.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/ue7F0oI.png" group-title="LANÇAMENTOS",Batman: A Piada Mortal (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BATMAPIDMRT.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/WPFfGUR.jpg" group-title="LANÇAMENTOS",Deus Não Está Morto 2  (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/DSNESTMRT2.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/3VhNNoH.jpg" group-title="LANÇAMENTOS",Ele Nunca Morre (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ELENCMRR.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/UXHg4xt.jpg" group-title="LANÇAMENTOS",Frankenstein (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/FRNKSTEN.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/zYfB3HP.jpg" group-title="LANÇAMENTOS",Hardcore: Missão Extrema (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/HARDCRMSEXTRM.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/QojLpdg.jpg" group-title="LANÇAMENTOS",Mente Criminosa (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MENTCRMINSA.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/nmhYOu6.jpg" group-title="LANÇAMENTOS",Mogli: O Menino Lobo (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MGLOMENLB.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://goo.gl/eQ3KZ6" group-title="LANÇAMENTOS",Batman Vs Superman: A Origem da Justiça (2016)
+http://2.ec.cx/vd/dd/RC/RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://goo.gl/B52Kqi" group-title="LANÇAMENTOS",Warcraft: O Primeiro Encontro de Dois Mundos  (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/WARCRFT.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://goo.gl/VBR6Nz" group-title="LANÇAMENTOS",DEADPOOL (2016)
+http://2.ec.cx/vd/dd/RC/RCFServer2/ondemand/DEADP.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://goo.gl/iOIMtG" group-title="LANÇAMENTOS",Angry Birds (2016)
+http://2.ec.cx/vd/dd/RC/RCFServer2/ondemand/ANGRYBRDSFLM.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://goo.gl/LnWtlC" group-title="LANÇAMENTOS",Capitão América 3: Guerra Civil (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CAPTAMRC3.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://goo.gl/wKEAp1" group-title="LANÇAMENTOS",Múmia a Ressurreição(2016)
+http://2.ec.cx/vd/dd/RC/RCFServer2/ondemand/MUMARSRCAO.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://i.imgur.com/6E9Fo8x.jpg" group-title="LANÇAMENTOS",Os Dez Mandamentos: O Filme (2016)
+http://2.ec.cx/vd/dd/RC/RCFServer2/ondemand/OSDZMANDMTS.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://goo.gl/RON0Ye" group-title="LANÇAMENTOS",Lego DC Comics Super Heróis: Liga da Justiça: Combate Cósmico(2016)
+http://2.ec.cx/vd/dd/RC/RCFServer2/ondemand/LEGLGDJSTCCMBTCSMCO.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://goo.gl/kp6hJz" group-title="LANÇAMENTOS",Cinquenta Tons de Preto (2016)
+http://2.ec.cx/vd/dd/RC/RCFServer2/ondemand/CQNTATNSDPRT.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://goo.gl/5mKCfC" group-title="LANÇAMENTOS",X-Men: Apocalipse(2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/XMENAPCLPSE.mp4

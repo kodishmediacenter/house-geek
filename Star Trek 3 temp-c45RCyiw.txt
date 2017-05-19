@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 01 - O Cérebro de Spock
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP01.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 02 - O Incidente Entrerprise
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP02.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 03 - Síndrome do Paraíso
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP03.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 04 - Ciranda do Poder
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP04.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 05 - Não Há Beleza Na Verdade
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP05.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 06 - O Último Duelo
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP06.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 07 - O Dia da Paz
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP07.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 08 - O Mundo Finito
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP08.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 09 - A Teia dos Tholianos
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP09.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 10 - Os Herdeiros De Platão
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP10.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 11 - O Piscar de Um Olho
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP11.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 12 - Joia Rara
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP12.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 13 - Elaan de Troyius
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP13.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 14 - O Castigo dos Deuses
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP14.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 15 - A Última Batalha
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP15.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 16 - A Marca de Gideon
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP16.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 17 - O Sobrevivente
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP17.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 18 - As Luzes de Zetar
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP18.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 19 - Réquiem Para Matusalém
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP19.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 20 - Caminho Para O Eden
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP20.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 21 - Os Guardiões das Nuvens
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP21.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 22 - Por Trás da Cortina
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP22.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 23 - Todos Os Nossos Ontens
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP23.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 24 - O Intruso
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT03EP24.mp4

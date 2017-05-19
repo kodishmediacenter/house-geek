@@ -1,0 +1,14 @@
+Abram o painel de controlo
+
+Vão a "Rede e Internet" e de seguida a "Centro de Rede e Partilha"
+No lado esquerdo da janela carreguem em "Alterar definições de placa"
+Carreguem com o botão direito do rato na vossa rede e carreguem em propriedades
+Vão ver um monte de checkboxes, carreguem na que diz "Protocolo IP Versão 4(TSP/IPv4)"
+Carreguem na check box que diz "Utilizar os seguintes endereços do servidor DNS"
+No primeiro campo escrevam 8.8.8.8 e no segundo 8.8.4.4 e carreguem ok
+A não ser que sejam da MEO já deve estar feito, porém às vezes é preciso reiniciar o computador. Utilizadores da MEO, não se assustem, só há mais alguns passos:
+
+Nas propriedades da rede(onde carregaram no Protocolo Ip...) carreguem em Protocolo IP Versão 6(TCP/IPv6)
+Selecionem "Utilizar os seguintes endereços do servidor DNS" e nos campos ponham lá estes numeros: 2001:4860:4860::8888 e 2001:4860:4860::8844
+
+O que acbámos de fazer foi alterar a DNS da ISP para a DNS da Google, que não está sujeita a bloqueios. Isto é completamente legal, se por acaso estiverem na duvida. Se não forem grandes fãs da google podem sempre usar outras DNS, como a OpenDNS, o processo é o mesmo, os numeros é que são diferentes, mas escolhi a DNS da Google por motivos de simplicidade.

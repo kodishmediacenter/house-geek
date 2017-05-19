@@ -1,0 +1,257 @@
+#EXTM3U
+#EXTINF:-1,PT_A BOLA TV
+http://151.80.27.111:8081/live/login/password/485.ts
+#EXTINF:-1,PT_A&E
+http://151.80.27.111:8081/live/login/password/484.ts
+#EXTINF:-1,PT_AFRO MUSIC CHANNEL
+http://151.80.27.111:8081/live/login/password/483.ts
+#EXTINF:-1,PT_AMC HD
+http://151.80.27.111:8081/live/login/password/482.ts
+#EXTINF:-1,PT_AXN BLACK HD
+http://151.80.27.111:8081/live/login/password/481.ts
+#EXTINF:-1,PT_AXN HD
+http://151.80.27.111:8081/live/login/password/480.ts
+#EXTINF:-1,PT_AXN WHITE HD
+http://151.80.27.111:8081/live/login/password/479.ts
+#EXTINF:-1,PT_BABY FIRST
+http://151.80.27.111:8081/live/login/password/478.ts
+#EXTINF:-1,PT_BABY TV
+http://151.80.27.111:8081/live/login/password/477.ts
+#EXTINF:-1,PT_BBC ENTERTAINMENT
+http://151.80.27.111:8081/live/login/password/476.ts
+#EXTINF:-1,PT_BBC WORD NEWS
+http://151.80.27.111:8081/live/login/password/475.ts
+#EXTINF:-1,PT_BIGGS
+http://151.80.27.111:8081/live/login/password/474.ts
+#EXTINF:-1,PT_BLOOMBERG
+http://151.80.27.111:8081/live/login/password/473.ts
+#EXTINF:-1,PT_BTV 1 HD
+http://151.80.27.111:8081/live/login/password/472.ts
+#EXTINF:-1,PT_C MUSIC TV
+http://151.80.27.111:8081/live/login/password/471.ts
+#EXTINF:-1,PT_CACA E PESCA
+http://151.80.27.111:8081/live/login/password/470.ts
+#EXTINF:-1,PT_CACAVISION
+http://151.80.27.111:8081/live/login/password/469.ts
+#EXTINF:-1,PT_CANAL PANDA
+http://151.80.27.111:8081/live/login/password/468.ts
+#EXTINF:-1,PT_CANAL Q
+http://151.80.27.111:8081/live/login/password/467.ts
+#EXTINF:-1,PT_CARTOON NETWORK
+http://151.80.27.111:8081/live/login/password/466.ts
+#EXTINF:-1,PT_CBS REALITY
+http://151.80.27.111:8081/live/login/password/465.ts
+#EXTINF:-1,PT_CHELSEA TV
+http://151.80.27.111:8081/live/login/password/464.ts
+#EXTINF:-1,PT_CINEMUNDO
+http://151.80.27.111:8081/live/login/password/463.ts
+#EXTINF:-1,PT_CMTV HD
+http://151.80.27.111:8081/live/login/password/462.ts
+#EXTINF:-1,PT_CNN
+http://151.80.27.111:8081/live/login/password/461.ts
+#EXTINF:-1,PT_CRIME INVESTIGATION CI
+http://151.80.27.111:8081/live/login/password/460.ts
+#EXTINF:-1,PT_DISCOVERY CHANNEL
+http://151.80.27.111:8081/live/login/password/459.ts
+#EXTINF:-1,PT_DISCOVERY SHOWCASE HD
+http://151.80.27.111:8081/live/login/password/458.ts
+#EXTINF:-1,PT_DISNEY CHANNEL
+http://151.80.27.111:8081/live/login/password/457.ts
+#EXTINF:-1,PT_DISNEY JUNIOR
+http://151.80.27.111:8081/live/login/password/456.ts
+#EXTINF:-1,PT_DOG TV
+http://151.80.27.111:8081/live/login/password/455.ts
+#EXTINF:-1,PT_E! ENTERTAINMENT
+http://151.80.27.111:8081/live/login/password/454.ts
+#EXTINF:-1,PT_ECONOMICO TV HD
+http://151.80.27.111:8081/live/login/password/453.ts
+#EXTINF:-1,PT_EURONEWS
+http://151.80.27.111:8081/live/login/password/452.ts
+#EXTINF:-1,PT_EUROSPORT 1
+http://151.80.27.111:8081/live/login/password/451.ts
+#EXTINF:-1,PT_EUROSPORT 2
+http://151.80.27.111:8081/live/login/password/450.ts
+#EXTINF:-1,PT_EUROSPORT 2 XTRA HD
+http://151.80.27.111:8081/live/login/password/449.ts
+#EXTINF:-1,PT_EUROSPORT NEWS
+http://151.80.27.111:8081/live/login/password/448.ts
+#EXTINF:-1,PT_FASHION TV
+http://151.80.27.111:8081/live/login/password/447.ts
+#EXTINF:-1,PT_FIGHT NETWORK HD
+http://151.80.27.111:8081/live/login/password/446.ts
+#EXTINF:-1,PT_FINE LIVING NETWORK HD
+http://151.80.27.111:8081/live/login/password/445.ts
+#EXTINF:-1,PT_FOOD NETWORK HD
+http://151.80.27.111:8081/live/login/password/444.ts
+#EXTINF:-1,PT_FOX COMEDY HD
+http://151.80.27.111:8081/live/login/password/443.ts
+#EXTINF:-1,PT_FOX CRIME HD
+http://151.80.27.111:8081/live/login/password/442.ts
+#EXTINF:-1,PT_FOX HD
+http://151.80.27.111:8081/live/login/password/441.ts
+#EXTINF:-1,PT_FOX LIFE HD
+http://151.80.27.111:8081/live/login/password/440.ts
+#EXTINF:-1,PT_FOX MOVIES
+http://151.80.27.111:8081/live/login/password/439.ts
+#EXTINF:-1,PT_FOX MOVIES HD
+http://151.80.27.111:8081/live/login/password/438.ts
+#EXTINF:-1,PT_FOX NEWS
+http://151.80.27.111:8081/live/login/password/437.ts
+#EXTINF:-1,PT_FUEL TV HD
+http://151.80.27.111:8081/live/login/password/436.ts
+#EXTINF:-1,PT_GLOBO PORTUGAL
+http://151.80.27.111:8081/live/login/password/435.ts
+#EXTINF:-1,PT_GLOBO PREMIUM
+http://151.80.27.111:8081/live/login/password/434.ts
+#EXTINF:-1,PT_HISTORIA
+http://151.80.27.111:8081/live/login/password/433.ts
+#EXTINF:-1,PT_HOLLYWOOD HD
+http://151.80.27.111:8081/live/login/password/432.ts
+#EXTINF:-1,PT_HOT HD
+http://151.80.27.111:8081/live/login/password/431.ts
+#EXTINF:-1,PT_HUSTLER HD
+http://151.80.27.111:8081/live/login/password/430.ts
+#EXTINF:-1,PT_ICONERTS HD
+http://151.80.27.111:8081/live/login/password/429.ts
+#EXTINF:-1,PT_JIMJAM
+http://151.80.27.111:8081/live/login/password/428.ts
+#EXTINF:-1,PT_KOMBAT SPORT
+http://151.80.27.111:8081/live/login/password/427.ts
+#EXTINF:-1,PT_LOCALVISAO HD
+http://151.80.27.111:8081/live/login/password/426.ts
+#EXTINF:-1,PT_MCM POP
+http://151.80.27.111:8081/live/login/password/425.ts
+#EXTINF:-1,PT_MCM TOP
+http://151.80.27.111:8081/live/login/password/424.ts
+#EXTINF:-1,PT_MCS EXTREME
+http://151.80.27.111:8081/live/login/password/423.ts
+#EXTINF:-1,PT_MCS LIFESTYLE
+http://151.80.27.111:8081/live/login/password/422.ts
+#EXTINF:-1,PT_MOTORS TV
+http://151.80.27.111:8081/live/login/password/421.ts
+#EXTINF:-1,PT_MOTORVISION HD
+http://151.80.27.111:8081/live/login/password/420.ts
+#EXTINF:-1,PT_MOV
+http://151.80.27.111:8081/live/login/password/419.ts
+#EXTINF:-1,PT_MTV PORTUGAL HD
+http://151.80.27.111:8081/live/login/password/418.ts
+#EXTINF:-1,PT_NAT GEO WILD HD
+http://151.80.27.111:8081/live/login/password/417.ts
+#EXTINF:-1,PT_NATIONAL GEOGRAPHIC HD
+http://151.80.27.111:8081/live/login/password/416.ts
+#EXTINF:-1,PT_NICKELODEON
+http://151.80.27.111:8081/live/login/password/415.ts
+#EXTINF:-1,PT_ODISSEIA
+http://151.80.27.111:8081/live/login/password/414.ts
+#EXTINF:-1,PT_OUTDOOR CHANNEL HD
+http://151.80.27.111:8081/live/login/password/413.ts
+#EXTINF:-1,PT_PENTHOUSE HD 1
+http://151.80.27.111:8081/live/login/password/412.ts
+#EXTINF:-1,PT_PLAYBOY TV HD
+http://151.80.27.111:8081/live/login/password/411.ts
+#EXTINF:-1,PT_PORTO CANAL
+http://151.80.27.111:8081/live/login/password/410.ts
+#EXTINF:-1,PT_REAL MADRID TV
+http://151.80.27.111:8081/live/login/password/409.ts
+#EXTINF:-1,PT_REDLIGHT HD
+http://151.80.27.111:8081/live/login/password/408.ts
+#EXTINF:-1,PT_RTP 1
+http://151.80.27.111:8081/live/login/password/407.ts
+#EXTINF:-1,PT_RTP 2
+http://151.80.27.111:8081/live/login/password/406.ts
+#EXTINF:-1,PT_RTP 3
+http://151.80.27.111:8081/live/login/password/405.ts
+#EXTINF:-1,PT_RTP AÇORES
+http://151.80.27.111:8081/live/login/password/404.ts
+#EXTINF:-1,PT_RTP AFRICA
+http://151.80.27.111:8081/live/login/password/403.ts
+#EXTINF:-1,PT_RTP INTERNACIONAL
+http://151.80.27.111:8081/live/login/password/402.ts
+#EXTINF:-1,PT_RTP MADEIRA
+http://151.80.27.111:8081/live/login/password/401.ts
+#EXTINF:-1,PT_RTP MEMORIA
+http://151.80.27.111:8081/live/login/password/400.ts
+#EXTINF:-1,PT_SIC
+http://151.80.27.111:8081/live/login/password/399.ts
+#EXTINF:-1,PT_SIC CARAS
+http://151.80.27.111:8081/live/login/password/398.ts
+#EXTINF:-1,PT_SIC K
+http://151.80.27.111:8081/live/login/password/397.ts
+#EXTINF:-1,PT_SIC MULHER
+http://151.80.27.111:8081/live/login/password/396.ts
+#EXTINF:-1,PT_SIC NOTICIAS
+http://151.80.27.111:8081/live/login/password/395.ts
+#EXTINF:-1,PT_SIC RADICAL
+http://151.80.27.111:8081/live/login/password/394.ts
+#EXTINF:-1,PT_SKY NEWS
+http://151.80.27.111:8081/live/login/password/393.ts
+#EXTINF:-1,PT_SPOR TV 2 HD
+http://151.80.27.111:8081/live/login/password/390.ts
+#EXTINF:-1,PT_SPOR TV 4 HD
+http://151.80.27.111:8081/live/login/password/388.ts
+#EXTINF:-1,PT_SPORT TV
+http://151.80.27.111:8081/live/login/password/392.ts
+#EXTINF:-1,PT_SPORT TV 1 HD
+http://151.80.27.111:8081/live/login/password/391.ts
+#EXTINF:-1,PT_SPORT TV 3 HD
+http://151.80.27.111:8081/live/login/password/389.ts
+#EXTINF:-1,PT_SPORT TV 5 HD
+http://151.80.27.111:8081/live/login/password/387.ts
+#EXTINF:-1,PT_SPORTING TV HD
+http://151.80.27.111:8081/live/login/password/386.ts
+#EXTINF:-1,PT_SUNDANCE HD
+http://151.80.27.111:8081/live/login/password/385.ts
+#EXTINF:-1,PT_SYFY HD
+http://151.80.27.111:8081/live/login/password/384.ts
+#EXTINF:-1,PT_TLC
+http://151.80.27.111:8081/live/login/password/383.ts
+#EXTINF:-1,PT_TOROS TV
+http://151.80.27.111:8081/live/login/password/382.ts
+#EXTINF:-1,PT_TRACE URBAN HD
+http://151.80.27.111:8081/live/login/password/381.ts
+#EXTINF:-1,PT_TRAVEL CHANNEL HD
+http://151.80.27.111:8081/live/login/password/380.ts
+#EXTINF:-1,PT_TV CINE 1 HD
+http://151.80.27.111:8081/live/login/password/377.ts
+#EXTINF:-1,PT_TV CINE 2 HD
+http://151.80.27.111:8081/live/login/password/376.ts
+#EXTINF:-1,PT_TV CINE 3 HD
+http://151.80.27.111:8081/live/login/password/375.ts
+#EXTINF:-1,PT_TV CINE 4 HD
+http://151.80.27.111:8081/live/login/password/374.ts
+#EXTINF:-1,PT_TV RECORD HD
+http://151.80.27.111:8081/live/login/password/379.ts
+#EXTINF:-1,PT_TV SERIES HD
+http://151.80.27.111:8081/live/login/password/361.ts
+#EXTINF:-1,PT_TVC INTERNACIONAL
+http://151.80.27.111:8081/live/login/password/378.ts
+#EXTINF:-1,PT_TVE 24 HORAS
+http://151.80.27.111:8081/live/login/password/373.ts
+#EXTINF:-1,PT_TVE INTERNACIONAL
+http://151.80.27.111:8081/live/login/password/372.ts
+#EXTINF:-1,PT_TVI
+http://151.80.27.111:8081/live/login/password/371.ts
+#EXTINF:-1,PT_TVI 24
+http://151.80.27.111:8081/live/login/password/370.ts
+#EXTINF:-1,PT_TVI FICÇAO
+http://151.80.27.111:8081/live/login/password/369.ts
+#EXTINF:-1,PT_TVI INTERNACIONAL
+http://151.80.27.111:8081/live/login/password/368.ts
+#EXTINF:-1,PT_TVI REALITY
+http://151.80.27.111:8081/live/login/password/367.ts
+#EXTINF:-1,PT_TVI REALITY CAMERA EXCLUSIVA 1
+http://151.80.27.111:8081/live/login/password/366.ts
+#EXTINF:-1,PT_TVI REALITY CAMERA EXCLUSIVA 2
+http://151.80.27.111:8081/live/login/password/365.ts
+#EXTINF:-1,PT_TVI REALITY CAMERA EXCLUSIVA 3
+http://151.80.27.111:8081/live/login/password/364.ts
+#EXTINF:-1,PT_TVI REALITY CAMERA EXCLUSIVA 4
+http://151.80.27.111:8081/live/login/password/363.ts
+#EXTINF:-1,PT_TVI REALITY MOSAICO
+http://151.80.27.111:8081/live/login/password/362.ts
+#EXTINF:-1,PT_VENUS
+http://151.80.27.111:8081/live/login/password/360.ts
+#EXTINF:-1,PT_VH1
+http://151.80.27.111:8081/live/login/password/359.ts
+#EXTINF:-1,PT_VH1 CLASSIC
+http://151.80.27.111:8081/live/login/password/358.ts

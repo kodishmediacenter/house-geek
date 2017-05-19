@@ -1,0 +1,8 @@
+Atualização kodish terra brasilis
+Nessa build é uma build totalmente reformulada pois da Terra Brasilis RC pois contem addons atualizados e configurada 
+
+name="Kodish Terra Brasilis"
+url="http://31.220.108.112/catrevolts/kodishtb.zip"
+img="http://31.220.108.112/catrevolts/icones/icon-ktbr.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Build de Fabio L M Goncalves"

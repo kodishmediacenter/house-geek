@@ -1,0 +1,3 @@
+#EXTM3U 
+#EXTINF:-7 tvg-logo='' group-title='Pokemon',Camaleao Game Plays
+plugin://plugin.video.youtube/user/CamaleaoGamePlays

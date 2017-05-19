@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP160
+tdc://RCServer01/videos/PKMONEP160.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP161
+tdc://RCServer01/videos/PKMONEP161.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP162
+tdc://RCServer01/videos/PKMONEP162.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP163
+tdc://RCServer01/videos/PKMONEP163.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP164
+tdc://RCServer01/videos/PKMONEP164.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP165
+tdc://RCServer01/videos/PKMONEP165.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP166
+tdc://RCServer01/videos/PKMONEP166.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP167
+tdc://RCServer01/videos/PKMONEP167.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP168
+tdc://RCServer01/videos/PKMONEP168.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP169
+tdc://RCServer01/videos/PKMONEP169.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP170
+tdc://RCServer01/videos/PKMONEP170.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP171
+tdc://RCServer01/videos/PKMONEP171.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP172
+tdc://RCServer01/videos/PKMONEP172.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP173
+tdc://RCServer01/videos/PKMONEP173.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP174
+tdc://RCServer01/videos/PKMONEP174.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP175
+tdc://RCServer01/videos/PKMONEP175.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP176
+tdc://RCServer01/videos/PKMONEP176.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP177
+tdc://RCServer01/videos/PKMONEP177.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP178
+tdc://RCServer01/videos/PKMONEP178.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP179
+tdc://RCServer01/videos/PKMONEP179.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP180
+tdc://RCServer01/videos/PKMONEP180.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP181
+tdc://RCServer01/videos/PKMONEP181.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP182
+tdc://RCServer01/videos/PKMONEP182.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP183
+tdc://RCServer01/videos/PKMONEP183.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP184
+tdc://RCServer01/videos/PKMONEP184.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP185
+tdc://RCServer01/videos/PKMONEP185.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP186
+tdc://RCServer01/videos/PKMONEP186.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP187
+tdc://RCServer01/videos/PKMONEP187.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP188
+tdc://RCServer01/videos/PKMONEP188.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP189
+tdc://RCServer01/videos/PKMONEP189.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP190
+tdc://RCServer01/videos/PKMONEP190.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP191
+tdc://RCServer01/videos/PKMONEP191.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP192
+tdc://RCServer01/videos/PKMONEP192.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP193
+tdc://RCServer01/videos/PKMONEP193.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP194
+tdc://RCServer01/videos/PKMONEP194.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP195
+tdc://RCServer01/videos/PKMONEP195.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP196
+tdc://RCServer01/videos/PKMONEP196.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP197
+tdc://RCServer01/videos/PKMONEP197.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP198
+tdc://RCServer01/videos/PKMONEP198.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP199
+tdc://RCServer01/videos/PKMONEP199.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP200
+tdc://RCServer01/videos/PKMONEP200.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP201
+tdc://RCServer01/videos/PKMONEP201.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP202
+tdc://RCServer01/videos/PKMONEP202.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP203
+tdc://RCServer01/videos/PKMONEP203.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP204
+tdc://RCServer01/videos/PKMONEP204.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP205
+tdc://RCServer01/videos/PKMONEP205.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP206
+tdc://RCServer01/videos/PKMONEP206.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP207
+tdc://RCServer01/videos/PKMONEP207.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP208
+tdc://RCServer01/videos/PKMONEP208.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP209
+tdc://RCServer01/videos/PKMONEP209.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP210
+tdc://RCServer01/videos/PKMONEP210.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/CTsoeb' group-title='Campeões da Liga Johto',EP211
+tdc://RCServer01/videos/PKMONEP211.mp4

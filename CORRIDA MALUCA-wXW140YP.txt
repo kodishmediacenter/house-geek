@@ -1,0 +1,73 @@
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , CORRIDA MALUCA
+http://0.0.0.0
+
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 01
+rdc://RCServer09/ondemand/CRDMLCEP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 02
+rdc://RCServer09/ondemand/CRDMLCEP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 03
+rdc://RCServer09/ondemand/CRDMLCEP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 04
+rdc://RCServer09/ondemand/CRDMLCEP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 05
+rdc://RCServer09/ondemand/CRDMLCEP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 06
+rdc://RCServer09/ondemand/CRDMLCEP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 07
+rdc://RCServer09/ondemand/CRDMLCEP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 08
+rdc://RCServer09/ondemand/CRDMLCEP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 09
+rdc://RCServer09/ondemand/CRDMLCEP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 10
+rdc://RCServer09/ondemand/CRDMLCEP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 11
+rdc://RCServer09/ondemand/CRDMLCEP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 12
+rdc://RCServer09/ondemand/CRDMLCEP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 13
+rdc://RCServer09/ondemand/CRDMLCEP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 14
+rdc://RCServer09/ondemand/CRDMLCEP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 15
+rdc://RCServer09/ondemand/CRDMLCEP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 16
+rdc://RCServer09/ondemand/CRDMLCEP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 17
+rdc://RCServer09/ondemand/CRDMLCEP17.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 18
+rdc://RCServer09/ondemand/CRDMLCEP18.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 19
+rdc://RCServer09/ondemand/CRDMLCEP19.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 20
+rdc://RCServer09/ondemand/CRDMLCEP20.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 21
+rdc://RCServer09/ondemand/CRDMLCEP21.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 22
+rdc://RCServer09/ondemand/CRDMLCEP22.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 23
+rdc://RCServer09/ondemand/CRDMLCEP23.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 24
+rdc://RCServer09/ondemand/CRDMLCEP24.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 25
+rdc://RCServer09/ondemand/CRDMLCEP25.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 26
+rdc://RCServer09/ondemand/CRDMLCEP26.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 27
+rdc://RCServer09/ondemand/CRDMLCEP27.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 28
+rdc://RCServer09/ondemand/CRDMLCEP28.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 29
+rdc://RCServer09/ondemand/CRDMLCEP29.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 30
+rdc://RCServer09/ondemand/CRDMLCEP30.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 31
+rdc://RCServer09/ondemand/CRDMLCEP31.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 32
+rdc://RCServer09/ondemand/CRDMLCEP32.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 33
+rdc://RCServer09/ondemand/CRDMLCEP33.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/4wXLONj.jpg" , EPISODIO 34
+rdc://RCServer09/ondemand/CRDMLCEP34.mp4
+#EXTINF:-1,Se Inscreva em Nosso Canal http://bit.ly/canalkodish
+rdc://

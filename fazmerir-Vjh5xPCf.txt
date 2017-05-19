@@ -1,0 +1,37 @@
+<layouttype>thumbnail</layouttype>
+ 
+<item>
+<title>Charges.com.br</title>
+<utube>UCeCNJFVFZrbeQA-wfTMchqg</utube>
+<thumbnail>https://yt3.ggpht.com/-DGDf0rCeQSA/AAAAAAAAAAI/AAAAAAAAAAA/PULBRz3gyic/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/twcTI-7yd_Fxoh05W4wtakQJhRtYVzbDc1TZScS3XLmtVj1eq5fif6HmqBOMIwn9SiX6VQQtVg=w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no</fanart>
+</item>
+
+<item>
+<title>Humor Multishow</title>
+<utube>UC11JFCoslUUMTuAsUPH8RdQ</utube>
+<thumbnail>https://yt3.ggpht.com/-QLyPoBcBQB4/AAAAAAAAAAI/AAAAAAAAAAA/qVvjN4Vfoao/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-QLyPoBcBQB4/AAAAAAAAAAI/AAAAAAAAAAA/qVvjN4Vfoao/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+</item>
+
+<item>
+<title>O Melhor Do Humor</title>
+<utube>UCoO_8EElyG9fE1LoBhV0SfA</utube>
+<thumbnail>https://yt3.ggpht.com/-UrsDpiAcCas/AAAAAAAAAAI/AAAAAAAAAAA/gLspnrS58uo/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-UrsDpiAcCas/AAAAAAAAAAI/AAAAAAAAAAA/gLspnrS58uo/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+</item>
+
+
+<item>
+<title>AnimaTunes</title>
+<utube>UCWAbMASyyaNzpe3zkIg2syQ</utube>
+<thumbnail>https://yt3.ggpht.com/-UEjE1FhEQ2w/AAAAAAAAAAI/AAAAAAAAAAA/mUmazwENu48/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-UEjE1FhEQ2w/AAAAAAAAAAI/AAAAAAAAAAA/mUmazwENu48/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+</item>
+
+<item>
+<title>Portal das Charges</title>
+<utube>UCa5HWjMeKuDP2WJ4CIjuGqw</utube>
+<thumbnail>https://yt3.ggpht.com/-OU1vigp4AD8/AAAAAAAAAAI/AAAAAAAAAAA/C6RthPSUxIU/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-OU1vigp4AD8/AAAAAAAAAAI/AAAAAAAAAAA/C6RthPSUxIU/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+</item>

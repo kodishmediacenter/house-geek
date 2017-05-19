@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP1
+rdc://RCServer09/ondemand/BTMNNVSREP01.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP2
+rdc://RCServer09/ondemand/BTMNNVSREP02.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP3
+rdc://RCServer09/ondemand/BTMNNVSREP03.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP4
+rdc://RCServer09/ondemand/BTMNNVSREP04.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP5
+rdc://RCServer09/ondemand/BTMNNVSREP05.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP6
+rdc://RCServer09/ondemand/BTMNNVSREP06.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP7
+rdc://RCServer09/ondemand/BTMNNVSREP07.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP8
+rdc://RCServer09/ondemand/BTMNNVSREP08.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP9
+rdc://RCServer09/ondemand/BTMNNVSREP09.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP10
+rdc://RCServer09/ondemand/BTMNNVSREP10.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP11
+rdc://RCServer09/ondemand/BTMNNVSREP11.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP12
+rdc://RCServer09/ondemand/BTMNNVSREP12.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP13
+rdc://RCServer09/ondemand/BTMNNVSREP13.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP14
+rdc://RCServer09/ondemand/BTMNNVSREP14.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP15
+rdc://RCServer09/ondemand/BTMNNVSREP15.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP16
+rdc://RCServer09/ondemand/BTMNNVSREP16.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP17
+rdc://RCServer09/ondemand/BTMNNVSREP17.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP18
+rdc://RCServer09/ondemand/BTMNNVSREP18.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP19
+rdc://RCServer09/ondemand/BTMNNVSREP19.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP20
+rdc://RCServer09/ondemand/BTMNNVSREP20.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP21
+rdc://RCServer09/ondemand/BTMNNVSREP21.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP22
+rdc://RCServer09/ondemand/BTMNNVSREP22.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP23
+rdc://RCServer09/ondemand/BTMNNVSREP23.mp4
+#EXTINF:-7 tvg-logo='http://apontadl.com/wp-content/uploads/2016/01/apontadl_img_destacada5.png' group-title='As novas aventuras do batman',EP24
+rdc://RCServer09/ondemand/BTMNNVSREP24.mp4

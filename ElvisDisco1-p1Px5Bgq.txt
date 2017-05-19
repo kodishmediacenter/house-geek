@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Elvs NA BBC X
+https://ia801508.us.archive.org/25/items/Elvis-addon/Elvis/Disco01.m3u
+#EXTINF:-1,ELVIS IN NASHVILLE
+https://ia801508.us.archive.org/25/items/Elvis-addon/Elvis/Disco02.m3u
+#EXTINF:-1,ELVIS ORCHESTRA X
+https://ia801508.us.archive.org/25/items/Elvis-addon/Elvis/Disco03.m3u
+#EXTINF:-1,ELVIS IN MEMPHIS
+https://ia801508.us.archive.org/25/items/Elvis-addon/Elvis/Disco04.m3u
+#EXTINF:-1,ELVIS PRESLEY - FROM NASHVILLE TO MEMPHIS
+https://ia801508.us.archive.org/25/items/Elvis-addon/Elvis/Disco05.m3u
+#EXTINF:-1,ELVIS PRESLEY - GOLDEN RECORDS II
+https://ia801508.us.archive.org/25/items/Elvis-addon/Elvis/Disco06.m3u
+#EXTINF:-1,ELVIS PRESLEY - GOOD ROCKIN' TONIGHT - THE BEST I e II
+https://ia801508.us.archive.org/25/items/Elvis-addon/Elvis/Disco07.m3u
+#EXTINF:-1,ELVIS PRESLEY - HIS HAND IS MINE
+https://ia801508.us.archive.org/25/items/Elvis-addon/Elvis/Disco08.m3u
+#EXTINF:-1,ELVIS PRESLEY - HOW GREAT THOU ART
+https://ia801508.us.archive.org/25/items/Elvis-addon/Elvis/Disco09.m3u
+#EXTINF:-1,ELVIS PRESLEY - THE COLLECTION I e II
+https://ia801508.us.archive.org/25/items/Elvis-addon/Elvis/Disco10.m3u
+#EXTINF:-1,ELVIS PRESLEY - THE LEGEND BEGINS
+https://ia801508.us.archive.org/25/items/Elvis-addon/Elvis/Disco11.m3u

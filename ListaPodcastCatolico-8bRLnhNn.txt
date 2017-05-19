@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0,Podcast Catolico 13
+http://www.portaldamusicacatolica.com/podcasts/podcast_0013.mp3
+#EXTINF:0,Podcast Catolico 12
+http://www.portaldamusicacatolica.com/podcasts/podcast_0012.mp3
+#EXTINF:0,Podcast Catolico 11
+http://www.portaldamusicacatolica.com/podcasts/podcast_0011.mp3
+#EXTINF:0,Podcast Catolico 10
+http://www.portaldamusicacatolica.com/podcasts/podcast_0010.mp3
+#EXTINF:0,Podcast Catolico 09
+http://www.portaldamusicacatolica.com/podcasts/podcast_0009.mp3
+#EXTINF:0,Podcast Catolico 08
+http://www.portaldamusicacatolica.com/podcasts/podcast_0008.mp3
+#EXTINF:0,Podcast Catolico 07
+http://www.portaldamusicacatolica.com/podcasts/podcast_0007.mp3
+#EXTINF:0,Podcast Catolico 06
+http://www.portaldamusicacatolica.com/podcasts/podcast_0006.mp3
+#EXTINF:0,Podcast Catolico 05 - As mais tocadas
+http://www.portaldamusicacatolica.com/podcasts/podcast_0005.mp3
+#EXTINF:0,Podcast Catolico 04 - Especial de Natal
+http://www.portaldamusicacatolica.com/podcasts/podcast_0004.mp3
+#EXTINF:0,Podcast Catolico 03
+http://www.portaldamusicacatolica.com/podcasts/podcast_0003.mp3
+#EXTINF:0,Podcast Catolico 02
+http://www.portaldamusicacatolica.com/podcasts/podcast_0002.mp3
+#EXTINF:0,Podcast Catolico 01
+http://www.portaldamusicacatolica.com/podcasts/podcast_0001.mp3

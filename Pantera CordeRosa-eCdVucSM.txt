@@ -1,0 +1,269 @@
+#EXTM3U
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 01
+rdc://RCServer09/ondemand/APNTRCRDRSEP001.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 02
+rdc://RCServer09/ondemand/APNTRCRDRSEP002.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 03
+rdc://RCServer09/ondemand/APNTRCRDRSEP003.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 04
+rdc://RCServer09/ondemand/APNTRCRDRSEP004.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 05
+rdc://RCServer09/ondemand/APNTRCRDRSEP005.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 06
+rdc://RCServer09/ondemand/APNTRCRDRSEP006.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 07
+rdc://RCServer09/ondemand/APNTRCRDRSEP007.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 08
+rdc://RCServer09/ondemand/APNTRCRDRSEP008.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 09
+rdc://RCServer09/ondemand/APNTRCRDRSEP009.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 10
+rdc://RCServer09/ondemand/APNTRCRDRSEP010.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 11
+rdc://RCServer09/ondemand/APNTRCRDRSEP011.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 12
+rdc://RCServer09/ondemand/APNTRCRDRSEP012.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 13
+rdc://RCServer09/ondemand/APNTRCRDRSEP013.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 14
+rdc://RCServer09/ondemand/APNTRCRDRSEP014.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 15
+rdc://RCServer09/ondemand/APNTRCRDRSEP015.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 16
+rdc://RCServer09/ondemand/APNTRCRDRSEP016.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 17
+rdc://RCServer09/ondemand/APNTRCRDRSEP017.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 18
+rdc://RCServer09/ondemand/APNTRCRDRSEP018.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 19
+rdc://RCServer09/ondemand/APNTRCRDRSEP019.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 20
+rdc://RCServer09/ondemand/APNTRCRDRSEP020.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 21
+rdc://RCServer09/ondemand/APNTRCRDRSEP021.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 22
+rdc://RCServer09/ondemand/APNTRCRDRSEP022.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 23
+rdc://RCServer09/ondemand/APNTRCRDRSEP023.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 24
+rdc://RCServer09/ondemand/APNTRCRDRSEP024.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 25
+rdc://RCServer09/ondemand/APNTRCRDRSEP025.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 26
+rdc://RCServer09/ondemand/APNTRCRDRSEP026.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 27
+rdc://RCServer09/ondemand/APNTRCRDRSEP027.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 28
+rdc://RCServer09/ondemand/APNTRCRDRSEP028.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 29
+rdc://RCServer09/ondemand/APNTRCRDRSEP029.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 30
+rdc://RCServer09/ondemand/APNTRCRDRSEP030.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 31
+rdc://RCServer09/ondemand/APNTRCRDRSEP031.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 32
+rdc://RCServer09/ondemand/APNTRCRDRSEP032.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 33
+rdc://RCServer09/ondemand/APNTRCRDRSEP033.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 34
+rdc://RCServer09/ondemand/APNTRCRDRSEP034.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 35
+rdc://RCServer09/ondemand/APNTRCRDRSEP035.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 36
+rdc://RCServer09/ondemand/APNTRCRDRSEP036.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 37
+rdc://RCServer09/ondemand/APNTRCRDRSEP037.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 38
+rdc://RCServer09/ondemand/APNTRCRDRSEP038.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 39
+rdc://RCServer09/ondemand/APNTRCRDRSEP039.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 40
+rdc://RCServer09/ondemand/APNTRCRDRSEP040.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 41
+rdc://RCServer09/ondemand/APNTRCRDRSEP041.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 42
+rdc://RCServer09/ondemand/APNTRCRDRSEP042.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 43
+rdc://RCServer09/ondemand/APNTRCRDRSEP043.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 44
+rdc://RCServer09/ondemand/APNTRCRDRSEP044.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 45
+rdc://RCServer09/ondemand/APNTRCRDRSEP045.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 46
+rdc://RCServer09/ondemand/APNTRCRDRSEP046.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 47
+rdc://RCServer09/ondemand/APNTRCRDRSEP047.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 48
+rdc://RCServer09/ondemand/APNTRCRDRSEP048.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 49
+rdc://RCServer09/ondemand/APNTRCRDRSEP049.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 50
+rdc://RCServer09/ondemand/APNTRCRDRSEP050.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 51
+rdc://RCServer09/ondemand/APNTRCRDRSEP051.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 52
+rdc://RCServer09/ondemand/APNTRCRDRSEP052.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 53
+rdc://RCServer09/ondemand/APNTRCRDRSEP053.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 54
+rdc://RCServer09/ondemand/APNTRCRDRSEP054.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 55
+rdc://RCServer09/ondemand/APNTRCRDRSEP055.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 56
+rdc://RCServer09/ondemand/APNTRCRDRSEP056.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 57
+rdc://RCServer09/ondemand/APNTRCRDRSEP057.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 58
+rdc://RCServer09/ondemand/APNTRCRDRSEP058.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 59
+rdc://RCServer09/ondemand/APNTRCRDRSEP059.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 60
+rdc://RCServer09/ondemand/APNTRCRDRSEP060.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 61
+rdc://RCServer09/ondemand/APNTRCRDRSEP061.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 62
+rdc://RCServer09/ondemand/APNTRCRDRSEP062.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 63
+rdc://RCServer09/ondemand/APNTRCRDRSEP063.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 64
+rdc://RCServer09/ondemand/APNTRCRDRSEP064.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 65
+rdc://RCServer09/ondemand/APNTRCRDRSEP065.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 66
+rdc://RCServer09/ondemand/APNTRCRDRSEP066.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 67
+rdc://RCServer09/ondemand/APNTRCRDRSEP067.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 68
+rdc://RCServer09/ondemand/APNTRCRDRSEP068.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 69
+rdc://RCServer09/ondemand/APNTRCRDRSEP069.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 70
+rdc://RCServer09/ondemand/APNTRCRDRSEP070.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 71
+rdc://RCServer09/ondemand/APNTRCRDRSEP071.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 72
+rdc://RCServer09/ondemand/APNTRCRDRSEP072.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 73
+rdc://RCServer09/ondemand/APNTRCRDRSEP073.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 74
+rdc://RCServer09/ondemand/APNTRCRDRSEP074.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 75
+rdc://RCServer09/ondemand/APNTRCRDRSEP075.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 76
+rdc://RCServer09/ondemand/APNTRCRDRSEP076.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 77
+rdc://RCServer09/ondemand/APNTRCRDRSEP077.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 78
+rdc://RCServer09/ondemand/APNTRCRDRSEP078.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 79
+rdc://RCServer09/ondemand/APNTRCRDRSEP079.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 80
+rdc://RCServer09/ondemand/APNTRCRDRSEP080.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 81
+rdc://RCServer09/ondemand/APNTRCRDRSEP081.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 82
+rdc://RCServer09/ondemand/APNTRCRDRSEP082.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 83
+rdc://RCServer09/ondemand/APNTRCRDRSEP083.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 84
+rdc://RCServer09/ondemand/APNTRCRDRSEP084.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 85
+rdc://RCServer09/ondemand/APNTRCRDRSEP085.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 86
+rdc://RCServer09/ondemand/APNTRCRDRSEP086.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 87
+rdc://RCServer09/ondemand/APNTRCRDRSEP087.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 88
+rdc://RCServer09/ondemand/APNTRCRDRSEP088.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 89
+rdc://RCServer09/ondemand/APNTRCRDRSEP089.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 90
+rdc://RCServer09/ondemand/APNTRCRDRSEP090.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 91
+rdc://RCServer09/ondemand/APNTRCRDRSEP091.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 92
+rdc://RCServer09/ondemand/APNTRCRDRSEP092.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 93
+rdc://RCServer09/ondemand/APNTRCRDRSEP093.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 94
+rdc://RCServer09/ondemand/APNTRCRDRSEP094.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 95
+rdc://RCServer09/ondemand/APNTRCRDRSEP095.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 96
+rdc://RCServer09/ondemand/APNTRCRDRSEP096.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 97
+rdc://RCServer09/ondemand/APNTRCRDRSEP097.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 98
+rdc://RCServer09/ondemand/APNTRCRDRSEP098.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 99
+rdc://RCServer09/ondemand/APNTRCRDRSEP099.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 100
+rdc://RCServer09/ondemand/APNTRCRDRSEP100.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 101
+rdc://RCServer09/ondemand/APNTRCRDRSEP101.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 102
+rdc://RCServer09/ondemand/APNTRCRDRSEP102.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 103
+rdc://RCServer09/ondemand/APNTRCRDRSEP103.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 104
+rdc://RCServer09/ondemand/APNTRCRDRSEP104.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 105
+rdc://RCServer09/ondemand/APNTRCRDRSEP105.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 106
+rdc://RCServer09/ondemand/APNTRCRDRSEP106.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 107
+rdc://RCServer09/ondemand/APNTRCRDRSEP107.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 108
+rdc://RCServer09/ondemand/APNTRCRDRSEP108.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 109
+rdc://RCServer09/ondemand/APNTRCRDRSEP109.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 110
+rdc://RCServer09/ondemand/APNTRCRDRSEP110.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 111
+rdc://RCServer09/ondemand/APNTRCRDRSEP111.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 112
+rdc://RCServer09/ondemand/APNTRCRDRSEP112.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 113
+rdc://RCServer09/ondemand/APNTRCRDRSEP113.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 114
+rdc://RCServer09/ondemand/APNTRCRDRSEP114.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 115
+rdc://RCServer09/ondemand/APNTRCRDRSEP115.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 116
+rdc://RCServer09/ondemand/APNTRCRDRSEP116.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 117
+rdc://RCServer09/ondemand/APNTRCRDRSEP117.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 118
+rdc://RCServer09/ondemand/APNTRCRDRSEP118.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 119
+rdc://RCServer09/ondemand/APNTRCRDRSEP119.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 120
+rdc://RCServer09/ondemand/APNTRCRDRSEP120.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 121
+rdc://RCServer09/ondemand/APNTRCRDRSEP121.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 122
+rdc://RCServer09/ondemand/APNTRCRDRSEP122.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 123
+rdc://RCServer09/ondemand/APNTRCRDRSEP123.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 124
+rdc://RCServer09/ondemand/APNTRCRDRSEP124.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 125
+rdc://RCServer09/ondemand/APNTRCRDRSEP125.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 126
+rdc://RCServer09/ondemand/APNTRCRDRSEP126.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 127
+rdc://RCServer09/ondemand/APNTRCRDRSEP127.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 128
+rdc://RCServer09/ondemand/APNTRCRDRSEP128.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 129
+rdc://RCServer09/ondemand/APNTRCRDRSEP129.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 130
+rdc://RCServer09/ondemand/APNTRCRDRSEP130.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 131
+rdc://RCServer09/ondemand/APNTRCRDRSEP131.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 132
+rdc://RCServer09/ondemand/APNTRCRDRSEP132.mp4
+#EXTINF:-1,A Pantera Cor-de-Rosa Ep 133
+rdc://RCServer09/ondemand/APNTRCRDRSEP133.mp4
+#EXTINF:-1,Se Inscreva em Nosso Canal http://bit.ly/canalkodish
+rdc://

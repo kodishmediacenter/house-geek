@@ -1,0 +1,86 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP01
+rdc://RCServer09/ondemand/OQHDNVSCBDEP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP02
+rdc://RCServer09/ondemand/OQHDNVSCBDEP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP03
+rdc://RCServer09/ondemand/OQHDNVSCBDEP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP04
+rdc://RCServer09/ondemand/OQHDNVSCBDEP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP05
+rdc://RCServer09/ondemand/OQHDNVSCBDEP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP06
+rdc://RCServer09/ondemand/OQHDNVSCBDEP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP07
+rdc://RCServer09/ondemand/OQHDNVSCBDEP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP08
+rdc://RCServer09/ondemand/OQHDNVSCBDEP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP09
+rdc://RCServer09/ondemand/OQHDNVSCBDEP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP10
+rdc://RCServer09/ondemand/OQHDNVSCBDEP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP11
+rdc://RCServer09/ondemand/OQHDNVSCBDEP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP12
+rdc://RCServer09/ondemand/OQHDNVSCBDEP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP13
+rdc://RCServer09/ondemand/OQHDNVSCBDEP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP14
+rdc://RCServer09/ondemand/OQHDNVSCBDEP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP15
+rdc://RCServer09/ondemand/OQHDNVSCBDEP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP16
+rdc://RCServer09/ondemand/OQHDNVSCBDEP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP17
+rdc://RCServer09/ondemand/OQHDNVSCBDEP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP18
+rdc://RCServer09/ondemand/OQHDNVSCBDEP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP19
+rdc://RCServer09/ondemand/OQHDNVSCBDEP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP20
+rdc://RCServer09/ondemand/OQHDNVSCBDEP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP21
+rdc://RCServer09/ondemand/OQHDNVSCBDEP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP22
+rdc://RCServer09/ondemand/OQHDNVSCBDEP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP23
+rdc://RCServer09/ondemand/OQHDNVSCBDEP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP24
+rdc://RCServer09/ondemand/OQHDNVSCBDEP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP25
+rdc://RCServer09/ondemand/OQHDNVSCBDEP25.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP26
+rdc://RCServer09/ondemand/OQHDNVSCBDEP26.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP27
+rdc://RCServer09/ondemand/OQHDNVSCBDEP27.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP28
+rdc://RCServer09/ondemand/OQHDNVSCBDEP28.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP29
+rdc://RCServer09/ondemand/OQHDNVSCBDEP29.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP30
+rdc://RCServer09/ondemand/OQHDNVSCBDEP30.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP31
+rdc://RCServer09/ondemand/OQHDNVSCBDEP31.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP32
+rdc://RCServer09/ondemand/OQHDNVSCBDEP32.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP33
+rdc://RCServer09/ondemand/OQHDNVSCBDEP33.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP34
+rdc://RCServer09/ondemand/OQHDNVSCBDEP34.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP35
+rdc://RCServer09/ondemand/OQHDNVSCBDEP35.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP36
+rdc://RCServer09/ondemand/OQHDNVSCBDEP36.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP37
+rdc://RCServer09/ondemand/OQHDNVSCBDEP37.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP38
+rdc://RCServer09/ondemand/OQHDNVSCBDEP38.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP39
+rdc://RCServer09/ondemand/OQHDNVSCBDEP39.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP40
+rdc://RCServer09/ondemand/OQHDNVSCBDEP40.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP41
+rdc://RCServer09/ondemand/OQHDNVSCBDEP41.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/muNKgm" group-title="O Que Há de Novo Scooby-Doo?",EP42
+rdc://RCServer09/ondemand/OQHDNVSCBDEP42.mp4

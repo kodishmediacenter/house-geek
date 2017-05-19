@@ -1,0 +1,191 @@
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , LIGA DA JUSTICA
+http://0.0.0.0
+
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 01
+rdc://RCServer01/videos/LIGDJSTEP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 02
+rdc://RCServer01/videos/LIGDJSTEP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 03
+rdc://RCServer01/videos/LIGDJSTEP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 04
+rdc://RCServer01/videos/LIGDJSTEP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 05
+rdc://RCServer01/videos/LIGDJSTEP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 06
+rdc://RCServer01/videos/LIGDJSTEP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 07
+rdc://RCServer01/videos/LIGDJSTEP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 08
+rdc://RCServer01/videos/LIGDJSTEP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 09
+rdc://RCServer01/videos/LIGDJSTEP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 10
+rdc://RCServer01/videos/LIGDJSTEP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 11
+rdc://RCServer01/videos/LIGDJSTEP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 12
+rdc://RCServer01/videos/LIGDJSTEP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 13
+rdc://RCServer01/videos/LIGDJSTEP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 14
+rdc://RCServer01/videos/LIGDJSTEP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 15
+rdc://RCServer01/videos/LIGDJSTEP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 16
+rdc://RCServer01/videos/LIGDJSTEP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 17
+rdc://RCServer01/videos/LIGDJSTEP17.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 18
+rdc://RCServer01/videos/LIGDJSTEP18.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 19
+rdc://RCServer01/videos/LIGDJSTEP19.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 20
+rdc://RCServer01/videos/LIGDJSTEP20.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 21
+rdc://RCServer01/videos/LIGDJSTEP21.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 22
+rdc://RCServer01/videos/LIGDJSTEP22.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 23
+rdc://RCServer01/videos/LIGDJSTEP23.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 24
+rdc://RCServer01/videos/LIGDJSTEP24.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 25
+rdc://RCServer01/videos/LIGDJSTEP25.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 01 - EPISODIO 26
+rdc://RCServer01/videos/LIGDJSTEP26.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 27
+rdc://RCServer01/videos/LIGDJSTEP27.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 28
+rdc://RCServer01/videos/LIGDJSTEP28.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 29
+rdc://RCServer01/videos/LIGDJSTEP29.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 30
+rdc://RCServer01/videos/LIGDJSTEP30.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 31
+rdc://RCServer01/videos/LIGDJSTEP31.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 32
+rdc://RCServer01/videos/LIGDJSTEP32.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 33
+rdc://RCServer01/videos/LIGDJSTEP33.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 34
+rdc://RCServer01/videos/LIGDJSTEP34.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 35
+rdc://RCServer01/videos/LIGDJSTEP35.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 36
+rdc://RCServer01/videos/LIGDJSTEP36.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 37
+rdc://RCServer01/videos/LIGDJSTEP37.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 38
+rdc://RCServer01/videos/LIGDJSTEP38.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 39
+rdc://RCServer01/videos/LIGDJSTEP39.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 40
+rdc://RCServer01/videos/LIGDJSTEP40.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 41
+rdc://RCServer01/videos/LIGDJSTEP41.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 42
+rdc://RCServer01/videos/LIGDJSTEP42.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 43
+rdc://RCServer01/videos/LIGDJSTEP43.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 44
+rdc://RCServer01/videos/LIGDJSTEP44.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 45
+rdc://RCServer01/videos/LIGDJSTEP45.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 46
+rdc://RCServer01/videos/LIGDJSTEP46.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 47
+rdc://RCServer01/videos/LIGDJSTEP47.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 48
+rdc://RCServer01/videos/LIGDJSTEP48.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 49
+rdc://RCServer01/videos/LIGDJSTEP49.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 50
+rdc://RCServer01/videos/LIGDJSTEP50.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 51
+rdc://RCServer01/videos/LIGDJSTEP51.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/oOCO1kB.png" , 02 - EPISODIO 52
+rdc://RCServer01/videos/LIGDJSTEP52.mp4
+
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , LIGA DA JUSTICA SEM LIMITES
+http://0.0.0.0
+
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 01
+rdc://RCServer01/videos/LIGDJSTSLMTSLMTEP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 02
+rdc://RCServer01/videos/LIGDJSTSLMTEP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 03
+rdc://RCServer01/videos/LIGDJSTSLMTEP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 04
+rdc://RCServer01/videos/LIGDJSTSLMTEP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 05
+rdc://RCServer01/videos/LIGDJSTSLMTEP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 06
+rdc://RCServer01/videos/LIGDJSTSLMTEP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 07
+rdc://RCServer01/videos/LIGDJSTSLMTEP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 08
+rdc://RCServer01/videos/LIGDJSTSLMTEP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 09
+rdc://RCServer01/videos/LIGDJSTSLMTEP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 10
+rdc://RCServer01/videos/LIGDJSTSLMTEP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 11
+rdc://RCServer01/videos/LIGDJSTSLMTEP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 12
+rdc://RCServer01/videos/LIGDJSTSLMTEP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 13
+rdc://RCServer01/videos/LIGDJSTSLMTEP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 14
+rdc://RCServer01/videos/LIGDJSTSLMTEP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 15
+rdc://RCServer01/videos/LIGDJSTSLMTEP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 16
+rdc://RCServer01/videos/LIGDJSTSLMTEP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 17
+rdc://RCServer01/videos/LIGDJSTSLMTEP17.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 18
+rdc://RCServer01/videos/LIGDJSTSLMTEP18.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 19
+rdc://RCServer01/videos/LIGDJSTSLMTEP19.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 20
+rdc://RCServer01/videos/LIGDJSTSLMTEP20.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 21
+rdc://RCServer01/videos/LIGDJSTSLMTEP21.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 22
+rdc://RCServer01/videos/LIGDJSTSLMTEP22.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 23
+rdc://RCServer01/videos/LIGDJSTSLMTEP23.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 24
+rdc://RCServer01/videos/LIGDJSTSLMTEP24.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 25
+rdc://RCServer01/videos/LIGDJSTSLMTEP25.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 01 - EPISODIO 26
+rdc://RCServer01/videos/LIGDJSTSLMTEP26.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 02 - EPISODIO 27
+rdc://RCServer01/videos/LIGDJSTSLMTEP27.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 02 - EPISODIO 28
+rdc://RCServer01/videos/LIGDJSTSLMTEP28.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 02 - EPISODIO 29
+rdc://RCServer01/videos/LIGDJSTSLMTEP29.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 02 - EPISODIO 30
+rdc://RCServer01/videos/LIGDJSTSLMTEP30.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 02 - EPISODIO 31
+rdc://RCServer01/videos/LIGDJSTSLMTEP31.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 02 - EPISODIO 32
+rdc://RCServer01/videos/LIGDJSTSLMTEP32.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 02 - EPISODIO 33
+rdc://RCServer01/videos/LIGDJSTSLMTEP33.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 02 - EPISODIO 34
+rdc://RCServer01/videos/LIGDJSTSLMTEP34.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 02 - EPISODIO 35
+rdc://RCServer01/videos/LIGDJSTSLMTEP35.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 02 - EPISODIO 36
+rdc://RCServer01/videos/LIGDJSTSLMTEP36.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 02 - EPISODIO 37
+rdc://RCServer01/videos/LIGDJSTSLMTEP37.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 02 - EPISODIO 38
+rdc://RCServer01/videos/LIGDJSTSLMTEP38.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/SRiVjze.jpg" , 02 - EPISODIO 39
+rdc://RCServer01/videos/LIGDJSTSLMTEP39.mp4
+#EXTINF:-1,Se Inscreva em Nosso Canal http://bit.ly/canalkodish
+rdc://

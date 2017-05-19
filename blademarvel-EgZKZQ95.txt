@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/B/assistir%20Blade%20%E2%80%93%20Anime%20todos%20os%20episodios%20online.jpg' group-title='blade-anime',EP1
+http://www.animeai.biz/Uploads/Animes/B/blade-anime/01.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/B/assistir%20Blade%20%E2%80%93%20Anime%20todos%20os%20episodios%20online.jpg' group-title='blade-anime',EP2
+http://www.animeai.biz/Uploads/Animes/B/blade-anime/02.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/B/assistir%20Blade%20%E2%80%93%20Anime%20todos%20os%20episodios%20online.jpg' group-title='blade-anime',EP3
+http://www.animeai.biz/Uploads/Animes/B/blade-anime/03.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/B/assistir%20Blade%20%E2%80%93%20Anime%20todos%20os%20episodios%20online.jpg' group-title='blade-anime',EP4
+http://www.animeai.biz/Uploads/Animes/B/blade-anime/04.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/B/assistir%20Blade%20%E2%80%93%20Anime%20todos%20os%20episodios%20online.jpg' group-title='blade-anime',EP5
+http://www.animeai.biz/Uploads/Animes/B/blade-anime/05.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/B/assistir%20Blade%20%E2%80%93%20Anime%20todos%20os%20episodios%20online.jpg' group-title='blade-anime',EP6
+http://www.animeai.biz/Uploads/Animes/B/blade-anime/06.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/B/assistir%20Blade%20%E2%80%93%20Anime%20todos%20os%20episodios%20online.jpg' group-title='blade-anime',EP7
+http://www.animeai.biz/Uploads/Animes/B/blade-anime/07.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/B/assistir%20Blade%20%E2%80%93%20Anime%20todos%20os%20episodios%20online.jpg' group-title='blade-anime',EP8
+http://www.animeai.biz/Uploads/Animes/B/blade-anime/08.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/B/assistir%20Blade%20%E2%80%93%20Anime%20todos%20os%20episodios%20online.jpg' group-title='blade-anime',EP9
+http://www.animeai.biz/Uploads/Animes/B/blade-anime/09.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/B/assistir%20Blade%20%E2%80%93%20Anime%20todos%20os%20episodios%20online.jpg' group-title='blade-anime',EP10
+http://www.animeai.biz/Uploads/Animes/B/blade-anime/10.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/B/assistir%20Blade%20%E2%80%93%20Anime%20todos%20os%20episodios%20online.jpg' group-title='blade-anime',EP11
+http://www.animeai.biz/Uploads/Animes/B/blade-anime/11.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/B/assistir%20Blade%20%E2%80%93%20Anime%20todos%20os%20episodios%20online.jpg' group-title='blade-anime',EP12
+http://www.animeai.biz/Uploads/Animes/B/blade-anime/12.mp4

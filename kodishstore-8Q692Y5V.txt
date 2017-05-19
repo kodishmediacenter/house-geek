@@ -1,0 +1,8 @@
+Addon kodish Store
+https://drive.google.com/file/d/0B13p6muB3isiYUVOYzllRmpwRU0/view?usp=sharing
+
+Dependencias (Addons Usa Youtube)
+http://kodish.esy.es/kodi/script.module.addon.common.zip
+
+Playlist Loader 
+http://kodish.esy.es/3rd/plugin.video.playlistLoader-1.0.6.zip

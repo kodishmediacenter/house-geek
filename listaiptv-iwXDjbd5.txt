@@ -1,0 +1,2643 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gbRPjNi.png" group-title="TV PAGA (TEMPORARIO)", (ON) GLOBO NEWS MWINFO
+http://5.226.137.3:80/loadbalance/canal-globo-news-hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KihSzQetTdo/VkuoVNIQPoI/AAAAAAABIpk/KLf57DGMWtg/s1600/Globo_logo_1999.png" group-title="TV PAGA (TEMPORARIO)", (ON) GLOBO SAO PAULO MWINFO
+http://5.226.137.3:80/loadbalance/slv5/chunks.m3u8?MWINFO
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KihSzQetTdo/VkuoVNIQPoI/AAAAAAABIpk/KLf57DGMWtg/s1600/Globo_logo_1999.png" group-title="TV PAGA (TEMPORARIO)", (ON) GLOBO SAO PAULO MWINFO
+http://5.226.137.3:80:80/loadbalance/slv9/playlist.m3u8?MWINFO
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KihSzQetTdo/VkuoVNIQPoI/AAAAAAABIpk/KLf57DGMWtg/s1600/Globo_logo_1999.png" group-title="TV PAGA (TEMPORARIO)", (ON) GLOBO SAO PAULO MWINFO
+http://5.226.137.3:80/loadbalance/slv9/playlist.m3u8?MWINFO
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KihSzQetTdo/VkuoVNIQPoI/AAAAAAABIpk/KLf57DGMWtg/s1600/Globo_logo_1999.png" group-title="TV PAGA (TEMPORARIO)", (ON) GLOBO RIO DE JANEIRO MWINFO
+http://5.226.137.3:80/loadbalance/canal-globo-rj/playlist.m3u8?MWINFO
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KihSzQetTdo/VkuoVNIQPoI/AAAAAAABIpk/KLf57DGMWtg/s1600/Globo_logo_1999.png" group-title="TV PAGA (TEMPORARIO)", (ON) GLOBO RBS MWINFO
+http://5.226.137.3:80/loadbalance/slv5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KihSzQetTdo/VkuoVNIQPoI/AAAAAAABIpk/KLf57DGMWtg/s1600/Globo_logo_1999.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) GLOBO (TV LIBERAL) MWINFO
+http://5.226.137.3:80/loadbalance/canal-tv_liberal_hd_belem/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KihSzQetTdo/VkuoVNIQPoI/AAAAAAABIpk/KLf57DGMWtg/s1600/Globo_logo_1999.png" group-title="TV PAGA (TEMPORARIO)", GLOBO (MINAS) MWINFO
+http://5.226.137.3:80/loadbalance/canal-globo-minas-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KihSzQetTdo/VkuoVNIQPoI/AAAAAAABIpk/KLf57DGMWtg/s1600/Globo_logo_1999.png" group-title="TV PAGA (TEMPORARIO)", GLOBO (BRASILIA) MWINFO
+http://5.226.137.3:80/loadbalance/canal-globo-brasilia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="TV PAGA (TEMPORARIO)", RECORD  MWINFO
+http://5.226.137.3:80/loadbalance/record2278/playlist.m3u8?MWINFO
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Band-SP.png" group-title="TV PAGA (TEMPORARIO)", BAND SAO PAULO MWINFO
+http://5.226.137.3:80/loadbalance/agua1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Band-SP.png" group-title="TV PAGA (TEMPORARIO)", BAND SAO PAULO MWINFO
+http://5.226.137.3:80/loadbalance/agua1/chunks.m3u8?MWINFO
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/The-History-Channel.png" group-title="TV PAGA (TEMPORARIO)", (ON) HISTORY MWINFO 
+http://5.226.137.3:80/loadbalance/canal-the-history-channel-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+#EXTINF:-1 tvg-logo="https://s32.postimg.org/hzun1s1md/history2.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) HISTORY 2 MWINFO 
+http://5.226.137.3:80/loadbalance/canal-h2-hd/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Animal-Planet.png" group-title="TV PAGA (TEMPORARIO)", (ON) ANIMAL PLANET MWINFO 
+http://5.226.137.3:80/loadbalance/canal-animal-planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Animal-Planet.png" group-title="TV PAGA (TEMPORARIO)", (ON) ANIMAL PLANET MWINFO 
+http://5.226.137.3:80/loadbalance/canal-animal-planet/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Channel.png" group-title="TV PAGA (TEMPORARIO)", (ON) DISCOVERY CHANNEL MWINFO 
+http://5.226.137.3:80/loadbalance/canal-discovery-channel-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Channel.png" group-title="TV PAGA (TEMPORARIO)", (ON) DISCOVERY CHANNEL MWINFO 
+http://5.226.137.3:80/loadbalance/canal-discovery-channel-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+#EXTINF:-1 tvg-logo="http://s24.postimg.org/cs00wmgxd/theather.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) DISCOVERY THEATER MWINFO 
+http://5.226.137.3:80/loadbalance/canal-discovery-theater-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+#EXTINF:-1 tvg-logo="https://s16.postimg.org/p7ce9i39x/natgeo.png" group-title="TV PAGA (TEMPORARIO)", (ON) NAT GEO MWINFO 
+http://5.226.137.3:80/loadbalance/canal-nat-geo-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Civilization.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) DISCOVERY CIVILIZATION MWINFO 
+http://5.226.137.3:80/loadbalance/canal-discovery-civilization/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/investigacao-discovery.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) ID MWINFO 
+http://5.226.137.3:80/loadbalance/canal-investigation-discovery-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-logo="http://s2.postimg.org/3paju77b9/Nat_Geo_Wild.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) NAT GEO WILD MWINFO 
+http://5.226.137.3:80/loadbalance/canal-nat-geo-wild-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0040_discovery_hh.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) DISCOVERY HOME E HEALTH MWINFO 
+http://5.226.137.3:80/loadbalance/canal-discovery-home-and-health-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s24.postimg.org/9czz4sgdt/MTV.png" group-title="TV PAGA (TEMPORARIO)", (ON) MTV MWINFO
+http://5.226.137.3:80/loadbalance/canal-mtv-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/54d22844e4b0c27bb20138c5/5530003ce4b0a97aa1971901/553004d3e4b058645c976b92/1429210323282/canal+off+2.png?format=300w" group-title="TV PAGA (TEMPORARIO)", (ON) CANAL OFF MWINFO
+http://5.226.137.3:80/loadbalance/canal-off-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/mfp4sxpch/GNT.png" group-title="TV PAGA (TEMPORARIO)", (ON) GNT MWINFO
+http://5.226.137.3:80/loadbalance/canal-gnt-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="TV PAGA (TEMPORARIO)", (ON) MULTISHOW MWINFO
+http://5.226.137.3:80/loadbalance/canal-multishow-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/dzt2si0mx/viva.png" group-title="TV PAGA (TEMPORARIO)", (ON) VIVA MWINFO
+http://5.226.137.3:80/loadbalance/canal-viva-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="TV PAGA (TEMPORARIO)", (ON) BIS MWINFO
+http://5.226.137.3:80/loadbalance/canal-bis-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/comedycentralb.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) COMEDY CENTRAL MWINFO
+http://5.226.137.3:80/loadbalance/canal-comedy-central/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/968el0vyx/eimaxx.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) EI MAXX MWINFO
+http://5.226.137.3:80/loadbalance/bfr7/chunks.m3u8?MWINFO 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PtJXQee.png" group-title="TV PAGA (TEMPORARIO)", (ON) SPORTV MWINFO
+http://5.226.137.3:80/loadbalance/slv0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PtJXQee.png" group-title="TV PAGA (TEMPORARIO)", (ON) SPORTV MWINFO
+http://5.226.137.3/loadbalance/slv0/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SporTV-2.png" group-title="TV PAGA (TEMPORARIO)", (ON) SPORTV 2 MWINFO
+http://5.226.137.3:80/loadbalance/spo224ha/playlist.m3u8?i
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SporTV-2.png" group-title="TV PAGA (TEMPORARIO)", (ON) SPORTV 2 MWINFO
+http://5.226.137.3/loadbalance/spo224ha/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SporTV-2.png" group-title="TV PAGA (TEMPORARIO)", (ON) SPORTV 2 MWINFO
+http://5.226.137.3:80/loadbalance/spo224ha/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/ESPN.png" group-title="TV PAGA (TEMPORARIO)", (ON) ESPN  MWINFO 
+http://5.226.137.3:80/loadbalance/canal-espn-hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/ESPN-Brasil.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) ESPN BRASIL (KODI APENAS) MWINFO 
+rtmp://5.226.137.3:80/loadbalance?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxNiAzOjUxOjIyIFBNJmhhc2hfdmFsdWU9V3BZci9qdkhCRTJDc055SUJqbm80UT09JnZhbGlkbWludXRlcz0x/slv10?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/heHBFyS.png" group-title="TV PAGA (TEMPORARIO)", (ON) ESPN + MWINFO
+http://5.226.137.3:80/loadbalance/canal-espn+-hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Fox-Sports.png" group-title="TV PAGA (TEMPORARIO)", (ON) FOX SPORTS MWINFO
+http://5.226.137.3:80/loadbalance/foxsportshd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/8c2twmxif/premiere_fc.png" group-title="TV PAGA (TEMPORARIO)", PREMIERE 1 MWINFO
+http://5.226.137.3/loadbalance/bfr1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/8c2twmxif/premiere_fc.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) PREMIERE MWINFO
+http://5.226.137.3/loadbalance/bfr2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/8c2twmxif/premiere_fc.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) PREMIERE 3 MWINFO
+http://5.226.137.3:80/loadbalance/bfr3/chunks.m3u8?MWINFO 
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/8c2twmxif/premiere_fc.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) PREMIERE 4 MWINFO
+http://5.226.137.3:80/loadbalance/bfr4/chunks.m3u8?MWINFO 
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/8c2twmxif/premiere_fc.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) PREMIERE 5 MWINFO
+http://5.226.137.3:80/loadbalance/bfr5/chunks.m3u8?MWINFO 
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/8c2twmxif/premiere_fc.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) PREMIERE 6 MWINFO
+http://5.226.137.3:80/loadbalance/bfr6/chunks.m3u8?MWINFO 
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/8c2twmxif/premiere_fc.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) PREMIERE 7/ESPN BRASIL MWINFO
+http://5.226.137.3:80/loadbalance/bfr7/chunks.m3u8?MWINFO 
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/8c2twmxif/premiere_fc.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) PREMIERE 8 MWINFO
+http://5.226.137.3:80/loadbalance/bfr8/chunks.m3u8?MWINFO 
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/8c2twmxif/premiere_fc.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) PREMIERE 8 MWINFO
+http://5.226.137.3:80/loadbalance/bfr9/chunks.m3u8?MWINFO 
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Combate.png" group-title="TV PAGA (TEMPORARIO)", (ON) COMBATE MWINFO
+http://5.226.137.3:80/loadbalance/slv1/chunks.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Combate.png" group-title="TV PAGA (TEMPORARIO)", (ON) COMBATE MWINFO
+http://5.226.137.3:80/loadbalance/slv1/playlist.m3u8?MWINFO 
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Combate.png" group-title="TV PAGA (TEMPORARIO)", (ON) COMBATE MWINFO
+http://5.226.137.3:80/loadbalance/slv1/chunks.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Combate.png" group-title="TV PAGA (TEMPORARIO)", (ON) COMBATE MWINFO
+http://5.226.137.3:80/loadbalance/slv1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Combate.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) COMBATE MWINFO
+rtmp://5.226.137.3:80/loadbalance?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxNiAzOjUxOjIyIFBNJmhhc2hfdmFsdWU9V3BZci9qdkhCRTJDc055SUJqbm80UT09JnZhbGlkbWludXRlcz0x/slv1?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/Nickelodeon.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) NICK MWINFO
+http://5.226.137.3:80/loadbalance/canal-nickelodeon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig06.deviantart.net/18d6/f/2014/354/3/e/nick_jr_2015_new_look_png_pack_by_kaylor2013-d8ajsjy.png" group-title="TV PAGA (TEMPORARIO)", (ON) NICK JR. MWINFO
+http://5.226.137.3:80/loadbalance/canal-nick-jr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Tooncast.png" group-title="TV PAGA (TEMPORARIO)", (ON) TOONCAST MWINFO
+http://5.226.137.3:80/loadbalance/canal-tooncast/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://www.brisbanekids.com.au/wp-content/uploads/2015/08/DJTC_4C_Logo_0614.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) DISNEY JUNIOR MWINFO
+http://5.226.137.3:80/loadbalance/canal-disney-junior/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Disney-XD.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) DISNEY XD MWINFO
+http://5.226.137.3:80/loadbalance/canal-disney-xd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="TV PAGA (TEMPORARIO)", (ON) BOOMERANG MWINFO
+http://5.226.137.3:80/loadbalance/canal-boomerang/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Gloob.png" group-title="TV PAGA (TEMPORARIO)", (ON) GLOOB MWINFO
+http://5.226.137.3:80/loadbalance/canal-gloob-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s28.postimg.org/cqqksvb61/megapix.png" group-title="TV PAGA (TEMPORARIO)", (ON) MEGAPIX MWINFO
+http://5.226.137.3:80:80/loadbalance/canal-megapix-hd/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s27.postimg.org/v2ysovgkf/image.png" group-title="TV PAGA (TEMPORARIO)", (ON) FX MWINFO
+http://5.226.137.3:80/loadbalance/canal-fx-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) HBO MWINFO
+http://5.226.137.3:80/loadbalance/canal-hbo-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="TV PAGA (TEMPORARIO)", (ON) HBO 2 MWINFO
+http://5.226.137.3:80/loadbalance/canal-hbo-2-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="TV PAGA (TEMPORARIO)", (ON) HBO SIGNATURE MWINFO
+http://5.226.137.3:80/loadbalance/canal-hbo-signature-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="TV PAGA (TEMPORARIO)", (ON) HBO PLUS MWINFO
+http://5.226.137.3:80/loadbalance/canal-hbo-plus-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+
+#EXTINF:-1 tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="TV PAGA (TEMPORARIO)", (ON) HBO FAMILY MWINFO
+http://5.226.137.3:80/loadbalance/canal-hbo-family-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x
+
+#EXTINF:-1 tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="TV PAGA (TEMPORARIO)", (ON) FOX  MWINFO
+http://5.226.137.3:80/loadbalance/canal-fox-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Canal-Brasil.png" group-title="TV PAGA (TEMPORARIO)", (ON) CANAL BRASIL MWINFO
+http://5.226.137.3:80/loadbalance/canal-canal-brasil-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="TV PAGA (TEMPORARIO)", (ON) TELECINE PREMIUM MWINFO
+http://5.226.137.3:80/loadbalance/canal-telecine-premium-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="TV PAGA (TEMPORARIO)", (ON) TELECINE TOUTCH MWINFO
+http://5.226.137.3:80/loadbalance/canal-telecine-touch-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="TV PAGA (TEMPORARIO)", (ON) TELECINE ACTION MWINFO
+http://5.226.137.3:80/loadbalance/canal-telecine-action-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="TV PAGA (TEMPORARIO)", (ON) TELECINE PIPOCA MWINFO
+http://31.204.128.117:8081/live/fox/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="TV PAGA (TEMPORARIO)", (ON) TELECINE PIPOCA MWINFO
+http://5.226.137.3:80/loadbalance/canal-telecine-pipoca-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) TELECINE FUN MWINFO
+http://5.226.137.3:80/loadbalance/canal-telecine-fun-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-5EVGagNU8T8/VH3hGGkSaOI/AAAAAAAAkFE/E6Fo-mW6nK8/s1600/canal-max-hd.png" group-title="TV PAGA (TEMPORARIO)", (ON) MAX MWINFO
+http://5.226.137.3:80/loadbalance/canal-max-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s9.postimg.org/l51ctd8mz/maxprime.png" group-title="TV PAGA (TEMPORARIO)", (ON) MAX PRIME MWINFO
+http://5.226.137.3:80/loadbalance/canal-max-prime-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s24.postimg.org/75vs42fs1/cinemax.png" group-title="TV PAGA (TEMPORARIO)", (ON) CINEMAX MWINFO
+http://5.226.137.3:80/loadbalance/canal-cinemax-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s31.postimg.org/uu398livf/space.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) SPACE MWINFO
+http://5.226.137.3:80/loadbalance/canal-space-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s31.postimg.org/6ktxs1ci3/universal.png" group-title="TV PAGA (TEMPORARIO)", (ON) UNIVERSAL CHANNEL MWINFO
+http://5.226.137.3:80/loadbalance/canal-universal-channel-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/uxw1c6411/studiouniversal.png" group-title="TV PAGA (TEMPORARIO)", (ON) STUDIO UNIVERSAL MWINFO
+http://5.226.137.3:80/loadbalance/canal-studio-universal/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s22.postimg.org/bo4dgvux9/life.png" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) FOX LIFE MWINFO
+http://5.226.137.3:80/loadbalance/canal-fox-life/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="TV PAGA (TEMPORARIO)", (ON) WARNER MWINFO
+http://5.226.137.3:80/loadbalance/canal-warner-channel-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://tvaudienciadosblog.files.wordpress.com/2013/02/rbc-audiencia-logo1.png" group-title="TV PAGA (TEMPORARIO)", (ON) RBC FILMES E DESENHOS MWINFO
+http://flash1.crossdigital.com.br:1935/ponto10/latina/live.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/ichc-channel/images/5/52/Paramount_Channel.png/revision/latest?cb=20160402182114" group-title="TV PAGA (TEMPORARIO)", (MANUTENCAO) PARAMOUNT CHANNEL MWINFO
+http://5.226.137.3:80/loadbalance/canal-paramount-channel-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s31.postimg.io/j7jqvpfu3/TNT.png" group-title="TV PAGA (TEMPORARIO)", (ON) TNT MWINFO
+http://5.226.137.3:80/loadbalance/canal-tnt-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s3.postimg.org/7gqpaco0z/TCM.png" group-title="TV PAGA (TEMPORARIO)", (ON) TCM MWINFO
+http://5.226.137.3:80/loadbalance/canal-tcm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s15.postimg.org/tzhnubsmz/axn.png" group-title="TV PAGA (TEMPORARIO)", (ON) AXN MWINFO
+http://5.226.137.3:80/loadbalance/canal-axn-hd/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="TV PAGA (TEMPORARIO)", (ON) SONY MWINFO
+http://5.226.137.3:80/loadbalance/canal-sony-hd/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png" group-title="HD TV 720P E 1080P", TV CULTURA (ITARARE) MWINFO
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="HD TV 720P E 1080P", SBT SAO PAULO MWINFO
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream4/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="HD TV 720P E 1080P", SBT PARAIBA MWINFO
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="HD TV 720P E 1080P", RECORD  MWINFO
+http://gochannelstv.dyndns.tv:80/p108tvrecordhd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s12.postimg.org/z7f0jjck9/gazeta2.png" group-title="HD TV 720P E 1080P", TV GAZETA SAO PAULO MWINFO
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s12.postimg.org/z7f0jjck9/gazeta2.png" group-title="HD TV 720P E 1080P", TV GAZETA SAO PAULO MWINFO
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Rede_Brasil.png" group-title="HD TV 720P E 1080P", REDE BRASIL MWINFO
+http://rbc.directradios.com:1935/rbc/rbc.smil/chunklist_b1200000.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Rede_Brasil.png" group-title="HD TV 720P E 1080P", REDE BRASIL MWINFO
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/chunklist_w2020266859_b1200000.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s15.postimg.io/ri5kwmjvr/tvescola2.png" group-title="HD TV 720P E 1080P", TV ESCOLA MWINFO
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/sh50ast09/tve_rs.png" group-title="HD TV 720P E 1080P", TVE (TV BRASIL) MWINFO
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/wxxd9h789/tv_ines.png" group-title="HD TV 720P E 1080P", TV INES MWINFO
+http://liveabr.sambatech.com.br:80/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="HD TV 720P E 1080P", NA BARRA TV MWINFO
+http://streaming63.sitehosting.com.br:1935/barra/_definst_/barra/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvshopnoiva.com.br/wp-content/uploads/2016/04/LOGO_PNG.png" group-title="HD TV 720P E 1080P", TV SHOP NOIVA (KODI APENAS) MWINFO
+rtmp://wse8.player.tv.br:1935/almir4261/ playpath=almir4261 swfUrl=http://player.radio.br/v2/players/clientes/4261/player/jwplayer.flash.swf pageUrl=http://www.tvshopnoiva.com.br/
+
+#EXTINF:-1 tvg-logo="http://www.tvshopnoiva.com.br/wp-content/uploads/2016/04/LOGO_PNG.png" group-title="HD TV 720P E 1080P", (OFF) TV SHOP NOIVA MWINFO
+http://streaming52.sitehosting.com.br:1935/santaluz/_definst_/santaluz/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.fuca.org.br/wp-content/uploads/2016/07/WebTvLogo2.png" group-title="HD TV 720P E 1080P", TV WEB  MWINFO
+http://wse3.player.tv.br:1935/tvwebparana/tvwebparana/live.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvviena.com.br/wp-content/uploads/2015/05/tvviena_logo_site-1.png" group-title="HD TV 720P E 1080P",  TV VIENA MWINFO
+http://streaming30.sitehosting.com.br:1935/tvviena/tvviena/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.terceiraviatv.com.br/wp-content/themes/ligre/assets/img/logo-terceira-via.png" group-title="HD TV 720P E 1080P", TV 3 VIA MWINFO
+http://stream07.localmidia.com.br/3viatv/aovivo/chunklist_w1609256025.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvsindeepres.org.br/tv/wp-content/uploads/2014/08/logo-tvsindeepres.png" group-title="HD TV 720P E 1080P", TV SINDEEPRES MWINFO
+http://v.pool.us.wse-1.srvstream.com:1935/fx7-live/smil:tvsindeepres.smil/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.faap.br/tvfaap/images/logo_tv.png" group-title="HD TV 720P E 1080P", TV FAAP MWINFO
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mjcncvzwt/TVSenado.png" group-title="HD TV 720P E 1080P", TV SENADO MWINFO
+http://www.tvmpf.mpf.mp.br:1935/event426/event426.stream_720p/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvjustica.jus.br/imagens/logo.png" group-title="HD TV 720P E 1080P", TV JUSTICA MWINFO
+http://www.tvmpf.mpf.mp.br:1935/event549/event549.stream_720p/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s32.postimg.io/4ckx3eeht/TV_C_mara.png" group-title="HD TV 720P E 1080P", TV CAMARA MWINFO
+http://www.tvmpf.mpf.mp.br:1935/event423/event423.stream_720p/live.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.byutvi.org/content/images/byutv-logo.png" group-title="HD TV 720P E 1080P", BYU TELEVISION MWINFO
+http://byuhd2-lh.akamaihd.net/i/byutvintporthd2_live@103132/master.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="HD TV 720P E 1080P", AGRO BRASIL MWINFO
+http://192.99.101.129:1935/agrobrasiltv/smil:agrobrasiltv.smil/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="HD TV 720P E 1080P", AGRO BRASIL (OP 2) MWINFO
+http://192.99.101.129:1935/agrobrasiltv/agrobrasiltv_720p/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.horsebrasil.com.br/img/logo.png" group-title="HD TV 720P E 1080P", HORSE BRASIL MWINFO 
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uePkvrm.png" group-title="HD TV 720P E 1080P", TV FILHOS DE MARIA MWINFO
+http://184.173.203.22:1935/filhosdemaria/filhosdemaria.sdp/chunklist_w476954938.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="HD TV 720P E 1080P", TV GOSPEL VIDA MWINFO
+http://188.165.227.203:1935/tv/tv/live.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yIyAemJ.png" group-title="HD TV 720P E 1080P", VEM E VE TV MWINFO
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv/livestream.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.gideoes.com.br/images/conteudo/logotipo-tvgideoes.png" group-title="HD TV 720P E 1080P", TV GIDEOES  MWINFO 
+http://streaming02.zas.media:1935/gideoes/programacao_720p/live.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.gideoes.com.br/images/conteudo/logotipo-tvgideoes.png" group-title="HD TV 720P E 1080P", TV GIDEOES (OP 2) MWINFO 
+http://streaming01.zas.media:1935/gideoes/smil:tvgideoes.smil/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.febtv.com.br/templates/febtv2016/img/FEBtv-logo.png" group-title="HD TV 720P E 1080P", FEB TV MWINFO
+http://plenus6000.com:1935/febtv1/febtv1/live.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s12.postimg.org/o61obsaq1/record_news.png" group-title="HD TV 720P E 1080P", RECORD NEWS (ESPIRITO SANTO) MWINFO
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gbRPjNi.png" group-title="HD TV 720P E 1080P", GLOBO NEWS MWINFO
+http://v.pool.us.wse-1.srvstream.com:1935/oncafebrasil2015/oncafebrasil2015_720p/live.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UVH8sZ5.png" group-title="HD TV 720P E 1080P", (MANUTENCAO) GVNEWS  MWINFO
+http://172.93.110.130:1935/gvnews/gvnews/live.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RJctW3G.png" group-title="HD TV 720P E 1080P", REDE FAMILIA 2 MWINFO
+http://srv9.zoeweb.tv:1935/zw901/zw901_720p/chunklist_w1480046717.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="HD TV 720P E 1080P", CBN SP 90.5 FM - ESTUDIO AO VIVO MWINFO
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="HD TV 720P E 1080P", SLAM TV MWINFO
+http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="HD TV 720P E 1080P", MUSIC BOX MWINFO
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="HD TV 720P E 1080P", ELECTROSOUND MWINFO
+http://www.electrosound.tv:1935/public/stream/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://dotdance.tv/wp-content/uploads/2015/09/dot_100_100.png" group-title="HD TV 720P E 1080P", DOT DANCE MWINFO
+http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/EskaTV_logo_2011.png" group-title="HD TV 720P E 1080P", ESKA TV (KODI APENAS) MWINFO
+rtmp://stream.smcloud.net/live/eskatv?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-EfjBbjWXMCk/VNuZ7OM29uI/AAAAAAAAJJs/WzgFBq4tQT4/s185/DJING%2BTV.png" group-title="HD TV 720P E 1080P", DIJING ANIMATION MWINFO
+http://cdn.djing.com/tv/a-05.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2d/UTV_logo_2012.png" group-title="HD TV 720P E 1080P", UTV  MWINFO
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:radioutv1/chunklist_w1182659521.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Heart_TV_logo.png" group-title="HD TV 720P E 1080P", HEART TV MWINFO
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:0 tvg-logo="http://mgtvbc.com/img/generalist/PortoCanal.png" group-title="HD TV 720P E 1080P", PORTO CANAL MWINFO
+http://213.13.26.13:1935/live/portocanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.blogdedaltroemerenciano.com.br/wp-content/uploads/2012/03/x.png" group-title="HD TV 720P E 1080P", LIVRE TV MWINFO
+http://172.93.110.130:1935/livretv/_definst_/mp4:livretv_720p/playlist.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51bE%2B1DF24L.png" group-title="HD TV 720P E 1080P", INDIMUSIC TV (KODI APENAS) MWINFO
+rtmp://indimusic.tulix.tv:1935/livemulti/Stream1.stream swfUrl=http://swf.tulix.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.tulix.com/iframe/indimusictv/index-multi2.php?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-KL5JscA5JR4/TzP78Tl3fLI/AAAAAAAAAIQ/iO2-qYHm0Sw/s1600/genesis.png" group-title="HD TV 720P E 1080P", REDE GENESIS (KODI APENAS) MWINFO
+rtmp://snt.sisdera.com/tvgenesis/aovivo.stream?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.io/lcq9v4i2x/Radio_UTV.png" group-title="HD TV 720P E 1080P",  RADIOU.TV (KODI APENAS) MWINFO
+rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:radioutv1?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.allmusic.co.za/skin/images/All_Music_logo.png" group-title="HD TV 720P E 1080P",  RADIOU.TV (KODI APENAS) MWINFO
+rtmp://188.138.17.8:1935/albuk/albmus.stream?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4vtqpfqvt/esporte_interativo.png" group-title="HD TV 720P E 1080P", ESPORTE INTERATIVO MWINFO
+http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/968el0vyx/eimaxx.png" group-title="HD TV 720P E 1080P", EI MAXX MWINFO
+http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/c300z1r6h/eimaxx2.png" group-title="HD TV 720P E 1080P", EI MAXX 2 MWINFO
+http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/9i41ypvax/ALL.png" group-title="HD TV 720P E 1080P", ALL SPORTS 2 MWINFO
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/ESPN.png" group-title="HD TV 720P E 1080P", (MANUTENCAO) ESPN HD PTBR (KODI APENAS) MWINFO 
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4xOWEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MQ/video.m3u8?oauth_token=fhfecLQJgbGVj-J5RHZP3w?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/heHBFyS.png" group-title="HD TV 720P E 1080P", (MANUTENCAO) ESPN + HD MWINFO
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4xOTlhJmNoYW5uZWw9ZXNwbjMmcGxheWJhY2tTY2VuYXJpbz1IVFRQX0NMT1VEX01PQklMRSZwbGF5ZXJJZD1pb3MmcGthbj1TRVRfTUUmaWRlbnRpdHlQb2ludElkPVNFVF9NRSZwYXJ0bmVyQ29udGVudElkPTI2NjM3NjI/video.m3u8?oauth_token=fhfecLQJgbGVj-J5RHZP3w?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/ESPN-Brasil.png" group-title="HD TV 720P E 1080P", (MANUTENCAO) ESPN BRASIL HD (KODI APENAS) MWINFO 
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4yMGEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MA/video.m3u8?oauth_token=fhfecLQJgbGVj-J5RHZP3w?MWINFO
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-RBzcLAVAXTU/VAsbPkryWII/AAAAAAAAGKw/LuQIvntVOcU/s1600/capela%2Bde%2Bfatima.png" group-title="HD TV 720P E 1080P", CAPELINHA DE FATIMA(iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding?MWINFO
+
+#EXTINF:-1 tvg-logo="http://tvhumaita.com.br/wp-content/themes/tv/images/logo-humaita.png" group-title="HD TV 720P E 1080P", TV HUMAITA MWINFO
+http://painel.tvdigitalhd.org:1935/adolpho8357/adolpho8357_720p/live.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png" group-title="CANAL ABERTO", TV CULTURA MWINFO
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png" group-title="CANAL ABERTO", TV CULTURA SAO PAULO (BIRIGUI) MWINFO
+http://tv01.hstbr.net:1935/radiodigitalbirigui/radiodigitalbirigui/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="CANAL ABERTO", SBT HD SAO PAULO MWINFO
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbt.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="CANAL ABERTO", SBT HD SAO PAULO (CANAL 1) MWINFO
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="CANAL ABERTO", SBT HD SAO PAULO (CANAL 4) MWINFO
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream4/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="CANAL ABERTO", SBT SAO PAULO (INTERIOR)  MWINFO
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8?MWINFO
+
+
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KihSzQetTdo/VkuoVNIQPoI/AAAAAAABIpk/KLf57DGMWtg/s1600/Globo_logo_1999.png" group-title="CANAL ABERTO", GLOBO SAO PAULO MWINFO
+http://31.204.128.117:8081/live/sptv/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KihSzQetTdo/VkuoVNIQPoI/AAAAAAABIpk/KLf57DGMWtg/s1600/Globo_logo_1999.png" group-title="CANAL ABERTO", GLOBO  MWINFO
+http://31.204.128.117:8081/live/globo/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KihSzQetTdo/VkuoVNIQPoI/AAAAAAABIpk/KLf57DGMWtg/s1600/Globo_logo_1999.png" group-title="CANAL ABERTO", GLOBO PORTUGAL MWINFO
+http://gochannelstv.dyndns.tv:80/p44globoportugal/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KihSzQetTdo/VkuoVNIQPoI/AAAAAAABIpk/KLf57DGMWtg/s1600/Globo_logo_1999.png" group-title="CANAL ABERTO", GLOBO PREMIUM MWINFO
+http://gochannelstv.dyndns.tv:80/p45globopremium/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="CANAL ABERTO", RECORD  MWINFO
+http://gochannelstv.dyndns.tv:80/p108tvrecordhd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="CANAL ABERTO", RECORD  MWINFO
+http://5.226.137.3:80/loadbalance/record2278/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="CANAL ABERTO", RECORD SAO PAULO (KODI APENAS) MWINFO
+rtmp://wz3.dnip.com.br:1935/tvgazetamt/ playpath=tvgazetamt.sdp swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf pageUrl=http://www.cxtv.com.br/tv-ao-vivo/tv-record
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="CANAL ABERTO", RECORD SAO PAULO MWINFO
+http://31.204.128.117:8081/live/record/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="CANAL ABERTO", RECORD SAO PAULO MWINFO
+http://109.200.202.87:8081/live/record/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Rede-TV-HD.png" group-title="CANAL ABERTO", REDE TV SAO PAULO MWINFO
+http://evp.mm.uol.com.br:1935/redetv1/_definst_/redetv1/ExabyteTV.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Rede-TV-HD.png" group-title="CANAL ABERTO", REDE TV  SAO PAULO 2 MWINFO
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s12.postimg.org/z7f0jjck9/gazeta2.png" group-title="CANAL ABERTO", TV GAZETA SAO PAULO HD MWINFO
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s12.postimg.org/z7f0jjck9/gazeta2.png" group-title="CANAL ABERTO", TV GAZETA SAO PAULO HD MWINFO
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Band-SP.png" group-title="CANAL ABERTO", (MANUTENCAO) BAND SAO PAULO MWINFO
+http://painel.tvdigitalhd.org:1935/rbaredebrasil8355/rbaredebrasil8355/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Band-SP.png" group-title="CANAL ABERTO", BAND SAO PAULO MWINFO
+http://31.204.128.117:8081/live/band/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/RCTV_logo_2_000.png" group-title="CANAL ABERTO", RCTV MWINFO
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.org/w8h0qjwwt/amazon_sat.png" group-title="CANAL ABERTO", AMAZON SAT MWINFO
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.org/w8h0qjwwt/amazon_sat.png" group-title="CANAL ABERTO", AMAZON SAT 2 MWINFO
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream1/chunklist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/af5r7n44f/tvjornal.png" group-title="CANAL ABERTO", TV JORNAL MWINFO
+http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/af5r7n44f/tvjornal.png" group-title="CANAL ABERTO", TV JORNAL 2 - SBT MWINFO
+http://evp.mm.uol.com.br/ne10//ne10-tvjornal-recife-video-web.sdp/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s15.postimg.io/ri5kwmjvr/tvescola2.png" group-title="CANAL ABERTO", TV ESCOLA HD MWINFO
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Rede_Brasil.png" group-title="CANAL ABERTO", REDE BRASIL MWINFO
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/chunklist_w2020266859_b1200000.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/5vZQuLLt8w/sNvwtlfliDFCyHfX.png" group-title="CANAL ABERTO", MULTI TV MWINFO
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/hcNjGvBI9D/z7pclWBjOuaczXP5.png" group-title="CANAL ABERTO", TV GERAL MWINFO
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/RnURohneYj/WFIA8shvAAhGOnzH.png" group-title="CANAL ABERTO", TV UP HD MWINFO
+http://caikron.com.br:8081/unipar/tvup/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/sh50ast09/tve_rs.png" group-title="CANAL ABERTO", TVE MWINFO
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/sh50ast09/tve_rs.png" group-title="CANAL ABERTO", TVE 2 MWINFO
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/c7v0d2o61/tv_pantanal.png" group-title="CANAL ABERTO", TV PANTANAL MWINFO
+http://78.46.36.212:1935/tvpantanalms/tvpantanalms/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.aplateia.com.br/gerenciador/fotos/foto13065-g.png" group-title="CANAL ABERTO", (MANUTENCAO) TV A PLATEIA MWINFO
+http://srv-sh1.sisdera.com:1935/webtv/1_HD/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvbirigui.com.br/aguardet.png" group-title="CANAL ABERTO", TV BIRIGUI MWINFO
+http://tv01.hstbr.net:1935/radiodigitalbirigui/radiodigitalbirigui/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s21.postimg.org/4ci9ksbib/meionorte.png" group-title="CANAL ABERTO", REDE MEIO NORTE - TV DO POVO MWINFO
+http://live-15.viewer.dacast.com/i/dclive_1@83035/master.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/low7ozahl/ucs_tv.png" group-title="CANAL ABERTO", UCS TV MWINFO
+http://cdn.srv.br:8088/UCSTV/UCSTV/chunks.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://portal.pucminas.br//puctv/imagens/parceiros/Futura_1.png" group-title="CANAL ABERTO", FUTURA UNICESAMAR MWINFO
+http://caikrondatacenter.com.br:1935/unicesumar/unicesumar.stream/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/wxxd9h789/tv_ines.png" group-title="CANAL ABERTO", TV INES MWINFO
+http://liveabr.sambatech.com.br:80/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tL6IQyK.png" group-title="CANAL ABERTO", TV COM (SANTA CATARINA) MWINFO
+http://322747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/tvcom-sc.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/n3atgzsnt/tv_jaguar.png" group-title="CANAL ABERTO", TV JAGUAR MWINFO
+http://78.46.36.212:1935/tvjaguar1/tvjaguar1/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/fjhqexzh5/tv_santa_cecilia.png" group-title="CANAL ABERTO", TV SANTA CECILIA  MWINFO
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/8f4ijnhll/tv_univates.png" group-title="CANAL ABERTO", TV UNIVATES FUTURA (KODI APENAS) MWINFO
+rtmp://ynv2127uts35.nethorizontes.tv/ynv2127uts35/ playpath=tvunivates swfUrl=http://www.nethorizontes.com.br/flashmediaserver/player/jw/jwplayer.flash.swf pageUrl=http://www.univates.br/tv/ao-vivo?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.medicinaesaude.tv.br/wp-content/uploads/2014/10/logo_small_151x132.png" group-title="CANAL ABERTO", TV MEDICINA E SAUDE MWINFO (KODI APENAS)
+http://rtmp.cdn.upx.net.br:80/7dcb/myStream.sdp/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PFrsgiRacNw/hqdefault.jpg" group-title="CANAL ABERTO", TV G RIO MWINFO
+http://78.46.36.212:1935/gwriotv/gwriotv/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/nUgDVTyQgd/vukvGGlWGji1gOXR.png" group-title="CANAL ABERTO", SHOPTIME MWINFO
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish102/kLive/smil:1_lld8saie_all.smil/35/chunklist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvbuziosonline.com/img/logo.png" group-title="CANAL ABERTO", TV BUZIOS MWINFO
+http://188.165.227.203:1935/bruno/bruno/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvitarare.com.br/_/img/brand.png" group-title="CANAL ABERTO", TV ITARARE MWINFO
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.blogdedaltroemerenciano.com.br/wp-content/uploads/2012/03/x.png" group-title="CANAL ABERTO", LIVRE TV MWINFO
+http://172.93.110.130:1935/livretv/_definst_/mp4:livretv_720p/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.blogdedaltroemerenciano.com.br/wp-content/uploads/2012/03/x.png" group-title="CANAL ABERTO", LIVRE TV (OP 2) MWINFO
+http://172.93.110.130:1935/livretv/_definst_mp4:livretv_360p/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://tvmaisuberaba.com.br/uploads/s/6/p/x/6pxyhnckjmuq/img/M1XXmx97.png" group-title="CANAL ABERTO", TV MAIS UBERABA MWINFO
+http://wz4.dnip.com.br/tvmaisuberaba/tvmaisuberaba.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.grupodttv.com.br/img/dttv.png" group-title="CANAL ABERTO", DTTV MWINFO
+http://streaming63.sitehosting.com.br:1935/tvneponu/_definst_/tvneponu/chunklist_w978708772.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://luautv.com.br/wp-content/themes/temaLuauTv/i/logo.png" group-title="CANAL ABERTO", LUAU TV MWINFO
+http://server-1.locaaovivo.com.br/liveStream/36711571249/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/12/TBS-logo-2015.png" group-title="CANAL ABERTO", TBS BRASIL TV MWINFO
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://fleeber.com/statix/img/partners/mkk_tv.jpg" group-title="CANAL ABERTO", MKK MWINFO
+http://wsemedia.com:1935/marcoaurelio84/marcoaurelio84/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", TV DC 46 MWINFO
+http://142.4.219.208:1935/robsonmarcelho474/robsonmarcelho474/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", CANAL TV RIO MWINFO
+http://104.156.60.74:1935/canaltvrio/canaltvrio/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", CANAL NOROESTE MWINFO
+http://wpc.17585.edgecastcdn.net/hls-live/2017585/default/canaldagente/canaldagente.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", TV CIDADE OESTE MWINFO
+http://radios.primedata.com.br:1935/tvcidadeoeste/smil:oeste.smil/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", TV ANTARES MWINFO
+http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", TV JURERE MWINFO
+http://streaming50.sitehosting.com.br:1935/wsul/_definst_/wsul/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", TV APERIPE - TV BRASIL MWINFO
+http://cdn-br-002938543.comets.com.br/tvaperipe/aovivo/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", CANAL 5 ANAPOLIS MWINFO
+http://stmv1.srvstm.com/canalanapolis/canalanapolis/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", TV EDUCADORA MWINFO
+http://wsemedia.com:1935/tveducadora//tveducadora/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", TV MACEIO MWINFO
+http://stmv2.caxiashost.com.br:1935/tvmaceio/tvmaceio/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", TV PANORAMA - CULTURA MWINFO
+http://streaming04.zas.media:1935/tvpanorama/tv.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", TV JORNAL LIMEIRA MWINFO
+http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", TV MACKENZIE MWINFO
+http://ec2-50-19-196-117.compute-1.amazonaws.com:1935/live/smil:tvmackenzie.smil/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", TV PONTO DE VISTA MWINFO
+http://streaming42.sitehosting.com.br:1935/prof/_definst_/prof/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", WEB TV MINAS MWINFO
+http://173.236.10.10:1935/webtvminas/webtvminas/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", TV GUARULHOS MWINFO
+http://flash1.crossdigital.com.br:1935/476_1/476_1/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvambiental.com.br/images/logotvambiental1.png" group-title="CANAL ABERTO", TV AMBIENTAL MWINFO
+http://wse.transmissaodigital.com:1935/tvambiental/tvambiental/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CANAL ABERTO", NA BARRA TV MWINFO
+http://streaming63.sitehosting.com.br:1935/barra/_definst_/barra/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvshopnoiva.com.br/wp-content/uploads/2016/04/LOGO_PNG.png" group-title="HD TV 720P E 1080P", TV SHOP NOIVA (KODI APENAS) MWINFO
+rtmp://wse8.player.tv.br:1935/almir4261/ playpath=almir4261 swfUrl=http://player.radio.br/v2/players/clientes/4261/player/jwplayer.flash.swf pageUrl=http://www.tvshopnoiva.com.br/
+
+#EXTINF:-1 tvg-logo="http://www.tvshopnoiva.com.br/wp-content/uploads/2016/04/LOGO_PNG.png" group-title="CANAL ABERTO", (MANUTEMCAO) TV SHOP NOIVA MWINFO
+http://streaming52.sitehosting.com.br:1935/santaluz/_definst_/santaluz/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/YsRgTjnDOO/E4nuHDIFHqY6mBmY.png" group-title="CANAL ABERTO", TV VIA MORENA MWINFO
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvunisantos.com.br/images/resource/logo.png" group-title="CANAL ABERTO", TV UNISANTOS MWINFO
+http://hls.cdn.upx.net.br/7550/myStream.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.fuca.org.br/wp-content/uploads/2016/07/WebTvLogo2.png" group-title="CANAL ABERTO", TV WEB  MWINFO
+http://wse3.player.tv.br:1935/tvwebparana/tvwebparana/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.fuca.org.br/wp-content/uploads/2016/07/WebTvLogo2.png" group-title="CANAL ABERTO", TV WEB 3 MWINFO
+http://streaming50.sitehosting.com.br:1935/jkorrea/jkorrea/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tboanapolis.com/img/tbo.png" group-title="CANAL ABERTO", TBO ANAPOLIS MWINFO
+http://173.236.10.10:1935/tboanapolis/tboanapolis/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvviena.com.br/wp-content/uploads/2015/05/tvviena_logo_site-1.png" group-title="CANAL ABERTO", TV VIENA MWINFO
+http://streaming30.sitehosting.com.br:1935/tvviena/tvviena/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvbambui.com.br/arquivos/configuracao/1460132790.png" group-title="CANAL ABERTO", TV BAMBUI MWINFO
+http://painelvj.com.br/tvbambui/tvbambui.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvtc.com.br/imagens/logotipo-tvtc.png" group-title="CANAL ABERTO", TVTC MWINFO
+http://streaming59.sitehosting.com.br:1935/tvtc/_definst_/tvtc/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.terceiraviatv.com.br/wp-content/themes/ligre/assets/img/logo-terceira-via.png" group-title="CANAL ABERTO", TV 3 VIA MWINFO
+http://stream07.localmidia.com.br/3viatv/aovivo/chunklist_w1609256025.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://tvnova.tv.br/images/logo.png" group-title="CANAL ABERTO", (OFF) TV NOVA NORDESTE - CULTURA MWINFO
+http://cdn-br-002938543.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvsindeepres.org.br/tv/wp-content/uploads/2014/08/logo-tvsindeepres.png" group-title="CANAL ABERTO", TV SINDEEPRES MWINFO
+http://v.pool.us.wse-1.srvstream.com:1935/fx7-live/smil:tvsindeepres.smil/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.faap.br/tvfaap/images/logo_tv.png" group-title="CANAL ABERTO", TV FAAP MWINFO
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b7jxygdsp/tvdiario_comp3.png" group-title="CANAL ABERTO", TV DIARIO MWINFO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://tvdiarionf.com/wp-content/themes/tvdiario/img/logo_tv_diario_rodape.png" group-title="CANAL ABERTO", DIARIO DE CAMPOS MWINFO 
+http://streaming63.sitehosting.com.br:1935/cadripaes/cadripaes/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://tvdiarionf.com/wp-content/themes/tvdiario/img/logo_tv_diario_rodape.png" group-title="CANAL ABERTO", DIARIO DE  CAMPOS 2 MWINFO 
+http://streaming63.sitehosting.com.br:1935/cadripaes/cadripaes/chunklist_w278186816.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png" group-title="REGIONAIS - CULTURA A BAND", TV CULTURA HD PARAIBA (ITARARE) MWINFO
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png" group-title="REGIONAIS - CULTURA A BAND", TV CULTURA TVE (AFILIADA)  MWINFO
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png" group-title="REGIONAIS - CULTURA A BAND", TV CULTURA BAHIA (TV BAIANA)  MWINFO
+http://cdn-br-002938543.comets.com.br/tvbaiana/aovivo/chunklist_w1472016693.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png" group-title="REGIONAIS - CULTURA A BAND", (OFF) TV CULTURA NORDESTE  MWINFO
+http://cdn-br-002938543.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s24.postimg.org/l5yqythwx/catve_cascavel.png" group-title="REGIONAIS - CULTURA A BAND", CATVE PARANA MWINFO 
+http://wowza.catve.com.br:1935/live2/livestream/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="REGIONAIS - CULTURA A BAND", SBT PIAUI (PIONEIRA) MWINFO
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="REGIONAIS - CULTURA A BAND", SBT BAHIA MWINFO
+http://stream.tvpapodetudo.com.br:1935/aratuduZgOqNa/myStream.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="REGIONAIS - CULTURA A BAND", SBT BAHIA (TV ARATU OP 2) MWINFO
+http://ns.tvaratu.com.br:1935/aratuduZgOqNa/myStream.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="REGIONAIS - CULTURA A BAND", SBT CARUARU (TV JORNAL) MWINFO
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="REGIONAIS - CULTURA A BAND", SBT RECIFE (TV JORNAL) MWINFO
+http://evp.mm.uol.com.br/ne10//ne10-tvjornal-recife-video-web.sdp/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="REGIONAIS - CULTURA A BAND", SBT RECIFE (TV JORNAL OP 2) MWINFO
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="REGIONAIS - CULTURA A BAND", SBT TAMBATU (PARAIBA) MWINFO
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="REGIONAIS - CULTURA A BAND", SBT MATO GROSSO  MWINFO
+http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="REGIONAIS - CULTURA A BAND", RECORD CUIABA MWINFO
+http://wz3.dnip.com.br:1935/tvgazetamt//tvgazetamt.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="REGIONAIS - CULTURA A BAND", RECORD ESPIRITO SANTO (TV VITORIA) MWINFO
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="REGIONAIS - CULTURA A BAND", RECORD PARAIBA (RCTV) MWINFO
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="REGIONAIS - CULTURA A BAND", (OSCILA ON-OFF) RECORD ANGOLA MWINFO
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="REGIONAIS - CULTURA A BAND", (OFF) RECORD MANAUS (ACRITICA PLAY) MWINFO
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish102/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="REGIONAIS - CULTURA A BAND", (OFF) RECORD MANAUS (ACRITICA PLAY) MWINFO
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Rede-TV-HD.png" group-title="REGIONAIS - CULTURA A BAND", REDE TV RIO GRANDE DO SUL MWINFO
+http://192.99.101.129:1935/rafael926/rafael926/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Rede-TV-HD.png" group-title="REGIONAIS - CULTURA A BAND", REDE TV PARAIBA MWINFO
+http://mediacp.ciclanohost.com.br:1935/8064/8064/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Rede-TV-HD.png" group-title="REGIONAIS - CULTURA A BAND", REDE TV RONDONIA MWINFO
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Rede-TV-HD.png"" group-title="REGIONAIS - CULTURA A BAND", REDE TV (ANAPOLIS) MWINFO
+http://173.236.34.138:1935/tvs/tvs/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s12.postimg.org/z7f0jjck9/gazeta2.png" group-title="REGIONAIS - CULTURA A BAND", TV GAZETA MWINFO
+http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Band-SP.png" group-title="REGIONAIS - CULTURA A BAND", BAND (PARA) MWINFO
+http://painel.tvdigitalhd.org:1935/rbaredebrasil8355/rbaredebrasil8355/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Band-SP.png" group-title="REGIONAIS - CULTURA A BAND", BAND (CEARA) (KODI APENAS) MWINFO
+rtmp://187.18.153.240/livepkgr/ playpath=nordestv1 swfUrl=http://tribunadoceara.uol.com.br/nordestv/wp-content/themes/2015_nordestv/js/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://tribunadoceara.uol.com.br/nordestv/ao-vivo/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://s32.postimg.io/4ckx3eeht/TV_C_mara.png" group-title="POLITICA", TV CAMARA MWINFO
+http://stream2.camara.leg.br:8134/camara-hls-live/TV1/camaraevent/TV1.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s32.postimg.io/4ckx3eeht/TV_C_mara.png" group-title="POLITICA", TV CAMARA (CANAL 1) MWINFO
+http://stream2.camara.leg.br:80/camara-hls-live/tv1/camaraevent/TV1.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s32.postimg.io/4ckx3eeht/TV_C_mara.png" group-title="POLITICA", TV CAMARA (CANAL 2) MWINFO
+http://stream2.camara.leg.br:80/camara-hls-live/tv2/camaraevent/TV2.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mjcncvzwt/TVSenado.png" group-title="POLITICA", TV SENADO 720P MWINFO
+http://www.tvmpf.mpf.mp.br:1935/event426/event426.stream_720p/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mjcncvzwt/TVSenado.png" group-title="POLITICA", TV SENADO 480P MWINFO
+http://www.tvmpf.mpf.mp.br:1935/event426/event426.stream_480p/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvjustica.jus.br/imagens/logo.png" group-title="POLITICA", TV JUSTICA MWINFO
+http://www.tvmpf.mpf.mp.br:1935/event549/event549.stream_720p/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvjustica.jus.br/imagens/logo.png" group-title="POLITICA", TV ASSEMBLEIA MWINFO
+#EXTINF:-1 tvg-logo="http://www.al.al.leg.br/imagens/banner_tv_assembleia.png" group-title="CANAL ABERTO", TV ASSEMBLEIA MWINFO
+http://streaming.almg.gov.br/live/tvalmg2.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/The-History-Channel.png" group-title="DOCUMENTARIOS", HISTORY/ESPN BR MWINFO
+http://31.204.128.117:8081/live/espnbr/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Channel.png" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL MWINFO
+http://31.204.128.117:8081/live/sportv2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/rjohkemCX3/Kp1IiI2SW2tTW8pL.png" group-title="DOCUMENTARIOS", TV GUARANY/(NAT GEO 21:20) MWINFO
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvriolargo.com/arquivos/logo.png" group-title="DOCUMENTARIOS", TV RIO LARGO/(NAT GEO WILD 21:20) MWINFO
+http://stmv2.srvstm.com/tvriolargo/tvriolargo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="DOCUMENTARIOS", TV BOA ESPERANCA/(DISCOVERY CHANNEL 21:20) MWINFO
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/The-History-Channel.png" group-title="DOCUMENTARIOS LEGENDADOS", HISTORY LG MWINFO
+http://gochannelstv.dyndns.tv:80/p46historia/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2oZ8zgZSV70/TWBKMGwUHcI/AAAAAAAAANk/7JQtLw3gIKE/s1600/Odisseia+logo+peq.png" group-title="DOCUMENTARIOS LEGENDADOS", ODISSEIA MWINFO
+http://gochannelstv.dyndns.tv:80/p61odisseia/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s2.postimg.org/3paju77b9/Nat_Geo_Wild.png" group-title="DOCUMENTARIOS LEGENDADOS", NAT GEO MWINFO
+http://gochannelstv.dyndns.tv:80/p59natgeohd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/0/0c/Travel_Channel_HD_2013.png/revision/latest?cb=20140508141719" group-title="DOCUMENTARIOS LEGENDADOS", TRAVEL CHANNEL MWINFO
+http://gochannelstv.dyndns.tv:80/p109travelchannelhd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.thehistorychanneliberia.com/images/logo_ci.png" group-title="DOCUMENTARIOS LEGENDADOS", CI MWINFO
+http://gochannelstv.dyndns.tv:80/p125discoveryinvestigation/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://images.tcdn.com.br/407368/themes/12/img/logo-caca-pesca.png" group-title="DOCUMENTARIOS LEGENDADOS", CACA E PESCA MWINFO
+http://gochannelstv.dyndns.tv:80/p18cacaepesca/index.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="RURAL", AGRO BRASIL MWINFO
+http://192.99.101.129:1935/agrobrasiltv/smil:agrobrasiltv.smil/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rSrYODW.png" group-title="RURAL", NOVO CANAL MWINFO
+http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://tv.sba1.com/imagens/logoac.png" group-title="RURAL", AGRO CANAL MWINFO
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://lagartocomoeuvejo.com.br/wp-content/uploads/2013/09/Canal-do-Boi.png" group-title="RURAL", CANAL DO BOI MWINFO
+http://srvvenus.canaldoboi.com.br:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vitoriaquintal.com.br/wp-content/uploads/2015/02/LogoCanalRuralPNG-300x187.png" group-title="RURAL", CANAL RURAL MWINFO
+http://67149o.ha.azioncdn.net/hlshigh/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vitoriaquintal.com.br/wp-content/uploads/2015/02/LogoCanalRuralPNG-300x187.png" group-title="RURAL", CANAL RURAL X MWINFO
+http://77149o.ha.azioncdn.net/hlsmedium/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1280px-Terra_Viva_logo.svg.png" group-title="RURAL", TERRA VIVA
+http://evcv.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.horsebrasil.com.br/img/logo.png" group-title="RURAL", HORSE BRASIL MWINFO 
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvagro.tv/images/tvachiqui.png" group-title="RURAL", TV AGRO MWINFO
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.ruraltv.co.nz/wp-content/uploads/2015/01/RuralTVLogoHorzCMYK.png" group-title="RURAL", TV RURAL
+http://wpc.17585.edgecastcdn.net/hls-live/2017585/default/canaldagente03/canaldagente03.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.byutvi.org/content/images/byutv-logo.png" group-title="VARIEDADES", BYU TELEVISION MWINFO
+http://byuhd2-lh.akamaihd.net/i/byutvintporthd2_live@103132/master.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/b3hVCvidgz/9JpLSkjA8whmeX39.png" group-title="VARIEDADES", FISH TV MWINFO
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/b3hVCvidgz/9JpLSkjA8whmeX39.png" group-title="VARIEDADES", FISH TV MWINFO
+http://gbbrlive2.sambatech.com.br:80/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream3/chunklist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s21.postimg.org/utt1r7lav/mix_tv.png" group-title="VARIEDADES", MIX TV MWINFO
+http://api.new.livestream.com/accounts/19845366/events/5550262/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s24.postimg.org/9czz4sgdt/MTV.png" group-title="VARIEDADES", MTV MWINFO
+http://gochannelstv.dyndns.tv:80/p57mtvportugalhd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-skz1wURbazs/T1VHutGFotI/AAAAAAAACS0/eDYsIlmWNMU/s1600/CN_AGITOS_ESCOLHIDO.png" group-title="VARIEDADES", TV CN AGITOS MWINFO
+http://wsemedia.com:1935/cn01/cn01/live.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://srv-cluster01.com/sites/djricos.com.br/images/logo/user_234899154.jpg" group-title="VARIEDADES", CANAL RICOS MWINFO
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://srv-cluster01.com/sites/djricos.com.br/images/logo/user_234899154.jpg" group-title="VARIEDADES", CANAL RICOS 2 MWINFO
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/chunklist_w530712539.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.nerdmor.com/wp-content/uploads/2016/04/logo-startrek-50_884x381.png" group-title="VARIEDADES", TV JORNADA NAS ESTRELAS MWINFO
+http://wse5.player.tv.br:1935/tvjornadanasestrelas/tvjornadanasestrelas/live.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/vqIAQdpWAs/6ED7SWQDAKGtNER0.png" group-title="VARIEDADES", MILK TV MWINFO
+http://stmv1.hostgs.net/jtvmilk/jtvmilk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/vqIAQdpWAs/6ED7SWQDAKGtNER0.png" group-title="VARIEDADES", MILK TV MWINFO
+http://stmv1.hostgs.net/jtvmilk/jtvmilk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6e3aa2bc020414294d5015e0382a1532.png" group-title="VARIEDADES", WEB TV CIDADE MWINFO
+http://stmv1.srvstm.com/tvwebcidade/tvwebcidade/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/rjohkemCX3/Kp1IiI2SW2tTW8pL.png" group-title="VARIEDADES", TV GUARANY MWINFO
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvriolargo.com/arquivos/logo.png" group-title="DOCUMENTARIOS", TV RIO LARGO MWINFO
+http://stmv2.srvstm.com/tvriolargo/tvriolargo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://lut.im/4dpYzeY5ga/LxqrxrjkXcIeOSn1.png" group-title="CATOLICO", TV APARECIDA MWINFO
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/4dpYzeY5ga/LxqrxrjkXcIeOSn1.png" group-title="CATOLICO", SANTUARIO DE APARECIDA CANAL 1 MWINFO
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal1.stream/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/4dpYzeY5ga/LxqrxrjkXcIeOSn1.png" group-title="CATOLICO, SANTUARIO DE APARECIDA - NICHO MWINFO
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal2.stream/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/4dpYzeY5ga/LxqrxrjkXcIeOSn1.png" group-title="CATOLICO", SANTUARIO DE APARECIDA - CAPELA DO SANTISSIMO MWINFO
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal3.stream/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/4dpYzeY5ga/LxqrxrjkXcIeOSn1.png" group-title="CATOLICO", SANTUARIO DE APARECIDA - CAPELA SAO JOSE MWINFO
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal4.stream/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/4dpYzeY5ga/LxqrxrjkXcIeOSn1.png" group-title="CATOLICO", SANTUARIO DE APARECIDA - ALTAR CENTRAL MWINFO
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/4dpYzeY5ga/LxqrxrjkXcIeOSn1.png" group-title="CATOLICO", SANTUARIO DE APARECIDA - SANTUARIO NACIONAL MWINFO
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal6.stream/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/bBrQSFqK33/hf10xiHhdZvx5Y2y.png" group-title="CATOLICO", CANCAO NOVA MWINFO
+http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/index_540_av-b.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/bBrQSFqK33/hf10xiHhdZvx5Y2y.png" group-title="CATOLICO", CANCAO NOVA (OP 2) MWINFO
+http://cnhls-lh.akamaihd.net/i/tvcnmob_1@147036/master.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/bBrQSFqK33/hf10xiHhdZvx5Y2y.png" group-title="CATOLICO", CANCAO NOVA (OP 3) MWINFO
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/mb2PMvUvh0/uwRO5URXQEr2ww8B.gif" group-title="CATOLICO", REDE VIDA MWINFO
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/mb2PMvUvh0/uwRO5URXQEr2ww8B.gif" group-title="CATOLICO", REDE VIDA 2 MWINFO
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/mb2PMvUvh0/uwRO5URXQEr2ww8B.gif" group-title="CATOLICO", REDE VIDA 3 MWINFO
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/chunklist_w904610384.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.miliciadaimaculada.org.br/ver3/imagens/logomarca.png" group-title="CATOLICO", (OFF) WEB TV IMACULADA MWINFO
+http://painel.tvdigitalhd.org:1935/diocesecriciuma/diocesecriciuma/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.miliciadaimaculada.org.br/ver3/imagens/logomarca.png" group-title="CATOLICO", (OFF) WEB TV IMACULADA 2 MWINFO
+http://painel.tvdigitalhd.org:1935/diocesecriciuma/diocesecriciuma/chunklist_w2056201676.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4x67hevvd/tv_imaculada_concei_o.png" group-title="CATOLICO", (OFF) TV IMACULADA CONCEICAO  MWINFO
+http://caikrondatacenter.com.br:1935/ric_tvimaculada//ric.stream/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uePkvrm.png" group-title="CATOLICO", TV FILHOS DE MARIA MWINFO
+http://184.173.203.22:1935/filhosdemaria/filhosdemaria.sdp/chunklist_w476954938.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uePkvrm.png" group-title="CATOLICO", TV FATIMA MWINFO
+http://stmv2.euroti.com.br:1935/tvfatimatb/tvfatimatb/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.miliciadaimaculada.org.br/ver3/imagens/logomarca.png" group-title="CATOLICO", TVCI MWINFO
+http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/4jua80xqv/votorantim4.png" group-title="CATOLICO", TVV TV VOTORANTIM MWINFO
+http://198.20.107.218:1935/votorantim/votorantim/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/4jua80xqv/votorantim4.png" group-title="CATOLICO", TVV TV VOTORANTIM  MWINFO
+http://198.20.107.218:1935/votorantim/votorantim/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.ismaelcarvalho.com.br/wp-content/uploads/2015/08/logo-Rede-S%C3%A9culo-21_vertical_azul.png" group-title="CATOLICO", TV SECULO 21 MWINFO
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-p.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.ismaelcarvalho.com.br/wp-content/uploads/2015/08/logo-Rede-S%C3%A9culo-21_vertical_azul.png" group-title="CATOLICO", TV SECULO 21 MWINFO
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", TV EVANGELIZAR (KODI APENAS) MWINFO
+rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CATOLICO", TV PADRE CICERO MWINFO
+http://104.156.60.74:1935/tvpadrecicero/tvpadrecicero/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CATOLICO", TV LOUVAR MWINFO
+http://173.236.10.10:1935/renascer/renascer/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CATOLICO", TV LOUVAR 2 MWINFO
+http://173.236.10.10:1935/renascer/renascer/chunklist_w472606332.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CATOLICO", PUC TV MWINFO
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CATOLICO", TV TERCEIRO MILENIO MWINFO
+http://v1.fabricahost.com.br:1935/tv3milenio/tv3milenio/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="CATOLICO", TV WEB SANTANA MWINFO
+http://wz6.dnip.com.br/santana/santana.sdp/playlist.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", TV BOA ESPERANCA/(DISCOVERY CHANNEL 21:20) MWINFO
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", CANAL DA JUVENTUDE CRISTA MWINFO
+http://nossatvhls03-lh.akamaihd.net:80/i/nossatv_hls@389008/index_600_av-p.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", PORTAL GOSPEL TV HD MWINFO
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", CANAL DAS IGREJAS MWINFO
+http://nossatvhls03-lh.akamaihd.net:80/i/nossatv_hls@381920/index_600_av-p.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", LBV HD MWINFO
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", TV VERDADE MWINFO
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", REDE GENESIS HD MWINFO
+http://snt.sisdera.com:1935/tvgenesis/aovivo.stream/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", REDE GENESIS HD MWINFO
+http://snt.sisdera.com:1935/tvgenesis/aovivo.stream/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png" group-title="EVANGELICO", REDE SUPER MWINFO
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", PIB TV MWINFO
+http://srv9.zoeweb.tv:1935/zw919/stream/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", PORTAL TV  GOSPEL MWINFO
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", TV CRISTO AS NACOES  MWINFO
+http://wse6.player.tv.br:1935/seliganavisao/seliganavisao/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", TV GOSPEL VIDA MWINFO
+http://188.165.227.203:1935/tv/tv/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", RCT MWINFO
+http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", CANAL DA JUVENTUDE CRISTA MWINFO
+http://nossatvhls03-lh.akamaihd.net:80/i/nossatv_hls@389008/index_600_av-p.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", GOSTEI GOSPEL MWINFO
+http://192.99.101.129:1935/gosteigospeltv/gosteigospeltv/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", GOSTEI GOSPEL TV MWINFO
+http://192.99.101.129:1935/gosteigospeltv/mp4:gosteigospeltv/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", GOSTEI GOSPEL TV MWINFO
+http://192.99.101.129:1935/gosteigospeltv/gosteigospeltv/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", TV CLIPS GOSPEL MWINFO
+http://45.43.208.98:1935/stmdemo/stmdemo/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", TV BOA NOVAS MWINFO
+http://api.new.livestream.com:80/accounts/722680/events/2457479/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", VERBO TV MWINFO
+http://srv3.zoeweb.tv:1935/z449-live/stream/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", WEB TV A FE NO SOBRENATURAL MWINFO
+http://stmv1.hostgs.net/pramos/pramos/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", FILMES GOSPEL MWINFO
+http://stmv2.euroti.com.br:1935/tvmaceio/tvmaceio/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", RBI (TV PLENITUDE) MWINFO
+http://srv9.zoeweb.tv:1935/zw902/zw902/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="EVANGELICO", TV FILADELFIA MWINFO
+http://104.156.60.74:1935/tvfiladelfia/tvfiladelfia/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiovozmissionaria.com.br/wp-content/uploads/radio-voz-missionaria@2x.png" group-title="EVANGELICO", TV VOZ MISSIONARIA MWINFO
+http://streaming01.zas.media:1935/gideoes/_definst_/mp4:radio_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thematv.com/medias/channels/gospel-music-tv/logo-gospel-music-tv.png" group-title="EVANGELICO", GOSPEL MUSIC MWINFO
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://seeklogo.com/images/A/assembleia-de-deus-ministerio-do-belem-brasil-logo-5D1395FD41-seeklogo.com.png" group-title="EVANGELICO", ASSEMBLEIA DE DEUS BELEM MWINFO
+http://streaming49.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Vx_Km68QNs0/Tznp0t6TlTI/AAAAAAAAACw/-vzJh03cD-Q/s300/logo-cjc-canal-da-juventude-crista.png" group-title="EVANGELICO", CJC MWINFO
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/chunklist_w1845114081.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Vx_Km68QNs0/Tznp0t6TlTI/AAAAAAAAACw/-vzJh03cD-Q/s300/logo-cjc-canal-da-juventude-crista.png" group-title="EVANGELICO", CJC (OP 2) MWINFO
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Vx_Km68QNs0/Tznp0t6TlTI/AAAAAAAAACw/-vzJh03cD-Q/s300/logo-cjc-canal-da-juventude-crista.png" group-title="EVANGELICO", CJC (OP 3) MWINFO
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rXPArkuTJ0w/V3XBFxCzSYI/AAAAAAAACRc/L1wZkfLIEuw-qmZoRQotkVn2OCuzthAOQCCo/s256/Rede%2BGospel.png" group-title="EVANGELICO", REDE GOSPEL MWINFO
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://cdn8.staztic.com/app/a/8029/8029399/skygospeltv-14-l-140x140.png" group-title="EVANGELICO", SKY GOSPEL MWINFO
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yIyAemJ.png" group-title="EVANGELICO", VEM E VE TV MWINFO
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yIyAemJ.png" group-title="EVANGELICO", VEM E VE TV HD MWINFO
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yIyAemJ.png" group-title="EVANGELICO", VEM E VE TV HD MWINFO
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv3/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yIyAemJ.png" group-title="EVANGELICO", VEM E VE TV 2 MWINFO
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yIyAemJ.png" group-title="EVANGELICO", VEM E VE TV 2 MWINFO
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yIyAemJ.png" group-title="EVANGELICO", VEM E VE TV 3 MWINFO
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv031/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://iasdcentralicoaraci.com.br/wp-content/uploads/2015/05/tv-novo-tempo1.png" group-title="EVANGELICO", TV NOVO TEMPO MWINFO
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w128671060_b256000_slpor.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://iasdcentralicoaraci.com.br/wp-content/uploads/2015/05/tv-novo-tempo1.png" group-title="EVANGELICO", TV NOVO TEMPO 2 MWINFO
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/2016/01/Rede-Fonte.png" group-title="EVANGELICO", FONTE TV MWINFO
+http://flash.softhost.com.br:1935/fonte/fontetv.stream/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/KYnEXhyYhC/p67CCl1OZjgtFplG.png" group-title="EVANGELICO", RIT MWINFO
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/KYnEXhyYhC/p67CCl1OZjgtFplG.png" group-title="EVANGELICO", RIT EUROPA PTBR MWINFO
+http://nossatvhls01-lh.akamaihd.net/i/nossatv_hls@366619/master.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mr6awg4bd/Terceiro_Anjo_Bug_big.png" group-title="EVANGELICO", TV TERCEIRO ANJO MWINFO
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mr6awg4bd/Terceiro_Anjo_Bug_big.png" group-title="EVANGELICO", TV TERCEIRO ANJO MWINFO
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://cristovive.com.br/wp-content/uploads/2014/12/logo-Igreja-Cristo-Vive.png" group-title="EVANGELICO", TV CRISTO VIVE MWINFO
+http://stream300.overseebrasil.com.br:1935/live_apostolo_115/_definst_/live_apostolo_115/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://cristovive.com.br/wp-content/uploads/2014/12/logo-Igreja-Cristo-Vive.png" group-title="EVANGELICO", TV CRISTO VIVE (OP 2) MWINFO
+http://stream300.overseebrasil.com.br:1935/live_apostolo_115/live_apostolo_115/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.canalshowdafe.com.br/images/img/logo.png" group-title="EVANGELICO", SHOW DA FE MWINFO
+http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/index_400_av-p.m3u8?sd=10&rebase=on?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.canalshowdafe.com.br/images/img/logo.png" group-title="EVANGELICO", SHOW DA FE MWINFO
+http://nossatvhls02-lh.akamaihd.net:80/i/nossatv_hls@381916/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gideoes.com.br/images/conteudo/logotipo-tvgideoes.png" group-title="EVANGELICO", TV GIDEOES  MWINFO 
+http://streaming02.zas.media:1935/gideoes/programacao_720p/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.gideoes.com.br/images/conteudo/logotipo-tvgideoes.png" group-title="EVANGELICO", TV GIDEOES (OP 2) MWINFO 
+http://streaming01.zas.media:1935/gideoes/smil:tvgideoes.smil/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://tanconectados.files.wordpress.com/2008/08/adinettv2.png" group-title="EVANGELICO", ADINET TV MWINFO
+http://stmv1.srvstm.com/adinettv/adinettv/playlist.m3u8?gpctv?MWINFO
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-fUZoMARJZqA/UVndsz6fgeI/AAAAAAAAAwM/7VgHK2uDcpg/s1600/LOGO%2B-%2BALPHA_BLOG.png" group-title="EVANGELICO", RIO NA GRACA MWINFO
+http://110939808.r.worldcdn.net/110939808/_definst_/rionagraca/chunklist_w1659932711.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvmissao.com.br/images/estrutura/logo_tvmissao.png" group-title="EVANGELICO", TV MISSAO MWINFO
+http://wse5.player.tv.br:1935/tvmissoes/tvmissoes/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.ricardogondim.com.br/ricardowp/wp-content/uploads/2014/05/bets.rg_.png" group-title="EVANGELICO", TV BETESDA MWINFO
+http://inalamega.com.br:1935/betesdatv/betesdatv/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.igreja-online.tv/img/logo.png?p=123" group-title="EVANGELICO", IGREJA ON LINE TV MWINFO
+http://195.22.19.179:1935/igronl/igronline2/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.igreja-online.tv/img/logo.png?p=123" group-title="EVANGELICO", IGREJA ON LINE TV MWINFO
+http://195.22.19.179:1935/igronl/igronline3/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://tvadbelem.com.br/tv/wp-content/uploads/2013/02/logoroda.png" group-title="EVANGELICO", TV AD BELEM MWINFO
+http://streaming49.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/iCpjYuGEYQ/w22enlsIB8F9IoqV.png" group-title="EVANGELICO", IMPD TV MWINFO
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://tvjesus.tv.br/wp-content/uploads/2015/03/menoricone1.png" group-title="EVANGELICO", TV JESUS MWINFO
+http://stmv1.caxiashost.com.br/tvjesus/tvjesus/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/378800000256543676/cad59d963ae7777d7ba7c1ac0db7c001.png" group-title="EVANGELICO", UNIVERSAL MWINFO
+http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="ESPIRITA", TV NOVA ERA MWINFO
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="ESPIRITA", GEEAK TV MWINFO
+http://streaming50.sitehosting.com.br:1935/angra/angra/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="ESPIRITA", TV ALVORADA ESPIRITA  MWINFO
+http://abr.732a.upx.net.br/732a_abr/smil:732a.smil/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvacaminhodaluz.com.br/site/images/imgpequenaprogramas/logo_tv_caminho.png" group-title="ESPIRITA", TV A CAMINHO DA LUZ MWINFO
+http://streaming50.sitehosting.com.br:1935/angra/angra/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvacaminhodaluz.com.br/site/images/imgpequenaprogramas/logo_tv_caminho.png" group-title="ESPIRITA", TV A CAMINHO DA LUZ MWINFO
+http://streaming50.sitehosting.com.br:1935/angra/angra/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvespirita.com.br/images/logo.png" group-title="ESPIRITA", TV ESPIRITA - CEAK TV MWINFO
+http://stmv2.srvstm.com:1935/tveespirita/tveespirita/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.febtv.com.br/templates/febtv2016/img/FEBtv-logo.png" group-title="ESPIRITA", FEB TV MWINFO
+http://plenus6000.com:1935/febtv1/febtv1/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://tvmundomaior.com.br/wp-content/themes/feal_tvmaior/images/logoRBN.png" group-title="ESPIRITA", TV MUNDO MAIOR MWINFO
+http://67.213.216.200:1935/8306/8306/chunklist_w707157105.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://tvmundomaior.com.br/wp-content/themes/feal_tvmaior/images/logoRBN.png" group-title="ESPIRITA", TV MUNDO MAIOR (OP 2) MWINFO
+http://67.213.216.200:1935/8306/8306/live.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s12.postimg.org/o61obsaq1/record_news.png" group-title="JORNALISMO", RECORD NEWS (ESPIRITO SANTO) MWINFO
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s12.postimg.org/o61obsaq1/record_news.png" group-title="JORNALISMO", RECORD NEWS (TOCANTINS) MWINFO
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s12.postimg.org/o61obsaq1/record_news.png" group-title="JORNALISMO", RECORD NEWS (TOCANTINS) (OP 2) MWINFO
+http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gbRPjNi.png" group-title="JORNALISMO", GLOBO NEWS MWINFO
+http://v.pool.us.wse-1.srvstream.com:1935/oncafebrasil2015/oncafebrasil2015_720p/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UVH8sZ5.png" group-title="JORNALISMO", (OFF) GVNEWS  MWINFO
+http://172.93.110.130:1935/gvnews/gvnews/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RJctW3G.png" group-title="JORNALISMO", REDE FAMILIA MWINFO
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/chunklist_w1498408345_b900000.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RJctW3G.png" group-title="JORNALISMO", REDE FAMILIA 2 MWINFO
+http://srv9.zoeweb.tv:1935/zw901/zw901_720p/chunklist_w1480046717.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RJctW3G.png" group-title="JORNALISMO", REDE FAMILIA 3 MWINFO
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/chunklist_w2141679499_b900000.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/25j85f9_th.png" group-title="JORNALISMO", TV URBANA 2 MWINFO 
+http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="JORNALISMO", CBN SP 90.5 FM - ESTUDIO AO VIVO MWINFO
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="JORNALISMO", (OSCILA ON-OFF) TV PORTAL MIDIA 2 MWINFO 
+http://45.43.208.26:1935/tvportalmidia/tvportalmidia/chunklist_w1033529482.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/h8yq2oyUC0/ierpYhD0WZhPJKIw.png" group-title="JORNALISMO", (OSCILA ON-OFF) BH NEWS MWINFO
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="RADIOS", CBN SP 90.5 FM - ESTUDIO AO VIVO MWINFO
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="RADIOS", RADIO ROBERTO CARLOS (KODI APENAS) MWINFO
+http://192.99.150.31:9137/stream?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s29.postimg.org/607mvordz/Sem_T_tulo42.png" group-title="ESPORTES", BANDSPORTS MWINFO
+http://ev.mm.uol.com.br:1935/geobband/operadoras/chunklist_w1631775690.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4vtqpfqvt/esporte_interativo.png" group-title="ESPORTES", TVU ESPORTES MWINFO
+http://srv6.zoeweb.tv:1935/z433-live/stream/chunklist_w1640977128.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4vtqpfqvt/esporte_interativo.png" group-title="ESPORTES", TVU ESPORTES 2 MWINFO
+http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4vtqpfqvt/esporte_interativo.png" group-title="ESPORTES", ESPORTE INTERATIVO MWINFO
+http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/968el0vyx/eimaxx.png" group-title="ESPORTES", EI MAXX MWINFO
+http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8?MWINFO
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/c300z1r6h/eimaxx2.png" group-title="ESPORTES", EI MAXX 2 MWINFO
+http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8?MWINFO
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PtJXQee.png" group-title="ESPORTES", SPORTV MWINFO
+http://31.204.128.117:8081/live/sportv/playlist.m3u8?MWINFO
+
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/ESPN.png" group-title="ESPORTES", (MANUTENCAO) ESPN HD PTBR (KODI APENAS) MWINFO 
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4xOWEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MQ/video.m3u8?oauth_token=fhfecLQJgbGVj-J5RHZP3w?MWINFO
+
+
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/ESPN.png" group-title="ESPORTES", ESPN (USA) MWINFO 
+http://208.86.19.123:8080/live/202.stream/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/ESPN-Brasil.png" group-title="ESPORTES", (MANUTENCAO) ESPN BRASIL HD (KODI APENAS) MWINFO 
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4yMGEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MA/video.m3u8?oauth_token=fhfecLQJgbGVj-J5RHZP3w
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/heHBFyS.png" group-title="ESPORTES", (MANUTENCAO) ESPN + HD MWINFO
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4xOTlhJmNoYW5uZWw9ZXNwbjMmcGxheWJhY2tTY2VuYXJpbz1IVFRQX0NMT1VEX01PQklMRSZwbGF5ZXJJZD1pb3MmcGthbj1TRVRfTUUmaWRlbnRpdHlQb2ludElkPVNFVF9NRSZwYXJ0bmVyQ29udGVudElkPTI2NjM3NjI/video.m3u8?oauth_token=fhfecLQJgbGVj-J5RHZP3w?MWINFO
+
+
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Fox-Sports.png" group-title="ESPORTES", FOX SPORTS MWINFO
+http://31.204.128.117:8081/live/foxsport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Fox-Sports.png" group-title="ESPORTES", FOX SPORTS 3 (LATINO) MWINFO
+http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/9i41ypvax/ALL.png" group-title="ESPORTES", ALL SPORTS MWINFO
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/9i41ypvax/ALL.png" group-title="ESPORTES", ALL SPORTS 2 MWINFO
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/8c2twmxif/premiere_fc.png" group-title="ESPORTES", (OFF) PREMIERE MWINFO
+http://31.204.128.117:8081/live/pfc/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Combate.png" group-title="ESPORTES", (ON) COMBATE MWINFO
+http://31.204.128.117:8081/live/combate/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-5HcjSQeC_Vw/UOhkw-O1c5I/AAAAAAAAGnY/FXOW-lumh8I/s1600/NBA.png" group-title="ESPORTES", NBA MWINFO
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagecomposer.nfl.com/?f=png&l=http://s.nflcdn.com/static/content/public/static/img/now/logo.png" group-title="ESPORTES", NFL NOW MWINFO
+https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW_1200k.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo.png" group-title="ESPORTES", EUROSPORT TV MWINFO
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://supertelatv.net/wp-content/uploads/2016/10/Real-Madrid-TV.png" group-title="ESPORTES", REAL MADRDID TV MWINFO
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/B1E/bein-sports-1-hero.png" group-title="ESPORTES", BE IN SPORTS 1 MWINFO
+http://gochannelstv.dyndns.tv:80/p150beinsports1/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/B2E/bein-sports-2-hero.png" group-title="ESPORTES", BE IN SPORTS 2 MWINFO
+http://gochannelstv.dyndns.tv:80/p151beinsports2/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/B3E/bein-sports-3-mono-white.png" group-title="ESPORTES", BE IN SPORTS 3 MWINFO
+http://gochannelstv.dyndns.tv:80/p152beinsports3/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.foot24.tn/image/logo24.png" group-title="ESPORTES", FOOT + 24/24 MWINFO
+http://gochannelstv.dyndns.tv:80/p148footplus/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/SFR_Sport_2_logo_2016.png" group-title="ESPORTES", SFR SPORT 2 MWINFO
+http://gochannelstv.dyndns.tv:80/p146sfrsports2/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/BT_Sport.svg/1280px-BT_Sport.svg.png" group-title="ESPORTES", BT SPORTS EU MWINFO
+http://gochannelstv.dyndns.tv:80/p142btsportseu/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport1.png" group-title="ESPORTES", BT SPORTS 1 MWINFO
+http://gochannelstv.dyndns.tv:80/p143btsports1/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport2.png" group-title="ESPORTES", BT SPORTS 2 MWINFO
+http://gochannelstv.dyndns.tv:80/p144btsports2/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Fox-Sports.png" group-title="ESPORTES", FOX SPORTS 1 (INTERNACIONAL) MWINFO
+http://gochannelstv.dyndns.tv:80/p140foxsports1/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png" group-title="ESPORTES", SKY SORTS 1 (INTERNACIONAL) MWINFO
+http://gochannelstv.dyndns.tv:80/p134skysports1/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/ae/Sky_Sports_2_2010.png/revision/latest?cb=20100803180424" group-title="ESPORTES", SKY SORTS 2 (INTERNACIONAL) MWINFO
+http://gochannelstv.dyndns.tv:80/p133skysports2/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png" group-title="ESPORTES", SKY SORTS 3 (INTERNACIONAL) MWINFO
+http://gochannelstv.dyndns.tv:80/p132skysports3/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png" group-title="ESPORTES", SKY SORTS 4 (INTERNACIONAL) MWINFO
+http://gochannelstv.dyndns.tv:80/p131skysports4/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png" group-title="ESPORTES", SKY SORTS 5 (INTERNACIONAL) MWINFO
+http://gochannelstv.dyndns.tv:80/p130skysports5/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/f1wikia/images/7/77/SkySportsF1.png/revision/latest?cb=20140320200040" group-title="ESPORTES", SKY SORTS F1 (INTERNACIONAL) MWINFO
+http://gochannelstv.dyndns.tv:80/p129skysportf1/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo.png" group-title="ESPORTES", EUROSPORT 1 MWINFO
+http://137.74.93.219:8000/live/ch@Oui!_!72/ch@Oui!_!72/3123.ts?MWINFO
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1163.1405279215.png" group-title="ESPORTES", CHELSEA TV MWINFO
+http://gochannelstv.dyndns.tv:80/p24chelseatv/index.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://sportsntvlive.com/wp-content/uploads/2016/10/Sport-TV1-HD-300x169.png" group-title="ESPORTES PT", SPORTV 1 MWINFO
+http://gochannelstv.dyndns.tv:80/p83sporttv1hd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://sportsntvlive.com/wp-content/uploads/2016/10/Sport-TV2-HD-300x169.png" group-title="ESPORTES PT", SPORTV 2 MWINFO
+http://gochannelstv.dyndns.tv:80/p84sporttv2hd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://sportsntvlive.com/wp-content/uploads/2016/10/Sport-TV3-HD-300x169.png" group-title="ESPORTES PT", SPORTV 3 MWINFO
+http://gochannelstv.dyndns.tv:80/p85sporttv3hd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://sportsntvlive.com/wp-content/uploads/2016/10/Sport-TV4-HD-300x169.png" group-title="ESPORTES PT", SPORTV 4 MWINFO
+http://gochannelstv.dyndns.tv:80/p86sporttv4hd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://sportsntvlive.com/wp-content/uploads/2016/10/Sport-TV5-HD-300x169.png" group-title="ESPORTES PT", SPORTV 5 MWINFO
+http://gochannelstv.dyndns.tv:80/p87sporttv5hd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2016/07/image001.png" group-title="ESPORTES PT", SPORTV + MWINFO
+http://gochannelstv.dyndns.tv:80/p82sporttv/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://portalnacional.com.pt/images/icons/tv/SCP.png" group-title="ESPORTES PT", SPORTING TV MWINFO
+http://gochannelstv.dyndns.tv:80/p88sportingtvhd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo.png" group-title="ESPORTES PT", EUROSPORT 1 MWINFO
+http://gochannelstv.dyndns.tv:80/p149eurosport1/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo.png" group-title="ESPORTES PT", EUROSPORT 1 MWINFO
+http://gochannelstv.dyndns.tv:80/p32eurosport1/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4e/Eurosport_2_HD.png/revision/latest?cb=20101221230021" group-title="ESPORTES PT", EUROSPORT XTRA MWINFO
+http://gochannelstv.dyndns.tv:80/p33eurosport2hd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="ESPORTES PT", TV A BOLA MWINFO
+http://gochannelstv.dyndns.tv:80/p04abolatv/index.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.futebolaovivohd.net/wp-content/uploads/2015/04/cropped-logofutebol-300x1051.png" group-title="FUTEBOL AO VIVO - SOMENTE NA HORA DO JOGO, FUTEBOL AO VIVO - Campeonato INGLES : Watford x Everton (HD) 10:30 MWINFO
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4yMGEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MA/video.m3u8?oauth_token=fhfecLQJgbGVj-J5RHZP3w?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.iconverticons.com/files/png/61bbf2ebbbf1614f_256x256.png" group-title="DESENHOS 24 HORAS - KODI APENAS", CAVALEIROS DO ZODIACO 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=cdz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://www.carolineoliveira.com.br/tvamigos/cdz.html
+
+#EXTINF:-1 tvg-logo="http://t01.deviantart.net/vLEWX5_WfuxH15IMCXlyLS07uN4=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre05/8b4a/th/pre/f/2014/148/a/a/yu_gi_oh_folder_icon_by_walad7ekaya-d7k1x13.png" group-title="DESENHOS 24 HORAS - KODI APENAS", YU-GI-OH! 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=yugioh  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/yugioh.html
+
+#EXTINF:-1 tvg-logo="http://wfarm4.dataknet.com/static/resources/icons/set43/20c2c542.png" group-title="DESENHOS 24 HORAS - KODI APENAS", BOB ESPONJA 24 HORAS (KODI APENAS) MWINFO
+rtmp://208.53.164.194/live/ playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://www.carolineoliveira.com.br/tvamigos/bobesponja.html
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jg7sf5ci5/DUNGEONS_E_DRAGONS.png" group-title="DESENHOS 24 HORAS - KODI APENAS", CAVERNA DO DRAGAO 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=caverna swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://www.carolineoliveira.com.br/tvamigos/caverna.html
+
+#EXTINF:-1 tvg-logo="http://orig15.deviantart.net/06e9/f/2011/364/9/3/ben_10_alien_force_by_solobrus22-d4kqvra.png" group-title="DESENHOS 24 HORAS - KODI APENAS", BEN 10 24 HORAS (KODI APENAS) MWINFO
+rtmp://208.53.164.194/live/ playpath=ben10 swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/ben10.html
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-tP3ZESWhJDY/ULfZIjZNkvI/AAAAAAAAKPw/kYp0xYt3dls/s1600/doug_funnie_design-png%5B11%5D.png" group-title="DESENHOS 24 HORAS - KODI APENAS", DOUG 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=doug swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://www.carolineoliveira.com.br/tvamigos/doug.html
+
+#EXTINF:-1 tvg-logo="http://orig00.deviantart.net/1df4/f/2014/271/8/6/x_men_collection_folder_icon_by_jesusofsuburbiatr-d80tfyd.png" group-title="DESENHOS 24 HORAS - KODI APENAS", X MEN 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=xmen swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/xmen.html
+
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/9c51/f/2014/055/e/1/the_simpsons_homer_folder_icon_by_vivvien-d77tfvn.png" group-title="DESENHOS 24 HORAS - KODI APENAS", SIMPSONS 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html
+
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/a39f/f/2014/292/b/5/familia_dinossauro_icon_folder_by_alx331977-d83hr3b.png" group-title="DESENHOS 24 HORAS - KODI APENAS", FAMILIA DINOSSAUROS 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=dino swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/dinossauros.html
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-nQzFiiX-m6Y/Vb5CbcjUbGI/AAAAAAAA1-A/NhI39e0jt8k/s1600/bobby.png" group-title="DESENHOS 24 HORAS - KODI APENAS", O FANTASTICO MUNDO DE BOB 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=bobby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO live=1 pageUrl=http://aovivobrasil.com/tvamigos/bobby.html
+
+#EXTINF:-1 tvg-logo="http://orig00.deviantart.net/a7df/f/2015/088/0/7/ducktales_folder_icon_by_mikromike-d8lh0ho.png" group-title="DESENHOS 24 HORAS - KODI APENAS", DUCKTALES 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAxNiAzOjAyOjMyIFBNJmhhc2hfdmFsdWU9NzlaVk16T2I3QkR2TTdmTFZGMk5IZz09JnZhbGlkbWludXRlcz01/ playpath=duck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/ducktales.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig09.deviantart.net/5bf1/f/2013/199/6/a/dragon_ball_serie_movies_icon_folder_512_by_anxox-d6dzs9n.png" group-title="DESENHOS 24 HORAS - KODI APENAS", DRAGON BALL 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig11.deviantart.net/7c56/f/2014/210/7/8/dragon_ball_z___icon_folder_by_ubagutobr-d7sthhw.png" group-title="DESENHOS 24 HORAS - KODI APENAS", DRAGON BALL Z 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html?MWINFO
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-tP3ZESWhJDY/ULfZIjZNkvI/AAAAAAAAKPw/kYp0xYt3dls/s1600/doug_funnie_design-png%5B11%5D.png" group-title="DESENHOS 24 HORAS - KODI APENAS", DOUG 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=doug swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-3FEZGlT8rko/VKmTlo0CxbI/AAAAAAAAAR8/BJ91OUawjmw/s1600/mask.png" group-title="DESENHOS 24 HORAS - KODI APENAS", BATMAN 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+
+#EXTINF:-1 tvg-logo="http://img12.deviantart.net/786c/i/2013/005/6/1/futurama_windows_folder_icon_by_rbusbee-d5qjmfv.png" group-title="DESENHOS 24 HORAS - KODI APENAS", FUTURAMA 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=futurama swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/futurama.html
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--xeuFKdoDxg/VXzjy55PYdI/AAAAAAAAJUI/asmDO0JdTY0/s1600/Galinha-Pintadinha-5-254x300.png" group-title="DESENHOS 24 HORAS - KODI APENAS", GALINHA PINTADINHA 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=galinha swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/galinhapintadinha.html
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/thewholehorizon/tv-show/512/Fairly-Oddparents-icon.png" group-title="DESENHOS 24 HORAS - KODI APENAS", PADRINHOS MAGICOS 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=padrinhos swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig09.deviantart.net/7183/f/2015/069/5/d/scooby_doo_folder_icon_by_mikromike-d8l7gxa.png" group-title="DESENHOS 24 HORAS - KODI APENAS", SCOOB DOO 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig00.deviantart.net/276c/f/2015/072/b/b/penguins_of_madagascar_movie_folder_icon_by_sharatj-d8li3b5.png" group-title="DESENHOS 24 HORAS - KODI APENAS", PINGUINS DE MADAGASCAR 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=pinguins swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://img09.deviantart.net/b757/i/2015/119/0/c/las_aventuras_de_jackie_chan_by_robertsnaker-d8ri03i.png" group-title="DESENHOS 24 HORAS - KODI APENAS", JACKIE CHAN 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=jackie swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/jackie.html
+
+#EXTINF:-1 tvg-logo="http://orig01.deviantart.net/e454/f/2015/072/c/7/thundercats_folder_icon_2_by_mikromike-d8lkym5.png" group-title="DESENHOS 24 HORAS - KODI APENAS", THUNDERCATS 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=thunder swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/thunder.html
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-ebHuxXANhsw/VaJwVeaU9yI/AAAAAAAAaZo/H4nnpldOiYk/s1600/l22.png" group-title="DESENHOS 24 HORAS - KODI APENAS", THUNDERCATS (NOVA GERACAO) 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=thunder swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/thunder.html
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/map4n7y9l/Juspion.png" group-title="DESENHOS 24 HORAS - KODI APENAS", JASPION 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://aovivobrasil.com/tvamigos/jaspion.html
+
+#EXTINF:-1 tvg-logo="http://orig08.deviantart.net/d672/f/2014/270/0/4/naruto_shippuden_v2__jinchuuriki____icon_folder_by_ubagutobr-d80rn9d.png" group-title="DESENHOS 24 HORAS - KODI APENAS", NARUTO 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/naruto.html
+
+#EXTINF:-1 tvg-logo="http://orig08.deviantart.net/0a02/f/2015/161/c/8/the_flintstones_folder_icon_2_by_gterritory-d8wqbei.png" group-title="DESENHOS 24 HORAS - KODI APENAS", OS FLINTSTONES 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/flintstones.html
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-3FEZGlT8rko/VKmTlo0CxbI/AAAAAAAAAR8/BJ91OUawjmw/s1600/mask.png" group-title="DESENHOS 24 HORAS - KODI APENAS", O MASKARA 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/maskara.html
+
+#EXTINF:-1 tvg-logo="http://orig15.deviantart.net/b1f1/f/2015/088/1/a/woody_woodpecker_folder_icon_by_mikromike-d8l2pbw.png" group-title="DESENHOS 24 HORAS - KODI APENAS", PICA-PAU 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/picapau.html
+
+#EXTINF:-1 tvg-logo="http://orig05.deviantart.net/e526/f/2015/161/8/8/tom_and_jerry_folder_icon_3_by_gterritory-d8ws4no.png" group-title="DESENHOS 24 HORAS - KODI APENAS", TOM E JERRY 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.brisbanekids.com.au/wp-content/uploads/2015/08/DJTC_4C_Logo_0614.png" group-title="DESENHOS PT", DISNEY JUNIOR PT MWINFO
+http://gochannelstv.dyndns.tv:80/p29disneyjunior/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/yn9rka4h7/cartoonnetwork.png" group-title="DESENHOS PT", CARTOON NETWORK MWINFO
+http://gochannelstv.dyndns.tv:80/p22cartoonnetwork/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://canalpanda.pt/wp-content/themes/site/images/main-logo.png" group-title="DESENHOS PT", CANAL PANDA MWINFO
+http://gochannelstv.dyndns.tv:80/p20canalpanda/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-JCviNxZHhyI/VZ8xLjZR6MI/AAAAAAAAFr0/9L7SPedKcFs/s1600/Nickelodeon-logo.png" group-title="DESENHOS PT", NICK MWINFO
+http://gochannelstv.dyndns.tv:80/p60nickelodeon/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/62/JimJam.png" group-title="DESENHOS PT", JIMJAM MWINFO
+http://gochannelstv.dyndns.tv:80/p49jimjam/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s32.postimg.org/iytuuw9j9/disney_channel.png" group-title="DESENHOS PT", DISNEY CHANNEL MWINFO
+http://gochannelstv.dyndns.tv:80/p28disneychannel/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/Biggs_logo.png" group-title="DESENHOS PT", BIGGS MWINFO
+http://gochannelstv.dyndns.tv:80/p14biggs/index.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/yn9rka4h7/cartoonnetwork.png" group-title="DESENHOS", CARTOON NETWORK MWINFO
+http://31.204.128.117:8081/live/cartoon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/tv-ra-tim-bum.png" group-title="DESENHOS", (OFF) RATIM-BUM (KODI APENAS) MWINFO
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chcasteloratimbum/2012/05/07/259bec05-1e02-4861-be50-6df7cd5a534d swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://tvonlinebtv.net/streans/castelo.html?MWINFO
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-aljHSTxZwI8/VTEAkKgnqbI/AAAAAAAAOKg/Jw_ddO18Hxs/s1600/Chaves%2B-%2BLogo.png" group-title="DESENHOS", CHAVES  MWINFO
+http://45.43.208.98:1935/deivison7510/deivison7510/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s32.postimg.org/iytuuw9j9/disney_channel.png" group-title="DESENHOS", (OFF) DISNEY CHANNEL MWINFO
+http://31.204.128.117:8081:8081/live/disney/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Kids.png" group-title="DESENHOS", (OSCILA ON-OFF) DISCOVERY KIDS MWINFO
+http://31.204.128.117:8081/live/discoverykids/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Kids.png" group-title="DESENHOS", (OSCILA ON-OFF) DISCOVERY KIDS (OP 2) MWINFO
+http://31.204.128.117:8081:8081/live/discoverykids/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6l4e64mml/GOSSIO_GIRL.png" group-title="SERIES 24 HORAS - KODI APENAS", GOSSIP GIRL 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=gossip swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/a39f/f/2014/292/b/5/familia_dinossauro_icon_folder_by_alx331977-d83hr3b.png" group-title="SERIES 24 HORAS - KODI APENAS", FAMILIA DINOSSAURO 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=dino swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/3uv28xpxp/ICARLY.png" group-title="SERIES 24 HORAS - KODI APENAS", ICARLY 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=icarly swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig11.deviantart.net/3613/f/2016/010/a/f/family_guy___tv_series_folder_icon_by_dyiddo-d9nhoda.png" group-title="SERIES 24 HORAS - KODI APENAS", UMA FAMILIA DA PESADA 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/r6st8vzwt/TODOMUNDOONDEIOCRIS.png" group-title="SERIES 24 HORAS - KODI APENAS", TODO MUNDO ODEIA O CHRIS 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig15.deviantart.net/6555/f/2016/128/6/9/friends___tv_series_folder_icon_v1_by_dyiddo-d8b6d3x.png" group-title="SERIES 24 HORAS - KODI APENAS", FRIENDS 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=friends swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://icons.iconseeker.com/png/fullsize/tv-shows/lost.png" group-title="SERIES 24 HORAS - KODI APENAS", LOST 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=lost swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig01.deviantart.net/58d4/f/2012/178/0/e/drake_and_josh_by_lukedonegan-d551zdr.png" group-title="SERIES 24 HORAS - KODI APENAS", DRAKE E JOSH 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=drake swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://img04.deviantart.net/06a6/i/2012/240/4/e/heroes_folder_icon_by_enad911-d5crbjx.png" group-title="SERIES 24 HORAS - KODI APENAS", HEROES 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=heroes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig07.deviantart.net/24b3/f/2014/359/7/0/two_and_a_half_men___tv_series_folder_icon_v1_by_dyiddo-d8b6fq0.png" group-title="SERIES 24 HORAS - KODI APENAS", TWO AND A HALF MEN 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=two swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig08.deviantart.net/ff01/f/2015/053/8/b/glee___tv_series_folder_icon_by_dyiddo-d8j55im.png" group-title="SERIES 24 HORAS - KODI APENAS", GLEE 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=glee swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig15.deviantart.net/0fd9/f/2015/126/f/9/breaking_bad___folder_icon_by_victorpereira97-d8sf6c4.png" group-title="SERIES 24 HORAS - KODI APENAS", BREAKING BAD 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=breaking swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig05.deviantart.net/383a/f/2011/084/c/c/folder_icons_by_euterpemusa-d3ceohi.png" group-title="SERIES 24 HORAS - KODI APENAS", CHUCK 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig03.deviantart.net/a1ab/f/2012/017/e/8/csi_lv_folder__png_by_caioroh-d4mobhk.png" group-title="SERIES 24 HORAS - KODI APENAS", CSI 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=csi swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig01.deviantart.net/0eeb/f/2014/095/d/7/the_big_bang_theory_folder_icon_by_andreas86-d6pff2g.png" group-title="SERIES 24 HORAS - KODI APENAS", THE BIG BANG THEORY 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://img05.deviantart.net/ca80/i/2011/095/e/f/criminal_minds_folder_hd_by_jackxan-d3d9d7r.png" group-title="SERIES 24 HORAS - KODI APENAS", CRIMINAL MINDS 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=criminal swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/1e24/f/2016/023/5/f/prison_break_folder_icon_by_andreas86-d9p0295.png" group-title="SERIES 24 HORAS - KODI APENAS", PRISON BREAK 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=prison swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig06.deviantart.net/d08f/f/2015/271/0/a/supernatural_folder_icon__10_by_heisenbergleao-d9b7s37.png" group-title="SERIES 24 HORAS - KODI APENAS", SUPERNATURAL 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig15.deviantart.net/95ef/f/2011/128/d/5/smallville_folder_icon_by_euterpemusa-d3fwu0e.png" group-title="SERIES 24 HORAS - KODI APENAS", SMALLVILLE 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=small swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig06.deviantart.net/4389/f/2015/271/1/d/my_wife_and_kids_folder_icon_by_poxabia-d9b70j1.png" group-title="SERIES 24 HORAS - KODI APENAS", EU, A PATROA E AS CRIANCAS 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?MWINFO live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/patroa.html?MWINFO
+
+#EXTINF:-1 tvg-logo="https://orig04.deviantart.net/ede3/f/2016/127/e/f/the_fresh_prince_of_bel_air_folder_icon_by_dahlia069-da1m60b.png" group-title="SERIES 24 HORAS - KODI APENAS", UM MALUCO NO PEDACO 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=maluconopedaco swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://img06.deviantart.net/e7bd/i/2012/027/e/d/south_park_folder_icon_by_chargerlevani-d4nrc4p.png" group-title="SERIES 24 HORAS - KODI APENAS", SOUTH PARK 24 HORAS (KODI APENAS) (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAxNiA2OjIwOjQ1IFBNJmhhc2hfdmFsdWU9bjlFbU5KakM2UGlRVmtTZndGUXdKZz09JnZhbGlkbWludXRlcz01/ playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/southpark.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/4974/f/2016/143/8/1/star_trek_beyond_folder_icon_by_sajalhasan-da3ic7y.png" group-title="SERIES 24 HORAS - KODI APENAS", JORNADA NAS ESTRELAS 24 HORAS (CLIQUE ATE ABRIR) MWINFO
+JORNADA NAS ESTRELAS
+http://wse5.player.tv.br:1935/tvjornadanasestrelas/tvjornadanasestrelas/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://orig00.deviantart.net/26cb/f/2014/343/8/4/charlie_chaplin__the_kid___folder_icon_by_rahul0596-d898doz.png" group-title="SERIES 24 HORAS - KODI APENAS", CHARLIE CHAPLIN 24 HORAS (CLIQUE ATE ABRIR) MWINFO
+http://198.179.31.197/live/2966.high.stream/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/uxxby379p/KENAN_E_KEL.png" group-title="SERIES 24 HORAS - KODI APENAS", KENAN E KEL 24 HORAS (CLIQUE ATE ABRIR) MWINFO
+rtmp://208.53.164.194/live/ playpath=kenan swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.carolineoliveira.com.br/tvamigos2/batman.php?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png" group-title="FILMES E SERIES PT", TVCINE 2 MWINFO
+http://gochannelstv.dyndns.tv:80/p95tvcine2hd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPpjLCUI/AAAAAAAAAJ8/nVO8usa43i8/s1600/TVC+4+logo.png" group-title="FILMES E SERIES PT", TVCINE 4 MWINFO
+http://gochannelstv.dyndns.tv:80/p97tvcine4hd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/2000px-FOX_HD.svg.png" group-title="FILMES E SERIES PT", FOX MWINFO
+http://gochannelstv.dyndns.tv:80/p38foxhd/index.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/cwsjbvqtr/amc.png" group-title="FILMES E SERIES LEGENDADOS", AMC HD MWINFO
+http://gochannelstv.dyndns.tv:80/p127amchd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logosfake/images/7/7c/AXN_White.png/revision/latest?cb=20140311220943" group-title="FILMES E SERIES LEGENDADOS", AXN WHITE MWINFO
+http://gochannelstv.dyndns.tv:80/p09axnwhitehd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.travelinlibrarian.info/CGTDK/wp-content/uploads/2015/03/Sony-Movie-Channel-logo-300x180.png" group-title="FILMES E SERIES LEGENDADOS", SONY MOVIE MWINFO
+http://gochannelstv.dyndns.tv:80/p56mov/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ysvpxw1436898269.png" group-title="FILMES E SERIES LEGENDADOS", TVCINE 1 MWINFO
+http://gochannelstv.dyndns.tv:80/p94tvcine1hd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png" group-title="FILMES E SERIES LEGENDADOS", TVCINE 2 MWINFO
+http://gochannelstv.dyndns.tv:80/p95tvcine2hd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_tk5JCNM43cc/TTDgPaa5FQI/AAAAAAAAAJ4/BLJVZII7_Fo/s1600/TVC+3+logo.png" group-title="FILMES E SERIES LEGENDADOS", TVCINE 3 MWINFO
+http://gochannelstv.dyndns.tv:80/p96tvcine3hd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPpjLCUI/AAAAAAAAAJ8/nVO8usa43i8/s1600/TVC+4+logo.png" group-title="FILMES E SERIES LEGENDADOS", TVCINE 4 MWINFO
+http://gochannelstv.dyndns.tv:80/p97tvcine4hd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://visaodigital.sytes.net/picons/tvshd.png" group-title="FILMES E SERIES LEGENDADOS", TVS HD MWINFO
+http://gochannelstv.dyndns.tv:80/p106vh1/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Fox_Movies_Premium_logo.png" group-title="FILMES E SERIES LEGENDADOS", FOX MOVIES MWINFO
+http://gochannelstv.dyndns.tv:80/p40foxmovies/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-XQjtY7EWVrs/T35A9phwW9I/AAAAAAAAE3o/nFAYlM8ubOc/s1600/fox_crime_asia_hd.png" group-title="FILMES E SERIES LEGENDADOS", FOX CRIME MWINFO
+http://gochannelstv.dyndns.tv:80/p37foxcrimehd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/3b/Fox_(7).png/revision/latest?cb=20141101150022" group-title="FILMES E SERIES LEGENDADOS", FOX COMEDY MWINFO
+http://gochannelstv.dyndns.tv:80/p36foxcomedyhd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/2/2c/FOXlife_HD_Logo.png/revision/latest?cb=20140414171410" group-title="FILMES E SERIES LEGENDADOS", FOX LIFE MWINFO
+http://gochannelstv.dyndns.tv:80/p39foxlifehd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/dc/Syfy_hd.png/revision/latest?cb=20110408015403" group-title="FILMES E SERIES LEGENDADOS", SYFY MWINFO
+http://gochannelstv.dyndns.tv:80/p89syfyhd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://visaodigital.sytes.net/picons/tlc.png" group-title="FILMES E SERIES LEGENDADOS", TLC MWINFO
+http://gochannelstv.dyndns.tv:80/p90tlc/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://puncture.org/wp/wp-content/uploads/2014/09/sundancetv.png" group-title="FILMES E SERIES LEGENDADOS", TV SUNDANCE MWINFO
+http://gochannelstv.dyndns.tv:80/p110tvsundancehd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.cinemundo.pt/canalcinemundo/wp-content/uploads/2015/09/logo-canal1.png" group-title="FILMES E SERIES LEGENDADOS", CINE MUNDO MWINFO
+http://gochannelstv.dyndns.tv:80/p25cinemundo/index.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/4974/f/2016/143/8/1/star_trek_beyond_folder_icon_by_sajalhasan-da3ic7y.png" group-title="FILMES E SERIES", JORNADA NAS ESTRELAS 24 HORAS CLIQUE NO CANAL DESCONHECIDO(BUG DO KODI) MWINFO
+JORNADA NAS ESTRELAS
+http://wse5.player.tv.br:1935/tvjornadanasestrelas/tvjornadanasestrelas/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s28.postimg.org/cqqksvb61/megapix.png" group-title="FILMES E SERIES", MEGAPIX/HBO LG MWINFO
+http://31.204.128.117:8081/live/megapix/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="FILMES E SERIES", (ON) HBO MWINFO
+http://31.204.128.117:8081/live/megapix/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="FILMES E SERIES", (ON) TELECINE PREMIUM MWINFO
+http://31.204.128.117:8081/live/fox/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="FILMES E SERIES", (ON) TELECINE PREMIUM (OP 2) MWINFO
+http://109.200.202.87:8081/live/fox/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="FILMES E SERIES", TV ON LINE MWINFO
+http://painelvj.com.br:1935/tvonline/tvonline.sdp/live.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", ESKA BEST MWINFO
+http://stream.smcloud.net/tv/best/best_360p/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", ESKA PARTY MWINFO
+http://stream.smcloud.net/tv/eska_party/eska_party_360p/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", VOX MUSIC TV MWINFO
+http://stream.smcloud.net/live/vox2/stream1/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", O2 TV MWINFO
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", OCKO Express MWINFO
+http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", Slam TV MWINFO
+http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8?MWINFO
+
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", Music Box UA MWINFO
+http://212.26.132.86/hls/mb_ua_2500.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", Music Box MWINFO
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8?MWINFO
+
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", Klipkar TV MWINFO
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", Nebiset TV MWINFO
+http://hls.nebiset.tv/nebiset.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", TV INTERNAUTA MWINFO
+http://104.156.60.74:1935/tvinternauta/tvinternauta/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", YEEAH! MWINFO
+http://stmv2.srvstm.com/bruno4119/bruno4119/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", Polo TV MWINFO
+http://stream.smcloud.net/live/polotv/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", Electrosound MWINFO
+http://www.electrosound.tv:1935/public/stream/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", Capital TV MWINFO
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?MWINFO?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="MUSICA", Radio Capital TV MWINFO
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://dotdance.tv/wp-content/uploads/2015/09/dot_100_100.png", Dot Dance MWINFO
+http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvclima.com/images/logo_tv.png" group-title="MUSICA", TV CLIMA MWINFO
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.saluto.tv/media/1102/vh1-tran-back.png" group-title="MUSICA", VH1 MWINFO
+http://gochannelstv.dyndns.tv:80/p106vh1/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6c/Log%C3%B3tipo_de_Trace_Urban.png" group-title="MUSICA", TRACE URBAN MWINFO
+http://gochannelstv.dyndns.tv:80/p92traceurbanhd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/gpjjca3pb/LOGO_TOP_TV_HD.png" group-title="MUSICA", (OFF) TOP TV MWINFO
+http://flashbr.crossdigital.com.br:1935/toptv/tv/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51bE%2B1DF24L.png" group-title="MUSICA", Indimusic Tv (KODI APENAS) MWINFO
+rtmp://indimusic.tulix.tv:1935/livemulti/Stream1.stream swfUrl=http://swf.tulix.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.tulix.com/iframe/indimusictv/index-multi2.php?MWINFO
+
+#EXTINF:-1 tvg-logo="http://epg.serbianforum.org/logo_znaci/Hit%20TV.png" group-title="MUSICA", HIT TV MWINFO
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Virgin.svg/150px-Virgin.svg.png" group-title="MUSICA", VIRGIN TV MWINFO
+http://fms.105.net:1935/live/virgin2/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Radio_105_Network.png" group-title="MUSICA", RADIO 105 NETWORK TV MWINFO
+http://fms.105.net:1935/live/105Test1/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://dmedia.home.xs4all.nl/radiomontecarlo.png" group-title="MUSICA", MONTE CARLO TV MWINFO
+http://wow01.105.net/live/rmc1/chunklist_w776440177.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://png-2.vector.me/files/images/1/1/11221/dream_tv_thumb.png" group-title="MUSICA", Dream TV MWINFO
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://tvtvtv.ru/icons/eska_rock_tv.png" group-title="MUSICA", ESKA TV ROCK MWINFO
+http://stream.smcloud.net/tv/eska_rock/eska_rock_360p/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/o02WzGpFZ-Vzu1rtbWKMhg3DOJxSWjKaPJa8t7lvJOEBtY4gDvQmy3YF-_pdloR4ZQ" group-title="MUSICA", ZOUGLA TV MWINFO
+http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.m2o.it/includes/2014/images/logo_header14.gif" group-title="MUSICA", M2O MWINFO
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?MWINFO?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" group-title="MUSICA", MiMUSICA HD MWINFO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/TV-538-RGB_new.png" group-title="MUSICA", TV 538 MWINFO
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://img.rtl.it/www.rtl.it/img/header/logo_rtl.gif" group-title="MUSICA", RTL 102.5 TV MWINFO
+http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/radiovisione/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.deluxemusic.tv/fileadmin/Resources/Public/Images/logo.png" group-title="MUSICA", DELUXE MUSIC MWINFO
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/16/Muz-TV_Moldova.png" group-title="MUSICA", MuzTV MWINFO
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-EfjBbjWXMCk/VNuZ7OM29uI/AAAAAAAAJJs/WzgFBq4tQT4/s185/DJING%2BTV.png" group-title="MUSICA", DIJING HITS MWINFO
+http://www.djing.com/tv/04.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-EfjBbjWXMCk/VNuZ7OM29uI/AAAAAAAAJJs/WzgFBq4tQT4/s185/DJING%2BTV.png" group-title="MUSICA", DIJING CLASSICS MWINFO
+http://cdn.djing.com/tv/i-03.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-EfjBbjWXMCk/VNuZ7OM29uI/AAAAAAAAJJs/WzgFBq4tQT4/s185/DJING%2BTV.png" group-title="MUSICA", DIJING ANIMATION MWINFO
+http://cdn.djing.com/tv/a-05.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-EfjBbjWXMCk/VNuZ7OM29uI/AAAAAAAAJJs/WzgFBq4tQT4/s185/DJING%2BTV.png" group-title="MUSICA", DIJING MWINFO
+http://cdn.djing.com/tv/03.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-EfjBbjWXMCk/VNuZ7OM29uI/AAAAAAAAJJs/WzgFBq4tQT4/s185/DJING%2BTV.png" group-title="MUSICA", DIJING UNDERGROUND MWINFO
+http://cdn.djing.com/tv/u-03.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-EfjBbjWXMCk/VNuZ7OM29uI/AAAAAAAAJJs/WzgFBq4tQT4/s185/DJING%2BTV.png" group-title="MUSICA", DIJING IBIZA MWINFO
+http://cdn.djing.com/tv/d-03.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://ru.tv/upload/images/css/img/logo.png" group-title="MUSICA", Ru.TV MWINFO
+http://live.rmg.cdnvideo.ru/rmg/rmg.sdp/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.electrosoundsystems.com/img/nav-bar/black/logo.png" group-title="MUSICA", ELECTRO SOUND MWINFO
+http://www.electrosound.tv:1935/public/stream/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/City_tv_bulgaria.gif" group-title="MUSICA", City TV MWINFO
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/rH7p3zCNqb/gtYtQg3rvTcfnisz.png" group-title="MUSICA", K-POP TV MWINFO
+http://167.114.211.85:1935/deivison424/deivison424/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/07/vibeelogotv-Custom.png" group-title="MUSICA", VIBEE TV MWINFO
+http://46.101.21.42:8081/live/live2/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/8GWlkoeV6n/8Z03YH2qrOdt78d4.png" group-title="MUSICA", TV CLIPES GOSPEL MWINFO
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2d/UTV_logo_2012.png" group-title="MUSICA", UTV  MWINFO
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:radioutv1/chunklist_w1182659521.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-6p4hWtG2cPc/UG8GD2vT6SI/AAAAAAAAN0A/EvpHhneAXDc/s1600/%C3%93%C4%8Dko+logo+2012.png" group-title="MUSICA", Ocko MWINFO
+http://ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.radiotaormina.it/wp-content/themes/theme1214/images/logo.png" group-title="MUSICA", Radio Taormina TV MWINFO
+http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://enorme.tv/img/logo/logo_white.png" group-title="MUSICA", Enorme TV MWINFO
+http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.eska.tv/assets/gfx/logo.png" group-title="MUSICA", ESKA TV MWINFO
+http://stream.smcloud.net/tv/eskatv/eskatv_360p/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Heart_TV_logo.png" group-title="MUSICA", Heart TV MWINFO
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://torrent-tv.ru/uploads/zVS9G1oine56udlAK30gNut16iJ9Ft.png" group-title="MUSICA", RETRO MUSIC TVv MWINFO
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/a3/Radionorba_tv.png/260px-Radionorba_tv.png" group-title="MUSICA", Radionorba Tv MWINFO
+http://85.17.80.132:80/radionorbatv/norbatv_source.stream/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.maxicom.cz/img-programy/ockogold.png" group-title="MUSICA", Ocko Gold MWINFO
+http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvmol.com/wp-content/uploads/2016/01/logoMol2016a.png" group-title="MUSICA",WEB TV MATAO MWINFO
+http://hd4.com.br:1935/mataoonline/mataoonline/playlist.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/rede-limoeiro/images/c/cb/TV_Cabo_Verde.png/revision/latest?cb=20141019025107&path-prefix=pt-br" group-title="PORTUGAL", TV CABO VERDE MWINFO
+http://213.13.26.41:1935/live/rtc_teste/chunklist_w916755002.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/rede-limoeiro/images/c/cb/TV_Cabo_Verde.png/revision/latest?cb=20141019025107&path-prefix=pt-br" group-title="PORTUGAL", CABO VERDE(iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1?MWINFO
+
+#EXTINF:0 tvg-logo="http://mgtvbc.com/img/generalist/PortoCanal.png" group-title="PORTUGAL", PORTO CANAL MWINFO
+http://213.13.26.13:1935/live/portocanal/playlist.m3u8?MWINFO
+
+#EXTINF:0 tvg-logo="http://mgtvbc.com/img/generalist/PortoCanal.png" group-title="PORTUGAL", PORTO CANAL MWINFO
+http://213.13.26.11:1935/live/portocanal/magellan.m3u8?MWINFO
+
+#EXTINF:0 tvg-logo="http://mgtvbc.com/img/generalist/PortoCanal.png" group-title="PORTUGAL", (MANUTENCAO) PORTO CANAL MWINFO
+http://gochannelstv.dyndns.tv:80/p64portocanal/index.m3u8?MWINFO
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/TVI_Fic%C3%A7%C3%A3o_logo.png" group-title="PORTUGAL", TVI FICCAO MWINFO
+http://gochannelstv.dyndns.tv/p102tvificcao/tracks-v1a1/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.prisa.com/uploads/2016/03/televisao-independente-current-logo.png" group-title="PORTUGAL", TVI PT MWINFO
+http://gochannelstv.dyndns.tv:80/p100tvi/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.prisa.com/uploads/2016/03/televisao-independente-current-logo.png" group-title="PORTUGAL", TVI PT MWINFO
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.prisa.com/uploads/2016/03/televisao-independente-current-logo.png" group-title="PORTUGAL", TVI PT MWINFO
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.prisa.com/uploads/2016/03/televisao-independente-current-logo.png" group-title="PORTUGAL", TVI PT MWINFO
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png" group-title="PORTUGAL", TV LISBOA MWINFO
+http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/rYolQcQuV7/2sdrvQwSCtd0wyj1.png" group-title="PORTUGAL", TVI 24 MWINFO
+http://gochannelstv.dyndns.tv:80/p101tvi24/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/rYolQcQuV7/2sdrvQwSCtd0wyj1.png" group-title="PORTUGAL", TVI 24 MWINFO
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-3/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/rYolQcQuV7/2sdrvQwSCtd0wyj1.png" group-title="PORTUGAL", TVI 24 (OP 2) MWINFO
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://lut.im/rYolQcQuV7/2sdrvQwSCtd0wyj1.png" group-title="PORTUGAL", TVI 24 (OP 3) MWINFO
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PORTUGAL", TVI REALITY MWINFO
+http://gochannelstv.dyndns.tv:80/p103tvireality/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_tve_internacional.png" group-title="PORTUGAL", TVE INTERNACIONAL MWINFO
+http://gochannelstv.dyndns.tv:80/p99tveinternacional/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/TVE_24h_brandnew_logo.png" group-title="PORTUGAL", TVE 24 HORAS MWINFO
+http://gochannelstv.dyndns.tv:80/p98tve24horas/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://www.bloomingtonmn.gov/sites/default/files/media/btv-logo.png" group-title="PORTUGAL", BTV MWINFO
+http://gochannelstv.dyndns.tv:80/p16btv1hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-9NoQJ6ov1K0/T10x5bMJAuI/AAAAAAAAB5U/bk3WV8s_aYo/s1600/Toros+TV+logo.png" group-title="PORTUGAL", TOROS TV MWINFO
+http://gochannelstv.dyndns.tv:80/p91torostv/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png" group-title="PORTUGAL", CACA VISION MWINFO
+http://gochannelstv.dyndns.tv:80/p19cacavision/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="PORTUGAL", CACA E PESCA LG MWINFO
+http://gochannelstv.dyndns.tv:80/p18cacaepesca/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/a/a8/Canal_Q.png/revision/latest?cb=20140413135023" group-title="PORTUGAL", CANAL Q MWINFO
+http://gochannelstv.dyndns.tv:80/p21canalq/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.agueda.tv/images/atv-logo-top.png" group-title="PORTUGAL", AGUEDA TV MWINFO
+http://agueda.tv/stream/stream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://new.s-tv.ru/static/new/img/logo/ntv%2019.png" group-title="PORTUGAL", EURONEWS PT MWINFO
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://new.s-tv.ru/static/new/img/logo/ntv%2019.png" group-title="PORTUGAL", EURONEWS PT 2 MWINFO
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://new.s-tv.ru/static/new/img/logo/ntv%2019.png" group-title="PORTUGAL", EURONEWS PT 3 MWINFO
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_it.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://images.uncyc.org/pt/4/4e/SIC_Portugal.png" group-title="PORTUGAL", SIC  MWINFO
+http://gochannelstv.dyndns.tv:80/p75sic/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://biosurfit.com/wp-content/uploads/2014/11/sic_noticias.png" group-title="PORTUGAL", SIC NOTICIAS MWINFO
+http://gochannelstv.dyndns.tv:80/p79sicnoticias/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/83bo1h8zd/icon.png" group-title="PORTUGAL", SIC RADICAL MWINFO
+http://gochannelstv.dyndns.tv:80/p80sicradical/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/SIC_CARAS.png" group-title="PORTUGAL", SIC CARAS MWINFO
+http://gochannelstv.dyndns.tv:80/p76siccaras/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6a/Logo_sem_fundo_SIC_Mulher.png" group-title="PORTUGAL", SIC MULHER MWINFO
+http://gochannelstv.dyndns.tv:80/p78sicmulher/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png" group-title="PORTUGAL", TV LISBOA MWINFONFO
+http://213.13.26.11:1935/live/tvldireto/livestream.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://tvmana1.com/img/logo_tv_mana_1.png" group-title="ESPIRITA", TV MANA MWINFO
+http://195.22.19.179:1935/manasat/manasat2/live.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://visaodigital.sytes.net/picons/rtp1.png" group-title="PORTUGAL", RTP 1 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452?MWINFO
+
+#EXTINF:-1 tvg-logo="http://visaodigital.sytes.net/picons/rtp1.png" group-title="PORTUGAL", RTP 1 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+http://gochannelstv.dyndns.tv:80/p67rtp1/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://visaodigital.sytes.net/picons/rtp2.png" group-title="PORTUGAL", RTP 2 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452?MWINFO
+
+#EXTINF:-1 tvg-logo="http://visaodigital.sytes.net/picons/rtp2.png" group-title="PORTUGAL", RTP 2 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+http://gochannelstv.dyndns.tv:80/p68rtp2/index.m3u8?MWINFO
+
+
+#EXTINF:-1 tvg-logo="http://visaodigital.sytes.net/picons/rtp3.png" group-title="PORTUGAL", RTP 3 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452?MWINFO
+
+#EXTINF:-1 tvg-logo="http://visaodigital.sytes.net/picons/rtp3.png" group-title="PORTUGAL", RTP 3 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+http://gochannelstv.dyndns.tv:80/p69rtp3/index.m3u8?MWINFO
+
+
+#EXTINF:-1 tvg-logo="http://img0.rtp.pt/EPG/imgth/phpThumb.php?src=/common/img/channels/logos/color/horizontal/rtpafrica.png&f=png&h=176" group-title="PORTUGAL", RTP AFRICA (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452?MWINFO 
+
+#EXTINF:-1 tvg-logo="http://img0.rtp.pt/EPG/imgth/phpThumb.php?src=/common/img/channels/logos/color/horizontal/rtpafrica.png&f=png&h=176" group-title="PORTUGAL", RTP AFRICA (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+hhttp://gochannelstv.dyndns.tv:80/p71rtpafrica/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logo_RTP_Mem%C3%B3ria.png" group-title="PORTUGAL", RTP MEMORIA(iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452?MWINFO 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logo_RTP_Mem%C3%B3ria.png" group-title="PORTUGAL", RTP MEMORIA(iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+http://gochannelstv.dyndns.tv:80/p74rtpmemoria/index.m3u8?MWINFO
+
+
+#EXTINF:-1 tvg-logo="http://visaodigital.sytes.net/picons/rtpmadeira.png" group-title="PORTUGAL", RTP MADEIRA(iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452?MWINFO 
+
+#EXTINF:-1 tvg-logo="http://visaodigital.sytes.net/picons/rtpmadeira.png" group-title="PORTUGAL", RTP MADEIRA(iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+http://gochannelstv.dyndns.tv:80/p73rtpmadeira/index.m3u8?MWINFO
+
+
+#EXTINF:-1 tvg-logo="http://visaodigital.sytes.net/picons/rtpacores.png" group-title="PORTUGAL", RTP ACORES(iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452?MWINFO 
+
+#EXTINF:-1 tvg-logo="http://visaodigital.sytes.net/picons/rtpacores.png" group-title="PORTUGAL", RTP ACORES(iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+http://gochannelstv.dyndns.tv:80/p70rtpacores/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_RTP_Internacional.png" group-title="PORTUGAL", RTP INTERNACIONAL(iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452?MWINFO 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/562591171419971584/Dmpmed82.png" group-title="PORTUGAL", TV PARLAMENTO MWINFO
+http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-RBzcLAVAXTU/VAsbPkryWII/AAAAAAAAGKw/LuQIvntVOcU/s1600/capela%2Bde%2Bfatima.png" group-title="PORTUGAL", CAPELINHA DE FATIMA(iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) MWINFO
+rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvcancaonova.png" group-title="PORTUGAL", CANCAO NOVA MWINFO
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8?MWINFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png" group-title="ADULTO" group-title="ADULTO", PLAYBOY ASIA MWINFO
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/chunklist_w913407308.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png" group-title="ADULTO", PLAY 19 SD MWINFO
+http://edge2.everyon.tv/etv2sb/phd10769/chunklist_w1909110699.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png" group-title="ADULTO", PLAY 19 2 SD MWINFO
+http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png" group-title="ADULTO", PLAY 19 3 SD MWINFO
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png" group-title="ADULTO", PLAY 19 4 SD MWINFO
+http://edge2.everyon.tv/etv2sb/phd10769/chunklist_w901267740.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png" group-title="ADULTO", PLAY 19 5 SD MWINFO
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/chunklist_w2054489369.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png" group-title="ADULTO", PLAYBOY TV (KODI APENAS) MWINFO
+rtmp://edge2.everyon.tv/etv2sb//pld10499?MWINFO
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png" group-title="ADULTO", PLAYBOY TV (KODI APENAS) MWINFO
+http://gochannelstv.dyndns.tv:80/p63playboytvhd/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Venus_Nuevo_Logo_2014.png" group-title="ADULTO", VENUS (KODI APENAS) MWINFO
+http://gochannelstv.dyndns.tv:80/p105venus/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s10.postimg.org/wkyrrzns9/PrivateTV.png" group-title="ADULTO",Private TV
+rtmp://5.196.189.39/live/ playpath=n2409 swfUrl=http://ero-tv.org/uppod/uppod32.swf pageUrl=http://ero-tv.org/hallo-tv_online/
+
+
+#EXTINF:-1 tvg-logo="http://tvtvtv.ru/icons/storm_babes_tv.png" group-title="ADULTO", STORM BABES TV SD
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel2/playlist.m3u8?MWINFO 
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", HOT(KODI APENAS) MWINFO
+http://gochannelstv.dyndns.tv:80/p48hot/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", RED LIGTH (KODI APENAS) MWINFO
+http://gochannelstv.dyndns.tv:80/p111redlighthd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", THE OKS MWINFO
+http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", THE OKS 2 MWINFO
+http://edge2.everyon.tv/etv2sb/phd10771/chunklist_w1055228414.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif", THE OKS 3 MWINFO
+http://edge2.everyon.tv/etv2sb/phd10771/chunklist_w894262068.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", BUT GO MWINFO
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/chunklist_w1020061901.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", BUT GO MWINFO
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", OKADAI TV MWINFO
+http://main2sb.everyon.tv:1935/etv2sb/pld10499/chunklist_w1962292473.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", SAKURA PORN MWINFO
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/chunklist_w99698559.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", HUSTLER MWINFO
+http://gochannelstv.dyndns.tv:80/p117hustlerhd/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", MIAMI TV MWINFO
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w159024270_b1896000.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", JASMIN CHANNEL HD MWINFO
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", VISIT-X TV HD MWINFO
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", VISIT-X TV 2 HD MWINFO
+http://stream.visit-x.tv/vxtv/live/chunklist_w758392192.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", PENTHOUSE (KODI APENAS) MWINFO
+rtmp://edge1.everyon.tv/etv1sb/ playpath=phd10927 swfUrl=http://adult-channels.com/tv/jwplayer.flash.swf live=1 pageUrl=http://www.maxmegatvonlinehd.com/canais-adultos-ao-vivo/penthouse.html?MWINFO
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", PENTHOUSE (KODI APENAS) MWINFO
+http://gochannelstv.dyndns.tv:80/p112penthousehd/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", PENTHOUSE (KODI APENAS) MWINFO
+http://gochannelstv.dyndns.tv:80/p112penthousehd/index.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", LIVE SEX LATINAS (KODI APENAS) MWINFO
+rtmp://46.105.116.183/leved/ playpath=livesexlatinas swfUrl=http://iptv.firestormmedia.tv/flash/player/player.20160909.swf?d=20160909 live=1 pageUrl=http://iptv.firestormmedia.tv/iframes/firecall/?type=323&affid=9826611871&width=610&hO=0&blurURL=http%3A%2F%2Fwww.rampant.tv%2Fpremium%2Funleashed.php%3Futm_source%3Drampant.tv%26utm_medium%3Dcgtvbanner%26utm_term%3Dthursday%2Bunleashed%2Bshow%2Bkikiminaj%26%26utm_campaign%3Dchatgirl%2Bunleashed?MWINFO
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", CANDY TV MWINFO
+http://cdn-01.bonus-tv.ru/btv/candy/type/user/devname/LG-SmartTV/devid/LG-1469816054/eol/20200101T0000/hash/e822f177cb4785c93f7b0a50a3534432478f512b/track_2_1000/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", BABESTATION MWINFO
+http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_///mp4:Ct6zG7Nrj3v2JxD/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", FUNDORADO TVMWINFO
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8

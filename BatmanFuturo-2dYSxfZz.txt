@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP1
+rdc://RCServer09/ondemand/BTMNDFTROEP01.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP2
+rdc://RCServer09/ondemand/BTMNDFTROEP02.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP3
+rdc://RCServer09/ondemand/BTMNDFTROEP03.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP4
+rdc://RCServer09/ondemand/BTMNDFTROEP04.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP5
+rdc://RCServer09/ondemand/BTMNDFTROEP05.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP6
+rdc://RCServer09/ondemand/BTMNDFTROEP06.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP7
+rdc://RCServer09/ondemand/BTMNDFTROEP07.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP8
+rdc://RCServer09/ondemand/BTMNDFTROEP08.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP9
+rdc://RCServer09/ondemand/BTMNDFTROEP09.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP10
+rdc://RCServer09/ondemand/BTMNDFTROEP10.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP11
+rdc://RCServer09/ondemand/BTMNDFTROEP11.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP12
+rdc://RCServer09/ondemand/BTMNDFTROEP12.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP13
+rdc://RCServer09/ondemand/BTMNDFTROEP13.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP14
+rdc://RCServer09/ondemand/BTMNDFTROEP14.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP15
+rdc://RCServer09/ondemand/BTMNDFTROEP15.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP16
+rdc://RCServer09/ondemand/BTMNDFTROEP16.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP17
+rdc://RCServer09/ondemand/BTMNDFTROEP17.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP18
+rdc://RCServer09/ondemand/BTMNDFTROEP18.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP19
+rdc://RCServer09/ondemand/BTMNDFTROEP19.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP20
+rdc://RCServer09/ondemand/BTMNDFTROEP20.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP21
+rdc://RCServer09/ondemand/BTMNDFTROEP21.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP22
+rdc://RCServer09/ondemand/BTMNDFTROEP22.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP23
+rdc://RCServer09/ondemand/BTMNDFTROEP23.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP24
+rdc://RCServer09/ondemand/BTMNDFTROEP24.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP25
+rdc://RCServer09/ondemand/BTMNDFTROEP25.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP26
+rdc://RCServer09/ondemand/BTMNDFTROEP26.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP27
+rdc://RCServer09/ondemand/BTMNDFTROEP27.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP28
+rdc://RCServer09/ondemand/BTMNDFTROEP28.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP29
+rdc://RCServer09/ondemand/BTMNDFTROEP29.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP30
+rdc://RCServer09/ondemand/BTMNDFTROEP30.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP31
+rdc://RCServer09/ondemand/BTMNDFTROEP31.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP32
+rdc://RCServer09/ondemand/BTMNDFTROEP32.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP33
+rdc://RCServer09/ondemand/BTMNDFTROEP33.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP34
+rdc://RCServer09/ondemand/BTMNDFTROEP34.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP35
+rdc://RCServer09/ondemand/BTMNDFTROEP35.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP36
+rdc://RCServer09/ondemand/BTMNDFTROEP36.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP37
+rdc://RCServer09/ondemand/BTMNDFTROEP37.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP38
+rdc://RCServer09/ondemand/BTMNDFTROEP38.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP39
+rdc://RCServer09/ondemand/BTMNDFTROEP39.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP40
+rdc://RCServer09/ondemand/BTMNDFTROEP40.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP41
+rdc://RCServer09/ondemand/BTMNDFTROEP41.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP42
+rdc://RCServer09/ondemand/BTMNDFTROEP42.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP43
+rdc://RCServer09/ondemand/BTMNDFTROEP43.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP44
+rdc://RCServer09/ondemand/BTMNDFTROEP44.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP45
+rdc://RCServer09/ondemand/BTMNDFTROEP45.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP46
+rdc://RCServer09/ondemand/BTMNDFTROEP46.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP47
+rdc://RCServer09/ondemand/BTMNDFTROEP47.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP48
+rdc://RCServer09/ondemand/BTMNDFTROEP48.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP49
+rdc://RCServer09/ondemand/BTMNDFTROEP49.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP50
+rdc://RCServer09/ondemand/BTMNDFTROEP50.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP51
+rdc://RCServer09/ondemand/BTMNDFTROEP51.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP52 (teste)
+rdc://RCServer09/ondemand/BTMNDFTROEP52.mp4

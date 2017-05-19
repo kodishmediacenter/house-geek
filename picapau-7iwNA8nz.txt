@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 000
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVMWFhMl9wXzlZd1U/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 001
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVS0RSWXJnVVZ1SFk/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 002
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVUkdoNWpXak5Ec0U/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 003
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVVndDRnpXblJlaTA/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 004
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVNUJVZXVvdV9TSlU/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 005
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVbEc4WEEwMGNvZ3c/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 006
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVeTlpSFlmVGdYd00/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 007
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVTHRLSGRjUl96b1E/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 008
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVaktBLXJLM3QweVE/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 009
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVa3FWenpnM1M3cm8/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 010
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVZzcyWDZ0VE9KQVE/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 011
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVaThaY1pGN1p2Q3M/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 012
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVSzF4aEFucUVFOG8/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 013
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVVUJ6aXlRQmZTdDg/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 014
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVOUpNbkh5WG5jYlU/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 015
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVbTdESEp4MHp1M00/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 016
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVWGxEWEpxdUFPWGs/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVUGV1VlMyVUdqc0U/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVcjR0MlpoNUJzZU0/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 019
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVb2FZSTZONlA4eUU/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 020
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVakVadXZQdVpWdlU/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 021
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVTm1lZFh5YVZUWEU/view?usp=sharing 
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 022
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVMW9JbmZ5NUx5OTA/view?usp=sharing 
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 023
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVUWhOVGo4M2VybEE/view?usp=sharing 
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 024
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVZGF1VmJzanQzb1U/view?usp=sharing 
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 025
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVZEdOUmNfbEMzbW8/view?usp=sharing 
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 026
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVdDY1U3NtMHVTWWs/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 027
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVNDk5c3JUSzNfOXM/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 028
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVUmFpM3lWaXlKeHM/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 029
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVUXprYjZqTEhIUjQ/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 030
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVSEpaSF9tanBYTmc/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 031
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVd1pOTDR0enk1Z0U/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 032
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVc2NobTBVdFZ6aDA/view?usp=sharing
+#EXTINF:-1 tvg-logo="http://www.anos80.net/wp-content/uploads/2013/08/pica-pau-show.jpg", Picapau 033
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2u2EoIMPUYVX3pDTkNUaXg4VTg/view?usp=sharing

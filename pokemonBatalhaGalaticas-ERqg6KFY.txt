@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP574
+tdc://RCServer01/videos/PKMONEP574.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP575
+tdc://RCServer01/videos/PKMONEP575.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP576
+tdc://RCServer01/videos/PKMONEP576.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP577
+tdc://RCServer01/videos/PKMONEP577.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP578
+tdc://RCServer01/videos/PKMONEP578.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP579
+tdc://RCServer01/videos/PKMONEP579.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP580
+tdc://RCServer01/videos/PKMONEP580.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP581
+tdc://RCServer01/videos/PKMONEP581.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP582
+tdc://RCServer01/videos/PKMONEP582.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP583
+tdc://RCServer01/videos/PKMONEP583.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP584
+tdc://RCServer01/videos/PKMONEP584.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP585
+tdc://RCServer01/videos/PKMONEP585.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP586
+tdc://RCServer01/videos/PKMONEP586.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP587
+tdc://RCServer01/videos/PKMONEP587.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP588
+tdc://RCServer01/videos/PKMONEP588.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP589
+tdc://RCServer01/videos/PKMONEP589.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP590
+tdc://RCServer01/videos/PKMONEP590.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP591
+tdc://RCServer01/videos/PKMONEP591.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP592
+tdc://RCServer01/videos/PKMONEP592.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP593
+tdc://RCServer01/videos/PKMONEP593.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP594
+tdc://RCServer01/videos/PKMONEP594.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP595
+tdc://RCServer01/videos/PKMONEP595.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP596
+tdc://RCServer01/videos/PKMONEP596.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP597
+tdc://RCServer01/videos/PKMONEP597.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP598
+tdc://RCServer01/videos/PKMONEP598.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP599
+tdc://RCServer01/videos/PKMONEP599.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP600
+tdc://RCServer01/videos/PKMONEP600.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP601
+tdc://RCServer01/videos/PKMONEP601.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP602
+tdc://RCServer01/videos/PKMONEP602.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP603
+tdc://RCServer01/videos/PKMONEP603.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP604
+tdc://RCServer01/videos/PKMONEP604.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP605
+tdc://RCServer01/videos/PKMONEP605.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP606
+tdc://RCServer01/videos/PKMONEP606.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP607
+tdc://RCServer01/videos/PKMONEP607.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP608
+tdc://RCServer01/videos/PKMONEP608.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP609
+tdc://RCServer01/videos/PKMONEP609.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP610
+tdc://RCServer01/videos/PKMONEP610.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP611
+tdc://RCServer01/videos/PKMONEP611.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP612
+tdc://RCServer01/videos/PKMONEP612.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP613
+tdc://RCServer01/videos/PKMONEP613.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP614
+tdc://RCServer01/videos/PKMONEP614.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP615
+tdc://RCServer01/videos/PKMONEP615.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP616
+tdc://RCServer01/videos/PKMONEP616.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP617
+tdc://RCServer01/videos/PKMONEP617.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP618
+tdc://RCServer01/videos/PKMONEP618.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP619
+tdc://RCServer01/videos/PKMONEP619.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP620
+tdc://RCServer01/videos/PKMONEP620.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP621
+tdc://RCServer01/videos/PKMONEP621.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP622
+tdc://RCServer01/videos/PKMONEP622.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP623
+tdc://RCServer01/videos/PKMONEP623.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP624
+tdc://RCServer01/videos/PKMONEP624.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP625
+tdc://RCServer01/videos/PKMONEP625.mp4
+#EXTINF:-7 tvg-logo='http://ecx.images-amazon.com/images/I/51qIJM3oH2L.jpg' group-title='Batalhas Galáticas',EP626
+tdc://RCServer01/videos/PKMONEP626.mp4

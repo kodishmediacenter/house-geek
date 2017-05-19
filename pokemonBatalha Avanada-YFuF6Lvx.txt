@@ -1,0 +1,110 @@
+#EXTM3U
+
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP369
+tdc://RCServer01/videos/PKMONEP369.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP370
+tdc://RCServer01/videos/PKMONEP370.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP371
+tdc://RCServer01/videos/PKMONEP371.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP372
+tdc://RCServer01/videos/PKMONEP372.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP373
+tdc://RCServer01/videos/PKMONEP373.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP374
+tdc://RCServer01/videos/PKMONEP374.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP375
+tdc://RCServer01/videos/PKMONEP375.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP376
+tdc://RCServer01/videos/PKMONEP376.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP377
+tdc://RCServer01/videos/PKMONEP377.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP378
+tdc://RCServer01/videos/PKMONEP378.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP379
+tdc://RCServer01/videos/PKMONEP379.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP380
+tdc://RCServer01/videos/PKMONEP380.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP381
+tdc://RCServer01/videos/PKMONEP381.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP382
+tdc://RCServer01/videos/PKMONEP382.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP383
+tdc://RCServer01/videos/PKMONEP383.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP384
+tdc://RCServer01/videos/PKMONEP384.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP385
+tdc://RCServer01/videos/PKMONEP385.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP386
+tdc://RCServer01/videos/PKMONEP386.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP387
+tdc://RCServer01/videos/PKMONEP387.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP388
+tdc://RCServer01/videos/PKMONEP388.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP389
+tdc://RCServer01/videos/PKMONEP389.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP390
+tdc://RCServer01/videos/PKMONEP390.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP391
+tdc://RCServer01/videos/PKMONEP391.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP392
+tdc://RCServer01/videos/PKMONEP392.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP393
+tdc://RCServer01/videos/PKMONEP393.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP394
+tdc://RCServer01/videos/PKMONEP394.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP395
+tdc://RCServer01/videos/PKMONEP395.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP396
+tdc://RCServer01/videos/PKMONEP396.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP397
+tdc://RCServer01/videos/PKMONEP397.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP398
+tdc://RCServer01/videos/PKMONEP398.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP399
+tdc://RCServer01/videos/PKMONEP399.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP400
+tdc://RCServer01/videos/PKMONEP400.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP401
+tdc://RCServer01/videos/PKMONEP401.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP402
+tdc://RCServer01/videos/PKMONEP402.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP403
+tdc://RCServer01/videos/PKMONEP403.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP404
+tdc://RCServer01/videos/PKMONEP404.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP405
+tdc://RCServer01/videos/PKMONEP405.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP406
+tdc://RCServer01/videos/PKMONEP406.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP407
+tdc://RCServer01/videos/PKMONEP407.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP408
+tdc://RCServer01/videos/PKMONEP408.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP409
+tdc://RCServer01/videos/PKMONEP409.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP410
+tdc://RCServer01/videos/PKMONEP410.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP411
+tdc://RCServer01/videos/PKMONEP411.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP412
+tdc://RCServer01/videos/PKMONEP412.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP413
+tdc://RCServer01/videos/PKMONEP413.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP414
+tdc://RCServer01/videos/PKMONEP414.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP415
+tdc://RCServer01/videos/PKMONEP415.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP416
+tdc://RCServer01/videos/PKMONEP416.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP417
+tdc://RCServer01/videos/PKMONEP417.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP418
+tdc://RCServer01/videos/PKMONEP418.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP419
+tdc://RCServer01/videos/PKMONEP419.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP420
+tdc://RCServer01/videos/PKMONEP420.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP421
+tdc://RCServer01/videos/PKMONEP421.mp4
+#EXTINF:-7 tvg-logo='http://anmtv.xpg.uol.com.br/wp-content/uploads/Tooncast-Pokemon-BatAva.jpg' group-title='Batalha Avançada',EP422
+tdc://RCServer01/videos/PKMONEP422.mp4

@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1,10000 Anos Depois
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/624.mp4
+#EXTINF:-1,A Chegada
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/625.mp4
+#EXTINF:-1,A Volta do Juizo Final
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/628.mp4
+#EXTINF:-1,Aguas Rasas
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/653.mp4
+#EXTINF:-1,Amor e Amizade
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/626.mp4
+#EXTINF:-1,Anjos da Noite - Guerras De Sangue
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/627.mp4
+#EXTINF:-1,Assassino a Preco Fixo
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/654.mp4
+#EXTINF:-1,Cantando de Galo
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/656.mp4
+#EXTINF:-1,Doutor Estranho
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/629.mp4
+#EXTINF:-1,Elvis e Nixon
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/657.mp4
+#EXTINF:-1,Esquadrao de Elite
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/630.mp4
+#EXTINF:-1,Fugindo Do Inferno
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/631.mp4
+#EXTINF:-1,Genios do Crime
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/640.mp4
+#EXTINF:-1,Honey 3: No Ritmo do Amor
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/658.mp4
+#EXTINF:-1,Horas Decisivas
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/659.mp4
+#EXTINF:-1,iBoy
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/632.mp4
+#EXTINF:-1,INFERNO
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/641.mp4
+#EXTINF:-1,Jack Reacher- Sem Retorno
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/633.mp4
+#EXTINF:-1,Jason Bourne
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/660.mp4
+#EXTINF:-1,Malevola
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/635.mp4
+#EXTINF:-1,Meu Irmao Cego
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/634.mp4
+#EXTINF:-1,Nosso Fiel Traidor
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/642.mp4
+#EXTINF:-1,O Contador
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/643.mp4
+#EXTINF:-1,O Dragao do Natal
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/644.mp4
+#EXTINF:-1,O Lar das Criancas Peculiares
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/645.mp4
+#EXTINF:-1,O REI MACACO 2: A LENDA CONTINUA
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/646.mp4
+#EXTINF:-1,Ouija: Origem Do Mal
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/636.mp4
+#EXTINF:-1,PERDIDOS NO PACIFICO
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/647.mp4
+#EXTINF:-1,Quando as Luzes se Apagam
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/661.mp4
+#EXTINF:-1,Sacrificio
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/637.mp4
+#EXTINF:-1,SETE HOMENS E UM DESTINO
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/638.mp4
+#EXTINF:-1,Sete Minutos Depois da Meia-Noite
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/639.mp4
+#EXTINF:-1,Spectral
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/648.mp4
+#EXTINF:-1,Tanthropoid
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/655.mp4
+#EXTINF:-1,Tini Depois de Violetta
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/662.mp4
+#EXTINF:-1,Trools
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/623.mp4
+#EXTINF:-1,Truque de Mestre
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/663.mp4
+#EXTINF:-1,Truque de Mestre O Segundo Ato
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/664.mp4
+#EXTINF:-1,Uma Cancao
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/649.mp4
+#EXTINF:-1,Uma Noite Com a Familia Blacks
+http://iptv.servidorfull.com:8081/movie/dsampaiom/dsampaiom/650.mp4

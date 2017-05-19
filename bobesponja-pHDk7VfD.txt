@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo='https://i.ytimg.com/vi/CiDs4GrxavI/maxresdefault.jpgF' group-title='',8 Temp
+http://pastebin.com/D3hqGGik
+#EXTINF:-1 tvg-logo='https://i.ytimg.com/vi/CiDs4GrxavI/maxresdefault.jpgF' group-title='',7 Temp
+http://pastebin.com/qgVTENVn
+#EXTINF:-1 tvg-logo='https://i.ytimg.com/vi/CiDs4GrxavI/maxresdefault.jpgF' group-title='',6 Temp
+http://pastebin.com/FEDCvMj7
+#EXTINF:-1 tvg-logo='https://i.ytimg.com/vi/CiDs4GrxavI/maxresdefault.jpgF' group-title='',5 Temp
+http://pastebin.com/jvRqB7W2
+#EXTINF:-1 tvg-logo='https://i.ytimg.com/vi/CiDs4GrxavI/maxresdefault.jpgF' group-title='',4 Temp
+http://pastebin.com/jD3scsg9
+#EXTINF:-1 tvg-logo='https://i.ytimg.com/vi/CiDs4GrxavI/maxresdefault.jpgF' group-title='',3 Temp
+http://pastebin.com/zsaZvPc4
+#EXTINF:-1 tvg-logo='https://i.ytimg.com/vi/CiDs4GrxavI/maxresdefault.jpgF' group-title='',2 Temp
+http://pastebin.com/YAeezeeG
+#EXTINF:-1 tvg-logo='https://i.ytimg.com/vi/CiDs4GrxavI/maxresdefault.jpgF' group-title='',1 Temp
+http://pastebin.com/Xm52ivpy

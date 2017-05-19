@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP1
+rdc://RCServer08/ondemand/OSHWDSCBDEP01.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP2
+rdc://RCServer08/ondemand/OSHWDSCBDEP02.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP3
+rdc://RCServer08/ondemand/OSHWDSCBDEP03.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP4
+rdc://RCServer08/ondemand/OSHWDSCBDEP04.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP5
+rdc://RCServer08/ondemand/OSHWDSCBDEP05.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP6
+rdc://RCServer08/ondemand/OSHWDSCBDEP06.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP7
+rdc://RCServer08/ondemand/OSHWDSCBDEP07.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP8
+rdc://RCServer08/ondemand/OSHWDSCBDEP08.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP9
+rdc://RCServer08/ondemand/OSHWDSCBDEP09.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP10
+rdc://RCServer08/ondemand/OSHWDSCBDEP10.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP11
+rdc://RCServer08/ondemand/OSHWDSCBDEP11.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP12
+rdc://RCServer08/ondemand/OSHWDSCBDEP12.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP13
+rdc://RCServer08/ondemand/OSHWDSCBDEP13.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP14
+rdc://RCServer08/ondemand/OSHWDSCBDEP14.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP15
+rdc://RCServer08/ondemand/OSHWDSCBDEP15.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP16
+rdc://RCServer08/ondemand/OSHWDSCBDEP16.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP17
+rdc://RCServer08/ondemand/OSHWDSCBDEP17.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP18
+rdc://RCServer08/ondemand/OSHWDSCBDEP18.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP19
+rdc://RCServer08/ondemand/OSHWDSCBDEP019.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP20
+rdc://RCServer08/ondemand/OSHWDSCBDEP20.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP21
+rdc://RCServer08/ondemand/OSHWDSCBDEP21.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP22
+rdc://RCServer08/ondemand/OSHWDSCBDEP22.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP23
+rdc://RCServer08/ondemand/OSHWDSCBDEP23.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP24
+rdc://RCServer08/ondemand/OSHWDSCBDEP24.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP25
+rdc://RCServer08/ondemand/OSHWDSCBDEP25.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP26
+rdc://RCServer08/ondemand/OSHWDSCBDEP26.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP27
+rdc://RCServer08/ondemand/OSHWDSCBDEP27.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP28
+rdc://RCServer08/ondemand/OSHWDSCBDEP28.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP29
+rdc://RCServer08/ondemand/OSHWDSCBDEP29.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP30
+rdc://RCServer08/ondemand/OSHWDSCBDEP30.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP31
+rdc://RCServer08/ondemand/OSHWDSCBDEP31.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP32
+rdc://RCServer08/ondemand/OSHWDSCBDEP32.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP33
+rdc://RCServer08/ondemand/OSHWDSCBDEP33.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP34
+rdc://RCServer08/ondemand/OSHWDSCBDEP34.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP35
+rdc://RCServer08/ondemand/OSHWDSCBDEP35.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP36
+rdc://RCServer08/ondemand/OSHWDSCBDEP36.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP37
+rdc://RCServer08/ondemand/OSHWDSCBDEP37.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP38
+rdc://RCServer08/ondemand/OSHWDSCBDEP38.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP39
+rdc://RCServer08/ondemand/OSHWDSCBDEP39.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/KowDW1' group-title='Scooby-Doo Show',EP40
+rdc://RCServer08/ondemand/OSHWDSCBDEP40.mp4

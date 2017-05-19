@@ -1,0 +1,136 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hsMgV4TgJnU/UqjZM-jAQ-I/AAAAAAAABxE/0sMsSKSLtig/s200/lovemetender.jpg",Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDR2dLRUVvWktJalE/view
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jODlQvZRTw4/VzS9yq8I5dI/AAAAAAAAFWg/aR26AAreHlosFeOX837kq1NIsLMUdwbfgCLcB/s200/b7cfc29547de42b178a843852731326d.jpg",Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDd3N4MDZ6bi1JS2c/view
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-KSL57SaCYoc/VzS87a7s5TI/AAAAAAAAFWY/au91npEMmLU35HyRpFgnbdtKi1Wck40RwCLcB/s200/A70-11328.jpg",Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDXzZOVzRyclQ5cTg/view
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-99SxuHJPMeQ/UaVK5q5E9UI/AAAAAAAAA9U/HHqkgAkD7m4/s200/LIVE+A+LITTLE+LOVE+A+LITTLE+DVD.jpg",Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDV1NGMFduTU9fU1E/view
+
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-YJPb6WKbccE/Upv2tjjLloI/AAAAAAAABpQ/ygiU30GGRls/s200/WILD+IN+THE+COUNTRY.jpg",Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDN2NSb215RFp0R1E/view
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EowkQ-p-OZk/Upv5Sloih2I/AAAAAAAABpc/i14y8bop4fU/s200/flamingstar.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDZXRoUDJPNnEwcms/view
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-re3NhNUKsmU/UqjOgWGWrxI/AAAAAAAABww/UETzyzQfCaM/s200/double+trouble.jpg",Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDYUV6Unl0QS1uY0U/view
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-qxUoG6UnB8I/UZlU3QhhlyI/AAAAAAAAA9A/yaZLD2ZEdGY/s200/kingcreole.jpg",Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDYmdEcjA4NV9kWnc/view
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-lhzT0gG7TwM/UTUT2iQX5WI/AAAAAAAAAzk/DFn5azGxDgw/s200/ELVIS+O+PRISIONEIRO+DO+ROCK.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDM29BTVcySjE1WTQ/view
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ze6HvnUxJpM/TooLIeKjv2I/AAAAAAAAAEM/Tp5A1tQxrNI/s200/25-Clambake.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDcF83Q01uUlBhVE0/view
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-tdKM0x7yl0s/T5xfH1MJeaI/AAAAAAAAAJI/dshpt8r_ivg/s200/lindas+encrencas+as+garotas.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDMkdxeS14NzFMbXM/view
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Q-bfo1GGYNU/Tn_d2SYseqI/AAAAAAAAAD4/OZTw90QymKw/s200/27-speedway.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDb1ZSblpUdTgzWUU/view
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-CkVuMjtxOjE/TnqPzC9XCKI/AAAAAAAAAD0/C1egeOrORYg/s200/24-easy+come+easy+go.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDaFlKX0s3cGFjS1k/view
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-25kKXM-xhgs/TcMWYY0NoHI/AAAAAAAAAAY/_5Ns0MI0_Mg/s200/12-it+happened+at+the+world%2560s+fair.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDcGpiTXJXUGhiQlE/view
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Pmr47fOirJQ/TcNKmc_yQEI/AAAAAAAACVM/mCC9WPChJrI/s200/18-Tickle%2Bme.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDb3dDSENMbmZ6R1k/view
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fzC9VqQvvrs/UjJEBOcd_uI/AAAAAAAABX0/rxRBy9Hmy0g/s200/kidgalahad.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDNUp6VzB3ODFrbXM/view
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-w09xniEtFeU/TcWEBqES56I/AAAAAAAAAAk/Y3mMpmgJkkA/s200/kissincoussinsgd4%255B1%255D.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDSHN4UlZWRWRzLUE/view
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OLEEiUfq0YA/TcWKeI7wCPI/AAAAAAAAAAo/_gfCCrTmX6Y/s200/13-O+Seresteiro+de+Acapulco.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDZTQzM0dfU1VyaUk/view
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UllOeT9No1Y/TcWVWZa1o_I/AAAAAAAAAAw/s2UGO-KypFw/s200/05-g.i.+blues.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDNl9CWndiTTRvcHM/view
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-croaj_seuE8/TdBEHJlOZPI/AAAAAAAAAA8/K-CCi3tULTg/s200/16-roustabout.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDc1pyRUJBQVp5NUk/view
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zIF_q_B-A6I/TdkBUay-O0I/AAAAAAAAABM/zEOxIPj5fko/s200/17-girl%2Bhappy.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDc1o4ZEEtczhlZ0k/view
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-g2IM1ylFqIY/TeLQtBpi7jI/AAAAAAAAABQ/oIGt_YhwBr0/s200/21-frakie%2Band%2Bjohnny.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDZjhsbEhoOF94Tjg/view
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-w7MCo4gHhxc/TfPPAxREgFI/AAAAAAAAABU/-_hKVe5WP8w/s200/26-stay%2Baway%2Bjoe.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDdVpJWmhhRXAzeXM/view
+
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-SW-YhaA_JTU/Tf_NoZSyp2I/AAAAAAAACaM/zfb3W_gU534/s200/31-Change%2BOf%2BHabit.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDTVEzLXl0ampKZzA/view
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-3zWfSnS0-nY/TgTvA1dxNwI/AAAAAAAAACI/VExt04KDCCE/s200/02-Loving+You.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDM1Vyb2NsNzBJT2M/view
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7RIk1a1G9bc/ThOadxvmmgI/AAAAAAAAACM/SVi7-_U_oc0/s200/08-blue+hawaii.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDejlNcWk2VGg5T00/view
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zIF_q_B-A6I/TdkBUay-O0I/AAAAAAAAABM/zEOxIPj5fko/s200/17-girl%2Bhappy.jpg",Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDc1o4ZEEtczhlZ0k/view
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-g2IM1ylFqIY/TeLQtBpi7jI/AAAAAAAAABQ/oIGt_YhwBr0/s200/21-frakie%2Band%2Bjohnny.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDZjhsbEhoOF94Tjg/view
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jApKbGQd218/TjNLlsY6tII/AAAAAAAAACk/xsZa0IxRHNA/s200/19-HARUM+SCARUM.jpg" ,Elvis
+https://drive.google.com/file/d/0B_CfQsH0cvKDdmVRUG1Wb3FxVkk/view
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-JEDmhw8Grdk/Tj38m_b-CZI/AAAAAAAAACo/ZlfsZ-aIeOg/s200/09-Em+Cada+Sonho+Um+Amor_1962.jpg",Elvis Em Cada Sonho Um Amor
+https://drive.google.com/file/d/0B_CfQsH0cvKDWTFGRl9QUmRPVWM/view
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Pcw4H9OuH2o/Tnp9-LlCHzI/AAAAAAAAADo/Q75my_0ylfQ/s200/20-paradise+hawaiian+style.jpg",Elvis Paradise Hawaiian Style
+https://drive.google.com/file/d/0B_CfQsH0cvKDT1Z1b0txakNjOWc/view
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-CchWcmrpvtg/TnqDJ53ljVI/AAAAAAAAADs/NUC8z9u4efI/s200/22-SPINOUT.jpg",Elvis Spinout
+https://drive.google.com/file/d/0B_CfQsH0cvKDUnZ2ZFcxMU1NcUU/view
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-U1s5NdE_aUg/Upv7Jy8ip5I/AAAAAAAABpo/nEsEb6cwOgY/s200/viva+las+vegas+dvd.JPG",Elvis Viva Las Vegas
+https://drive.google.com/file/d/0B_CfQsH0cvKDN1FMeUNKSlhBNnM/view
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QoFmBPJBHJA/UqjOge95RYI/AAAAAAAABww/xsxtgzD_i1E/s200/elvis+on+tour.jpg",Elvis on Tour
+https://drive.google.com/file/d/0B_CfQsH0cvKDbVVndGJCTEEyUTg/view
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-3DtAwZi1gZA/V9XrJObj7vI/AAAAAAAAQow/0XUd2UHt8nY-NYrpOVHZo1-7wgY9KIWVwCLcB/s200/Elvis%2B%2526%2BNixon.jpg",Elvis & Nixon
+https://docs.google.com/file/d/0B8n5bLUkctxNR0ZnNk9ETUlXSVk/view

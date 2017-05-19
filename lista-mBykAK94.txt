@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="Globo - São Paulo [Brazil]" tvg-name="Globo - São Paulo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="Canais Abertos",Globo
+http://192.99.148.73:8080/live/fabiokodish/582456/2.m3u8
+#EXTINF:-1 tvg-ID="Record [Brazil]" tvg-name="Record [Brazil]" tvg-logo="http://s21.postimg.org/a8js3gflv/record4.png" group-title="Canais Abertos",Record
+http://192.99.148.73:8080/live/fabiokodish/582456/6.m3u8
+#EXTINF:-1 tvg-ID="Rede TV [Brazil]" tvg-name="Rede TV [Brazil]" tvg-logo="http://s30.postimg.org/ha7dxt4bh/redetv3.png" group-title="Canais Abertos",Rede TV
+http://192.99.148.73:8080/live/fabiokodish/582456/4.m3u8
+#EXTINF:-1 tvg-ID="Band Rede [Brazil]" tvg-name="Band Rede [Brazil]" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="Canais Abertos",Band
+http://192.99.148.73:8080/live/fabiokodish/582456/5.m3u8
+#EXTINF:-1 tvg-ID="SBT [Brazil]" tvg-name="SBT [Brazil]" tvg-logo="https://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Canais Abertos",SBT
+http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
+#EXTINF:-1 tvg-ID="SBT [Brazil]" tvg-name="SBT [Brazil]" tvg-logo="https://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Canais Abertos",SBT
+http://192.99.148.73:8080/live/fabiokodish/582456/3.m3u8
+#EXTINF:-1 tvg-ID="TV Cultura [Brazil]" tvg-name="TV Cultura [Brazil]" tvg-logo="https://s19.postimg.org/ykb8pa9sz/cultura.png" group-title="Canais Abertos",TV Cultura
+http://192.99.148.73:8080/live/fabiokodish/582456/1.m3u8
+#EXTINF:-1 tvg-ID="Canal Futura [Brazil]" tvg-name="Canal Futura [Brazil]" tvg-logo="http://s24.postimg.org/9hi59nvld/Futura2.png" group-title="Canais Abertos",TV futura
+http://192.99.148.73:8080/live/fabiokodish/582456/7.m3u8
+#EXTINF:-1 tvg-ID="Telecine Action [Brazil]" tvg-name="Telecine Action [Brazil]" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Filmes e Séries",TC Action
+http://192.99.148.73:8080/live/fabiokodish/582456/9.m3u8
+#EXTINF:-1 tvg-ID="Telecine Premium [Brazil]" tvg-name="TC Premium" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Filmes e Séries",TC Premium
+http://192.99.148.73:8080/live/fabiokodish/582456/8.m3u8
+#EXTINF:-1 tvg-ID="Telecine Touch [Brazil]" tvg-name="Telecine Touch [Brazil]" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Filmes e Séries",TC Touch
+http://192.99.148.73:8080/live/fabiokodish/582456/12.m3u8
+#EXTINF:-1 tvg-ID="Telecine Fun [Brazil]" tvg-name="Telecine Fun [Brazil]" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Séries",TC Fun
+http://192.99.148.73:8080/live/fabiokodish/582456/10.m3u8
+#EXTINF:-1 tvg-ID="Telecine Pipoca [Brazil]" tvg-name="Telecine Pipoca [Brazil]" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="Filmes e Séries",TC Pipoca
+http://192.99.148.73:8080/live/fabiokodish/582456/11.m3u8
+#EXTINF:-1 tvg-ID="Telecine Cult [Brazil]" tvg-name="Telecine Cult [Brazil]" tvg-logo="http://s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="Filmes e Séries",TC Cult
+http://192.99.148.73:8080/live/fabiokodish/582456/13.m3u8
+#EXTINF:-1 tvg-ID="HBO [Brazil]" tvg-name="HBO [Brazil]" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Filmes e Séries",HBO
+http://192.99.148.73:8080/live/fabiokodish/582456/14.m3u8
+#EXTINF:-1 tvg-ID="HBO 2 [Brazil]" tvg-name="HBO 2 [Brazil]" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="Filmes e Séries",HBO 2
+http://192.99.148.73:8080/live/fabiokodish/582456/15.m3u8
+#EXTINF:-1 tvg-ID="HBO Plus [Brazil]" tvg-name="HBO Plus [Brazil]" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="Filmes e Séries",HBO Plus
+http://192.99.148.73:8080/live/fabiokodish/582456/18.m3u8
+#EXTINF:-1 tvg-ID="HBO Signature [Brazil]" tvg-name="HBO Signature [Brazil]" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="",HBO Signature
+http://192.99.148.73:8080/live/fabiokodish/582456/16.m3u8
+#EXTINF:-1 tvg-ID="HBO Family [Brazil]" tvg-name="HBO Family [Brazil]" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="Filmes e Séries",HBO Family
+http://192.99.148.73:8080/live/fabiokodish/582456/17.m3u8
+#EXTINF:-1 tvg-ID="Universal [Brazil]" tvg-name="Universal [Brazil]" tvg-logo="https://s31.postimg.org/6ktxs1ci3/universal.png" group-title="Filmes e Séries",Universal
+http://192.99.148.73:8080/live/fabiokodish/582456/22.m3u8
+#EXTINF:-1 tvg-ID="TNT [Brazil]" tvg-name="TNT [Brazil]" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="Filmes e Séries",TNT
+http://192.99.148.73:8080/live/fabiokodish/582456/30.m3u8
+#EXTINF:-1 tvg-ID="TCM - Turner Classic Movies [Brazil]" tvg-name="TCM - Turner Classic Movies [Brazil]" tvg-logo="http://retrotv.uol.com.br/wp-content/uploads/2011/01/TCM-logo.jpg" group-title="Filmes e Séries",TCM
+http://192.99.148.73:8080/live/fabiokodish/582456/35.m3u8
+#EXTINF:-1 tvg-ID="Studio Universal [Brazil]" tvg-name="Studio Universal [Brazil]" tvg-logo="https://s32.postimg.org/uxw1c6411/studiouniversal.png" group-title="Filmes e Séries",Studio Universal
+http://192.99.148.73:8080/live/fabiokodish/582456/32.m3u8
+#EXTINF:-1 tvg-ID="Max Prime [Brazil]" tvg-name="Max Prime [Brazil]" tvg-logo="http://s9.postimg.org/l51ctd8mz/maxprime.png" group-title="Filmes e Séries",Max Prime
+http://192.99.148.73:8080/live/fabiokodish/582456/24.m3u8
+#EXTINF:-1 tvg-ID="Max [Brazil]" tvg-name="Max [Brazil]" tvg-logo="https://s31.postimg.org/h4q35bctn/max.png" group-title="Filmes e Séries",Max
+http://192.99.148.73:8080/live/fabiokodish/582456/23.m3u8
+#EXTINF:-1 tvg-ID="TBS [Brazil]" tvg-name="TBS [Brazil]" tvg-logo="https://s31.postimg.org/hj4nfr0az/tbs.png" group-title="Filmes e Séries",TBS
+http://192.99.148.73:8080/live/fabiokodish/582456/33.m3u8
+#EXTINF:-1 tvg-ID="Warner Channel [Brazil]" tvg-name="Warner Channel [Brazil]" tvg-logo="https://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="Filmes e Séries",Warner
+http://192.99.148.73:8080/live/fabiokodish/582456/26.m3u8
+#EXTINF:-1 tvg-ID="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Séries",Paramount
+http://192.99.148.73:8080/live/fabiokodish/582456/34.m3u8
+#EXTINF:-1 tvg-ID="Fox [Brazil]" tvg-name="Fox [Brazil]" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Séries",Fox
+http://192.99.148.73:8080/live/fabiokodish/582456/20.m3u8
+#EXTINF:-1 tvg-ID="SPACE [Brazil]" tvg-name="SPACE [Brazil]" tvg-logo="https://s31.postimg.org/uu398livf/space.png" group-title="Filmes e Séries",Space
+http://192.99.148.73:8080/live/fabiokodish/582456/21.m3u8
+#EXTINF:-1 tvg-ID="Sony Entertainment TV [Brazil]" tvg-name="Sony Entertainment TV [Brazil]" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="Filmes e Séries",Sony
+http://192.99.148.73:8080/live/fabiokodish/582456/28.m3u8
+#EXTINF:-1 tvg-ID="Megapix [Brazil]" tvg-name="Megapix [Brazil]" tvg-logo="http://s28.postimg.org/cqqksvb61/megapix.png" group-title="Filmes e Séries",Megapix
+http://192.99.148.73:8080/live/fabiokodish/582456/19.m3u8
+#EXTINF:-1 tvg-ID="FX [Brazil]" tvg-name="FX [Brazil]" tvg-logo="http://s27.postimg.org/v2ysovgkf/image.png" group-title="Filmes e Séries",FX
+http://192.99.148.73:8080/live/fabiokodish/582456/27.m3u8
+#EXTINF:-1 tvg-ID="AXN [Brazil]" tvg-name="AXN [Brazil]" tvg-logo="https://s15.postimg.org/tzhnubsmz/axn.png" group-title="Filmes e Séries",AXN
+http://192.99.148.73:8080/live/fabiokodish/582456/29.m3u8
+#EXTINF:-1 tvg-ID="Max Prime *e [Brazil]" tvg-name="Max Up" tvg-logo="https://s31.postimg.org/x7orzkx97/max_up.png" group-title="Filmes e Séries",Max Up
+http://192.99.148.73:8080/live/fabiokodish/582456/25.m3u8
+#EXTINF:-1 tvg-ID="Cinemax [Brazil]" tvg-name="Cinemax [Brazil]" tvg-logo="http://s24.postimg.org/75vs42fs1/cinemax.png" group-title="Filmes e Séries",Cinemax
+http://192.99.148.73:8080/live/fabiokodish/582456/31.m3u8
+#EXTINF:-1 tvg-ID="SporTV [Brazil]" tvg-name="SporTV [Brazil] tvg-logo="http://s17.postimg.org/d28s9ckuj/Spor_TV.png" group-title="Esportes",Sport TV
+http://192.99.148.73:8080/live/fabiokodish/582456/55.m3u8
+#EXTINF:-1 tvg-ID="SporTV 2 [Brazil]" tvg-name="SporTV 2 [Brazil]" tvg-logo="http://s13.postimg.org/cj3f31t2r/Spor_TV2.png" group-title="Esportes",Sport TV2
+http://192.99.148.73:8080/live/fabiokodish/582456/56.m3u8
+#EXTINF:-1 tvg-ID="SporTV 3 [Brazil]" tvg-name="SporTV 3 [Brazil]" tvg-logo="http://s29.postimg.org/6gznfk6tv/Spor_TV3.png" group-title="Esportes",Sport TV3
+http://192.99.148.73:8080/live/fabiokodish/582456/57.m3u8
+#EXTINF:-1 tvg-ID="Fox Sports [Brazil]" tvg-name="Fox Sports [Brazil]" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="Esportes",Fox Sports
+http://192.99.148.73:8080/live/fabiokodish/582456/63.m3u8
+#EXTINF:-1 tvg-ID="Fox Sports 2 [Brazil]" tvg-name="Fox Sports 2 [Brazil]" tvg-logo="http://assets.enterplay.com.br/images/Channels/Original/fox_sports2.png" group-title="Esportes",Fox Sports 2
+http://192.99.148.73:8080/live/fabiokodish/582456/64.m3u8
+#EXTINF:-1 tvg-ID="ESPN International [Brazil]" tvg-name="ESPN" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN
+http://192.99.148.73:8080/live/fabiokodish/582456/59.m3u8
+#EXTINF:-1 tvg-ID="ESPN+ [Brazil]" tvg-name="ESPN+ [Brazil]" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="Esportes",ESPN +
+http://192.99.148.73:8080/live/fabiokodish/582456/60.m3u8
+#EXTINF:-1 tvg-ID="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil [Brazil]" tvg-logo="https://s19.postimg.org/bzkyqmgpv/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil
+http://192.99.148.73:8080/live/fabiokodish/582456/61.m3u8
+#EXTINF:-1 tvg-ID="Band Esportes [Brazil]" tvg-name="Band Esportes [Brazil]" tvg-logo="http://s9.postimg.org/55q56z7rj/bandsports.png" group-title="Esportes",Band Sports
+http://192.99.148.73:8080/live/fabiokodish/582456/58.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="EI MAXX" tvg-logo="http://s18.postimg.org/ymzvzw2xh/eiplus2.png" group-title="Esportes",Ei Maxx
+http://192.99.148.73:8080/live/fabiokodish/582456/65.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ei Maxx 2" tvg-logo="http://s18.postimg.org/ymzvzw2xh/eiplus2.png" group-title="Esportes",Ei Maxx 2
+http://192.99.148.73:8080/live/fabiokodish/582456/66.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Esporte Interativo" tvg-logo="http://s18.postimg.org/ymzvzw2xh/eiplus2.png" group-title="Esportes",Esporte Interativo
+http://192.99.148.73:8080/live/fabiokodish/582456/67.m3u8
+#EXTINF:-1 tvg-ID="Combate [Brazil]" tvg-name="Combate [Brazil]" tvg-logo="https://s32.postimg.org/7yy5aszit/combate2.png" group-title="Esportes",Combate
+http://192.99.148.73:8080/live/fabiokodish/582456/80.m3u8
+#EXTINF:-1 tvg-ID="PremiereFC [Brazil]" tvg-name="PremiereFC [Brazil]" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes
+http://192.99.148.73:8080/live/fabiokodish/582456/71.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 9" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 9
+http://192.99.148.73:8080/live/fabiokodish/582456/79.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 8" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 8
+http://192.99.148.73:8080/live/fabiokodish/582456/78.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 7" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 7
+http://192.99.148.73:8080/live/fabiokodish/582456/77.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 6" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 6
+http://192.99.148.73:8080/live/fabiokodish/582456/76.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 5" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 5
+http://192.99.148.73:8080/live/fabiokodish/582456/75.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 4" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 4
+http://192.99.148.73:8080/live/fabiokodish/582456/74.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 3
+http://192.99.148.73:8080/live/fabiokodish/582456/73.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 2
+http://192.99.148.73:8080/live/fabiokodish/582456/72.m3u8
+#EXTINF:-1 tvg-ID="Canal Off [Brazil]" tvg-name="Canal Off [Brazil]" tvg-logo="http://static1.squarespace.com/static/54d22844e4b0c27bb20138c5/5530003ce4b0a97aa1971901/553004d3e4b058645c976b92/1429210323282/canal+off+2.png" group-title="Esportes",Off
+http://192.99.148.73:8080/live/fabiokodish/582456/62.m3u8
+#EXTINF:-1 tvg-ID="Bis HD [Brazil]" tvg-name="Bis HD [Brazil]" tvg-logo="https://s19.postimg.org/6q1jmdo2r/bis.png" group-title="Variedade e Músicas",Bis
+http://192.99.148.73:8080/live/fabiokodish/582456/37.m3u8
+#EXTINF:-1 tvg-ID="Multishow [Brazil]" tvg-name="Multishow [Brazil]" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="Variedade e Músicas",Multishow
+http://192.99.148.73:8080/live/fabiokodish/582456/39.m3u8
+#EXTINF:-1 tvg-ID="MTV Brasil [Brazil]" tvg-name="MTV Brasil [Brazil]" tvg-logo="http://s24.postimg.org/9czz4sgdt/MTV.png" group-title="Variedade e Músicas",MTV
+http://192.99.148.73:8080/live/fabiokodish/582456/38.m3u8
+#EXTINF:-1 tvg-ID="Tlc" tvg-name="TLC" tvg-logo="http://s7.postimg.org/9xq1acbgn/TLC.png" group-title="Variedade e Músicas",TLC
+http://192.99.148.73:8080/live/fabiokodish/582456/44.m3u8
+#EXTINF:-1 tvg-ID="Viva [Brazil]" tvg-name="Viva [Brazil] tvg-logo="https://s19.postimg.org/72w5k6gwz/vivarosho.png" group-title="Variedade e Músicas",Viva
+http://192.99.148.73:8080/live/fabiokodish/582456/36.m3u8
+#EXTINF:-1 tvg-ID="Canal GNT [Brazil]" tvg-name="Canal GNT [Brazil]" tvg-logo="http://s32.postimg.org/mfp4sxpch/GNT.png" group-title="Variedade e Músicas",GNT
+http://192.99.148.73:8080/live/fabiokodish/582456/40.m3u8
+#EXTINF:-1 tvg-ID="Fox Life [Brazil]" tvg-name="Fox Life [Brazil]" tvg-logo="http://s22.postimg.org/bo4dgvux9/life.png" group-title="Variedade e Músicas",Fox Life
+http://192.99.148.73:8080/live/fabiokodish/5824560/43.m3u8
+#EXTINF:-1 tvg-ID="Disney XD [Brazil]" tvg-name="Disney XD [Brazil]" tvg-logo="http://s28.postimg.org/wglxtxbeh/disneyxd.png" group-title="Infantil",Disney XD
+http://192.99.148.73:8080/live/fabiokodish/582456/85.m3u8
+#EXTINF:-1 tvg-ID="Disney Junior [Brazil]" tvg-name="Disney Junior [Brazil]" tvg-logo="https://s31.postimg.org/ntzixxfjf/disney_junior.png" group-title="Infantil",Disney Jr
+http://192.99.148.73:8080/live/fabiokodish/582456/84.m3u8
+#EXTINF:-1 tvg-ID="Disney Channel [Brazil]" tvg-name="Disney Channel [Brazil]" tvg-logo="https://s32.postimg.org/iytuuw9j9/disney_channel.png" group-title="Infantil",Disney Channel
+http://192.99.148.73:8080/live/fabiokodish/582456/86.m3u8
+#EXTINF:-1 tvg-ID="Nick Jr. [Brazil]" tvg-name="Nick Jr. [Brazil]" tvg-logo="http://s31.postimg.org/6051scm2j/nick_jr.png" group-title="Infantil",Nick Jr.
+http://192.99.148.73:8080/live/fabiokodish/582456/87.m3u8
+#EXTINF:-1 tvg-ID="Nickelodeon [Brazil]" tvg-name="Nickelodeon [Brazil]" tvg-logo="http://s18.postimg.org/f9sbnd0c5/nick.png" group-title="Esportes",Nick
+http://192.99.148.73:8080/live/fabiokodish/582456/83.m3u8
+#EXTINF:-1 tvg-ID="Discovery Kids [Brazil]" tvg-name="Discovery Kids [Brazil]" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="Infantil",Discovery Kids
+http://192.99.148.73:8080/live/fabiokodish/582456/88.m3u8
+#EXTINF:-1 tvg-ID="Gloob [Brazil]" tvg-name="Gloob [Brazil]" tvg-logo="http://s21.postimg.org/mt2m4zbwj/gloob.png" group-title="Infantil",Gloob
+http://192.99.148.73:8080/live/fabiokodish/582456/81.m3u8
+#EXTINF:-1 tvg-ID="Boomerang [Brazil]" tvg-name="Boomerang [Brazil]" tvg-logo="https://s32.postimg.org/bruec8hdx/boomerang3.png" group-title="Infantil",Boomerang
+http://192.99.148.73:8080/live/fabiokodish/582456/89.m3u8
+#EXTINF:-1 tvg-ID="Cartoon Network [Brazil]" tvg-name="Cartoon Network [Brazil]" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Infantil",Cartoon Network
+http://192.99.148.73:8080/live/fabiokodish/582456/82.m3u8
+#EXTINF:-1 tvg-ID="Nat Geo [Brazil]" tvg-name="Nat Geo [Brazil]" tvg-logo="https://s16.postimg.org/p7ce9i39x/natgeo.png" group-title="Documentários",Nat Geo
+http://192.99.148.73:8080/live/fabiokodish/582456/45.m3u8
+#EXTINF:-1 tvg-ID="History Channel [Brazil]" tvg-name="History Channel [Brazil]" tvg-logo="http://s32.postimg.org/5qqqgpqzl/History_Channel_2.png" group-title="Documentários",History
+http://192.99.148.73:8080/live/fabiokodish/582456/52.m3u8
+#EXTINF:-1 tvg-ID="H2" tvg-name="H2" tvg-logo="https://s32.postimg.org/hzun1s1md/history2.png" group-title="Documentários",H2
+http://192.99.148.73:8080/live/fabiokodish/582456/53.m3u8
+#EXTINF:-1 tvg-ID="Animal Planet [Brazil]" tvg-name="Animal Planet [Brazil]" tvg-logo="https://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="Documentários",Animal Planet
+http://192.99.148.73:8080/live/fabiokodish/582456/51.m3u8
+#EXTINF:-1 tvg-ID="A&amp;E [Brazil]" tvg-name="A&amp;E [Brazil]" tvg-logo="https://s32.postimg.org/3xpsuoa7p/A_amp_E2.png" group-title="Variedade e Músicas",AE
+http://192.99.148.73:8080/live/fabiokodish/582456/41.m3u8
+#EXTINF:-1 tvg-ID="Discovery Channel [Brazil]" tvg-name="Discovery Channel [Brazil]" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="Documentários",Discovery Channel
+http://192.99.148.73:8080/live/fabiokodish/582456/46.m3u8
+#EXTINF:-1 tvg-ID="Discovery Turbo [Brazil]" tvg-name="Discovery Turbo [Brazil]" tvg-logo="https://s32.postimg.org/6wvxqle9x/turbo.png" group-title="Documentários",Discovery Turbo
+http://192.99.148.73:8080/live/fabiokodish/582456/49.m3u8
+#EXTINF:-1 tvg-ID="Discovery Science [Brazil]" tvg-name="Discovery Science [Brazil]" tvg-logo="http://s16.postimg.org/fuf7d6h5d/dscience.png" group-title="Documentários",Discovery Science
+http://192.99.148.73:8080/live/fabiokodish/582456/54.m3u8
+#EXTINF:-1 tvg-ID="Investigação Discovery [Brazil]" tvg-name="Investigação Discovery [Brazil]" tvg-logo="https://s32.postimg.org/xy559rchx/discoveryid.png" group-title="Variedade e Músicas",Discovery ID
+http://192.99.148.73:8080/live/fabiokodish/582456/47.m3u8
+#EXTINF:-1 tvg-ID="Discovery Home Health [Brazil]" tvg-name="Discovery Home Health [Brazil]" tvg-logo="https://s31.postimg.org/d2r4nmuq3/discoveryhome.png" group-title="Documentários",Discovery Home Health
+http://192.99.148.73:8080/live/fabiokodish/582456/48.m3u8
+#EXTINF:-1 tvg-ID="Discovery Civilization [Brazil]" tvg-name="Discovery Civilization [Brazil]" tvg-logo="https://s32.postimg.org/tic0sfa85/civilization.png" group-title="Documentários",Discovery Civilization
+http://192.99.148.73:8080/live/fabiokodish/582456/50.m3u8
+#EXTINF:-1 tvg-ID="E! Entertainment Television [Brazil]" tvg-name="E! Entertainment Television [Brazil]" tvg-logo="https://s32.postimg.org/ioprt4kyt/canal_E.png" group-title="Variedade e Músicas",E!
+http://192.99.148.73:8080/live/fabiokodish/582456/42.m3u8
+#EXTINF:-1 tvg-ID="Record News [Brazil]" tvg-name="Record News [Brazil]" tvg-logo="http://s12.postimg.org/o61obsaq1/record_news.png" group-title="Notícias",Record News
+http://192.99.148.73:8080/live/fabiokodish/582456/69.m3u8
+#EXTINF:-1 tvg-ID="Band News [Brazil]" tvg-name="Band News [Brazil]" tvg-logo="https://s32.postimg.org/8pydcnfhx/band_news.png" group-title="Notícias",Band News
+http://192.99.148.73:8080/live/fabiokodish/582456/70.m3u8
+#EXTINF:-1 tvg-ID="Globo News [Brazil]" tvg-name="Globo News [Brazil]" tvg-logo="http://s10.postimg.org/nmpvs4hkl/gnews.png" group-title="Notícias",Globo News
+http://192.99.148.73:8080/live/fabiokodish/582456/68.m3u8
+#EXTINF:-1 tvg-ID="Playboy" tvg-name="PlayBoy" tvg-logo="https://s32.postimg.org/wweq27179/playboy.png" group-title="Adulto",PlayBoy
+http://192.99.148.73:8080/live/fabiokodish/582456/90.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sexy Hot" tvg-logo="https://s31.postimg.org/t0h6xmpwb/Sexy+Hot.png" group-title="Adulto",Sexy Hot
+http://192.99.148.73:8080/live/fabiokodish/582456/91.m3u8
+#EXTINF:-1 tvg-ID="Sextreme" tvg-name="Sextreme" tvg-logo="https://s31.postimg.org/xzch6j2vf/sextreme.png" group-title="Adulto",Sextreme
+http://192.99.148.73:8080/live/fabiokodish/582456/92.m3u8

@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 01
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP01.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 02
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP02.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 03
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP03.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 04
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP04.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 05
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP05.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 06
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP06.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 07
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP07.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 08
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP08.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 09
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP09.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 10
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP10.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 11
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP11.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 12
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP12.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 13
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP13.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 14
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP14.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 15
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP15.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 16
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP16.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 17
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP17.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 18
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP18.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 19
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP19.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 20
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP20.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 21
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP21.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 22
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP22.mp4
+#EXTINF:-1,Coelho Ricochete e Blau Blau Ep 23
+rdc://RCServer09/ondemand/COLHRCHTEBLAUEP23.mp4
+#EXTINF:-1,Se Inscreva em Nosso Canal http://bit.ly/canalkodish
+rdc://

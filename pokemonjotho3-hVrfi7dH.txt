@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP119
+tdc://RCServer01/videos/PKMONEP119.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP120
+tdc://RCServer01/videos/PKMONEP120.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP121
+tdc://RCServer01/videos/PKMONEP121.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP122
+tdc://RCServer01/videos/PKMONEP122.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP123
+tdc://RCServer01/videos/PKMONEP123.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP124
+tdc://RCServer01/videos/PKMONEP124.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP125
+tdc://RCServer01/videos/PKMONEP125.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP126
+tdc://RCServer01/videos/PKMONEP126.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP127
+tdc://RCServer01/videos/PKMONEP127.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP128
+tdc://RCServer01/videos/PKMONEP128.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP129
+tdc://RCServer01/videos/PKMONEP129.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP130
+tdc://RCServer01/videos/PKMONEP130.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP131
+tdc://RCServer01/videos/PKMONEP131.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP132
+tdc://RCServer01/videos/PKMONEP132.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP133
+tdc://RCServer01/videos/PKMONEP133.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP134
+tdc://RCServer01/videos/PKMONEP134.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP135
+tdc://RCServer01/videos/PKMONEP135.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP136
+tdc://RCServer01/videos/PKMONEP136.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP137
+tdc://RCServer01/videos/PKMONEP137.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP138
+tdc://RCServer01/videos/PKMONEP138.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP139
+tdc://RCServer01/videos/PKMONEP139.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP140
+tdc://RCServer01/videos/PKMONEP140.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP141
+tdc://RCServer01/videos/PKMONEP141.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP142
+tdc://RCServer01/videos/PKMONEP142.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP143
+tdc://RCServer01/videos/PKMONEP143.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP144
+tdc://RCServer01/videos/PKMONEP144.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP145
+tdc://RCServer01/videos/PKMONEP145.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP146
+tdc://RCServer01/videos/PKMONEP146.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP147
+tdc://RCServer01/videos/PKMONEP147.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP148
+tdc://RCServer01/videos/PKMONEP148.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP149
+tdc://RCServer01/videos/PKMONEP149.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP150
+tdc://RCServer01/videos/PKMONEP150.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP151
+tdc://RCServer01/videos/PKMONEP151.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP152
+tdc://RCServer01/videos/PKMONEP152.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP153
+tdc://RCServer01/videos/PKMONEP153.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP154
+tdc://RCServer01/videos/PKMONEP154.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP155
+tdc://RCServer01/videos/PKMONEP155.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP156
+tdc://RCServer01/videos/PKMONEP156.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP157
+tdc://RCServer01/videos/PKMONEP157.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP158
+tdc://RCServer01/videos/PKMONEP158.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/3iMygs' group-title='A Jornada Johto',EP159
+tdc://RCServer01/videos/PKMONEP159.mp4

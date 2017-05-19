@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Os Apuros de Penelope Charmosa 01
+rdc://RCServer09/ondemand/OPRSDPNPLEP01.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 02
+rdc://RCServer09/ondemand/OPRSDPNPLEP02.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 03
+rdc://RCServer09/ondemand/OPRSDPNPLEP03.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 04
+rdc://RCServer09/ondemand/OPRSDPNPLEP04.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 05
+rdc://RCServer09/ondemand/OPRSDPNPLEP05.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 06
+rdc://RCServer09/ondemand/OPRSDPNPLEP06.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 07
+rdc://RCServer09/ondemand/OPRSDPNPLEP07.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 08
+rdc://RCServer09/ondemand/OPRSDPNPLEP08.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 09
+rdc://RCServer09/ondemand/OPRSDPNPLEP09.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 10
+rdc://RCServer09/ondemand/OPRSDPNPLEP10.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 11
+rdc://RCServer09/ondemand/OPRSDPNPLEP11.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 12
+rdc://RCServer09/ondemand/OPRSDPNPLEP12.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 13
+rdc://RCServer09/ondemand/OPRSDPNPLEP13.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 14
+rdc://RCServer09/ondemand/OPRSDPNPLEP14.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 15
+rdc://RCServer09/ondemand/OPRSDPNPLEP15.mp4
+#EXTINF:-1,Os Apuros de Penelope Charmosa 16
+rdc://RCServer09/ondemand/OPRSDPNPLEP16.mp4
+#EXTINF:-1,Os Apuros de Penélope Charmosa 17
+rdc://RCServer09/ondemand/OPRSDPNPLEP17.mp4
+#EXTINF:-1,Se Inscreva em Nosso Canal http://bit.ly/canalkodish
+rdc://

@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP212
+tdc://RCServer01/videos/PKMONEP212.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP213
+tdc://RCServer01/videos/PKMONEP213.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP214
+tdc://RCServer01/videos/PKMONEP214.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP215
+tdc://RCServer01/videos/PKMONEP215.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP216
+tdc://RCServer01/videos/PKMONEP216.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP217
+tdc://RCServer01/videos/PKMONEP217.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP218
+tdc://RCServer01/videos/PKMONEP218.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP219
+tdc://RCServer01/videos/PKMONEP219.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP220
+tdc://RCServer01/videos/PKMONEP220.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP221
+tdc://RCServer01/videos/PKMONEP221.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP222
+tdc://RCServer01/videos/PKMONEP222.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP223
+tdc://RCServer01/videos/PKMONEP223.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP224
+tdc://RCServer01/videos/PKMONEP224.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP225
+tdc://RCServer01/videos/PKMONEP225.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP226
+tdc://RCServer01/videos/PKMONEP226.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP227
+tdc://RCServer01/videos/PKMONEP227.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP228
+tdc://RCServer01/videos/PKMONEP228.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP229
+tdc://RCServer01/videos/PKMONEP229.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP230
+tdc://RCServer01/videos/PKMONEP230.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP231
+tdc://RCServer01/videos/PKMONEP231.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP232
+tdc://RCServer01/videos/PKMONEP232.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP233
+tdc://RCServer01/videos/PKMONEP233.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP234
+tdc://RCServer01/videos/PKMONEP234.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP235
+tdc://RCServer01/videos/PKMONEP235.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP236
+tdc://RCServer01/videos/PKMONEP236.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP237
+tdc://RCServer01/videos/PKMONEP237.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP238
+tdc://RCServer01/videos/PKMONEP238.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP239
+tdc://RCServer01/videos/PKMONEP239.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP240
+tdc://RCServer01/videos/PKMONEP240.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP241
+tdc://RCServer01/videos/PKMONEP241.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP242
+tdc://RCServer01/videos/PKMONEP242.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP243
+tdc://RCServer01/videos/PKMONEP243.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP244
+tdc://RCServer01/videos/PKMONEP244.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP245
+tdc://RCServer01/videos/PKMONEP245.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP246
+tdc://RCServer01/videos/PKMONEP246.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP247
+tdc://RCServer01/videos/PKMONEP247.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP248
+tdc://RCServer01/videos/PKMONEP248.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP249
+tdc://RCServer01/videos/PKMONEP249.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP250
+tdc://RCServer01/videos/PKMONEP250.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP251
+tdc://RCServer01/videos/PKMONEP251.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP252
+tdc://RCServer01/videos/PKMONEP252.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP253
+tdc://RCServer01/videos/PKMONEP253.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP254
+tdc://RCServer01/videos/PKMONEP254.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP255
+tdc://RCServer01/videos/PKMONEP255.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP256
+tdc://RCServer01/videos/PKMONEP256.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP257
+tdc://RCServer01/videos/PKMONEP257.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP258
+tdc://RCServer01/videos/PKMONEP258.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP259
+tdc://RCServer01/videos/PKMONEP259.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP260
+tdc://RCServer01/videos/PKMONEP260.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP261
+tdc://RCServer01/videos/PKMONEP261.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP262
+tdc://RCServer01/videos/PKMONEP262.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP263
+tdc://RCServer01/videos/PKMONEP263.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP264
+tdc://RCServer01/videos/PKMONEP264.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP265
+tdc://RCServer01/videos/PKMONEP265.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP266
+tdc://RCServer01/videos/PKMONEP266.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP267
+tdc://RCServer01/videos/PKMONEP267.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP268
+tdc://RCServer01/videos/PKMONEP268.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP269
+tdc://RCServer01/videos/PKMONEP269.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP270
+tdc://RCServer01/videos/PKMONEP270.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP271
+tdc://RCServer01/videos/PKMONEP271.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP272
+tdc://RCServer01/videos/PKMONEP272.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP273
+tdc://RCServer01/videos/PKMONEP273.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP274
+tdc://RCServer01/videos/PKMONEP274.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP275
+tdc://RCServer01/videos/PKMONEP275.mp4
+#EXTINF:-7 tvg-logo='https://goo.gl/ek2eMI' group-title='Pokemon Master Quest',EP276
+tdc://RCServer01/videos/PKMONEP276.mp4

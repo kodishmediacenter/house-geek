@@ -1,0 +1,11 @@
+name="Fabio Box Select [NEW]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/aniversary-2017/fix/plugin.video.fabiobox.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/aniversary-2017/icon-fabiobox.png"
+fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/aniversary-2017/icon-fabiobox.png"
+description="Não necessidade de fresh start"
+
+name="M3U Player [Dependencia]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/aniversary-2017/plugin.video.m3u.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/aniversary-2017/icon-m3uplayer.png"
+fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/aniversary-2017/icon-m3uplayer.png"
+description="Não necessidade de fresh start"

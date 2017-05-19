@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-D3VwstjJi54/V3F6v5CnRVI/AAAAAAAACkQ/Ukyg2moK5T8rTqiQXnhZfRgFD1iUvlWugCLcB/s1600/11.jpg" group-title="Detudoumpouco AZ", www.youtube.com/c/detudoumpoucoaz
+#EXTINF:-1 tvg-logo="http://frocus.net/images/logotv/playboy_tv.gif" group-title="", PlayboyTV HD
+http://213.58.181.119:9981/stream/channelid/115191345?ticket=3E4A1605DD396C5911678D8A72D53726A37175B8&profile=pass
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ykDJLXzE-Zo/UjNItSHopaI/AAAAAAAAHIg/9Zd9sG3iRAo/s1600/logo+sexy+hot.jpg" group-title="", Sexy Hot
+http://213.58.181.119:9981/stream/channelid/9909848?ticket=3D67F25F7FDF8C8DF740E01585AB53861E1AD25B&profile=pass
+#EXTINF:-1 tvg-logo="http://i0.wp.com/www.tvtuga.org/wp-content/uploads/2012/01/babestation.jpg?resize=200%2C141" group-title="", Babestation
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i1.wp.com/www.tvtuga.org/wp-content/uploads/2015/10/asktv.jpg?resize=200%2C141" group-title="", ASK TV
+http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://i2.wp.com/www.tvtuga.org/wp-content/uploads/2013/05/BUTGO.jpg?resize=200%2C141" group-title="", ButGO
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://i2.wp.com/www.tvtuga.org/wp-content/uploads/2015/10/penthouse.jpg?resize=200%2C141" group-title="", Penthouse Asia 18+
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://i2.wp.com/www.tvtuga.org/wp-content/uploads/2013/01/PLAYBOy-tv.jpg?resize=200%2C141" group-title="", Playboy Asia
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://i1.wp.com/www.tvtuga.org/wp-content/uploads/2013/05/PLAYY.jpg?resize=200%2C141" group-title="", Playy 19+
+http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://i1.wp.com/www.tvtuga.org/wp-content/uploads/2014/08/sakura-porn.jpg?resize=200%2C141" group-title="", Sakura Porn TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://i0.wp.com/www.tvtuga.org/wp-content/uploads/2015/10/satisfaction-tv.jpg?resize=200%2C141" group-title="", Satisfaction HD
+http://178.33.126.213:1935/iptv_cellcast_24/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i0.wp.com/www.tvtuga.org/wp-content/uploads/2015/10/babestation.jpg?resize=200%2C141" group-title="", Babestation 24
+http://178.33.126.213:1935/cellcast/encoder72/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i0.wp.com/www.tvtuga.org/wp-content/uploads/2012/01/babestation.jpg?resize=200%2C141" group-title="", Babestation Daytime
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+#EXTINF:-1 tvg-logo="http://i2.wp.com/www.tvtuga.org/wp-content/uploads/2016/02/candy-tv.jpg?resize=200%2C141" group-title="", Candy TV
+http://cdn-01.bonus-tv.ru/TVB7/candy/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i2.wp.com/www.tvtuga.org/wp-content/uploads/2015/10/jasmin.jpg?resize=200%2C141" group-title="", Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:-1 tvg-logo="http://i1.wp.com/www.tvtuga.org/wp-content/uploads/2012/01/jasmin.jpg?resize=200%2C141" group-title="", Live Jasmin Recorded Shows
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1 tvg-logo="http://i0.wp.com/www.tvtuga.org/wp-content/uploads/2012/09/liveting.jpg?resize=200%2C141" group-title="", LIVETing TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://i0.wp.com/www.tvtuga.org/wp-content/uploads/2012/09/visitx.jpg?resize=200%2C141" group-title="", Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i2.wp.com/www.tvtuga.org/wp-content/uploads/2015/10/miamitv.jpg?resize=200%2C141" group-title="", Miami TV
+http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
+#EXTINF:-1 tvg-logo="http://i0.wp.com/www.tvtuga.org/wp-content/uploads/2016/01/storm-babes.jpg?resize=200%2C141" group-title="", STORM BABES TV
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel2/playlist.m3u8

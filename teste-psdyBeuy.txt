@@ -1,0 +1,18 @@
+#EXTM3U
+
+#EXTINF:-7 tvg-logo='http://www.thepiratefilmes.com/wp-content/uploads/2016/06/race-capa.jpg' group-title='Filme',Race 720P Leg
+plugin://plugin.video.pulsar/play?uri=magnet:?xt=urn:btih:69600FE6BD361AFA8D64BCC846C662F1D93396A6&amp;dn=Race%202016%20Bluray%20720p%20Legendado%20-%20WWW.THEPIRATEFILMES.COM&amp;tr=udp%3a//tracker.trackerfix.com%3a80/announce
+
+#EXTINF:-7 tvg-logo='http://www.thepiratefilmes.com/wp-content/uploads/2016/05/dead-pool-4k.jpg' group-title='Filme',Deadpool 4k
+plugin://plugin.video.pulsar/play?uri=magnet:?xt=urn:btih:4955B46F7B5F606A948F07FAD32275D410905765&amp;dn=Deadpool%20%282016%29%204k%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&amp;tr=udp%3a//tracker.trackerfix.com%3a80/announce
+
+
+#EXTINF:-7 tvg-logo='http://www.thepiratefilmes.com/wp-content/uploads/2016/06/colonia-capa.jpg' group-title='Filme',Colonia
+plugin://plugin.video.pulsar/play?uri=magnet:?xt=urn:btih:61B31FE8B8834ACB751A76B12097802AE3A4D76B&dn=Colonia%202015%20Bluray%20720p%20Legendado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce
+
+#EXTINF:-7 tvg-logo='http://t0.gstatic.com/images?q=tbn:ANd9GcQaXOt2VeuduzgYCXqEkL3Lt8BfMJDKmf4lsbmsqtZxPYE_CJ49' group-title='Filme',Capitao America Gerra Civil HD
+plugin://plugin.video.pulsar/play?uri=magnet:?xt=urn:btih:A2CC129438E279EDBBA812E2C03C4E02B4265CB2&dn=capitao+america+guerra+civil+2016+1080p+hdtc+x264+dual+dublado+rk&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+
+
+#EXTINF:-7 tvg-logo='http://br.web.img3.acsta.net/pictures/15/12/15/18/30/467996.jpg' group-title='Filme',Orgulho e Preoconveito e Zumbis
+plugin://plugin.video.pulsar/play?uri=magnet:?xt=urn:btih:D0F5FB2A57EC902FDD7F15504BB2307AF4BFDC1E&dn=orgulho+e+preconceito+e+zumbis+2016+1080p+bluray+dual+dublado+lapumia&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce

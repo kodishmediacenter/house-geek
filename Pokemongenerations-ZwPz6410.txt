@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='',EP01
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vT6qfvUDXRk
+#EXTINF:-7 tvg-logo='',EP02
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=A-5zOwpCShM
+#EXTINF:-7 tvg-logo='',EP03
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=P8e1U1azGho
+#EXTINF:-7 tvg-logo='',EP04
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5phsZNuTEEU
+#EXTINF:-7 tvg-logo='',EP05
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AgiR-II5yvw
+#EXTINF:-7 tvg-logo='',EP06
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=E4I2El6Xl94
+#EXTINF:-7 tvg-logo='',EP07
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WbCXSzQqu7M
+#EXTINF:-7 tvg-logo='',EP08
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uRIBQoTnaJU
+#EXTINF:-7 tvg-logo='',EP09
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PypAQHjTdYU
+#EXTINF:-7 tvg-logo='',EP10
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qLnupy_SR-w
+#EXTINF:-7 tvg-logo='',EP11
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8tOhucM_Bl8
+#EXTINF:-7 tvg-logo='',EP12
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WOX_jOFYfjE
+#EXTINF:-7 tvg-logo='',EP13
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=F604CFznF2g

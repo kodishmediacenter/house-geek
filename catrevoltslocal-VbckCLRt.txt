@@ -1,0 +1,5 @@
+name="Foliver 4.0"
+url="https://ia601505.us.archive.org/32/items/BuildFoliver4.0KryptonComAdultoAres/Build%20Foliver%204.0%20Krypton%20com%20Adulto-Ares.zip"
+img="https://raw.githubusercontent.com/listamilton/supermilton.repository/supermilton.repository/plugin.video.playlistLoader/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"

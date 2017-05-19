@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+<channels>
+
+<channel>
+<name>[COLOR chartreuse][B]1 Litro de Lagrimas[/B][/COLOR]</name>
+<thumbnail>https://animenokizuna.files.wordpress.com/2009/11/1206707214_f.jpg</thumbnail>
+<externallink>https://ia601500.us.archive.org/33/items/1LitroDeLagrimas_201704/1-litro-de-lagrimas.xml</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR chartreuse][B]100 Scene No Koi[/B][/COLOR]</name>
+<thumbnail>http://www.dramago.com/images/series/big/458.jpg</thumbnail>
+<externallink>https://ia601506.us.archive.org/35/items/100SceneNoKoi/100_scene_no_koi.xml</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+
+</channel>

@@ -1,0 +1,10 @@
+Quer usar as listas do meu playlist loader com listas free
+
+Link das Listas
+http://adf.ly/1dm0vm
+
+Procedimento 
+1) botão direito salvar com nome playLists.txt
+2) cole conforme a vossa situação do seu Sistema Operacional http://adf.ly/1dm1IK
+3) Acessando a pasta do kodi no smartphone (android)
+   esse tuto é para builds mas util tambem para nosso caso http://adf.ly/1dm1hc

@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP01
+rdc://RCServer08/ondemand/SCBDCDVCEP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP02
+rdc://RCServer08/ondemand/SCBDCDVCEP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP03
+rdc://RCServer08/ondemand/SCBDCDVCEP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP04
+rdc://RCServer08/ondemand/SCBDCDVCEP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP05
+rdc://RCServer08/ondemand/SCBDCDVCEP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP06
+rdc://RCServer08/ondemand/SCBDCDVCEP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP07
+rdc://RCServer08/ondemand/SCBDCDVCEP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP08
+rdc://RCServer08/ondemand/SCBDCDVCEP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP09
+rdc://RCServer08/ondemand/SCBDCDVCEP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP10
+rdc://RCServer08/ondemand/SCBDCDVCEP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP11
+rdc://RCServer08/ondemand/SCBDCDVCEP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP12
+rdc://RCServer08/ondemand/SCBDCDVCEP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP13
+rdc://RCServer08/ondemand/SCBDCDVCEP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP14
+rdc://RCServer08/ondemand/SCBDCDVCEP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP15
+rdc://RCServer08/ondemand/SCBDCDVCEP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP16
+rdc://RCServer08/ondemand/SCBDCDVCEP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP17
+rdc://RCServer08/ondemand/SCBDCDVCEP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP18
+rdc://RCServer08/ondemand/SCBDCDVCEP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP19
+rdc://RCServer08/ondemand/SCBDCDVCEP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP20
+rdc://RCServer08/ondemand/SCBDCDVCEP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP21
+rdc://RCServer08/ondemand/SCBDCDVCEP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP22
+rdc://RCServer08/ondemand/SCBDCDVCEP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP23
+rdc://RCServer08/ondemand/SCBDCDVCEP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP24
+rdc://RCServer08/ondemand/SCBDCDVCEP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DITFxR" group-title="Scooby Doo Cade Você",EP25
+rdc://RCServer08/ondemand/SCBDCDVCEP25.mp4

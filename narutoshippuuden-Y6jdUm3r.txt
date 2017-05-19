@@ -1,0 +1,973 @@
+#EXTM3U
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  01 e  02
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/01-02.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  03
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/03.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  04
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/04.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  05
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/05.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  06
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/06.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  07
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/07.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  08
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/08.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  09
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/09.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  10
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/10.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  11
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/11.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  12
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/12.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  13
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/13.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  14
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/14.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  15
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/15.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  16
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/16.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  17
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/17.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  18
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/18.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  19
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/19.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  20
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/20.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  21
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/21.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  22
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/22.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  23
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/23.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  24
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/24.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  25
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/25.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  26
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/26.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  27
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/27.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  28
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/28.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  29
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/29.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  30
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/30.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  31
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/31.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  32
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/32.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  33
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/33.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  34
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/34.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  35
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/35.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  36
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/36.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  37
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/37.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  38
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/38.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  39
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/39.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  40
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/40.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  41
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/41.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  42
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/42.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  43
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/43.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  44
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/44.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  45
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/45.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  46
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/46.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  47
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/47.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  48
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/48.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  49
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/49.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  50
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/50.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  51
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/51.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  52
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/52.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  53
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/53.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  54
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/54.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  55
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/55.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  56
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/56.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  57
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/57.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  58
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/58.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  59
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/59.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  60
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/60.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  61
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/61.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  62
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/62.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  63
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/63.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  64
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/64.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  65
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/65.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  66
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/66.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  67
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/67.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  68
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/68.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  69
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/69.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  70
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/70.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  71
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/71.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  72
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/72.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  73
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/73.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  74
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/74.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  75
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/75.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  76
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/76.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  77
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/77.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  78
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/78.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  79
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/79.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  80
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/80.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  81
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/81.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  82
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/82.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  83
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/83.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  84
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/84.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  85
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/85.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  86
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/86.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  87
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/87.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  88
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/88.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  89
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/89.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  90
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/90.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  91
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/91.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  92
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/92.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  93
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/93.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  94
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/94.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  95
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/95.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  96
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/96.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  97
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/97.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  98
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/98.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  99
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/99.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  100
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/100.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  101
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/101.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  102
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/102.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  103
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/103.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  104
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/104.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  105
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/105.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  106
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/106.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  107
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/107.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  108
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/108.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  109
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/109.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  110
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/110.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  111
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/111.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  112
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/112.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  113
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/113.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  114
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/114.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  115
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/115.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  116
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/116.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  117
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/117.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  118
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/118.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  119
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/119.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  120
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/120.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  121
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/121.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  122
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/122.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  123
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/123.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  124
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/124.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  125
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/125.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  126
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/126.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  127
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/127.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  128
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/128.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  129
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/129.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  130
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/130.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  131
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/131.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  132
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/132.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  133
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/133.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  134
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/134.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  135
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/135.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  136
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/136.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  137
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/137.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  138
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/138.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  139
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/139.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  140
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/140.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  141
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/141.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  142
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/142.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  143
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/143.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  144
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/144.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  145
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/145.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  146
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/146.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  147
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/147.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  148
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/148.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  149
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/149.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  150
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/150.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  151
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/151.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  152
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/152.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  153
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/153.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  154
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/154.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  155
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/155.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  156
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/156.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  157
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/157.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  158
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/158.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  159
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/159.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  160
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/160.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  161
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/161.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  162
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/162.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  163
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/163.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  164
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/164.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  165
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/165.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  166
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/166.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  167
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/167.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  168
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/168.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  169
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/169.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  170
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/170.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  171
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/171.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  172
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/172.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  173
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/173.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  174
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/174.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  175
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/175.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  176
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/176.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  177
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/177.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  178
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/178.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  179
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/179.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  180
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/180.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  181
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/181.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  182
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/182.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  183
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/183.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  184
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/184.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  185
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/185.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  186
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/186.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  187
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/187.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  188
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/188.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  189
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/189.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  190
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/190.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  191
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/191.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  192
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/192.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  193
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/193.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  194
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/194.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  195
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/195.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  196
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/196.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  197
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/197.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  198
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/198.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  199
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/199.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  200
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/200.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  201
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/201.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  202
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/202.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  203
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/203.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  204
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/204.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  205
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/205.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  206
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/206.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  207
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/207.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  208
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/208.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  209
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/209.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  210
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/210.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  211
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/211.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  212
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/212.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  213
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/213.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  214
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/214.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  215
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/215.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  216
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/216.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  217
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/217.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  218
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/218.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  219
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/219.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  220
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/220.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  221
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/221.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  222
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/222.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  223
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/223.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  224
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/224.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  225
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/225.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  226
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/226.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  227
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/227.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  228
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/228.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  229
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/229.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  230
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/230.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  231
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/231.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  232
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/232.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  233
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/233.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  234
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/234.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  235
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/235.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  236
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/236.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  237
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/237.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  238
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/238.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  239
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/239.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  240
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/240.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  241
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/241.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  242
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/242.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  243
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/243.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  244
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/244.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  245
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/245.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  246
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/246.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  247
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/247.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  248
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/248.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  249
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/249.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  250
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/250.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  251
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/251.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  252
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/252.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  253
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/253.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  254
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/254.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  255
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/255.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  256
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/256.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  257
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/257.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  258
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/258.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  259
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/259.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  260
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/260.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  261
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/261.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  262
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/262.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  263
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/263.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  264
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/264.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  265
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/265.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  266
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/266.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  267
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/267.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  268
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/268.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  269
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/269.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  270
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/270.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  271
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/271.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  272
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/272.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  273
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/273.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  274
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/274.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  275
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/275.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  276
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/276.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  277
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/277.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  278
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/278.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  279
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/279.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  280
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/280.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  281
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/281.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  282
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/282.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  283
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/283.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  284
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/284.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  285
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/285.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  286
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/286.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  287
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/287.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  288
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/288.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  289
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/289.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  290
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/290.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  291
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/291.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  292
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/292.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  293
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/293.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  294
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/294.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  295
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/295.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  296
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/296.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  297
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/297.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  298
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/298.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  299
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/299.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  300
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/300.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  301
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/301.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  302
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/302.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  303
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/303.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  304
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/304.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  305
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/305.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  306
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/306.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  307
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/307.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  308
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/308.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  309
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/309.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  310
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/310.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  311
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/311.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  312
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/312.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  313
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/313.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  314
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/314.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  315
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/315.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  316
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/316.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  317
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/317.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  318
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/318.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  319
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/319.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  320
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/320.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  321
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/321.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  322
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/322.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  323
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/323.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  324
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/324.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  325
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/325.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  326
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/326.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  327
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/327.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  328
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/328.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  329
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/329.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  330
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/330.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  331
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/331.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  332
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/332.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  333
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/333.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  334
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/334.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  335
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/335.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  336
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/336.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  337
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/337.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  338
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/338.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  339
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/339.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  340
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/340.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  341
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/341.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  342
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/342.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  343
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/343.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  344
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/344.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  345
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/345.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  346
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/346.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  347
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/347.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  348
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/348.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  349
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/349.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  350
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/350.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  351
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/351.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  352
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/352.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  353
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/353.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  354
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/354.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  355
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/355.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  356
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/356.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  357
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/357.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  358
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/358.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  359
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/359.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  360
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/360.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  361
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/361.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  362
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/362.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  363
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/363.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  364
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/364.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  365
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/365.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  366
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/366.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  367
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/367.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  368
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/368.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  369
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/369.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  370
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/370.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  371
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/371.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  372
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/372.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  373
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/373.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  374
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/374.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  375
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/375.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  376
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/376.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  377
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/377.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  378
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/378.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  379
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/379.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  380
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/380.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  381
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/381.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  382
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/382.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  383
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/383.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  384
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/384.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  385
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/385.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  386
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/386.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  387
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/387.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  388
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/388.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  389
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/389.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  390
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/390.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  391
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/391.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  392
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/392.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  393
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/393.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  394
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/394.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  395
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/395.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  396
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/396.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  397
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/397.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  398
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/398.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  399
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/399.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  400
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/400.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  401
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/401.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  402
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/402.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  403
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/403.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  404
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/404.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  405
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/405.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  406
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/406.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  407
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/407.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  408
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/408.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  409
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/409.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  410
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/410.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  411
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/411.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  412
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/412.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  413
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/413.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  414
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/414.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  415
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/415.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  416
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/416.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  417
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/417.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  418
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/418.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  419
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/419.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  420
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/420.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  421
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/421.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  422
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/422.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  423
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/423.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  424
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/424.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  425
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/425.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  426
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/426.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  427
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/427.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  428
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/428.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  429
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/429.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  430
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/430.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  431
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/431.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  432
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/432.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  433
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/433.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  434
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/434.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  435
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/435.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  436
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/436.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  437
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/437.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  438
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/438.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  439
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/439.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  440
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/440.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  441
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/441.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  442
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/442.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  443
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/443.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  444
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/444.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  445
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/445.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  446
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/446.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  447
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/447.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  448
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/448.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  449
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/449.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  450
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/450.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  451
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/451.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  452
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/452.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  453
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/453.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  454
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/454.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  455
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/455.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  456
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/456.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  457
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/457.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  458
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/458.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  459
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/459.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  460
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/460.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  461
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/461.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  462
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/462.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  463
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/463.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  464
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/464.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  465
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/465.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  466
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/466.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  467
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/467.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  468
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/468.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  469
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/469.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  470
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/470.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  471
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/471.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  472
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/472.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  473
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/473.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  474
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/474.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  475
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/475.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  476
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/476.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  477
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/477.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  478
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/478.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  479
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/479.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  480
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/480.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  481
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/481.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  482
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/482.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  483
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/483.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  484
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/484.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  485
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/485.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  486
+http://149.56.20.73/Upload/Animes/N/naruto-shippuuden/486.mp4
+#EXTINF:0 type='stream' tvg-group='Naruto shippuuden' tvg-logo='http://i.imgur.com/3bkEEGe.jpg' , EPISODIO  487
+http://www.blogger.com/video-play.mp4?contentId=10127ddd00e8b4d9

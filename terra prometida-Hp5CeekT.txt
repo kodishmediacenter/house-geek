@@ -1,0 +1,150 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  143
+https://openload.co/embed/yrHTYuTGiSs/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  142
+https://openload.co/embed/6BiwweTiShM/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  141
+https://openload.co/embed/ef1ArRsJ6gg/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  140
+https://openload.co/embed/IUp7q-5vDF8/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  139
+https://openload.co/embed/pKQHdV6oMik/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  138
+https://openload.co/embed/QTgqiXnCJsM/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  137
+https://openload.co/embed/FaoVhog9D-8/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  136
+https://openload.co/embed/pWodsWyw0t0/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  135
+https://openload.co/embed/QpthLZ3avXE/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  134
+https://openload.co/embed/ms8rlXD0gxk/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  133
+https://openload.co/embed/teArv511jYM/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  132
+https://openload.co/embed/VbL5lEWotbk/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  131
+https://openload.co/embed/A1MsT7v2T24/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  130
+https://openload.co/embed/BNv0aqzwHTk/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  129
+https://openload.co/embed/tqRGT0pvAqg/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  128
+https://openload.co/embed/eEsZtN25nDk/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  127
+https://openload.co/embed/xeG-_Elu4WA/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  126
+https://openload.co/embed/Tmf-xDs0xMY/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  125
+https://openload.co/embed/T3rNYsQQJbs/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  124
+https://openload.co/embed/D8u7Ik1jy_w/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  123
+https://openload.co/embed/9pOuKXKa4r8/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  122
+https://openload.co/embed/M2He63-7Rr4/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  121
+https://openload.co/embed/KNHLUmK1Yoc/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  120
+https://openload.co/embed/VNPoy2tEzFc/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  119
+https://openload.co/embed/KogVStyRnBU/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  118
+https://openload.co/embed/wmQd9I23nPU/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  117
+https://openload.co/embed/tBguaLQzQL0/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  116
+https://openload.co/embed/UWuOqtcbLKs/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  115
+https://openload.co/embed/Qf_nuyvLOUk/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  114
+https://openload.co/embed/QzSKoCZTScs/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  113
+https://openload.co/embed/Xf3fQ0x-h0M/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  112
+https://openload.co/embed/Rf_rRAJOiBE/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  111
+https://openload.co/embed/yPjK0_4-aNE/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  110
+http://www.dailymotion.com/embed/video/k5W462ssRyPGE6kYHx7
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  109
+http://www.dailymotion.com/embed/video/k2kb45Uy0q9aTSkY6Rv
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  108
+https://openload.co/embed/DnTR7v7lwIE/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  107
+https://openload.co/embed/rSl9Mrs8_pE/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  106
+https://openload.co/embed/PoCC7EkymUI/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  105
+https://openload.co/embed/WM8zjTconlw/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  104
+https://openload.co/embed/HYEgkZEPtSM/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  103
+https://openload.co/embed/uyAjZSG35-I/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  102
+https://openload.co/embed/RzYKY7qaaOQ/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  101
+https://openload.co/embed/d7L4ES1pePM/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  100
+http://www.dailymotion.com/embed/video/k6DEoCzB1TOa8qkOZcz
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 99
+https://openload.co/embed/_doAgnYFdsc/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 98
+https://openload.co/embed/_zcliOJPCj8/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 97
+https://openload.co/embed/PcYVpp-g6h4/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 96
+https://openload.co/embed/DhcDZofZRAo/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 95
+https://openload.co/embed/0_VoyYO14vI/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 94
+https://openload.co/embed/UlpLfB2Ivnw/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 93
+https://openload.co/embed/7WNfmx0VKWk/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 92
+https://openload.co/embed/KNgwrNJQACg/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 91 
+http://www.dailymotion.com/embed/video/k4x05w06FIM3EvkCaMJ
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 90
+http://thevideo.me/embed-8x651gp6fs1g.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 89
+http://thevideo.me/embed-j1d244xvzo1r.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 88
+https://openload.co/embed/mIGW2K9dB1M/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 87
+https://openload.co/embed/ylW4hKLCbx0/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 86
+https://openload.co/embed/HWTXUAK-vPI/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 85
+https://openload.co/embed/mWuNjPeYxjg/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 84
+https://openload.co/embed/xWng3NK5Ycs/

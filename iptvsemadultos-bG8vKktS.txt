@@ -1,0 +1,408 @@
+#EXTINF:-1,A&E
+http://151.80.27.111:25461/live/login/senha/87.ts
+#EXTINF:-1,A&E HD
+http://151.80.27.111:25461/live/login/senha/527.ts
+#EXTINF:-1,ALL SPORTS
+http://151.80.27.111:25461/live/login/senha/340.ts
+#EXTINF:-1,AMAZONSAT
+http://151.80.27.111:25461/live/login/senha/343.ts
+#EXTINF:-1,ANIMAL PLANET
+http://151.80.27.111:25461/live/login/senha/86.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://151.80.27.111:25461/live/login/senha/295.ts
+#EXTINF:-1,APARECIDA
+http://151.80.27.111:25461/live/login/senha/161.ts
+#EXTINF:-1,ARTE 1
+http://151.80.27.111:25461/live/login/senha/160.ts
+#EXTINF:-1,AXN
+http://151.80.27.111:25461/live/login/senha/85.ts
+#EXTINF:-1,AXN HD
+http://151.80.27.111:25461/live/login/senha/504.ts
+#EXTINF:-1,BAND
+http://151.80.27.111:25461/live/login/senha/88.ts
+#EXTINF:-1,BAND HD
+http://151.80.27.111:25461/live/login/senha/296.ts
+#EXTINF:-1,BAND ALTERNATIVO
+http://151.80.27.111:25461/live/login/senha/350.ts
+#EXTINF:-1,BAND SPORT
+http://151.80.27.111:25461/live/login/senha/84.ts
+#EXTINF:-1,BAND SPORT HD
+http://151.80.27.111:25461/live/login/senha/534.ts
+#EXTINF:-1,BAND NEWS
+http://151.80.27.111:25461/live/login/senha/89.ts
+#EXTINF:-1,BIG BROTHER BRASIL HD - CAMERA 1
+http://151.80.27.111:25461/live/login/senha/287.ts
+#EXTINF:-1,BIS
+http://151.80.27.111:25461/live/login/senha/83.ts
+#EXTINF:-1,BIS HD
+http://151.80.27.111:25461/live/login/senha/535.ts
+#EXTINF:-1,BOOMERANG
+http://151.80.27.111:25461/live/login/senha/90.ts
+#EXTINF:-1,CANAL BRASIL
+http://151.80.27.111:25461/live/login/senha/159.ts
+#EXTINF:-1,CANAL RURAL
+http://151.80.27.111:25461/live/login/senha/158.ts
+#EXTINF:-1,CANCAO NOVA
+http://151.80.27.111:25461/live/login/senha/157.ts
+#EXTINF:-1,CARTOON NETWORK
+http://151.80.27.111:25461/live/login/senha/82.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://151.80.27.111:25461/live/login/senha/503.ts
+#EXTINF:-1,CINEMAX
+http://151.80.27.111:25461/live/login/senha/91.ts
+#EXTINF:-1,CURTA!
+http://151.80.27.111:25461/live/login/senha/155.ts
+#EXTINF:-1,COMBATE
+http://151.80.27.111:25461/live/login/senha/135.ts
+#EXTINF:-1,COMBATE HD
+http://151.80.27.111:25461/live/login/senha/136.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://151.80.27.111:25461/live/login/senha/156.ts
+#EXTINF:-1,CULTURA
+http://151.80.27.111:25461/live/login/senha/81.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://151.80.27.111:25461/live/login/senha/96.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://151.80.27.111:25461/live/login/senha/288.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://151.80.27.111:25461/live/login/senha/79.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://151.80.27.111:25461/live/login/senha/80.ts
+#EXTINF:-1,DISCOVERY HOME & HELT
+http://151.80.27.111:25461/live/login/senha/92.ts
+#EXTINF:-1,DISCOVERY H&H HD
+http://151.80.27.111:25461/live/login/senha/297.ts
+#EXTINF:-1,DISCOVERY KIDS
+http://151.80.27.111:25461/live/login/senha/93.ts
+#EXTINF:-1,DISCOVERY KIDS HD
+http://151.80.27.111:25461/live/login/senha/506.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://151.80.27.111:25461/live/login/senha/94.ts
+#EXTINF:-1,DSICOVERY TURBO
+http://151.80.27.111:25461/live/login/senha/95.ts
+#EXTINF:-1,DISCOVERY TURBO HD
+http://151.80.27.111:25461/live/login/senha/298.ts
+#EXTINF:-1,DISCOVERY WORLD HD
+http://151.80.27.111:25461/live/login/senha/537.ts
+#EXTINF:-1,DISNEY JR
+http://151.80.27.111:25461/live/login/senha/97.ts
+#EXTINF:-1,DISNEY XD
+http://151.80.27.111:25461/live/login/senha/98.ts
+#EXTINF:-1,E!
+http://151.80.27.111:25461/live/login/senha/99.ts
+#EXTINF:-1,EIMAX
+http://151.80.27.111:25461/live/login/senha/100.ts
+#EXTINF:-1,EI MAXX HD
+http://151.80.27.111:25461/live/login/senha/300.ts
+#EXTINF:-1,EIMAX 2
+http://151.80.27.111:25461/live/login/senha/43.ts
+#EXTINF:-1,EI MAXX 2 HD
+http://151.80.27.111:25461/live/login/senha/299.ts
+#EXTINF:-1,ESPN
+http://151.80.27.111:25461/live/login/senha/77.ts
+#EXTINF:-1,ESPN BRASIL
+http://151.80.27.111:25461/live/login/senha/101.ts
+#EXTINF:-1,ESPN BRASIL HD
+http://151.80.27.111:25461/live/login/senha/301.ts
+#EXTINF:-1,ESPORTE INTERATIVO HD
+http://151.80.27.111:25461/live/login/senha/42.ts
+#EXTINF:-1,FILMES 24H
+http://151.80.27.111:25461/live/login/senha/333.ts
+#EXTINF:-1,FISH TV
+http://151.80.27.111:25461/live/login/senha/162.ts
+#EXTINF:-1,FOOD NETWORK
+http://151.80.27.111:25461/live/login/senha/173.ts
+#EXTINF:-1,FOX
+http://151.80.27.111:25461/live/login/senha/75.ts
+#EXTINF:-1,FOX HD
+http://151.80.27.111:25461/live/login/senha/291.ts
+#EXTINF:-1,FOX 1 HD
+http://151.80.27.111:25461/live/login/senha/302.ts
+#EXTINF:-1,FOX ACTION HD
+http://151.80.27.111:25461/live/login/senha/303.ts
+#EXTINF:-1,FOX LIFE
+http://151.80.27.111:25461/live/login/senha/74.ts
+#EXTINF:-1,FOX LIFE HD
+http://151.80.27.111:25461/live/login/senha/539.ts
+#EXTINF:-1,FOX SPORT
+http://151.80.27.111:25461/live/login/senha/73.ts
+#EXTINF:-1,FOX SPORT HD
+http://151.80.27.111:25461/live/login/senha/304.ts
+#EXTINF:-1,FOX SPORT 2
+http://151.80.27.111:25461/live/login/senha/72.ts
+#EXTINF:-1,FOX SPORT 2 HD
+http://151.80.27.111:25461/live/login/senha/518.ts
+#EXTINF:-1,FX
+http://151.80.27.111:25461/live/login/senha/103.ts
+#EXTINF:-1,FX HD
+http://151.80.27.111:25461/live/login/senha/513.ts
+#EXTINF:-1,FUTURA
+http://151.80.27.111:25461/live/login/senha/102.ts
+#EXTINF:-1,GLOBO INTERNACIONAL
+http://151.80.27.111:25461/live/login/senha/294.ts
+#EXTINF:-1,GLOBO NEWS
+http://151.80.27.111:25461/live/login/senha/71.ts
+#EXTINF:-1,GLOBO RJ HD
+http://151.80.27.111:25461/live/login/senha/329.ts
+#EXTINF:-1,GLOBO SP
+http://151.80.27.111:25461/live/login/senha/351.ts
+#EXTINF:-1,GLOBO SP HD
+http://151.80.27.111:25461/live/login/senha/528.ts
+#EXTINF:-1,GLOBO MG HD
+http://151.80.27.111:25461/live/login/senha/170.ts
+#EXTINF:-1,GLOOB
+http://151.80.27.111:25461/live/login/senha/70.ts
+#EXTINF:-1,GNT
+http://151.80.27.111:25461/live/login/senha/105.ts
+#EXTINF:-1,GNT HD
+http://151.80.27.111:25461/live/login/senha/541.ts
+#EXTINF:-1,H2
+http://151.80.27.111:25461/live/login/senha/106.ts
+#EXTINF:-1,H2 HD
+http://151.80.27.111:25461/live/login/senha/523.ts
+#EXTINF:-1,HBO
+http://151.80.27.111:25461/live/login/senha/69.ts
+#EXTINF:-1,HBO HD
+http://151.80.27.111:25461/live/login/senha/306.ts
+#EXTINF:-1,HBO 2
+http://151.80.27.111:25461/live/login/senha/107.ts
+#EXTINF:-1,HBO 2 HD
+http://151.80.27.111:25461/live/login/senha/305.ts
+#EXTINF:-1,HISTORY
+http://151.80.27.111:25461/live/login/senha/109.ts
+#EXTINF:-1,HBO FAMILY
+http://151.80.27.111:25461/live/login/senha/108.ts
+#EXTINF:-1,HBO FAMILY HD
+http://151.80.27.111:25461/live/login/senha/524.ts
+#EXTINF:-1,HBO PLUS
+http://151.80.27.111:25461/live/login/senha/68.ts
+#EXTINF:-1,HBO PLUS HD
+http://151.80.27.111:25461/live/login/senha/525.ts
+#EXTINF:-1,HBO PLUS E
+http://151.80.27.111:25461/live/login/senha/352.ts
+#EXTINF:-1,HBO SIGNATURE
+http://151.80.27.111:25461/live/login/senha/67.ts
+#EXTINF:-1,HISTORY HD
+http://151.80.27.111:25461/live/login/senha/290.ts
+#EXTINF:-1,I-SAT
+http://151.80.27.111:25461/live/login/senha/166.ts
+#EXTINF:-1,ID
+http://151.80.27.111:25461/live/login/senha/110.ts
+#EXTINF:-1,ID HD
+http://151.80.27.111:25461/live/login/senha/508.ts
+#EXTINF:-1,IDEALTV
+http://151.80.27.111:25461/live/login/senha/153.ts
+#EXTINF:-1,LIFETIME
+http://151.80.27.111:25461/live/login/senha/152.ts
+#EXTINF:-1,LIVRE TV
+http://151.80.27.111:25461/live/login/senha/342.ts
+#EXTINF:-1,MAIS GLOBOSAT
+http://151.80.27.111:25461/live/login/senha/151.ts
+#EXTINF:-1,MAX
+http://151.80.27.111:25461/live/login/senha/111.ts
+#EXTINF:-1,MAX PRIME
+http://151.80.27.111:25461/live/login/senha/112.ts
+#EXTINF:-1,MAX PRIME E
+http://151.80.27.111:25461/live/login/senha/353.ts
+#EXTINF:-1,MAX PRIME PLUS
+http://151.80.27.111:25461/live/login/senha/172.ts
+#EXTINF:-1,MAX UP
+http://151.80.27.111:25461/live/login/senha/66.ts
+#EXTINF:-1,MEGAPIX
+http://151.80.27.111:25461/live/login/senha/113.ts
+#EXTINF:-1,MEGAPIX HD
+http://151.80.27.111:25461/live/login/senha/505.ts
+#EXTINF:-1,MIX TV
+http://151.80.27.111:25461/live/login/senha/341.ts
+#EXTINF:-1,MULTISHOW
+http://151.80.27.111:25461/live/login/senha/114.ts
+#EXTINF:-1,MULTISHOW HD
+http://151.80.27.111:25461/live/login/senha/514.ts
+#EXTINF:-1,MUSIC BOX BRASIL
+http://151.80.27.111:25461/live/login/senha/150.ts
+#EXTINF:-1,MTV
+http://151.80.27.111:25461/live/login/senha/65.ts
+#EXTINF:-1,NAT GEO
+http://151.80.27.111:25461/live/login/senha/115.ts
+#EXTINF:-1,NAT GEO HD
+http://151.80.27.111:25461/live/login/senha/307.ts
+#EXTINF:-1,NAT GEO WILD
+http://151.80.27.111:25461/live/login/senha/354.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://151.80.27.111:25461/live/login/senha/520.ts
+#EXTINF:-1,NICK
+http://151.80.27.111:25461/live/login/senha/116.ts
+#EXTINF:-1,NICK JR.
+http://151.80.27.111:25461/live/login/senha/117.ts
+#EXTINF:-1,NICK JR HD
+http://151.80.27.111:25461/live/login/senha/526.ts
+#EXTINF:-1,NHK
+http://151.80.27.111:25461/live/login/senha/355.ts
+#EXTINF:-1,NBR
+http://151.80.27.111:25461/live/login/senha/149.ts
+#EXTINF:-1,NOVO TEMPO
+http://151.80.27.111:25461/live/login/senha/171.ts
+#EXTINF:-1,OFF
+http://151.80.27.111:25461/live/login/senha/64.ts
+#EXTINF:-1,OFF HD
+http://151.80.27.111:25461/live/login/senha/529.ts
+#EXTINF:-1,PARAMOUNT
+http://151.80.27.111:25461/live/login/senha/63.ts
+#EXTINF:-1,PARAMOUNT HD
+http://151.80.27.111:25461/live/login/senha/543.ts
+#EXTINF:-1,PLAY TV
+http://151.80.27.111:25461/live/login/senha/148.ts
+#EXTINF:-1,PREMIERE CLUBES
+http://151.80.27.111:25461/live/login/senha/123.ts
+#EXTINF:-1,PREMIERE CLUBES HD
+http://151.80.27.111:25461/live/login/senha/312.ts
+#EXTINF:-1,PREMIERE 2
+http://151.80.27.111:25461/live/login/senha/118.ts
+#EXTINF:-1,PREMIERE 2 HD
+http://151.80.27.111:25461/live/login/senha/308.ts
+#EXTINF:-1,PREMIERE 3
+http://151.80.27.111:25461/live/login/senha/119.ts
+#EXTINF:-1,PREMIERE 3 HD
+http://151.80.27.111:25461/live/login/senha/309.ts
+#EXTINF:-1,PREMIERE 4
+http://151.80.27.111:25461/live/login/senha/120.ts
+#EXTINF:-1,PREMIERE 4 HD
+http://151.80.27.111:25461/live/login/senha/310.ts
+#EXTINF:-1,PREMIERE 5
+http://151.80.27.111:25461/live/login/senha/59.ts
+#EXTINF:-1,PREMIERE 5 HD
+http://151.80.27.111:25461/live/login/senha/311.ts
+#EXTINF:-1,PREMIERE 6
+http://151.80.27.111:25461/live/login/senha/61.ts
+#EXTINF:-1,PREMIERE 7
+http://151.80.27.111:25461/live/login/senha/121.ts
+#EXTINF:-1,PREMIERE 8
+http://151.80.27.111:25461/live/login/senha/60.ts
+#EXTINF:-1,PREMIERE 9
+http://151.80.27.111:25461/live/login/senha/122.ts
+#EXTINF:-1,PRIME BOX BRASIL
+http://151.80.27.111:25461/live/login/senha/147.ts
+#EXTINF:-1,RBI
+http://151.80.27.111:25461/live/login/senha/178.ts
+#EXTINF:-1,RBS TV PORTO ALEGRE
+http://151.80.27.111:25461/live/login/senha/179.ts
+#EXTINF:-1,RECORD
+http://151.80.27.111:25461/live/login/senha/58.ts
+#EXTINF:-1,RECORD HD
+http://151.80.27.111:25461/live/login/senha/313.ts
+#EXTINF:-1,RECORD NEWS
+http://151.80.27.111:25461/live/login/senha/57.ts
+#EXTINF:-1,REDE BRASIL
+http://151.80.27.111:25461/live/login/senha/146.ts
+#EXTINF:-1,REDE TV
+http://151.80.27.111:25461/live/login/senha/124.ts
+#EXTINF:-1,REDE VIDA
+http://151.80.27.111:25461/live/login/senha/145.ts
+#EXTINF:-1,RIT
+http://151.80.27.111:25461/live/login/senha/180.ts
+#EXTINF:-1,SBT
+http://151.80.27.111:25461/live/login/senha/47.ts
+#EXTINF:-1,SBT HD
+http://151.80.27.111:25461/live/login/senha/314.ts
+#EXTINF:-1,SIC INTERNACIONAL
+http://151.80.27.111:25461/live/login/senha/144.ts
+#EXTINF:-1,SONY
+http://151.80.27.111:25461/live/login/senha/125.ts
+#EXTINF:-1,SONY HD
+http://151.80.27.111:25461/live/login/senha/517.ts
+#EXTINF:-1,SPACE
+http://151.80.27.111:25461/live/login/senha/126.ts
+#EXTINF:-1,SPACE HD
+http://151.80.27.111:25461/live/login/senha/512.ts
+#EXTINF:-1,SPORTV
+http://151.80.27.111:25461/live/login/senha/127.ts
+#EXTINF:-1,SPORTV HD
+http://151.80.27.111:25461/live/login/senha/317.ts
+#EXTINF:-1,SPORTV 2
+http://151.80.27.111:25461/live/login/senha/54.ts
+#EXTINF:-1,SPORTV 2 HD
+http://151.80.27.111:25461/live/login/senha/315.ts
+#EXTINF:-1,SPORTV 3
+http://151.80.27.111:25461/live/login/senha/128.ts
+#EXTINF:-1,SPORTV 3 HD
+http://151.80.27.111:25461/live/login/senha/316.ts
+#EXTINF:-1,SPORTV ALTERNATIVO
+http://151.80.27.111:25461/live/login/senha/142.ts
+#EXTINF:-1,SPORTV 2 ALTERNATIVO
+http://151.80.27.111:25461/live/login/senha/143.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+http://151.80.27.111:25461/live/login/senha/129.ts
+#EXTINF:-1,SYFY
+http://151.80.27.111:25461/live/login/senha/141.ts
+#EXTINF:-1,TV BRASIL
+http://151.80.27.111:25461/live/login/senha/137.ts
+#EXTINF:-1,TV RATIMBUM
+http://151.80.27.111:25461/live/login/senha/184.ts
+#EXTINF:-1,TV VERDES MARES FORTALEZA
+http://151.80.27.111:25461/live/login/senha/185.ts
+#EXTINF:-1,TBS
+http://151.80.27.111:25461/live/login/senha/130.ts
+#EXTINF:-1,TBS HD
+http://151.80.27.111:25461/live/login/senha/544.ts
+#EXTINF:-1,TCM
+http://151.80.27.111:25461/live/login/senha/41.ts
+#EXTINF:-1,TELECINE PREMIUM
+http://151.80.27.111:25461/live/login/senha/51.ts
+#EXTINF:-1,TELECINE PREMIUM HD
+http://151.80.27.111:25461/live/login/senha/321.ts
+#EXTINF:-1,TELECINE ACTION
+http://151.80.27.111:25461/live/login/senha/53.ts
+#EXTINF:-1,TELECINE ACTION HD
+http://151.80.27.111:25461/live/login/senha/318.ts
+#EXTINF:-1,TELECINE PIPOCA
+http://151.80.27.111:25461/live/login/senha/132.ts
+#EXTINF:-1,TELECINE PIPOCA HD
+http://151.80.27.111:25461/live/login/senha/320.ts
+#EXTINF:-1,TELECINE TOUCH
+http://151.80.27.111:25461/live/login/senha/50.ts
+#EXTINF:-1,TELECINE TOUCH HD
+http://151.80.27.111:25461/live/login/senha/521.ts
+#EXTINF:-1,TELECINE FUN
+http://151.80.27.111:25461/live/login/senha/131.ts
+#EXTINF:-1,TELECINE FUN HD
+http://151.80.27.111:25461/live/login/senha/319.ts
+#EXTINF:-1,TELECINE CULT
+http://151.80.27.111:25461/live/login/senha/52.ts
+#EXTINF:-1,TERRA VIVA
+http://151.80.27.111:25461/live/login/senha/181.ts
+#EXTINF:-1,TLC
+http://151.80.27.111:25461/live/login/senha/133.ts
+#EXTINF:-1,TLC HD
+http://151.80.27.111:25461/live/login/senha/522.ts
+#EXTINF:-1,TNT
+http://151.80.27.111:25461/live/login/senha/49.ts
+#EXTINF:-1,TNT HD
+http://151.80.27.111:25461/live/login/senha/322.ts
+#EXTINF:-1,TNT SERIES
+http://151.80.27.111:25461/live/login/senha/140.ts
+#EXTINF:-1,TNT SERIES HD
+http://151.80.27.111:25461/live/login/senha/545.ts
+#EXTINF:-1,TOONCAST
+http://151.80.27.111:25461/live/login/senha/139.ts
+#EXTINF:-1,TRUTV
+http://151.80.27.111:25461/live/login/senha/138.ts
+#EXTINF:-1,TVE
+http://151.80.27.111:25461/live/login/senha/357.ts
+#EXTINF:-1,TV SAN
+http://151.80.27.111:25461/live/login/senha/580.ts
+#EXTINF:-1,UNIVERSAL
+http://151.80.27.111:25461/live/login/senha/48.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://151.80.27.111:25461/live/login/senha/546.ts
+#EXTINF:-1,VIVA
+http://151.80.27.111:25461/live/login/senha/46.ts
+#EXTINF:-1,VIVA HD
+http://151.80.27.111:25461/live/login/senha/515.ts
+#EXTINF:-1,VH1 MEGA HITS
+http://151.80.27.111:25461/live/login/senha/165.ts
+#EXTINF:-1,WARNER
+http://151.80.27.111:25461/live/login/senha/45.ts
+#EXTINF:-1,WARNER HD
+http://151.80.27.111:25461/live/login/senha/509.ts
+#EXTINF:-1,WOOHOO
+http://151.80.27.111:25461/live/login/senha/134.ts

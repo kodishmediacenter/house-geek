@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:0,A Viagem Cap 1
+https://www.youtube.com/watch?v=_bpnJfnqwKE
+#EXTINF:0,A Viagem Cap 2
+https://www.youtube.com/watch?v=lR05hwXEpDE
+#EXTINF:0,A Viagem Cap 3
+https://www.youtube.com/watch?v=mXiFvhCu5EY
+#EXTINF:0,A Viagem Cap 4
+https://www.youtube.com/watch?v=IoKcNYyz-0E
+#EXTINF:0,A Viagem Cap 5
+https://www.youtube.com/watch?v=Qb_aU_eWq_8
+#EXTINF:0,A Viagem Cap 6
+https://www.youtube.com/watch?v=V3M640ua47M
+#EXTINF:0,A Viagem Cap 7
+https://www.youtube.com/watch?v=dWqjBJqZShU
+#EXTINF:0,A Viagem Cap 8
+https://www.youtube.com/watch?v=6NgcbSlsdEw
+#EXTINF:0,A Viagem Cap 9
+https://www.youtube.com/watch?v=-EtvbuXmCy4
+#EXTINF:0,A Viagem Cap 10
+https://www.youtube.com/watch?v=Nu1ylfMXV10
+#EXTINF:0,A Viagem Cap 11
+https://www.youtube.com/watch?v=NMjCg2zuV08
+#EXTINF:0,A Viagem Cap 12
+https://www.youtube.com/watch?v=DKiL4R43pOU
+#EXTINF:0,A Viagem Cap 13
+https://www.youtube.com/watch?v=3Ia5XX6fcu0
+#EXTINF:0,A Viagem Cap 14
+https://www.youtube.com/watch?v=zVdYTTBuc3g
+#EXTINF:0,A Viagem Cap 15
+https://www.youtube.com/watch?v=9o4LZuu0PV0
+#EXTINF:0,A Viagem Cap 16
+https://www.youtube.com/watch?v=7rE29NGceIM
+#EXTINF:0,A Viagem Cap 17
+https://www.youtube.com/watch?v=nLblHUrzQ3I
+#EXTINF:0,A Viagem Cap 18
+https://www.youtube.com/watch?v=UQeKPx493iw
+#EXTINF:0,A Viagem Cap 19
+https://www.youtube.com/watch?v=VEXOxIeabrg
+#EXTINF:0,A Viagem Cap 20
+https://www.youtube.com/watch?v=sKj8y_k-_Ws
+#EXTINF:0,A Viagem Cap 21
+https://www.youtube.com/watch?v=QbDSiG4cmnY
+#EXTINF:0,A Viagem Cap 22
+https://www.youtube.com/watch?v=PYGpYhRGla4
+#EXTINF:0,A Viagem Cap 23
+https://www.youtube.com/watch?v=IOg6xLCSUpg
+#EXTINF:0,A Viagem Cap 24
+https://www.youtube.com/watch?v=2Kt6M9JH83M
+#EXTINF:0,A Viagem Cap 25
+https://www.youtube.com/watch?v=ClUOXw0j0rM
+#EXTINF:0,A Viagem Cap 26
+https://www.youtube.com/watch?v=Hqcmif0Y_SE
+#EXTINF:0,A Viagem Cap 27
+https://www.youtube.com/watch?v=QLyq-ZYIkYg
+#EXTINF:0,A Viagem Cap 28
+https://www.youtube.com/watch?v=HzXrYmCzij8
+#EXTINF:0,A Viagem Cap 29
+https://www.youtube.com/watch?v=zvngBxX98HI
+#EXTINF:0,A Viagem Cap 30
+https://www.youtube.com/watch?v=M_hIPBYEb2s

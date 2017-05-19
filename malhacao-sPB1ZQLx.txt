@@ -1,0 +1,146 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 110
+https://thevideo.me/embed-obhgj103gts3.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 109
+https://thevideo.me/embed-mht56rw1zgnl.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 108
+https://thevideo.me/embed-d4s675d3ir96.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 107
+http://thevideo.me/embed-vjud6lub1b60.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 106
+http://thevideo.me/embed-bhiibh0lw2rm.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 105
+http://thevideo.me/embed-mvaskono0r2d.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 104
+http://thevideo.me/embed-natjflwc1tca.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 103
+http://thevideo.me/embed-rgv0ft6qhgng.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 102
+http://thevideo.me/embed-phtjape6m4a3.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 101
+http://thevideo.me/embed-q14dmw8q41en.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 100
+http://thevideo.me/embed-ptfephvtu331.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 99
+http://thevideo.me/embed-nsjyri5sguy8.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 98
+http://thevideo.me/embed-0xip6nn6j4ll.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 97
+http://thevideo.me/embed-buiz9no2z57p.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 96
+https://openload.co/embed/gfZkdHlMgZw/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 95
+http://thevideo.me/embed-3wcuja7hd7cn.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 94
+http://thevideo.me/embed-twc6bhxi2he3.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 93
+http://thevideo.me/embed-744irq9523vr.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 92
+http://thevideo.me/embed-j8i7v3byqlgj.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 91
+http://thevideo.me/embed-f3htgav4ez33.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 90
+http://thevideo.me/embed-z7orfl496cdr.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 89
+http://thevideo.me/embed-sf11s0qyfs02.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 88
+http://thevideo.me/embed-arxykh434p0c.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 87
+http://thevideo.me/embed-j4yt22bjry99.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 86
+http://thevideo.me/embed-3plolziadzhc.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 85
+http://thevideo.me/embed-8klsoeziz5lv.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 84
+http://thevideo.me/embed-3sfwvmjigqzn.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 83
+http://thevideo.me/embed-n5sqb434w0do.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 82
+http://thevideo.me/embed-qwa8vusv92lf.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 81
+http://thevideo.me/embed-qyn3j4i5clhh.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 80
+http://thevideo.me/embed-fdbkr95k1wr8.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 79
+http://thevideo.me/embed-66ljhjp4ync7.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 78
+http://thevideo.me/embed-vk0y0kyznsxq.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 77
+http://thevideo.me/embed-qtc3kuu70uy2.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 76
+http://thevideo.me/embed-i6doddhxbcfs.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 75
+http://thevideo.me/embed-bjuhfu4mg3fc.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 74
+http://thevideo.me/embed-zjn3mnbr8r8w.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 73
+http://thevideo.me/embed-1sxi24h26eb0.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 71
+http://thevideo.me/embed-q04dwe1ta70s.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 70
+http://thevideo.me/embed-k1k1g5dviwai.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 69
+http://thevideo.me/embed-lza7a2bbtxay.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 68
+http://thevideo.me/embed-ibq1n1dg3fkw.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 67
+http://thevideo.me/embed-6zkwpmyemytv.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 66
+http://thevideo.me/embed-3ed3ottfoac3.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 65
+http://thevideo.me/embed-k831ro87dw0q.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 64
+http://thevideo.me/embed-si4ei633zefm.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 63
+http://thevideo.me/embed-fsfqgl238j50.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 62
+http://thevideo.me/embed-z88uwl7ui2ue.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 61
+http://thevideo.me/embed-gsq7u8gjkanx.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 60
+http://thevideo.me/embed-1kc6f9tl7zzk.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 59
+http://thevideo.me/embed-gnlwd0zevu2n.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 58
+http://thevideo.me/embed-l3elgzesvsp7.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 57
+http://thevideo.me/embed-8emc5ikfbkwg.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 56
+http://thevideo.me/embed-4m6c59pa25p8.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 55
+http://thevideo.me/embed-ip69khmkn3u9.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 54
+http://thevideo.me/embed-6or4iux7hgla.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 53
+http://thevideo.me/embed-cies4did241b.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 52
+http://thevideo.me/embed-wnk8b9gvehlq.html

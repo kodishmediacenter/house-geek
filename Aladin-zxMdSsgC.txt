@@ -1,0 +1,176 @@
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , ALLADIN
+http://0.0.0.0
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 01
+rdc://RCServer09/ondemand/ALDNEP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 02
+rdc://RCServer09/ondemand/ALDNEP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 03
+rdc://RCServer09/ondemand/ALDNEP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 04
+rdc://RCServer09/ondemand/ALDNEP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 05
+rdc://RCServer09/ondemand/ALDNEP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 06
+rdc://RCServer09/ondemand/ALDNEP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 07
+rdc://RCServer09/ondemand/ALDNEP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 08
+rdc://RCServer09/ondemand/ALDNEP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 09
+rdc://RCServer09/ondemand/ALDNEP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 10
+rdc://RCServer09/ondemand/ALDNEP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 11
+rdc://RCServer09/ondemand/ALDNEP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 12
+rdc://RCServer09/ondemand/ALDNEP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 13
+rdc://RCServer09/ondemand/ALDNEP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 14
+rdc://RCServer09/ondemand/ALDNEP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 15
+rdc://RCServer09/ondemand/ALDNEP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 16
+rdc://RCServer09/ondemand/ALDNEP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 17
+rdc://RCServer09/ondemand/ALDNEP17.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 18
+rdc://RCServer09/ondemand/ALDNEP18.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 19
+rdc://RCServer09/ondemand/ALDNEP19.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 20
+rdc://RCServer09/ondemand/ALDNEP20.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 21
+rdc://RCServer09/ondemand/ALDNEP21.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 22
+rdc://RCServer09/ondemand/ALDNEP22.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 23
+rdc://RCServer09/ondemand/ALDNEP23.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 24
+rdc://RCServer09/ondemand/ALDNEP24.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 25
+rdc://RCServer09/ondemand/ALDNEP25.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 26
+rdc://RCServer09/ondemand/ALDNEP26.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 27
+rdc://RCServer09/ondemand/ALDNEP27.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 28
+rdc://RCServer09/ondemand/ALDNEP28.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 29
+rdc://RCServer09/ondemand/ALDNEP29.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 30
+rdc://RCServer09/ondemand/ALDNEP30.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 31
+rdc://RCServer09/ondemand/ALDNEP31.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 32
+rdc://RCServer09/ondemand/ALDNEP32.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 33
+rdc://RCServer09/ondemand/ALDNEP33.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 34
+rdc://RCServer09/ondemand/ALDNEP34.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 35
+rdc://RCServer09/ondemand/ALDNEP35.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 36
+rdc://RCServer09/ondemand/ALDNEP36.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 37
+rdc://RCServer09/ondemand/ALDNEP37.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 38
+rdc://RCServer09/ondemand/ALDNEP38.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 39
+rdc://RCServer09/ondemand/ALDNEP39.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 40
+rdc://RCServer09/ondemand/ALDNEP40.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 41
+rdc://RCServer09/ondemand/ALDNEP41.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 42
+rdc://RCServer09/ondemand/ALDNEP42.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 43
+rdc://RCServer09/ondemand/ALDNEP43.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 44
+rdc://RCServer09/ondemand/ALDNEP44.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 45
+rdc://RCServer09/ondemand/ALDNEP45.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 46
+rdc://RCServer09/ondemand/ALDNEP46.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 47
+rdc://RCServer09/ondemand/ALDNEP47.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 48
+rdc://RCServer09/ondemand/ALDNEP48.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 49
+rdc://RCServer09/ondemand/ALDNEP49.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 50
+rdc://RCServer09/ondemand/ALDNEP50.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 51
+rdc://RCServer09/ondemand/ALDNEP51.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 52
+rdc://RCServer09/ondemand/ALDNEP52.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 53
+rdc://RCServer09/ondemand/ALDNEP53.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 54
+rdc://RCServer09/ondemand/ALDNEP54.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 55
+rdc://RCServer09/ondemand/ALDNEP55.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 56
+rdc://RCServer09/ondemand/ALDNEP56.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 57
+rdc://RCServer09/ondemand/ALDNEP57.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 58
+rdc://RCServer09/ondemand/ALDNEP58.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 59
+rdc://RCServer09/ondemand/ALDNEP59.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 60
+rdc://RCServer09/ondemand/ALDNEP60.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 61
+rdc://RCServer09/ondemand/ALDNEP61.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 62
+rdc://RCServer09/ondemand/ALDNEP62.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 63
+rdc://RCServer09/ondemand/ALDNEP63.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 64
+rdc://RCServer09/ondemand/ALDNEP64.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 65
+rdc://RCServer09/ondemand/ALDNEP65.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 66
+rdc://RCServer09/ondemand/ALDNEP66.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 67
+rdc://RCServer09/ondemand/ALDNEP67.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 68
+rdc://RCServer09/ondemand/ALDNEP68.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 69
+rdc://RCServer09/ondemand/ALDNEP69.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 70
+rdc://RCServer09/ondemand/ALDNEP70.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 71
+rdc://RCServer09/ondemand/ALDNEP71.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 72
+rdc://RCServer09/ondemand/ALDNEP72.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 73
+rdc://RCServer09/ondemand/ALDNEP73.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 74
+rdc://RCServer09/ondemand/ALDNEP74.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 75
+rdc://RCServer09/ondemand/ALDNEP75.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 76
+rdc://RCServer09/ondemand/ALDNEP76.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 77
+rdc://RCServer09/ondemand/ALDNEP77.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 78
+rdc://RCServer09/ondemand/ALDNEP78.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 79
+rdc://RCServer09/ondemand/ALDNEP79.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 80
+rdc://RCServer09/ondemand/ALDNEP80.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 81
+rdc://RCServer09/ondemand/ALDNEP81.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 82
+rdc://RCServer09/ondemand/ALDNEP82.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 83
+rdc://RCServer09/ondemand/ALDNEP83.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 84
+rdc://RCServer09/ondemand/ALDNEP84.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 85
+rdc://RCServer09/ondemand/ALDNEP85.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/TCjzliy.jpg" , EPISODIO 86
+rdc://RCServer09/ondemand/ALDNEP86.mp4
+#EXTINF:-1,Se Inscreva em Nosso Canal http://bit.ly/canalkodish
+rdc://

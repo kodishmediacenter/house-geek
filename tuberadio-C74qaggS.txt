@@ -1,0 +1,26 @@
+#EXTINF:-1 tvg-logo="",POP MUSIC 2017 (HIT MUSIC) 24/7 LIVE STREAM - HUNTER.FM
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CxTqW7c_oeY
+
+#EXTINF:-1 tvg-logo="",Trap Music 24/7 Live Stream Radio | Best Trap & Bass Boosted | Gaming Music 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4KJpXriYC9A
+
+#EXTINF:-1 tvg-logo="",The Good Life Radio • 24/7 Music Live Stream | Deep & Tropical House | Chill Out | Dance Music Mix 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=K-heSQmydtE
+
+#EXTINF:-1 tvg-logo="",POP MUSIC Radio 24/7 | Deep & Tropical House | Chill Out | Dance Music Mix | Trap Music 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6F3liPRGVEs
+
+#EXTINF:-1 tvg-logo="",24/7 Best Deep House | Chillout Music | EDM 2017 Live Radio 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0e5Bbu4ZGdw
+
+#EXTINF:-1 tvg-logo="",Hip Hop Live 24/7 | Rap / Hip-Hop / R&B Music Livestream - Workout/Study
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hnY2hjCM8gM
+
+#EXTINF:-1 tvg-logo="",ClubTools 24/7 Live Radio powered by Kontor.TV [Deep House, Tropical & Melodic Deep]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=c2TNz4TPoh4
+
+#EXTINF:-1 tvg-logo="",ChillYourMind Radio • 24/7 Music Live Stream | Deep & Tropical House | Chill Out | 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=f5cXwgjs0aE
+
+#EXTINF:-1 tvg-logo="",ClubTools 24/7 Live Radio powered by Kontor.TV [Deep House, Tropical & Melodic Deep]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=c2TNz4TPoh4

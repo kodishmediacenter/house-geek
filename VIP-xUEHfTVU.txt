@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+<channels>
+<channel>
+<name>[COLOR yellow][B]Faça Uma Doação[/B][/COLOR] [COLOR red](ADDON GRÁTIS)[/COLOR]</name>
+<link>http://ignorame</link>
+<thumbnail>https://s26.postimg.org/xzy81sk3d/Untitled.png</thumbnail>
+<fanart>https://s26.postimg.org/xzy81sk3d/Untitled.png</fanart>
+</channel>
+</channels>

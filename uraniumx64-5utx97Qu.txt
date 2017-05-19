@@ -1,0 +1,15 @@
+# kodish 3.1 Uraniun Edition x64 
+
+sudo apt-get update -y
+sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+sudo apt-get update -y
+sudo apt-get update -y
+sudo apt-get install google-chrome-stable -y
+sudo apt-get wine -y
+sudo apt-get install playonlinux
+wget "http://static.davidedmundson.co.uk/shashlik/shashlik_0.9.3.deb"
+dpkg -i shashlik_0.9.3.deb
+sudo apt-get install -f
+sudo apt-get install kde-baseapps-bin
+sudo apt-get install --reinstall libgl1-mesa-dri:amd64

@@ -1,0 +1,29 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>Top 25 da Kiss</title>
+<utube>PLSUn1UQk9K4jshkMs22ZAhH9Ix-JoPLwN</utube>
+<thumbnail>http://static.wixstatic.com/media/3a4e03_20a425b2bb0b475aa807fa41ecdf7926.png</thumbnail>
+<fanart>http://static.wixstatic.com/media/3a4e03_20a425b2bb0b475aa807fa41ecdf7926.png</fanart>
+</item>
+
+<item>
+<title>Flash Hits</title>
+<utube>PLAl-cwrHd5aoXmXQKp-7fK54ekmtHdbIh</utube>
+<thumbnail>https://pbs.twimg.com/profile_images/1164674121/avatar_flash.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Youtube Rewind 2016</title>
+<utube>PLSUn1UQk9K4jCl-5HW70QZ0gFkJSezUwY</utube>
+<thumbnail>https://i.ytimg.com/vi/KK9bwTlAvgo/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/KK9bwTlAvgo/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Sertanejo Universitario</title>
+<utube>PLpLDsiQJBIkGHhNqltboDy-_jh5zQTjcA</utube>
+<thumbnail>https://i.ytimg.com/vi/MCv8-KGdc6o/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MCv8-KGdc6o/hqdefault.jpg</fanart>
+</item>

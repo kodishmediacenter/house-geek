@@ -1,0 +1,262 @@
+#EXTINF:-7 tvg-logo='',EP01
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/01.MP4
+#EXTINF:-7 tvg-logo='',EP02
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/02.MP4
+#EXTINF:-7 tvg-logo='',EP03
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/03.MP4
+#EXTINF:-7 tvg-logo='',EP04
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/04.MP4 
+#EXTINF:-7 tvg-logo='',EP05
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/05.MP4
+#EXTINF:-7 tvg-logo='',EP06
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/06.MP4
+#EXTINF:-7 tvg-logo='',EP07
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/07.MP4
+#EXTINF:-7 tvg-logo='',EP08
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/08.MP4
+#EXTINF:-7 tvg-logo='',EP09
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/09.MP4
+#EXTINF:-7 tvg-logo='',EP10
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/10.MP4
+#EXTINF:-7 tvg-logo='',EP11
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/11.MP4
+#EXTINF:-7 tvg-logo='',EP12
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/12.MP4
+#EXTINF:-7 tvg-logo='',EP13
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/13.MP4
+#EXTINF:-7 tvg-logo='',EP14
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/14.MP4 
+#EXTINF:-7 tvg-logo='',EP15
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/15.MP4
+#EXTINF:-7 tvg-logo='',EP16
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/16.MP4
+#EXTINF:-7 tvg-logo='',EP17
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/17.MP4
+#EXTINF:-7 tvg-logo='',EP18
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/18.MP4
+#EXTINF:-7 tvg-logo='',EP19
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/19.MP4
+#EXTINF:-7 tvg-logo='',EP20
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/20.MP4
+#EXTINF:-7 tvg-logo='',EP22
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/21.MP4
+#EXTINF:-7 tvg-logo='',EP22
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/22.MP4
+#EXTINF:-7 tvg-logo='',EP23
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/23.MP4
+#EXTINF:-7 tvg-logo='',EP24
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/24.MP4 
+#EXTINF:-7 tvg-logo='',EP25
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/25.MP4
+#EXTINF:-7 tvg-logo='',EP26
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/26.MP4
+#EXTINF:-7 tvg-logo='',EP27
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/27.MP4
+#EXTINF:-7 tvg-logo='',EP28
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/28.MP4
+#EXTINF:-7 tvg-logo='',EP29
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/29.MP4
+#EXTINF:-7 tvg-logo='',EP20
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/30.MP4
+#EXTINF:-7 tvg-logo='',EP33
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/31.MP4
+#EXTINF:-7 tvg-logo='',EP33
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/32.MP4
+#EXTINF:-7 tvg-logo='',EP33
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/33.MP4
+#EXTINF:-7 tvg-logo='',EP34
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/34.MP4 
+#EXTINF:-7 tvg-logo='',EP35
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/35.MP4
+#EXTINF:-7 tvg-logo='',EP36
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/36.MP4
+#EXTINF:-7 tvg-logo='',EP37
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/37.MP4
+#EXTINF:-7 tvg-logo='',EP38
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/38.MP4
+#EXTINF:-7 tvg-logo='',EP39
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/39.MP4
+#EXTINF:-7 tvg-logo='',EP40
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/40.MP4
+#EXTINF:-7 tvg-logo='',EP44
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/41.MP4
+#EXTINF:-7 tvg-logo='',EP44
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/42.MP4
+#EXTINF:-7 tvg-logo='',EP44
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/43.MP4
+#EXTINF:-7 tvg-logo='',EP44
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/44.MP4 
+#EXTINF:-7 tvg-logo='',EP45
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/45.MP4
+#EXTINF:-7 tvg-logo='',EP46
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/46.MP4
+#EXTINF:-7 tvg-logo='',EP47
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/47.MP4
+#EXTINF:-7 tvg-logo='',EP48
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/48.MP4
+#EXTINF:-7 tvg-logo='',EP49
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/49.MP4
+#EXTINF:-7 tvg-logo='',EP50
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/50.MP4
+#EXTINF:-7 tvg-logo='',EP51
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/51.MP4
+#EXTINF:-7 tvg-logo='',EP52
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/52.MP4
+#EXTINF:-7 tvg-logo='',EP53
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/53.MP4
+#EXTINF:-7 tvg-logo='',EP54
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/54.MP4 
+#EXTINF:-7 tvg-logo='',EP55
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/55.MP4
+#EXTINF:-7 tvg-logo='',EP56
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/56.MP4
+#EXTINF:-7 tvg-logo='',EP57
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/57.MP4
+#EXTINF:-7 tvg-logo='',EP58
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/58.MP4
+#EXTINF:-7 tvg-logo='',EP59
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/59.MP4
+#EXTINF:-7 tvg-logo='',EP60
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/60.MP4
+#EXTINF:-1,EP 61
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/61.MP4
+#EXTINF:-1,EP 62
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/62.MP4
+#EXTINF:-1,EP 63
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/63.MP4
+#EXTINF:-1,EP 64
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/64.MP4
+#EXTINF:-1,EP 65
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/65.MP4
+#EXTINF:-1,EP 66
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/66.MP4
+#EXTINF:-1,EP 67
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/67.MP4
+#EXTINF:-1,EP 68
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/68.MP4
+#EXTINF:-1,EP 69
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/69.MP4
+#EXTINF:-1,EP 70
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/70.MP4
+#EXTINF:-1,EP 71
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/71.MP4
+#EXTINF:-1,EP 72
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/72.MP4
+#EXTINF:-1,EP 73
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/73.MP4
+#EXTINF:-1,EP 74
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/74.MP4
+#EXTINF:-1,EP 75
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/75.MP4
+#EXTINF:-1,EP 76
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/76.MP4
+#EXTINF:-1,EP 77
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/77.MP4
+#EXTINF:-1,EP 78
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/78.MP4
+#EXTINF:-1,EP 79
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/79.MP4
+#EXTINF:-1,EP 80
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/80.MP4
+#EXTINF:-1,EP 81
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/81.MP4
+#EXTINF:-1,EP 82
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/82.MP4
+#EXTINF:-1,EP 83
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/83.MP4
+#EXTINF:-1,EP 84
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/84.MP4
+#EXTINF:-1,EP 85
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/85.MP4
+#EXTINF:-1,EP 86
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/86.MP4
+#EXTINF:-1,EP 87
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/87.MP4
+#EXTINF:-1,EP 88
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/88.MP4
+#EXTINF:-1,EP 89
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/89.MP4
+#EXTINF:-1,EP 90
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/90.MP4
+#EXTINF:-1,EP 91
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/91.MP4
+#EXTINF:-1,EP 92
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/92.MP4
+#EXTINF:-1,EP 93
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/93.MP4
+#EXTINF:-1,EP 94
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/94.MP4
+#EXTINF:-1,EP 95
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/95.MP4
+#EXTINF:-1,EP 96
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/96.MP4
+#EXTINF:-1,EP 97
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/97.MP4
+#EXTINF:-1,EP 98
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/98.MP4
+#EXTINF:-1,EP 99
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/99.MP4
+#EXTINF:-1,EP 100
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/100.MP4
+#EXTINF:-1,EP 101
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/101.MP4
+#EXTINF:-1,EP 102
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/102.MP4
+#EXTINF:-1,EP 103
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/103.MP4
+#EXTINF:-1,EP 104
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/104.MP4
+#EXTINF:-1,EP 105
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/105.MP4
+#EXTINF:-1,EP 106
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/106.MP4
+#EXTINF:-1,EP 107
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/107.MP4
+#EXTINF:-1,EP 108
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/108.MP4
+#EXTINF:-1,EP 109
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/109.MP4
+#EXTINF:-1,EP 110
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/110.MP4
+#EXTINF:-1,EP 111
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/111.MP4
+#EXTINF:-1,EP 112
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/112.MP4
+#EXTINF:-1,EP 113
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/113.MP4
+#EXTINF:-1,EP 114
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/114.MP4
+#EXTINF:-1,EP 115
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/115.MP4
+#EXTINF:-1,EP 116
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/116.MP4
+#EXTINF:-1,EP 117
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/117.MP4
+#EXTINF:-1,EP 118
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/118.MP4
+#EXTINF:-1,EP 119
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/119.MP4
+#EXTINF:-1,EP 120
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/120.MP4
+#EXTINF:-1,EP 121
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/121.MP4
+#EXTINF:-1,EP 122
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/122.MP4
+#EXTINF:-1,EP 123
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/123.MP4
+#EXTINF:-1,EP 124
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/124.MP4
+#EXTINF:-1,EP 125
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/125.MP4
+#EXTINF:-1,EP 126
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/126.MP4
+#EXTINF:-1,EP 127
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/127.MP4
+#EXTINF:-1,EP 128
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/128.MP4
+#EXTINF:-1,EP 129
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/129.MP4
+#EXTINF:-1,EP 130
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/130.MP4
+#EXTINF:-1,EP 131
+http://149.56.25.203/Uploads/Animes/P/pokemon-x-y/131.MP4

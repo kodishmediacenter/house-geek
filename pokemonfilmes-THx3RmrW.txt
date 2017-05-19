@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo='' group-title='Pokemon',Pokémon O Filme
+tdc://RCServer01/videos/2809cc8f.flv
+#EXTINF:-1 tvg-logo='' group-title='Pokemon',Pokémon 2000 - O Poder De Um 
+tdc://RCServer01/videos/b5b49446.flv
+#EXTINF:-1 tvg-logo='' group-title='Pokemon',Pokémon O Feitiço dos Unown 
+tdc://RCServer01/videos/c5fd81c9.flv
+#EXTINF:-1 tvg-logo='' group-title='Pokemon',Pokémon Viajantes do Tempo! 
+tdc://RCServer01/videos/49f5da8b.flv
+#EXTINF:-1 tvg-logo='' group-title='Pokemon',Pokémon Heróis Pokémon 
+tdc://RCServer01/videos/b4fa8120.flv
+#EXTINF:-1 tvg-logo='' group-title='Pokemon',Pokémon Jirachi Realizador de Desejos
+tdc://RCServer01/videos/9ae5a1d4.flv
+#EXTINF:-1 tvg-logo='' group-title='Pokemon',Pokémon Alma Gêmea 
+tdc://RCServer01/videos/5a647ffe.mp4
+#EXTINF:-1 tvg-logo='' group-title='Pokemon',Pokémon Lucario E O Mistério de Mew! 
+tdc://RCServer01/videos/23c0e13c.mp4
+#EXTINF:-1 tvg-logo='' group-title='Pokemon',Pokémon Ranger e o Lendário Templo Do Mar
+tdc://RCServer01/videos/7144ea36.mp4
+#EXTINF:-1 tvg-logo='' group-title='Pokemon',Pokémon O Pesadêlo de Darkrai
+tdc://RCServer01/videos/e998f3d5.mp4
+#EXTINF:-1 tvg-logo='' group-title='Pokemon',Pokémon Giratina e o Cavaleiro do Céu
+tdc://RCServer01/videos/b490b286.mp4
+#EXTINF:-1 tvg-logo='' group-title='Pokemon',Pokémon Arceus e a Jóia da Vida
+tdc://RCServer01/videos/ca558f1c.mp4
+#EXTINF:-1 tvg-logo='' group-title='Pokemon',Pokémon Zoroark O Mestre Das Ilusões
+tdc://RCServer01/videos/2a566c72.mp4

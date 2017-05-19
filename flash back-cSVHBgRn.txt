@@ -1,0 +1,51 @@
+<item>
+<title>Pop Internacional 80 e 90</title>
+<m3u>https://archive.org/download/223TheSugarhillGangRappersDelight/223TheSugarhillGangRappersDelight_vbr.m3u</m3u>
+<thumbnail>https://pbs.twimg.com/profile_images/1164674121/avatar_flash.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Remix 80 e 90</title>
+<m3u>https://archive.org/download/65TECHNOTRONICMEGAMIXULTIMIX32VERSION/65TECHNOTRONICMEGAMIXULTIMIX32VERSION_vbr.m3u</m3u>
+<thumbnail>https://pbs.twimg.com/profile_images/1164674121/avatar_flash.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>1000 sons dos anos 70 80 90</title>
+<m3u>https://archive.org/download/OsMelhoresComoEBomTeAmarLifeIsLife/OsMelhoresComoEBomTeAmarLifeIsLife_vbr.m3u</m3u>
+<m3u>https://archive.org/download/Classic80sMegamix/Classic80sMegamix_vbr.m3u</m3u>
+<m3u>https://archive.org/download/SilviaPatriciaMilPedaosE...CracRemix/SilviaPatriciaMilPedaosE...CracRemix_vbr.m3u</m3u>
+<m3u>https://archive.org/download/118SupertrampItsRainingAgain_201605/118SupertrampItsRainingAgain_201605_vbr.m3u</m3u>
+<thumbnail>https://pbs.twimg.com/profile_images/1164674121/avatar_flash.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Musicas Romanticas 70,80 e 90</title>
+<m3u>https://archive.org/download/LoveMix2/LoveMix2_vbr.m3u</m3u>
+<thumbnail>https://pbs.twimg.com/profile_images/1164674121/avatar_flash.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Duetos Romanticos Internacional</title>
+<m3u>https://archive.org/download/01GeorgeMichaelDontLetTheSunGoDownOnMeGeorgeMichaelAndEltonJohn/01GeorgeMichaelDontLetTheSunGoDownOnMeGeorgeMichaelAndEltonJohn_vbr.m3u</m3u>
+<thumbnail>https://pbs.twimg.com/profile_images/1164674121/avatar_flash.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Romanticas Remix  ao vivo e acustico</title>
+<m3u>https://archive.org/download/16MadonnaLiveToTellRemix12in/16MadonnaLiveToTellRemix12in_vbr.m3u</m3u>
+<thumbnail>https://pbs.twimg.com/profile_images/1164674121/avatar_flash.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Megamix Romantico</title>
+<m3u>https://archive.org/download/MegamixRomanticos7080904_201705/MegamixRomanticos7080904_201705_vbr.m3u</m3u>
+<thumbnail>https://pbs.twimg.com/profile_images/1164674121/avatar_flash.jpg</thumbnail>
+<fanart></fanart>
+</item>

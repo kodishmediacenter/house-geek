@@ -1,0 +1,12 @@
+
+Portable para windows
+[Pasta]\portable_data\userdata\addon_data\plugin.video.playlistLoader
+
+kodish 
+/home/kodi/.kodi/userdata/addon_data/plugin.video.playlistLoader
+
+Android
+Android/data/org.xbmc.kodi/files/.kodi/userdata/plugin.video.playlistLoader
+
+Outros SO 
+http://kodi.wiki/view/userdata/plugin.video.playlistLoader

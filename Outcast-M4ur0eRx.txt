@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Episódio 01 - Cercado Pela Escuridão 
+http://transforrede.com/vd/dd/RC/RCServer10/ondemand/OUTCT01EP01.mp4
+#EXTINF:-1,Episódio 02 - (Eu Lembro) de Quando Ela me Amava 
+http://transforrede.com/vd/dd/RC/RCServer10/ondemand/OUTCT01EP02.mp4
+#EXTINF:-1,Episódio 03 - Completamente Sozinhos 
+http://transforrede.com/vd/dd/RC/RCServer10/ondemand/OUTCT01EP03.mp4
+#EXTINF:-1,Episódio 04 - A Fúria Cega 
+http://transforrede.com/vd/dd/RC/RCServer10/ondemand/OUTCT01EP04.mp4
+#EXTINF:-1,Episódio 05 - A Estrada Antes de Nós 
+http://transforrede.com/vd/dd/RC/RCServer10/ondemand/OUTCT01EP05.mp4
+#EXTINF:-1,Episódio 06 - Da Escuridão, Observa 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/OUTCT01EP06.mp4
+#EXTINF:-1,Episódio 07 - O Estrago Está Feito 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/OUTCT01EP07.mp4
+#EXTINF:-1,Episódio 08 - O Que Se Esconde Dentro 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/OUTCT01EP08.mp4
+#EXTINF:-1,Episódio 09 - Perto de Casa 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/OUTCT01EP09.mp4
+#EXTINF:-1,Episódio 10 - Uma Pequena Luz 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/OUTCT01EP10.mp4

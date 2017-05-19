@@ -1,0 +1,96 @@
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Padrinhos Magicos
+http://0.0.0.0
+
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , 01-Episódio 001 - O Grande Problema
+rdc://RCServer01/videos/6910eb3f.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , 01-Episódio 002 - Gasto de Energia
+rdc://RCServer01/videos/0953164b.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , 01-Episódio 003 - Lá Fora no Espaço
+rdc://RCServer01/videos/cf61a9d9.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , 01-Episódio 004 - Transpadrinhos
+rdc://RCServer01/videos/0f95ee13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , 01-Episódio 005 - Levanta Esse Queixo
+rdc://RCServer01/videos/ac548ecd.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , 01-Episódio 006 - Uma Tarde de Cão
+rdc://RCServer01/videos/8f420619.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , 01-Episódio 007 - Desejando Demais
+rdc://RCServer01/videos/648d815b.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , 01-Episódio 008 - Micro Timmy
+rdc://RCServer01/videos/55414ce6.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , 01-Episódio 009 - Nos Tempos do Pai
+rdc://RCServer01/videos/f768e508.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , 01-Episódio 010 - Bodas Trocadas
+rdc://RCServer01/videos/f2864763.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , 01-Episódio 011 - Deu Bode no Sonho
+rdc://RCServer01/videos/0d5944ac.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , 01-Episódio 012 - Todo Mundo Igual
+rdc://RCServer01/videos/2e081d01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , 01-Episódio 013 - Natal Todos os Dias
+rdc://RCServer01/videos/1cce5661.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Garotos na Banda
+rdc://RCServer01/videos/2ab41122.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Jogos Radicais
+rdc://RCServer01/videos/60f63070.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Garoto de Brinquedo
+rdc://RCServer01/videos/ad007702.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Cheio de Ação
+rdc://RCServer01/videos/981162f7.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Timvisível
+rdc://RCServer01/videos/4f4d6630.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Bem Longe no Espaço
+rdc://RCServer01/videos/1486e28c.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Troca Errada
+rdc://RCServer01/videos/2f224963.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Primeiro de Abril
+rdc://RCServer01/videos/b94f0bac.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Deja Vu
+rdc://RCServer01/videos/664939e9.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Zoando na Internet
+rdc://RCServer01/videos/OPDRMGCEP036.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Muito Longe Demais no Espaço
+rdc://RCServer01/videos/790be7d8.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Abracatástrofe (Parte 1)
+rdc://RCServer01/videos/6806ea91.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Abracatástrofe (Parte 2)
+rdc://RCServer01/videos/960f2d89.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Abracatástrofe (Parte 3)
+rdc://RCServer01/videos/2cb08796.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Kung Timmy
+rdc://RCServer01/videos/e02f305b.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Onda de Crimes
+rdc://RCServer01/videos/ef43962e.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Jimmy e Timmy: O Confronto
+rdc://RCServer05/ondemand/OPDRMGCEP078.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Jimmy e Timmy 2: Quando os Manés Colidem!
+rdc://RCServer05/ondemand/OPDRMGCEP134.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , A Escola do Crock
+rdc://RCServer09/ondemand/OPDRMGCEP244.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , O Desejo Super-Heroístico
+rdc://RCServer01/videos/818f78ad.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Amigos e Vizinhos Mágicos
+rdc://RCServer01/videos/9c4f57ca.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Timmy às Avessas
+rdc://RCServer01/videos/8efc4b1d.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Nem Aí
+rdc://RCServer01/videos/46cc3a47.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , É a Vida
+rdc://RCServer01/videos/22c1817b.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Te Manda\\\\\, Velho Chip
+rdc://RCServer01/videos/c931f3fa.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Futuro Perdido
+rdc://RCServer01/videos/1377c7e1.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" , Inspeção de Detecção
+rdc://RCServer01/videos/25d3b5aa.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" ,Vocês no Meu Lugar
+rdc://RCServer01/videos/29e8ace7.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" ,Cada Um Tem o Padrinho Que Merece
+rdc://RCServer01/videos/4c5745e7.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" ,Viva o Presidente
+rdc://RCServer01/videos/03872c74.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" ,Que História
+rdc://RCServer01/videos/c0d70bfc.mp4
+#EXTINF:0 type="stream" tvg-logo="http://radioblast.com.br/ckfinder/userfiles/images/pardinhos%20magicos.jpg" ,Queixo Rubro Com Muito-Mãe e Dino-Pai
+rdc://RCServer01/videos/f8fbb358.mp4
+
+#EXTINF:-1,Se Inscreva em Nosso Canal http://bit.ly/canalkodish
+rdc://

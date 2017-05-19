@@ -1,0 +1,25 @@
+
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/W/Wolverine-online.jpg' group-title='Wolverine (anime)',EP1
+http://149.56.20.73/Upload/Animes/W/wolverine/01.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/W/Wolverine-online.jpg' group-title='Wolverine (anime)',EP2
+http://149.56.20.73/Upload/Animes/W/wolverine/02.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/W/Wolverine-online.jpg' group-title='Wolverine (anime)',EP3
+http://149.56.20.73/Upload/Animes/W/wolverine/03.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/W/Wolverine-online.jpg' group-title='Wolverine (anime)',EP4
+http://149.56.20.73/Upload/Animes/W/wolverine/04.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/W/Wolverine-online.jpg' group-title='Wolverine (anime)',EP5
+http://149.56.20.73/Upload/Animes/W/wolverine/05.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/W/Wolverine-online.jpg' group-title='Wolverine (anime)',EP6
+http://149.56.20.73/Upload/Animes/W/wolverine/06.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/W/Wolverine-online.jpg' group-title='Wolverine (anime)',EP7
+http://149.56.20.73/Upload/Animes/W/wolverine/07.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/W/Wolverine-online.jpg' group-title='Wolverine (anime)',EP8
+http://149.56.20.73/Upload/Animes/W/wolverine/08.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/W/Wolverine-online.jpg' group-title='Wolverine (anime)',EP9
+http://149.56.20.73/Upload/Animes/W/wolverine/09.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/W/Wolverine-online.jpg' group-title='Wolverine (anime)',EP10
+http://149.56.20.73/Upload/Animes/W/wolverine/10.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/W/Wolverine-online.jpg' group-title='Wolverine (anime)',EP11
+http://149.56.20.73/Upload/Animes/W/wolverine/11.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/W/Wolverine-online.jpg' group-title='Wolverine (anime)',EP12
+http://149.56.20.73/Upload/Animes/W/wolverine/12.mp4

@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.gazetaam.com/wp-content/uploads/2013/03/7046.png",Radio Gazeta FM
+rtmp://gazetafm.crossradio.com.br/gazetafm playpath=gazetafm.stream swfUrl=http://gazetafm.com.br/wp-content/themes/webjumpradio/staticpages/player2.swf pageUrl=http://gazetafm.com.br/ouca-ao-vivo
+
+#EXTINF:-1 tvg-logo="http://img.ibxk.com.br/2013/09/09/09131213981.jpg",Radio 89 Radio Rock
+http://servidor30.brlogic.com:8112/live
+
+#EXTINF:-1 tvg-logo="http://www.bastidoresdoradio.com/images/nova_brasil_fm_logo_031116.jpg",Radio Nova Brasil FM SP
+rtmp://289a.cdn.upx.net.br/00086 playpath=myStream.sdp swfUrl=http://novabrasilfm.com.br/wp-content/themes/novabrasilfm/player/swf/audio-player.swf pageUrl=http://novabrasilfm.com.br/wp-content/themes/novabrasilfm/player/player.php?regiao=sao-paulo
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Rbu3iaXIfs0/AAAAAAAAAAI/AAAAAAAA_EE/Nqu3R2i3gf0/s0-c-k-no-ns/photo.jpg",Radio CBN
+rtmp://media.sgr.globo.com:1935/CBNRD/ playpath=cbnsp.sdp swfUrl=http://cbn.globoradio.globo.com/estaticos/jwplayer/jwplayer.flash.swf pageUrl=http://cbn.globoradio.globo.com/
+ 
+#EXTINF:-1 tvg-logo="http://minutoligado.com.br/wp-content/uploads/2013/11/radio-gospel-fm-sp.png",Radio Gospel
+http://shoutcast2.s12.com.br:16000/;stream.nsv&type=mp3
+
+#EXTINF:-1 tvg-logo="http://www.guiademidia.com.br/imagens/radios/sp/radio-conect-car-fm.png",Radio Connect Car
+http://208.115.213.242:7840/;
+
+#EXTINF:-1 tvg-logo="http://www.guiademidia.com.br/imagens/radios/sp/radio-transito-fm-sp.png",Radio Transito SP
+http://evp.mm.uol.com.br:1935/transito_sp/transito_sp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.bastidoresdoradio.com/band_fm_logo_01.jpg",Radio Band FM 
+http://evp.mm.uol.com.br:1935/bandfm_sp/bandfm_sp/chunklist.m3u8?wowzasessionid=1624128981
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/789471002313035776/Se56mRO3.jpg",Radio Disney
+http://dilcdn-latam.disneycdn.com/a/matterhorn-regular-eed88f0756d6.woff
+
+#EXTINF:-1 tvg-logo="http://www.guiademidia.com.br/imagens/radios/sp/radio-feliz-sp.gif",Radio Feliz Fm
+http://streamfeliz.com.br:9984/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://www.guiademidia.com.br/imagens/radios/sp/radio-usp-fm.png",Radio Usp SP FM
+http://200.144.185.21:8007/radiousp-128.mp3
+
+#EXTINF:-1 tvg-logo="http://www.guiademidia.com.br/imagens/radios/sp/radio-usp-fm.png",Radio Usp Riberao Preto FM
+http://200.144.185.21:8007/radiousp-rp-128.mp3
+
+#EXTINF:-1 tvg-logo="http://www.radiorj.com.br/oifm.gif",Oi Fm
+http://173.236.28.130:8008/128kbps/67E311D0JF5HM18182L1AD?;stream.mp3?1485213147024.mp3
+
+#EXTINF:-1 tvg-logo="http://oucaradio.com/wp-content/uploads/2014/07/nativa-fm.jpg",Nativa Sp
+rtmp://evp.mm.uol.com.br:1935/nativa_sp playpath=nativa_sp swfUrl=http://tudoradio.com/projetos/jwplayer/player.swf pageUrl=http://tudoradio.com/player/radio/37
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/76bc13d8-b4c2-444c-9d0a-1531ae55c678.jpg",Alfa FM
+http://servidor34.brlogic.com:8284/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7d/Logo_kiss_fm.jpg",Kiss FM
+http://11254q.ls.azioncdn.net/1254q/a/kissfm2.sdp/playlist.m3u8?wowzasessionid=71700913
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/8c6b37d66908be4999794505a9622547.jpg",Dummont FM
+http://www.webnow.com.br/streaming/autoplaylist/v1/dumont.aac.m3u
+
+#EXTINF:-1 tvg-logo="http://www.soflashback.com.br/imagens/logo.png",So flash Back
+http://170.75.153.34:13544/listen.m3u

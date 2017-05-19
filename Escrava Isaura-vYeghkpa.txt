@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Isaura 10
+https://openload.co/embed/_9mraw0CQlQ/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Isaura 09
+https://openload.co/embed/sqCk03EqFQI/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Isaura 08
+https://openload.co/embed/0KqBanF8uOQ/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Isaura 07
+https://openload.co/embed/Ruq7skxKFNY/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Isaura 06
+https://openload.co/embed/XpRFjjnDYS8/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Isaura 05
+https://openload.co/embed/3-IzbmLx3bg/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Isaura 04
+https://openload.co/embed/WX4hqjSmtxw/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Isaura 03
+https://openload.co/embed/ohDhlnK7Xp8/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Isaura 02
+https://openload.co/embed/KOhniiFQUgc/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Isaura 01
+https://openload.co/embed/yKrqqGA6Jck/

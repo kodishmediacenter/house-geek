@@ -1,0 +1,178 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP574
+tdc://RCServer01/videos/PKMONEP574.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP575
+tdc://RCServer01/videos/PKMONEP575.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP576
+tdc://RCServer01/videos/PKMONEP576.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP577
+tdc://RCServer01/videos/PKMONEP577.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP578
+tdc://RCServer01/videos/PKMONEP578.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP579
+tdc://RCServer01/videos/PKMONEP579.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP580
+tdc://RCServer01/videos/PKMONEP580.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP581
+tdc://RCServer01/videos/PKMONEP581.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP582
+tdc://RCServer01/videos/PKMONEP582.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP583
+tdc://RCServer01/videos/PKMONEP583.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP584
+tdc://RCServer01/videos/PKMONEP584.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP585
+tdc://RCServer01/videos/PKMONEP585.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP586
+tdc://RCServer01/videos/PKMONEP586.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP587
+tdc://RCServer01/videos/PKMONEP587.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP588
+tdc://RCServer01/videos/PKMONEP588.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP589
+tdc://RCServer01/videos/PKMONEP589.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP590
+tdc://RCServer01/videos/PKMONEP590.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP591
+tdc://RCServer01/videos/PKMONEP591.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP592
+tdc://RCServer01/videos/PKMONEP592.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP593
+tdc://RCServer01/videos/PKMONEP593.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP594
+tdc://RCServer01/videos/PKMONEP594.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP595
+tdc://RCServer01/videos/PKMONEP595.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP596
+tdc://RCServer01/videos/PKMONEP596.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP597
+tdc://RCServer01/videos/PKMONEP597.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP598
+tdc://RCServer01/videos/PKMONEP598.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP599
+tdc://RCServer01/videos/PKMONEP599.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP600
+tdc://RCServer01/videos/PKMONEP600.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP601
+tdc://RCServer01/videos/PKMONEP601.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP602
+tdc://RCServer01/videos/PKMONEP602.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP603
+tdc://RCServer01/videos/PKMONEP603.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP604
+tdc://RCServer01/videos/PKMONEP604.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP605
+tdc://RCServer01/videos/PKMONEP605.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP606
+tdc://RCServer01/videos/PKMONEP606.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP607
+tdc://RCServer01/videos/PKMONEP607.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP608
+tdc://RCServer01/videos/PKMONEP608.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP609
+tdc://RCServer01/videos/PKMONEP609.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP610
+tdc://RCServer01/videos/PKMONEP610.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP611
+tdc://RCServer01/videos/PKMONEP611.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP612
+tdc://RCServer01/videos/PKMONEP612.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP613
+tdc://RCServer01/videos/PKMONEP613.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP614
+tdc://RCServer01/videos/PKMONEP614.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP615
+tdc://RCServer01/videos/PKMONEP615.mp4
+
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',[COLOR yellow] Em Manuntencao [/COLOR]
+
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP616
+tdc://RCServer01/videos/PKMONEP616.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP617
+tdc://RCServer01/videos/PKMONEP617.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP618
+tdc://RCServer01/videos/PKMONEP618.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP619
+tdc://RCServer01/videos/PKMONEP619.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP620
+tdc://RCServer01/videos/PKMONEP620.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP621
+tdc://RCServer01/videos/PKMONEP621.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP622
+tdc://RCServer01/videos/PKMONEP622.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP623
+tdc://RCServer01/videos/PKMONEP623.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP624
+tdc://RCServer01/videos/PKMONEP624.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP625
+tdc://RCServer01/videos/PKMONEP625.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP626
+tdc://RCServer01/videos/PKMONEP626.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP627
+tdc://RCServer01/videos/PKMONEP627.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP628
+tdc://RCServer01/videos/PKMONEP628.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP629
+tdc://RCServer01/videos/PKMONEP629.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP630
+tdc://RCServer01/videos/PKMONEP630.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP631
+tdc://RCServer01/videos/PKMONEP631.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP632
+tdc://RCServer01/videos/PKMONEP632.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP633
+tdc://RCServer01/videos/PKMONEP633.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP634
+tdc://RCServer01/videos/PKMONEP634.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP635
+tdc://RCServer01/videos/PKMONEP635.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP636
+tdc://RCServer01/videos/PKMONEP636.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP637
+tdc://RCServer01/videos/PKMONEP637.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP638
+tdc://RCServer01/videos/PKMONEP638.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP639
+tdc://RCServer01/videos/PKMONEP639.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP640
+tdc://RCServer01/videos/PKMONEP640.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP641
+tdc://RCServer01/videos/PKMONEP641.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP642
+tdc://RCServer01/videos/PKMONEP642.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP643
+tdc://RCServer01/videos/PKMONEP643.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP644
+tdc://RCServer01/videos/PKMONEP644.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP645
+tdc://RCServer01/videos/PKMONEP645.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP646
+tdc://RCServer01/videos/PKMONEP646.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP647
+tdc://RCServer01/videos/PKMONEP647.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP648
+tdc://RCServer01/videos/PKMONEP648.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP649
+tdc://RCServer01/videos/PKMONEP649.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP650
+tdc://RCServer01/videos/PKMONEP650.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP651
+tdc://RCServer01/videos/PKMONEP651.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP652
+tdc://RCServer01/videos/PKMONEP652.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP653
+tdc://RCServer01/videos/PKMONEP653.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP654
+tdc://RCServer01/videos/PKMONEP654.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP655
+tdc://RCServer01/videos/PKMONEP655.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP656
+tdc://RCServer01/videos/PKMONEP656.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP657
+tdc://RCServer01/videos/PKMONEP657.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP658
+tdc://RCServer01/videos/PKMONEP658.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP659
+tdc://RCServer01/videos/PKMONEP659.mp4
+#EXTINF:-7 tvg-logo='http://animesonlinetk.net/wp-content/uploads/2014/01/Pok%C3%A9mon-13%C2%B0-Temporada-DP-Sinnoh-League-Victors-Vencedores-da-Liga-Sinnoh-Todos-os-epis%C3%B3dios.jpg' group-title='Vencedores da Liga Sinnoh',EP660
+tdc://RCServer01/videos/870392ec.mp4

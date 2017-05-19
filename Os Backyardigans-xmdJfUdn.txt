@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1,Os Backyardigans EP01 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP01.mp4
+#EXTINF:-1,Os Backyardigans EP02 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP02.mp4
+#EXTINF:-1,Os Backyardigans EP03 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP03.mp4
+#EXTINF:-1,Os Backyardigans EP04 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP04.mp4
+#EXTINF:-1,Os Backyardigans EP05 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP05.mp4
+#EXTINF:-1,Os Backyardigans EP06 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP06.mp4
+#EXTINF:-1,Os Backyardigans EP07 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP07.mp4
+#EXTINF:-1,Os Backyardigans EP08 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP08.mp4
+#EXTINF:-1,Os Backyardigans EP09 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP09.mp4
+#EXTINF:-1,Os Backyardigans EP10 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP10.mp4
+#EXTINF:-1,Os Backyardigans EP11 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP11.mp4
+#EXTINF:-1,Os Backyardigans EP12 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP12.mp4
+#EXTINF:-1,Os Backyardigans EP13 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP13.mp4
+#EXTINF:-1,Os Backyardigans EP14 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP14.mp4
+#EXTINF:-1,Os Backyardigans EP15 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP15.mp4
+#EXTINF:-1,Os Backyardigans EP16 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP16.mp4
+#EXTINF:-1,Os Backyardigans EP17 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP17.mp4
+#EXTINF:-1,Os Backyardigans EP18 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP18.mp4
+#EXTINF:-1,Os Backyardigans EP19 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP19.mp4
+#EXTINF:-1,Os Backyardigans EP20 1 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST01EP20.mp4
+#EXTINF:-1,Os Backyardigans EP01 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP01.mp4
+#EXTINF:-1,Os Backyardigans EP02 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP02.mp4
+#EXTINF:-1,Os Backyardigans EP03 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP03.mp4
+#EXTINF:-1,Os Backyardigans EP04 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP04.mp4
+#EXTINF:-1,Os Backyardigans EP05 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP05.mp4
+#EXTINF:-1,Os Backyardigans EP06 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP06.mp4
+#EXTINF:-1,Os Backyardigans EP07 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP07.mp4
+#EXTINF:-1,Os Backyardigans EP08 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP08.mp4
+#EXTINF:-1,Os Backyardigans EP09 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP09.mp4
+#EXTINF:-1,Os Backyardigans EP10 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP10.mp4
+#EXTINF:-1,Os Backyardigans EP11 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP11.mp4
+#EXTINF:-1,Os Backyardigans EP12 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP12.mp4
+#EXTINF:-1,Os Backyardigans EP13 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP13.mp4
+#EXTINF:-1,Os Backyardigans EP14 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP14.mp4
+#EXTINF:-1,Os Backyardigans EP15 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP15.mp4
+#EXTINF:-1,Os Backyardigans EP16 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP16.mp4
+#EXTINF:-1,Os Backyardigans EP17 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP17.mp4
+#EXTINF:-1,Os Backyardigans EP18 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP18.mp4
+#EXTINF:-1,Os Backyardigans EP19 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP19.mp4
+#EXTINF:-1,Os Backyardigans EP20 2 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST02EP20.mp4
+#EXTINF:-1,Os Backyardigans EP01 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP01.mp4
+#EXTINF:-1,Os Backyardigans EP02 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP02.mp4
+#EXTINF:-1,Os Backyardigans EP03 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP03.mp4
+#EXTINF:-1,Os Backyardigans EP04 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP04.mp4
+#EXTINF:-1,Os Backyardigans EP05 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP05.mp4
+#EXTINF:-1,Os Backyardigans EP06 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP06.mp4
+#EXTINF:-1,Os Backyardigans EP07 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP07.mp4
+#EXTINF:-1,Os Backyardigans EP08 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP08.mp4
+#EXTINF:-1,Os Backyardigans EP09 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP09.mp4
+#EXTINF:-1,Os Backyardigans EP10 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP10.mp4
+#EXTINF:-1,Os Backyardigans EP11 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP11.mp4
+#EXTINF:-1,Os Backyardigans EP12 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP12.mp4
+#EXTINF:-1,Os Backyardigans EP13 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP13.mp4
+#EXTINF:-1,Os Backyardigans EP14 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP14.mp4
+#EXTINF:-1,Os Backyardigans EP15 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP15.mp4
+#EXTINF:-1,Os Backyardigans EP16 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP16.mp4
+#EXTINF:-1,Os Backyardigans EP17 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP17.mp4
+#EXTINF:-1,Os Backyardigans EP18 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP18.mp4
+#EXTINF:-1,Os Backyardigans EP19 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP19.mp4
+#EXTINF:-1,Os Backyardigans EP20 3 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST03EP20.mp4
+#EXTINF:-1,Os Backyardigans EP01 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP01.mp4
+#EXTINF:-1,Os Backyardigans EP02 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP02.mp4
+#EXTINF:-1,Os Backyardigans EP03 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP03.mp4
+#EXTINF:-1,Os Backyardigans EP04 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP04.mp4
+#EXTINF:-1,Os Backyardigans EP05 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP05.mp4
+#EXTINF:-1,Os Backyardigans EP06 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP06.mp4
+#EXTINF:-1,Os Backyardigans EP07 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP07.mp4
+#EXTINF:-1,Os Backyardigans EP08 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP08.mp4
+#EXTINF:-1,Os Backyardigans EP09 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP09.mp4
+#EXTINF:-1,Os Backyardigans EP10 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP10.mp4
+#EXTINF:-1,Os Backyardigans EP11 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP11.mp4
+#EXTINF:-1,Os Backyardigans EP12 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP12.mp4
+#EXTINF:-1,Os Backyardigans EP13 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP13.mp4
+#EXTINF:-1,Os Backyardigans EP14 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP14.mp4
+#EXTINF:-1,Os Backyardigans EP15 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP15.mp4
+#EXTINF:-1,Os Backyardigans EP16 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP16.mp4
+#EXTINF:-1,Os Backyardigans EP17 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP17.mp4
+#EXTINF:-1,Os Backyardigans EP18 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP18.mp4
+#EXTINF:-1,Os Backyardigans EP19 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP19.mp4
+#EXTINF:-1,Os Backyardigans EP20 4 Temp
+http://down.ec.cx/vd/dd/RC/RCServer10/ondemand/OSBACKYRGNST04EP20.mp4
+#EXTINF:-1,Se Inscreva em Nosso Canal http://bit.ly/canalkodish
+rdc://

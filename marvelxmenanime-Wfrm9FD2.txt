@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/X/x-men-anime-online.jpg' group-title='x-men-anime',EP1
+http://149.56.20.73/Upload/Animes/X/x-men-anime/01.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/X/x-men-anime-online.jpg' group-title='x-men-anime',EP2
+http://149.56.20.73/Upload/Animes/X/x-men-anime/02.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/X/x-men-anime-online.jpg' group-title='x-men-anime',EP3
+http://149.56.20.73/Upload/Animes/X/x-men-anime/03.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/X/x-men-anime-online.jpg' group-title='x-men-anime',EP4
+http://149.56.20.73/Upload/Animes/X/x-men-anime/04.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/X/x-men-anime-online.jpg' group-title='x-men-anime',EP5
+http://149.56.20.73/Upload/Animes/X/x-men-anime/05.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/X/x-men-anime-online.jpg' group-title='x-men-anime',EP6
+http://149.56.20.73/Upload/Animes/X/x-men-anime/06.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/X/x-men-anime-online.jpg' group-title='x-men-anime',EP7
+http://149.56.20.73/Upload/Animes/X/x-men-anime/07.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/X/x-men-anime-online.jpg' group-title='x-men-anime',EP8
+http://149.56.20.73/Upload/Animes/X/x-men-anime/08.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/X/x-men-anime-online.jpg' group-title='x-men-anime',EP9
+http://149.56.20.73/Upload/Animes/X/x-men-anime/09.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/X/x-men-anime-online.jpg' group-title='x-men-anime',EP10
+http://149.56.20.73/Upload/Animes/X/x-men-anime/10.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/X/x-men-anime-online.jpg' group-title='x-men-anime',EP11
+http://149.56.20.73/Upload/Animes/X/x-men-anime/11.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/X/x-men-anime-online.jpg' group-title='x-men-anime',EP12
+http://149.56.20.73/Upload/Animes/X/x-men-anime/12.mp4

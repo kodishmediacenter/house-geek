@@ -1,0 +1,187 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 102
+https://openload.co/embed/RxeTl8cdjdo/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 101
+https://openload.co/embed/BylDDqCavkc/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 100
+https://openload.co/embed/kCTKnoc0LwM/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 99
+https://openload.co/embed/xPuAe2peVbc/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 98
+https://openload.co/embed/fjdrCfaP3gc/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 97
+https://openload.co/embed/xLu1gvx1USs/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 96
+https://thevideo.me/embed-lcaciqqviwns.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 95
+https://thevideo.me/embed-q153j7pd4hq5.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 94
+https://thevideo.me/embed-desat7jd1yul.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 93
+https://thevideo.me/embed-9jd852y88waz.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 92
+http://thevideo.me/embed-c26923tdyr0v.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 91
+http://thevideo.me/embed-wuy8ktvkw4q6.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 90
+http://thevideo.me/embed-fxu1euv1amb5.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 89
+http://thevideo.me/embed-fxu1euv1amb5.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 88
+http://thevideo.me/embed-3l7e82qp3tul.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 87
+http://thevideo.me/embed-4philop22uez.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 86
+http://thevideo.me/embed-yskvybd0gaqb.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 85 
+http://thevideo.me/embed-mb7vwyw4c699.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 84
+http://thevideo.me/embed-zr5r89rkz0fj.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 83 
+https://openload.co/embed/CX0XMvGJylg/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 82
+https://openload.co/embed/sDYVm535r4w/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 81
+http://thevideo.me/embed-hnesbs7b3irq.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 80
+http://thevideo.me/embed-gc4l7ytk1suo.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 79
+http://thevideo.me/embed-si0a6vzq80jn.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 78
+http://thevideo.me/embed-nr20pgafeqqn.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 77
+http://thevideo.me/embed-y3ac0iwv8d2h.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 76
+http://thevideo.me/embed-ykk6jrkdrvb6.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 75
+http://thevideo.me/embed-prhppmlhgqqc.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 74
+http://thevideo.me/embed-yflutztauaow.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 73
+http://thevideo.me/embed-4za8pj7l0tl7.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 72
+http://thevideo.me/embed-grb2iuu6aljy.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 71
+http://thevideo.me/embed-cv5qalofh6po.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 70
+http://thevideo.me/embed-nkcptaxfro1z.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 69
+http://thevideo.me/embed-dknmd1cuzdn6.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 68
+http://thevideo.me/embed-8wobps5rtizy.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 67
+http://thevideo.me/embed-zrftx7l4uu51.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 66
+http://thevideo.me/embed-jxv9z1es7uyg.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 65
+http://thevideo.me/embed-uaukthi3x972.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 64
+http://thevideo.me/embed-5j9wwon4eaet.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 63
+http://thevideo.me/embed-m0r82vicsqc1.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 62
+http://thevideo.me/embed-vjz5eomgb0u2.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 61
+http://thevideo.me/embed-32ar6m7nw0jp.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 60
+http://thevideo.me/embed-gobi3t4opf3p.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 59
+hevideo.me/embed-1kema8du8wv8.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 58
+http://thevideo.me/embed-ed8u5wrt1vgk.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 57
+http://thevideo.me/embed-xbvn7jc4lk4p.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 56
+http://thevideo.me/embed-2xj8b400oi7v.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 55
+http://thevideo.me/embed-mckf39a54kxb.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 54
+http://thevideo.me/embed-k3r5wrtf70mo.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 53
+http://thevideo.me/embed-eq5euh1ut3ju.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 52
+http://thevideo.me/embed-36qi5caino4o.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 51
+http://thevideo.me/embed-ckxj2ggr75p3.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 50
+http://thevideo.me/embed-ioktr585sz9x.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 49
+http://thevideo.me/embed-xlgr829b5wjb.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 48
+http://thevideo.me/embed-yl17ncbs85xc.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 47
+http://thevideo.me/embed-ixkuy7w3e6m7.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 46
+http://thevideo.me/embed-xu1gjjtcn924.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 45
+http://thevideo.me/embed-ttpbfgs5msa9.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 44
+http://thevideo.me/embed-hkr1qc7t5v7b.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 43
+http://thevideo.me/embed-a4yt33b48j3x.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 42
+http://thevideo.me/embed-zr5l85f5fs0d.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 41
+http://thevideo.me/embed-hue5o9zgfmrk.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 40
+http://thevideo.me/embed-dftkp89o1vag.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 39
+http://thevideo.me/embed-xrzgpyup72xt.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 38
+http://thevideo.me/embed-n4nm7ny3l2iz.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 37
+http://thevideo.me/embed-8rmi3bi6j95g.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 36
+http://thevideo.me/embed-0qfucirmw6ms.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 35
+http://thevideo.me/embed-0crr4o49q0gx.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 34
+http://thevideo.me/embed-92b5bqjzph90.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 33 
+http://thevideo.me/embed-ig84uwo3u7sy.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 32
+http://thevideo.me/embed-ocp0mxkl92o2.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 31
+http://thevideo.me/embed-aesl1h7j6108.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 30 Sab
+https://openload.co/embed/z8rlUx3Em8Q/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 29
+http://thevideo.me/embed-lxh8jmkyssti.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 28 
+http://thevideo.me/embed-wz9cs86eaire.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 27 
+http://thevideo.me/embed-pf90xxis7hv8.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 26 
+http://thevideo.me/embed-ugdeca1nifbs.html

@@ -1,0 +1,50 @@
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP001
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP01.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP002
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP02.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP003
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP03.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP004
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP04.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP005
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP05.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP006
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP06.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP007
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP07.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP008
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP08.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP009
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP09.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP010
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP10.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP011
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP11.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP012
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP12.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP013
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP13.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP014
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP14.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP015
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP15.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP016
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP16.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP017
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP17.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP018
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP18.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP019
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP19.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP020
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP20.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP021
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP21.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP022
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP22.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP023
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP23.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP024
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP24.mp4
+#EXTINF:-1 tvg-logo='' group-title='Wolverine e os X-Men',Wolverine e os X-Men EP025
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/WLVRNEOXMEP25.mp4

@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP85
+tdc://RCServer01/videos/PKMONEP085.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP86
+tdc://RCServer01/videos/PKMONEP086.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP87
+tdc://RCServer01/videos/PKMONEP087.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP88
+tdc://RCServer01/videos/PKMONEP088.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP89
+tdc://RCServer01/videos/PKMONEP089.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP90
+tdc://RCServer01/videos/PKMONEP090.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP91
+tdc://RCServer01/videos/PKMONEP091.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP92
+tdc://RCServer01/videos/PKMONEP092.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP93
+tdc://RCServer01/videos/PKMONEP093.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP94
+tdc://RCServer01/videos/PKMONEP094.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP95
+tdc://RCServer01/videos/PKMONEP095.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP96
+tdc://RCServer01/videos/PKMONEP096.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP97
+tdc://RCServer01/videos/PKMONEP097.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP98
+tdc://RCServer01/videos/PKMONEP098.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP99
+tdc://RCServer01/videos/PKMONEP099.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP100
+tdc://RCServer01/videos/PKMONEP100.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP101
+tdc://RCServer01/videos/PKMONEP101.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP102
+tdc://RCServer01/videos/PKMONEP102.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP103
+tdc://RCServer01/videos/PKMONEP103.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP104
+tdc://RCServer01/videos/PKMONEP104.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP105
+tdc://RCServer01/videos/PKMONEP105.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP106
+tdc://RCServer01/videos/PKMONEP106.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP107
+tdc://RCServer01/videos/PKMONEP107.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP108
+tdc://RCServer01/videos/PKMONEP108.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP109
+tdc://RCServer01/videos/PKMONEP109.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP110
+tdc://RCServer01/videos/PKMONEP110.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP111
+tdc://RCServer01/videos/PKMONEP111.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP112
+tdc://RCServer01/videos/PKMONEP112.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP113
+tdc://RCServer01/videos/PKMONEP113.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP114
+tdc://RCServer01/videos/PKMONEP114.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP115
+tdc://RCServer01/videos/PKMONEP115.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP116
+tdc://RCServer01/videos/PKMONEP116.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP117
+tdc://RCServer01/videos/PKMONEP117.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/wji13t' group-title='Aventuras Nas Ilhas Laranja',EP118
+tdc://RCServer01/videos/PKMONEP118.mp4

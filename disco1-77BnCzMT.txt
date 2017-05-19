@@ -1,0 +1,28 @@
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Faixa 1
+http://archive.org/download/14AlyUsFollowMe/01 - Playahitty , The Summer Is Magic.mp3
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Faixa 2
+http://archive.org/download/14AlyUsFollowMe/02 - G.E.M. , I Feel You Tonight.mp3
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Faixa 3
+http://archive.org/download/14AlyUsFollowMe/03 - Red Velvet , Lady Don't Cry.mp3
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Faixa 4
+http://archive.org/download/14AlyUsFollowMe/04 - Eartha Kitt , Where Is My Man.mp3
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Faixa 5
+http://archive.org/download/14AlyUsFollowMe/05 - Fun Factory , Close To You.mp3
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Faixa 6
+http://archive.org/download/14AlyUsFollowMe/06 - Bill Power , I Swear.mp3
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Faixa 7
+http://archive.org/download/14AlyUsFollowMe/07 - Whigfield , Saturday Night.mp3
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Faixa 8
+http://archive.org/download/14AlyUsFollowMe/08 - Tony Di Bart , Do It.mp3
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Faixa 9
+http://archive.org/download/14AlyUsFollowMe/09 - Fun Factory , Take Your Chance.mp3
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Faixa 10
+http://archive.org/download/14AlyUsFollowMe/10 - Jk , You & I.mp3
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Faixa 11
+http://archive.org/download/14AlyUsFollowMe/11 - Black Rose , Melody.mp3
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Faixa 12
+http://archive.org/download/14AlyUsFollowMe/12 - Jamie Dee , People (Everybody Needs Love).mp3
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Faixa 13
+http://archive.org/download/14AlyUsFollowMe/13 - Rality , Yolanda.mp3
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Faixa 14
+http://archive.org/download/14AlyUsFollowMe/14 - Aly-Us , Follow Me.mp3

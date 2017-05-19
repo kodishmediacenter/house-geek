@@ -1,0 +1,36 @@
+<layouttype>thumbnail</layouttype>
+ 
+<item>
+<title>Contv</title>
+<utube>UCoAIs3PTLcYEVMLzAERUkvQ</utube>
+<thumbnail>http://s2.dmcdn.net/gWUUe/240x240-gHc.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/tbNVNQRuFrSuyv67aoo-21dBER2Yzv4ExJi1vhBhi-2S_YFiJkdw0qWs7FCQd7KS16NND-1zboQ=w1060-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no</fanart>
+</item>
+
+<item>
+<title>Canal do Contente</title>
+<utube>UCI5FpEHcKVIJlhv-f7ed_Zg</utube>
+<thumbnail>https://yt3.ggpht.com/-NrOiSIX0EbE/AAAAAAAAAAI/AAAAAAAAAAA/ppmPF_LIdnQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/tbNVNQRuFrSuyv67aoo-21dBER2Yzv4ExJi1vhBhi-2S_YFiJkdw0qWs7FCQd7KS16NND-1zboQ=w1060-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no</fanart>
+</item>
+
+<item>
+<title>Mister Wil Informatica 2</title>
+<utube>UCy-4KL5pfEYena_FDWPHmxA</utube>
+<thumbnail>https://yt3.ggpht.com/-RpCxMtYziHc/AAAAAAAAAAI/AAAAAAAAAAA/Vg2Jm6qdxdw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-RpCxMtYziHc/AAAAAAAAAAI/AAAAAAAAAAA/Vg2Jm6qdxdw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+</item>
+
+<item>
+<title>Ucolecionador</title>
+<utube>UCYQWpNzyDn-88Wm4G0W8UPw</utube>
+<thumbnail>https://yt3.ggpht.com/-PWIPDNQgBCw/AAAAAAAAAAI/AAAAAAAAAAA/m0zrBBNycwM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/oCQ6XEJL6ASLltZNmyVu0mm7v-5WOI8_vuoP9vCzuHzbypKTxjFlgkGT5jfDKc00MSFzJMGy=w1060-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no</fanart>
+</item>
+
+<item>
+<title>Hunter FM Pop</title>
+<utube>CxTqW7c_oeY</utube>
+<thumbnail>https://yt3.ggpht.com/-3jByPR7haus/AAAAAAAAAAI/AAAAAAAAAAA/JeYzs1WqJVc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://hunter.fm/img/bg-13.jpg</fanart>
+</item>

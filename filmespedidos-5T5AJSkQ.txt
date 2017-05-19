@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo='' group-title='Filme',[COLOR yellow]Pedidos de Filmes[/COLOR]
+https://openload.co/
+#EXTINF:-1 tvg-logo='' group-title='Filme',12 Anos De Escravidao
+https://openload.co/embed/mdbcTTo0dVI
+ 
+ 
+#EXTINF:-1 tvg-logo='' group-title='Filme',[COLOR yellow] Filmes Biblicos Record[/COLOR]
+https://openload.co/
+ 
+#EXTINF:-1 tvg-logo='https://4.bp.blogspot.com/-DDCxj1RoqTI/WGQNWqLGK9I/AAAAAAAAFpk/VqOS63eCpS4IgaUZLA1q4-FQUYSxtitRwCLcB/s1600/jose-do-egito-g1.jpg' group-title='Filme',Jose do Egito
+https://openload.co/embed/xJQw2PpezTg/
+ 
+#EXTINF:-1 tvg-logo='http://4.bp.blogspot.com/-DHRsrX_mntE/VkodYBOz6RI/AAAAAAAAEQ8/o5n-S2XDdQY/s1600/Rei-Davi-g1novelas.jpg' group-title='Filme',Rei Davi
+https://openload.co/embed/Eh1mvMsxh2s/
+
+#EXTINF:-1 tvg-logo='https://i.imgsafe.org/a110781340.jpg' group-title='Filme',O Milagres de Jesus
+https://openload.co/embed/NFMXEa8nkj0/

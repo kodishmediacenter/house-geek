@@ -1,0 +1,122 @@
+#EXTM3U
+
+#EXTINF:0,Antony e Gabriel - Eu Te Amo Pinga 
+https://www.youtube.com/watch?v=6LnPGjf1Ggw
+#EXTINF:0,Jeito Carinhoso - Jads & Jadson 
+https://www.youtube.com/watch?v=6jdiNh8sZow
+#EXTINF:0,Zé Neto e Cristiano - Seu Polícia 
+https://www.youtube.com/watch?v=u2C2UU0UpZc
+#EXTINF:0, Henrique e Juliano - Cuida Bem Dela 
+https://www.youtube.com/watch?v=2Q6eFRuYa2w
+#EXTINF:0,Cristiano Araújo - Você Mudou 
+https://www.youtube.com/watch?v=Qv5lfGeoTVw
+#EXTINF:0,Cristiano Araújo - É com ela que eu estou 
+https://www.youtube.com/watch?v=-KY0RMhwjz4
+#EXTINF:0,Jads & Jadson - Colo part. Victor & Leo 
+https://www.youtube.com/watch?v=65D_jLxye5o
+#EXTINF:0, Zezé Di Camargo & Luciano - Tarde Demais 
+https://www.youtube.com/watch?v=e5SXMsBpPpI 
+#EXTINF:0,Zezé Di Camargo & Luciano - Você Vai Ver 
+https://www.youtube.com/watch?v=7mwbe6c_VGw 
+#EXTINF:0,Zezé Di Camargo & Luciano - Coração está em pedaços 
+https://www.youtube.com/watch?v=ef3xKAIMWh8
+#EXTINF:0,ZeZé Di Camargo, Luciano - Sonho de Amor 
+https://www.youtube.com/watch?v=SE7bba1OU7A
+#EXTINF:0,Zezé Di Camargo & Luciano - Dou a Vida por um Beijo 
+https://www.youtube.com/watch?v=R4M7frA-YiM
+#EXTINF:0,zeze di camargo-cada volta é um recomeço 
+https://www.youtube.com/watch?v=yYlARnDmcnA
+#EXTINF:0,Zezé Di Camargo & Luciano - Se For Pra Judiar 
+https://www.youtube.com/watch?v=jNsA3moZ0Xs
+#EXTINF:0,Zezé Di Camargo & Luciano - Pra Não Pensar em Você 
+https://www.youtube.com/watch?v=JPITxZbf5H4
+#EXTINF:0,Zezé Di Camargo & Luciano - Dois Corações e Uma História 
+https://www.youtube.com/watch?v=M2px6py3WYA
+#EXTINF:0,Zezé Di Camargo & Luciano - Flores em Vida 
+https://www.youtube.com/watch?v=00Znffpog6k
+#EXTINF:0,Roberta Miranda - A Majestade, o sabiá 
+https://www.youtube.com/watch?v=ponkNbAOmVA
+#EXTINF:0,Roberta Miranda - São Tantas Coisas 
+https://www.youtube.com/watch?v=keO1RZAuNK4
+#EXTINF:0,Roberta Miranda Vá com Deus 
+https://www.youtube.com/watch?v=nf53py346Wo
+#EXTINF:0,João mineiro & Marciano - Seu amor ainda é tudo 
+https://www.youtube.com/watch?v=h9RrVEkEniA
+#EXTINF:0,Milionário e José Rico - Volta pra casa
+https://www.youtube.com/watch?v=bgf8oERvBoQ
+#EXTINF:0,Milionário e José Rico - Vontade Dividida 
+https://www.youtube.com/watch?v=meHtUdhKm8o
+#EXTINF:0,Milionário e José Rico - Sonhei com Você - Estrada da Vida 
+https://www.youtube.com/watch?v=ODt0kga6LW8
+#EXTINF:0,Milionário e José Rico - Decida 
+https://www.youtube.com/watch?v=hXUY0gZ8kT4
+#EXTINF:0,Milionário e José Rico - A Carta 
+https://www.youtube.com/watch?v=9jLlnZ7DS1E
+#EXTINF:0,Trio Parada Dura - Pout Pouri - Blusa Vermelha / Luz da Minha Vida / Último Adeus 
+https://www.youtube.com/watch?v=_bbGRzJDwpQ
+#EXTINF:0,Trio Parada Dura - As Andorinhas 
+https://www.youtube.com/watch?v=DiAfw25EUkk
+#EXTINF:0,Trio Parada Dura - Telefone Mudo 
+https://www.youtube.com/watch?v=65nVZEPfX8U
+#EXTINF:0,Falcão - Coração de Frango amigos do azpoint 
+https://www.youtube.com/watch?v=PNYr7DC1NwI
+#EXTINF:0,Leonardo, Eduardo Costa - Como Eu Chorei 
+https://www.youtube.com/watch?v=tLFt_v1GAkk
+#EXTINF:0, Jads & Jadson - Toca um João Mineiro e Marciano 
+https://www.youtube.com/watch?v=Ih6_EqOisag
+#EXTINF:0, Victor & Leo - 10 minutos longe de você part. Henrique & Juliano 
+https://www.youtube.com/watch?v=-gf4zoJBHJ0
+#EXTINF:0,Luan Santana - Chuva de arroz 
+https://www.youtube.com/watch?v=rTsbSY04s1Y
+#EXTINF:0,Eduardo Costa - Sapequinha
+https://www.youtube.com/watch?v=YSUYbiOe0-k
+#EXTINF:0,Leonardo, Eduardo Costa - Ainda Ontem Chorei de Saudade
+https://www.youtube.com/watch?v=8bwBDImoniw
+#EXTINF:0,Wesley Safadão - Metralhadora 
+https://www.youtube.com/watch?v=VNsCxJdsMXQ
+#EXTINF:0,Wesley Safadão - Camarote 
+https://www.youtube.com/watch?v=g-FIuQFDAxI
+#EXTINF:0,Wesley Safadão - Cerveja e vinho 
+https://www.youtube.com/watch?v=5CiNUz0lT2Y
+#EXTINF:0,Wesley Safadão - BALADA PRIME 
+https://www.youtube.com/watch?v=iptOtIPa0vE
+#EXTINF:0,Wesley Safadão - Tô de Boa
+https://www.youtube.com/watch?v=uAEi2Q1VW54
+#EXTINF:0,Eduardo Costa - Pronto Falei 
+https://www.youtube.com/watch?v=pOWm9KCn0rM
+#EXTINF:0,Jorge & Mateus - Louca de Saudade - (Como Sempre Feito Nunca) 
+https://www.youtube.com/watch?v=bZ7geVhkWqA
+#EXTINF:0, Marcos & Belutti part. Fernando Zor - Romântico Anônimo 
+https://www.youtube.com/watch?v=Ack_3EAZLlE
+#EXTINF:0, Henrique e Juliano - Como É Que A Gente Fica 
+https://www.youtube.com/watch?v=BA0x0ScUAvQ
+#EXTINF:0,Cristiano Araújo - Vai Doer (Música Inédita 2016) 
+https://www.youtube.com/watch?v=Y_GTf2m1bBE
+#EXTINF:0,Bruno e Barretto - Farra, Pinga e Foguete 
+https://www.youtube.com/watch?v=X0QJW_rRXkY
+#EXTINF:0,Marcos & Belutti part. #EXTINF:0,Wesley Safadão - Aquele 1% 
+https://www.youtube.com/watch?v=JFnWGEDZGBk
+#EXTINF:0,Fred e Gustavo - Desliga Aí 
+https://www.youtube.com/watch?v=lsU3jGy84PY
+#EXTINF:0,Henrique e Juliano - Avisa aí 
+https://www.youtube.com/watch?v=lNgwR5qdWP8
+#EXTINF:0,Wesley Safadão Part. Jorge - Você não me esqueceu
+https://www.youtube.com/watch?v=iRV9bkII7jM
+#EXTINF:0,Ze Neto e Cristiano - Eu Te Amo Sexta Feira 
+https://www.youtube.com/watch?v=se73tVETX1s
+#EXTINF:0,Luan Santana – Eu, você, o mar e ela
+https://www.youtube.com/watch?v=5IXPnPnoYns
+#EXTINF:0,Jorge & Mateus - Louca de Saudade 
+https://www.youtube.com/watch?v=bZ7geVhkWqA
+#EXTINF:0,Gusttavo Lima - Que Pena Que Acabou 
+https://www.youtube.com/watch?v=juN8L5mdXu4
+#EXTINF:0,Cristiano Araújo - Balada Prime 
+https://www.youtube.com/watch?v=EJVOBB6HESg
+#EXTINF:0,Henrique e Juliano - Amiga Parceira 
+https://www.youtube.com/watch?v=smS-DV9X9zc
+#EXTINF:0,João Bosco e Vinicius - Que Bar Que Cê Tá (2016) 
+https://www.youtube.com/watch?v=wjccTwaYaiU
+#EXTINF:0,Sexta Feira Sua Linda Alex e Ronald
+https://www.youtube.com/watch?v=2hlZ_fz_sRs
+#EXTINF:0,Jorge & Mateus Sosseguei 
+https://www.youtube.com/watch?v=vZcjAmfkemk

@@ -1,0 +1,309 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  001 - O Mundo é Dos Mais Vivos
+rdc://RCServer09/ondemand/PERNLGEP001.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  002 - A Câmera De Hortelino
+rdc://RCServer09/ondemand/PERNLGEP002.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  003 - O Coelho Selvagem
+rdc://RCServer09/ondemand/PERNLGEP003.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  004 - Bicho De Estimação Do Hortelino
+rdc://RCServer09/ondemand/PERNLGEP004.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  005 - A Tartaruga Vence o Coelho
+rdc://RCServer09/ondemand/PERNLGEP005.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  006 - O Caçador De Coelhos
+rdc://RCServer09/ondemand/PERNLGEP006.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  007 - Coelho Difícil De Ser Apanhado
+rdc://RCServer09/ondemand/PERNLGEP007.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  008 - Ensopado de Coelho
+rdc://RCServer09/ondemand/PERNLGEP008.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  009 - Encrencas Do Pernalonga
+rdc://RCServer09/ondemand/PERNLGEP009.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  010 - O Coelho Que Veio Para Jantar
+rdc://RCServer09/ondemand/PERNLGEP010.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  011 - Ouro De Coelho
+rdc://RCServer09/ondemand/PERNLGEP011.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  012 - Segure o Leão Por Favor
+rdc://RCServer09/ondemand/PERNLGEP012.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  013 - Pernalonga e o Abutre Mimoso
+rdc://RCServer09/ondemand/PERNLGEP013.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  014 - Coelho Caçado
+rdc://RCServer09/ondemand/PERNLGEP014.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  015 - O Coelho Hipnotizador
+rdc://RCServer09/ondemand/PERNLGEP015.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  016 - O Caso Do Coelho Desaparecido
+rdc://RCServer09/ondemand/PERNLGEP016.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  017 - O Concerto Dos Patos
+rdc://RCServer09/ondemand/PERNLGEP017.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  018 - O Coelho e a Tartaruga
+rdc://RCServer09/ondemand/PERNLGEP018.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  019 - Super Coelho
+rdc://RCServer09/ondemand/PERNLGEP019.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  020 - Pernalonga e o Pé De Feijão
+rdc://RCServer09/ondemand/PERNLGEP020.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  021 - Coelho De Wackiki
+rdc://RCServer09/ondemand/PERNLGEP021.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  022 - Duendes, Pois Sim
+rdc://RCServer09/ondemand/PERNLGEP022.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  023 - Um Chapéuzinho Vermelho Diferente
+rdc://RCServer09/ondemand/PERNLGEP023.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  024 - O Oscar Vai Para Pernalonga
+rdc://RCServer09/ondemand/PERNLGEP024.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  025 - Disputa Pelo Lar
+rdc://RCServer09/ondemand/PERNLGEP025.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  026 - Pernalonga e Os Três Ursos
+rdc://RCServer09/ondemand/PERNLGEP026.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  027 - Aventura Submarina
+rdc://RCServer09/ondemand/PERNLGEP027.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  028 - Pernalonga No Velho Oeste
+rdc://RCServer09/ondemand/PERNLGEP028.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  029 - O Velho Coelho Grisalho
+rdc://RCServer09/ondemand/PERNLGEP029.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  030 - Uma Caçada No Palco
+rdc://RCServer09/ondemand/PERNLGEP030.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  031 - No Caminho Do Progresso
+rdc://RCServer09/ondemand/PERNLGEP031.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  032 - Rápido No Gatilho
+rdc://RCServer09/ondemand/PERNLGEP032.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  033 - Osso Duro De Roer
+rdc://RCServer09/ondemand/PERNLGEP033.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  034 - Praga De Coelho
+rdc://RCServer09/ondemand/PERNLGEP034.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  035 - O Campeão De Beisebol
+rdc://RCServer09/ondemand/PERNLGEP035.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  036 - O Médico e o Coelho
+rdc://RCServer09/ondemand/PERNLGEP036.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  037 - Experiências De Um Coelho
+rdc://RCServer09/ondemand/PERNLGEP037.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  038 - Coelho Acrobata
+rdc://RCServer09/ondemand/PERNLGEP038.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  039 - O Refúgio
+rdc://RCServer09/ondemand/PERNLGEP039.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  040 - Rasgando o Contrato
+rdc://RCServer09/ondemand/PERNLGEP040.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  041 - Concerto Sem Dó
+rdc://RCServer09/ondemand/PERNLGEP041.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  042 - A Corrida
+rdc://RCServer09/ondemand/PERNLGEP042.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  043 - Trapalhadas De Um Coelho
+rdc://RCServer09/ondemand/PERNLGEP043.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  044 - Pernalonga Da Páscoa
+rdc://RCServer09/ondemand/PERNLGEP044.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  045 - O Coelho Do Dia
+rdc://RCServer09/ondemand/PERNLGEP045.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  046 - Dois Diabinhos Em Forma De Coelho
+rdc://RCServer09/ondemand/PERNLGEP046.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  047 - Gorila Dos Meus Sonhos
+rdc://RCServer09/ondemand/PERNLGEP047.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  048 - O Coelho Boxer
+rdc://RCServer09/ondemand/PERNLGEP048.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  049 - Pernalonga, o Pirata
+rdc://RCServer09/ondemand/PERNLGEP049.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  050 - Pernalonga Ataca De Novo
+rdc://RCServer09/ondemand/PERNLGEP050.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  051 - Coelho Heróico
+rdc://RCServer09/ondemand/PERNLGEP051.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  052 - Uma Experiencia Chocante
+rdc://RCServer09/ondemand/PERNLGEP052.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  053 - Triângulo Amoroso
+rdc://RCServer09/ondemand/PERNLGEP053.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  054 - A Lâmpada De Aladim
+rdc://RCServer09/ondemand/PERNLGEP054.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  055 - Pernalonga Na Escócia
+rdc://RCServer09/ondemand/PERNLGEP055.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  056 - A Eterna Caçada
+rdc://RCServer09/ondemand/PERNLGEP056.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  057 - Coelho Rebelde
+rdc://RCServer09/ondemand/PERNLGEP057.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  058 - Coelho De Mississipi
+rdc://RCServer09/ondemand/PERNLGEP058.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  059 - Praticando Mergulho
+rdc://RCServer09/ondemand/PERNLGEP059.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  060 - A Ponte De Brooklyn
+rdc://RCServer09/ondemand/PERNLGEP060.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  061 - Maestro Pernalonga
+rdc://RCServer09/ondemand/PERNLGEP061.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  062 - Pernalonga e o Lobo Mau
+rdc://RCServer09/ondemand/PERNLGEP062.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  063 - Coelho Numa Fria
+rdc://RCServer09/ondemand/PERNLGEP063.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  064 - Quem é a Bruxa?
+rdc://RCServer09/ondemand/PERNLGEP064.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  065 - Coelho Hood
+rdc://RCServer09/ondemand/PERNLGEP065.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  066 - O Coelho e o Realejo
+rdc://RCServer09/ondemand/PERNLGEP066.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  067 - O Motim
+rdc://RCServer09/ondemand/PERNLGEP067.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  068 - Coelho Sem Lar
+rdc://RCServer09/ondemand/PERNLGEP068.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  069 - Coelho Na Prisão
+rdc://RCServer09/ondemand/PERNLGEP069.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  070 - O Que Que Há, Velinho?
+rdc://RCServer09/ondemand/PERNLGEP070.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  071 - Pernalonga Caipira
+rdc://RCServer09/ondemand/PERNLGEP071.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  072 - Campo De Batalha
+rdc://RCServer09/ondemand/PERNLGEP072.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  073 - Canguru Por Acaso
+rdc://RCServer09/ondemand/PERNLGEP073.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  074 - Coelho De Sevilha
+rdc://RCServer09/ondemand/PERNLGEP074.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  075 - A Descoberta Da América
+rdc://RCServer09/ondemand/PERNLGEP075.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  076 - Coelho Todas As Segundas
+rdc://RCServer09/ondemand/PERNLGEP076.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  077 - O Coelho Matador
+rdc://RCServer09/ondemand/PERNLGEP077.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  078 - Teto Para Dois
+rdc://RCServer09/ondemand/PERNLGEP078.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  079 - Temporada De Caça
+rdc://RCServer09/ondemand/PERNLGEP079.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  080 - Coelho á Francesa
+rdc://RCServer09/ondemand/PERNLGEP080.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  081 - Os Contos Do Pernalonga
+rdc://RCServer09/ondemand/PERNLGEP081.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  082 - Disputa Acirrada
+rdc://RCServer09/ondemand/PERNLGEP082.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  083 - Pernalonga, o Astro Do Circo
+rdc://RCServer09/ondemand/PERNLGEP083.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  084 - Operação Coelho
+rdc://RCServer09/ondemand/PERNLGEP084.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  085 - Coelho Dezoito Quilates
+rdc://RCServer09/ondemand/PERNLGEP085.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  086 - Caça á Raposa
+rdc://RCServer09/ondemand/PERNLGEP086.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  087 - Água Por Todos Os Lados
+rdc://RCServer09/ondemand/PERNLGEP0807.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  088 - Coelho Espacial
+rdc://RCServer09/ondemand/PERNLGEP088.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  089 - Poço Do Texas
+rdc://RCServer09/ondemand/PERNLGEP089.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  090 - Caça Ao Pato
+rdc://RCServer09/ondemand/PERNLGEP090.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  091 - Ajudando a Espécie
+rdc://RCServer09/ondemand/PERNLGEP091.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  092 - Pernalonga No Céu
+rdc://RCServer09/ondemand/PERNLGEP092.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  093 - Em Frente! Marche!
+rdc://RCServer09/ondemand/PERNLGEP093.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  094 - Coelho Para Cima
+rdc://RCServer09/ondemand/PERNLGEP094.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  095 - Coelho Sulista Frito
+rdc://RCServer09/ondemand/PERNLGEP095.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  096 - Pernalonga No Altar
+rdc://RCServer09/ondemand/PERNLGEP096.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  097 - Pato Furioso
+rdc://RCServer09/ondemand/PERNLGEP097.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  098 - O Coelho Toureiro
+rdc://RCServer09/ondemand/PERNLGEP098.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  099 - Caçada Ao Pato E Ao Coelho
+rdc://RCServer09/ondemand/PERNLGEP099.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  100 - O Coelho e o Robô
+rdc://RCServer09/ondemand/PERNLGEP100.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  101 - Capitão Explosivo
+rdc://RCServer09/ondemand/PERNLGEP101.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  102 - Pernalonga e os Bandidos
+rdc://RCServer09/ondemand/PERNLGEP102.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  103 - Toca no Meio da Estrada
+rdc://RCServer09/ondemand/PERNLGEP103.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  104 - Tazmânia em Dose Dupla
+rdc://RCServer09/ondemand/PERNLGEP104.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  105 - Coelho Enfeitiçado
+rdc://RCServer09/ondemand/PERNLGEP105.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  106 - A História Americana
+rdc://RCServer09/ondemand/PERNLGEP106.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  107 - O Bebê Do Pernalonga
+rdc://RCServer09/ondemand/PERNLGEP107 .mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  108 - O Coelho e o Pé De Feijão
+rdc://RCServer09/ondemand/PERNLGEP108.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  109 - Coelho Do Deserto
+rdc://RCServer09/ondemand/PERNLGEP109.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  110 - Troca De Sorte
+rdc://RCServer09/ondemand/PERNLGEP110.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  111 - Agressão Ao Coelho
+rdc://RCServer09/ondemand/PERNLGEP111.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  112 - Isto é Vida?
+rdc://RCServer09/ondemand/PERNLGEP112.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  113 - O Coelho e o Monstro
+rdc://RCServer09/ondemand/PERNLGEP113.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  114 - Pesadelo De Coelho
+rdc://RCServer09/ondemand/PERNLGEP114.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  115 - Pondo Fogo Em Roma
+rdc://RCServer09/ondemand/PERNLGEP115.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  116 - Comportamentos Alterados
+rdc://RCServer09/ondemand/PERNLGEP116.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  117 - Bruxa Pernalonga
+rdc://RCServer09/ondemand/PERNLGEP117.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  118 - Robinson Crusoé
+rdc://RCServer09/ondemand/PERNLGEP118.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  119 - Nasce Um Novo Astro
+rdc://RCServer09/ondemand/PERNLGEP119.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  120 - Complexo De Napoleão
+rdc://RCServer09/ondemand/PERNLGEP120.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  121 - Cérebro Quase Eletrônico
+rdc://RCServer09/ondemand/PERNLGEP121.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  122 - O Ouro Da Cobiça
+rdc://RCServer09/ondemand/PERNLGEP122.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  123 - O Tesouro De Ali-Babá
+rdc://RCServer09/ondemand/PERNLGEP123.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  124 - Perdido Na Tazmânia
+rdc://RCServer09/ondemand/PERNLGEP124.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  125 - Que Ópera, Velhinho?
+rdc://RCServer09/ondemand/PERNLGEP125.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  126 - Bugsy e Mugsy
+rdc://RCServer09/ondemand/PERNLGEP126.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  127 - Show Infernal
+rdc://RCServer09/ondemand/PERNLGEP127.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  128 - Contatos Imediatos
+rdc://RCServer09/ondemand/PERNLGEP128.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  129 - Cavaleiro Pernalonga
+rdc://RCServer09/ondemand/PERNLGEP129.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  130 - Concerto do Pernalonga
+rdc://RCServer09/ondemand/PERNLGEP131.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  131 - Troca De Bebês
+rdc://RCServer09/ondemand/PERNLGEP132.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  132 - Ingenuidade Hereditária
+rdc://RCServer09/ondemand/PERNLGEP132.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  133 - Coelho Selvagem Do Velho Oeste
+rdc://RCServer09/ondemand/PERNLGEP133.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  134 - Bruxa Shakespeariana
+rdc://RCServer09/ondemand/PERNLGEP134.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  135 - Febre Do Ouro
+rdc://RCServer09/ondemand/PERNLGEP135.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  136 - Sorte De Patolino
+rdc://RCServer09/ondemand/PERNLGEP136.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  137 - Oeste Selvagem
+rdc://RCServer09/ondemand/PERNLGEP137.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  138 - Entrevista Com Pernalonga
+rdc://RCServer09/ondemand/PERNLGEP138.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  139 - A Façanha Do Coelho
+rdc://RCServer09/ondemand/PERNLGEP139.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  140 - Do Coelho Para o Herdeiro
+rdc://RCServer09/ondemand/PERNLGEP141.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  141 - O Abominável Coelho Das Neves
+rdc://RCServer09/ondemand/PERNLGEP141.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  142 - Auto Magnetismo
+rdc://RCServer09/ondemand/PERNLGEP142.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  143 - Banho De Coelho
+rdc://RCServer09/ondemand/PERNLGEP143.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  144 - Pernalonga e o Marciano
+rdc://RCServer09/ondemand/PERNLGEP144.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  145 - O Milionário
+rdc://RCServer09/ondemand/PERNLGEP145.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  146 - O Intocável
+rdc://RCServer09/ondemand/PERNLGEP146.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  147 - Pato Congelado
+rdc://RCServer09/ondemand/PERNLGEP147.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  148 - Guerra Ao Coelho
+rdc://RCServer09/ondemand/PERNLGEP148.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  149 - Falso Coelho
+rdc://RCServer09/ondemand/PERNLGEP149.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  150 - A Infância do Pernalonga
+rdc://RCServer09/ondemand/PERNLGEP150.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  151 - Esse Pingüim é Uma Fria
+rdc://RCServer09/ondemand/PERNLGEP151.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  152 - Pernalonga em Marte
+rdc://RCServer09/ondemand/PERNLGEP152.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Gh6FLM" group-title="Pernalonga",Episodio  153 - Pernalonga e o Lanterninha
+rdc://RCServer09/ondemand/PERNLGEP153.mp4
+#EXTINF:-1,Se Inscreva em Nosso Canal http://bit.ly/canalkodish
+rdc://

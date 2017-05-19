@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/I/Iron%20Man.jpg' group-title='Iron Man (Anime)',EP1
+http://www.animeai.org/Uploads/Animes/I/iron-man/01.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/I/Iron%20Man.jpg' group-title='Iron Man (Anime)',EP2
+http://www.animeai.org/Uploads/Animes/I/iron-man/02.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/I/Iron%20Man.jpg' group-title='Iron Man (Anime)',EP3
+http://www.animeai.org/Uploads/Animes/I/iron-man/03.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/I/Iron%20Man.jpg' group-title='Iron Man (Anime)',EP4
+http://www.animeai.org/Uploads/Animes/I/iron-man/04.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/I/Iron%20Man.jpg' group-title='Iron Man (Anime)',EP5
+http://www.animeai.org/Uploads/Animes/I/iron-man/05.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/I/Iron%20Man.jpg' group-title='Iron Man (Anime)',EP6
+http://www.animeai.org/Uploads/Animes/I/iron-man/06.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/I/Iron%20Man.jpg' group-title='Iron Man (Anime)',EP7
+http://www.animeai.org/Uploads/Animes/I/iron-man/07.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/I/Iron%20Man.jpg' group-title='Iron Man (Anime)',EP8
+http://www.animeai.org/Uploads/Animes/I/iron-man/08.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/I/Iron%20Man.jpg' group-title='Iron Man (Anime)',EP9
+http://www.animeai.org/Uploads/Animes/I/iron-man/09.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/I/Iron%20Man.jpg' group-title='Iron Man (Anime)',EP10
+http://www.animeai.org/Uploads/Animes/I/iron-man/10.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/I/Iron%20Man.jpg' group-title='Iron Man (Anime)',EP11
+http://www.animeai.org/Uploads/Animes/I/iron-man/11.mp4
+#EXTINF:-7 tvg-logo='http://www.animeai.net/img/lista-de-animes/I/Iron%20Man.jpg' group-title='Iron Man (Anime)',EP12
+http://www.animeai.org/Uploads/Animes/I/iron-man/12.mp4
+#EXTINF:-7 tvg-logo='http://ftpweb.mazedanetworks.net/wp-content/uploads/2015/12/iron-man.jpg' group-title='Iron Man: Rise of Technovore Dublado',Iron Man: Rise of Technovore Dublado
+http://www.animeai.org/Uploads/Animes/I/iron-man/Iron%20Man%20Rise%20of%20Technovore%20Dublado.mp4

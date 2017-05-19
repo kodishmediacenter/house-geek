@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo='',Game Of Thrones 1 temp
+http://www.mega-debrit.com/MEGA/mega_17af59d81d/www.mega-debrit.com_S01-E01+-+Winter+Is+Coming.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 1 temp
+http://www.mega-debrit.com/MEGA/mega_87b913c931/www.mega-debrit.com_Game+of+Thrones+-+S01-E02+-+The+Kingsroad+-+Dual+Audio+-+BR-RMZ+1080p+x264+AAC+DTS.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 1 temp
+http://www.mega-debrit.com/MEGA/mega_5ce71faaf5/www.mega-debrit.com_Game+of+Thrones+-+S01-E03+-+Lord+Snow+-+Dual+Audio+-+BR-RMZ+1080p+x264+AAC+DTS.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 1 temp
+http://www.mega-debrit.com/MEGA/mega_4b00e57477/www.mega-debrit.com_S01-E04+-+Cripples%2C+Bastards%2C+and+Broken+Things.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 1 temp
+http://www.mega-debrit.com/MEGA/mega_7d7c930323/www.mega-debrit.com_S01-E05+-+The+Wolf+and+the+Lion.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 1 temp
+http://www.mega-debrit.com/MEGA/mega_e5c6af76ce/www.mega-debrit.com_S01-E06+-+A+Golden+Crown.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 1 temp
+http://www.mega-debrit.com/MEGA/mega_491c450837/www.mega-debrit.com_S01-E07+-+You+Win+or+You+Die.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 1 temp
+http://www.mega-debrit.com/MEGA/mega_b47bd19b6e/www.mega-debrit.com_S01-E08+-The+Pointy+End.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 1 temp
+http://www.mega-debrit.com/MEGA/mega_e07227b83a/www.mega-debrit.com_S01-E09+-+Baelor.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 1 temp
+http://www.mega-debrit.com/MEGA/mega_28c153787d/www.mega-debrit.com_S01-E10+-+Fire+and+Blood.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 2 temp
+http://www.mega-debrit.com/MEGA/mega_405055a2a8/www.mega-debrit.com_Game_of_Thrones_-_S02E01_-_The_North_Remembers_-_Dual_Audio_-_BR-RMZ_1080p_x264_AAC+DTS.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 2 temp
+http://www.mega-debrit.com/MEGA/mega_19b9b740b2/www.mega-debrit.com_Game_of_Thrones_-_S02E02_-_The_Night_Lands_-_Dual_Audio_-_BR-RMZ_1080p_x264_AAC+DTS.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 2 temp
+http://www.mega-debrit.com/MEGA/mega_686ad4887a/www.mega-debrit.com_Game_of_Thrones_-_S02E03_-_What_Is_Dead_May_Never_Die_-_Dual_Audio_-_BR-RMZ_1080p_x264_AAC+DTS.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 2 temp
+http://www.mega-debrit.com/MEGA/mega_8a92ba249f/www.mega-debrit.com_Game_of_Thrones_-_S02E04_-_Garden_of_Bones_-_Dual_Audio_-_BR-RMZ_1080p_x264_AAC+DTS.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 2 temp
+http://www.mega-debrit.com/MEGA/mega_3687ba4154/www.mega-debrit.com_Game_of_Thrones_-_S02E05_-_The_Ghost_of_Harrenhal_-_Dual_Audio_-_BR-RMZ_1080p_x264_AAC+DTS.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 2 temp
+http://www.mega-debrit.com/MEGA/mega_abfe3173f1/www.mega-debrit.com_Game_of_Thrones_-_S02E06_-_The_Old_Gods_and_the_New_-_Dual_Audio_-_BR-RMZ_1080p_x264_AAC+DTS.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 2 temp
+http://www.mega-debrit.com/MEGA/mega_149d49576c/www.mega-debrit.com_Game_of_Thrones_-_S02E07_-_A_Man_Without_Honor_-_Dual_Audio_-_BR-RMZ_1080p_x264_AAC+DTS.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 2 temp
+http://www.mega-debrit.com/MEGA/mega_370c0301bf/www.mega-debrit.com_Game_of_Thrones_-_S02E08_-_The_Prince_of_Winterfell_-_Dual_Audio_-_BR-RMZ_1080p_x264_AAC+DTS.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 2 temp
+http://www.mega-debrit.com/MEGA/mega_942ab8f536/www.mega-debrit.com_Game_of_Thrones_-_S02E09_-_Blackwater_-_Dual_Audio_-_BR-RMZ_1080p_x264_AAC+DTS.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 2 temp
+http://www.mega-debrit.com/MEGA/mega_6d46e4073d/www.mega-debrit.com_Game_of_Thrones_-_S02E10_-_Valar_Morghulis_-_Dual_Audio_-_BR-RMZ_1080p_x264_AAC+DTS.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 3 temp
+http://www.mega-debrit.com/MEGA/mega_789311c743/www.mega-debrit.com_Game+of+Thrones+-+S03E01+-+Valar+Dohaeris+-+1080p+BluRay+x264-Belex+-+Dual+Audio.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 3 temp
+http://www.mega-debrit.com/MEGA/mega_85714df3ed/www.mega-debrit.com_Game+of+Thrones+-+S03E02+-+Dark+Wings+Dark+Words+-+1080p+BluRay+x264-Belex+-+Dual+Audio.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 3 temp
+http://www.mega-debrit.com/MEGA/mega_2df3f76eb5/www.mega-debrit.com_Game+of+Thrones+-+S03E03+-+Walk+of+Punishment+-+1080p+BluRay+x264-Belex+-+Dual+Audio.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 3 temp
+http://www.mega-debrit.com/MEGA/mega_1633585160/www.mega-debrit.com_GameGame+of+Thrones+-+S03E04+-+And+Now+His+Watch+Is+Ended+-+1080p+BluRay+x264-Belex+-+Dual+Audio.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 3 temp
+http://www.mega-debrit.com/MEGA/mega_aafdfe11aa/www.mega-debrit.com_Game+of+Thrones+-+S03E05+-+Kissed+by+Fire+-+1080p+BluRay+x264-Belex+-+Dual+Audio.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 3 temp
+http://www.mega-debrit.com/MEGA/mega_dd428f0f70/www.mega-debrit.com_GameGame+of+Thrones+-+S03E06+-+The+Climb+-+1080p+BluRay+x264-Belex+-+Dual+Audio.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 3 temp
+http://www.mega-debrit.com/MEGA/mega_ec14f7c5a0/www.mega-debrit.com_Game+of+Thrones+-+S03E07+-+The+Bear+and+the+Maiden+Fair+-+1080p+BluRay+x264-Belex+-+Dual+Audio.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 3 temp
+http://www.mega-debrit.com/MEGA/mega_0b29c47b62/www.mega-debrit.com_Game+of+Thrones+-+S03E08+-+Second+Sons+-+1080p+BluRay+x264-Belex+-+Dual+Audio.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 3 temp
+http://www.mega-debrit.com/MEGA/mega_95cb3610cc/www.mega-debrit.com_Game+of+Thrones+-+S03E09+-+The+Rains+of+Castamere+-+1080p+BluRay+x264-Belex+-+Dual+Audio.mkv
+#EXTINF:-1 tvg-logo='',Game Of Thrones 3 temp
+http://www.mega-debrit.com/MEGA/mega_d52472725f/www.mega-debrit.com_Game+of+Thrones+-+S03E10+-+Mhysa+-+1080p+BluRay+x264-Belex+-+Dual+Audio.mkv

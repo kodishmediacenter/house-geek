@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0,Lista 1
+http://pastebin.com/raw/DJVg8ZwV
+#EXTINF:0,Lista 2
+http://pastebin.com/raw/TUF7XKMc
+#EXTINF:0,Lista 4
+http://pastebin.com/raw/wNtrrfE0
+#EXTINF:0,Lista 5
+http://pastebin.com/raw/pxnVCu6W

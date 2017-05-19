@@ -1,0 +1,72 @@
+<layouttype>thumbnail</layouttype>
+ 
+<item>
+<title>Summer Eletrohits 01</title>
+<m3u>https://archive.org/download/SE-01_201705/SE-01_201705_vbr.m3u</m3u>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/39/Summer_Eletrohits.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/3/39/Summer_Eletrohits.jpg</fanart>
+</item>
+
+<item>
+<title>Summer Eletrohits 02</title>
+<m3u>https://archive.org/download/fabiolmglgeo_gmail_SE-2/fabiolmglgeo_gmail_SE-2_vbr.m3u</m3u>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/ad/Summer_Eletrohits_2.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/a/ad/Summer_Eletrohits_2.jpg</fanart>
+</item>
+
+<item>
+<title>Summer Eletrohits 03</title>
+<m3u>https://archive.org/download/fabiolmglgeo_gmail_SE-3/fabiolmglgeo_gmail_SE-3_vbr.m3u</m3u>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a6/Summer_Eletrohits_3.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/a/a6/Summer_Eletrohits_3.jpg</fanart>
+</item>
+
+<item>
+<title>Summer Eletrohits 04</title>
+<m3u>https://archive.org/download/SE-04/SE-04_vbr.m3u</m3u>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/45/Summer_Eletrohits_4.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/4/45/Summer_Eletrohits_4.jpg</fanart>
+</item>
+
+
+<item>
+<title>Summer Eletrohits 05</title>
+<m3u>https://archive.org/download/SE-05_201705/SE-05_201705_vbr.m3u</m3u>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/ff/Summer_Eletrohits_5.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/f/ff/Summer_Eletrohits_5.jpg</fanart>
+</item>
+
+<item>
+<title>Summer Eletrohits 06</title>
+<m3u>https://archive.org/download/SE-06/SE-06_vbr.m3u</m3u>
+<thumbnail>http://2.bp.blogspot.com/_7gpKrQOQDjA/SxfCxJggNSI/AAAAAAAAEhM/wCL7Vbzzg3k/s1600/Summer+Eletrohits+6.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/_7gpKrQOQDjA/SxfCxJggNSI/AAAAAAAAEhM/wCL7Vbzzg3k/s1600/Summer+Eletrohits+6.jpg</fanart>
+</item>
+
+<item>
+<title>Summer Eletrohits 07</title>
+<m3u>https://archive.org/download/SE-07/SE-07_vbr.m3u</m3u>
+<thumbnail>http://i621.photobucket.com/albums/tt293/eliteportugas/musica/VA-SummerEletrohitsVol7.jpg</thumbnail>
+<fanart>http://i621.photobucket.com/albums/tt293/eliteportugas/musica/VA-SummerEletrohitsVol7.jpg</fanart>
+</item>
+
+<item>
+<title>Summer Eletrohits 08</title>
+<m3u>https://archive.org/download/SE-08/SE-08_vbr.m3u</m3u>
+<thumbnail>https://ia601508.us.archive.org/21/items/SE-08/Capa.jpg</thumbnail>
+<fanart>https://ia601508.us.archive.org/21/items/SE-08/Capa.jpg</fanart>
+</item>
+
+<item>
+<title>Summer Eletrohits 09</title>
+<m3u>https://archive.org/download/SE-07/SE-09_vbr.m3u</m3u>
+<thumbnail>http://3.bp.blogspot.com/-TImgWmERDtc/UTI63MS3BUI/AAAAAAAADwg/P48Ec34DuBg/s1600/Capa+do+CD+Summer+Eletrohits+9.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-TImgWmERDtc/UTI63MS3BUI/AAAAAAAADwg/P48Ec34DuBg/s1600/Capa+do+CD+Summer+Eletrohits+9.jpg</fanart>
+</item>
+
+<item>
+<title>Summer Eletrohits 10</title>
+<m3u>https://archive.org/download/SE-10/SE-10_vbr.m3u</m3u>
+<thumbnail>https://ia601503.us.archive.org/11/items/SE-10/Summer%20Eletrohits%20-%20Vol.10.jpg</thumbnail>
+<fanart>https://ia601503.us.archive.org/11/items/SE-10/Summer%20Eletrohits%20-%20Vol.10.jpg</fanart>
+</item>

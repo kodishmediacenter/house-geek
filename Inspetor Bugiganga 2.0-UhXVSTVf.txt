@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,01 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,02 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,03 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,04 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,05 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,06 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,07 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,08 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,09 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,10 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,11 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,12 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,13 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,14 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,15 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,16 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,17 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,18 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,19 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,20 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,21 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,22 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,23 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,24 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP24.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,25 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP25.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Jp2A6E" group-title="Inspetor Bugiganga 2.0" ,26 - Inspetor Bugiganga 2.0
+rdc://RCServer10/ondemand/INPTRBGNGT01EP26.mp4

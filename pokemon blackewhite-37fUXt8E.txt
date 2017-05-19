@@ -1,0 +1,118 @@
+#EXTINF:-7 tvg-logo='',EP01
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/01.mp4
+#EXTINF:-7 tvg-logo='',EP02
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/02.mp4
+#EXTINF:-7 tvg-logo='',EP03
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/03.mp4
+#EXTINF:-7 tvg-logo='',EP04
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/04.mp4 
+#EXTINF:-7 tvg-logo='',EP05
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/05.mp4
+#EXTINF:-7 tvg-logo='',EP06
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/06.mp4
+#EXTINF:-7 tvg-logo='',EP07
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/07.mp4
+#EXTINF:-7 tvg-logo='',EP08
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/08.mp4
+#EXTINF:-7 tvg-logo='',EP09
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/09.mp4
+#EXTINF:-7 tvg-logo='',EP10
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/10.mp4
+#EXTINF:-7 tvg-logo='',EP11
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/11.mp4
+#EXTINF:-7 tvg-logo='',EP12
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/12.mp4
+#EXTINF:-7 tvg-logo='',EP13
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/13.mp4
+#EXTINF:-7 tvg-logo='',EP14
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/14.mp4 
+#EXTINF:-7 tvg-logo='',EP15
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/15.mp4
+#EXTINF:-7 tvg-logo='',EP16
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/16.mp4
+#EXTINF:-7 tvg-logo='',EP17
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/17.mp4
+#EXTINF:-7 tvg-logo='',EP18
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/18.mp4
+#EXTINF:-7 tvg-logo='',EP19
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/19.mp4
+#EXTINF:-7 tvg-logo='',EP20
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/20.mp4
+#EXTINF:-7 tvg-logo='',EP22
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/21.mp4
+#EXTINF:-7 tvg-logo='',EP22
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/22.mp4
+#EXTINF:-7 tvg-logo='',EP23
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/23.mp4
+#EXTINF:-7 tvg-logo='',EP24
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/24.mp4 
+#EXTINF:-7 tvg-logo='',EP25
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/25.mp4
+#EXTINF:-7 tvg-logo='',EP26
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/26.mp4
+#EXTINF:-7 tvg-logo='',EP27
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/27.mp4
+#EXTINF:-7 tvg-logo='',EP28
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/28.mp4
+#EXTINF:-7 tvg-logo='',EP29
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/29.mp4
+#EXTINF:-7 tvg-logo='',EP20
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/30.mp4
+#EXTINF:-7 tvg-logo='',EP33
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/31.mp4
+#EXTINF:-7 tvg-logo='',EP33
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/32.mp4
+#EXTINF:-7 tvg-logo='',EP33
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/33.mp4
+#EXTINF:-7 tvg-logo='',EP34
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/34.mp4 
+#EXTINF:-7 tvg-logo='',EP35
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/35.mp4
+#EXTINF:-7 tvg-logo='',EP36
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/36.mp4
+#EXTINF:-7 tvg-logo='',EP37
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/37.mp4
+#EXTINF:-7 tvg-logo='',EP38
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/38.mp4
+#EXTINF:-7 tvg-logo='',EP39
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/39.mp4
+#EXTINF:-7 tvg-logo='',EP40
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/40.mp4
+#EXTINF:-7 tvg-logo='',EP44
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/41.mp4
+#EXTINF:-7 tvg-logo='',EP44
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/42.mp4
+#EXTINF:-7 tvg-logo='',EP44
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/43.mp4
+#EXTINF:-7 tvg-logo='',EP44
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/44.mp4 
+#EXTINF:-7 tvg-logo='',EP45
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/45.mp4
+#EXTINF:-7 tvg-logo='',EP46
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/46.mp4
+#EXTINF:-7 tvg-logo='',EP47
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/47.mp4
+#EXTINF:-7 tvg-logo='',EP48
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/48.mp4
+#EXTINF:-7 tvg-logo='',EP49
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/49.mp4
+#EXTINF:-7 tvg-logo='',EP50
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/50.mp4
+#EXTINF:-7 tvg-logo='',EP51
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/51.mp4
+#EXTINF:-7 tvg-logo='',EP52
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/52.mp4
+#EXTINF:-7 tvg-logo='',EP53
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/53.mp4
+#EXTINF:-7 tvg-logo='',EP54
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/54.mp4 
+#EXTINF:-7 tvg-logo='',EP55
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/55.mp4
+#EXTINF:-7 tvg-logo='',EP56
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/56.mp4
+#EXTINF:-7 tvg-logo='',EP57
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/57.mp4
+#EXTINF:-7 tvg-logo='',EP58
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/58.mp4
+#EXTINF:-7 tvg-logo='',EP59
+http://149.56.25.203/Uploads/Animes/P/pokemon-best-wishes-2-2-temporada/59.mp4

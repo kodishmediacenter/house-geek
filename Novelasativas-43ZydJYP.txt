@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+<channels>
+
+<channel>
+<name>[COLOR chartreuse][B]Carinha de Anjo[/B][/COLOR]</name>
+<thumbnail>https://3.bp.blogspot.com/-VLx3gHx-wOI/WDLiMtdOCCI/AAAAAAAAFh0/nQmtfSOukXEslzj4dOlu4lr6KAHYvqSsACLcB/s1600/carinha-de-anjo-g1.jpg</thumbnail>
+<externallink>http://pastebin.com/raw/qvrcHcfi</externallink>
+<fanart>http://www.otvfoco.com.br/wp-content/uploads/2016/11/carinha-de-anjo.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR chartreuse][B]Rock Store[/B][/COLOR]</name>
+<thumbnail>https://2.bp.blogspot.com/-ckAgql0zGWo/WCMCNeoqeRI/AAAAAAAADDM/JmdPcUEcQvokBunuv-uj1Wrc8Jjd3oiBwCLcB/s1600/Rock-Story-g1.jpg</thumbnail>
+<externallink>http://pastebin.com/raw/ru27E36m</externallink>
+<fanart>http://resumosdasnovelas.net/wp-content/uploads/2016/11/Logo-Rock-Story.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR chartreuse][B]A Lei do Amor[/B][/COLOR]</name>
+<thumbnail>https://3.bp.blogspot.com/-ry0cuGeuVpY/V_uu19VoqoI/AAAAAAAAFX0/MY3ptp625ngIit0STvYWswJKcljZrv-MACLcB/s1600/a-lei-do-amor-g1.jpg</thumbnail>
+<externallink>http://pastebin.com/raw/x0d9C4ki</externallink>
+<fanart>http://s.glbimg.com/jo/eg/f/original/2016/09/23/268389.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR chartreuse][B]A Terra Prometida[/B][/COLOR]</name>
+<thumbnail>https://1.bp.blogspot.com/-zd5u9guJzT0/V3qSMl5vC0I/AAAAAAAAE7E/dOjuIFdiCVk1Fpg2fn6-ecnsVGecHpiuACLcB/s1600/a-terra-prometida-g1.jpg</thumbnail>
+<externallink>http://pastebin.com/raw/Hp5CeekT</externallink>
+<fanart>http://static.wixstatic.com/media/72bd2c_b1531a88082c4638a69d1d5caede0667~mv2.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR chartreuse][B]Escrava Mae[/B][/COLOR]</name>
+<thumbnail>https://1.bp.blogspot.com/-SDZo_N1jZBY/V0yaTbjPpmI/AAAAAAAAEyA/nH7FZ8dpZJwBi5rXGhUDn0A3U7ynp3aRwCLcB/s1600/escrava-mae-g1.jpg</thumbnail>
+<externallink>http://pastebin.com/raw/DAMhw3mJ</externallink>
+<fanart>https://i.ytimg.com/vi/K5zox1EHZWk/maxresdefault.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR chartreuse][B]Cheias de Charme[/B][/COLOR]</name>
+<thumbnail>https://4.bp.blogspot.com/-76AnX6wKRbI/V0sggVlMwsI/AAAAAAAAExQ/kjnfajk29pAOPRxRpyS3fgWYa0xYWD04QCLcB/s1600/cheias-de-charme-g1.jpg</thumbnail>
+<externallink>http://pastebin.com/raw/7QFURuWW</externallink>
+<fanart>https://i1.wp.com/famososnaweb.com/wp-content/uploads/2016/07/cheias-de-charme.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR chartreuse][B]Malhacao[/B][/COLOR]</name>
+<thumbnail>https://2.bp.blogspot.com/--jRhFZW8Wso/V7sbHVy-lFI/AAAAAAAAFGM/YlLIQUIo12cISMoz8GPojVFlU7GaXeTBACLcB/s1600/malhacao-2016-g1.jpg</thumbnail>
+<externallink>http://pastebin.com/raw/sPB1ZQLx</externallink>
+<fanart>http://almanaquemidia.com/wp-content/uploads/2015/08/Captura-de-Tela-2015-08-12-%C3%A0s-20.18.57-e1439422320421.png</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channel>
+<name>[COLOR chartreuse][B]Escrava Isaura[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/z6sY1C</thumbnail>
+<externallink>http://pastebin.com/raw/vYeghkpa</externallink>
+<fanart>http://image.slidesharecdn.com/aescravaisaura-150424125145-conversion-gate02/95/a-escrava-isaura-atores-antes-e-depois-novela-record-2004-1-638.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR chartreuse][B]Filmes e Pedidos[/B][/COLOR]</name>
+<thumbnail>http://www.otvfoco.com.br/wp-content/uploads/2013/04/filmes_logo.jpg</thumbnail>
+<externallink>http://pastebin.com/raw/5T5AJSkQ</externallink>
+<fanart>http://blog.meuspedidos.com.br/wp-content/uploads/2015/04/Foto-filmes_07.04.jpg</fanart>
+<info></info>
+</channel>
+</channels>

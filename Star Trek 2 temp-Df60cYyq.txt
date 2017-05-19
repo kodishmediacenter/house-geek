@@ -1,0 +1,52 @@
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 01- Tempo De Loucura
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP01.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 02 - Lamento Por Adônis 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP02.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 03 - Nômade 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP03.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 04 - O Reflexo No Espelho 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP04.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 05 - Fruto Proibido 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP05.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 06 - A Máquina Da Destruição 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP06.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 07 - O Dia Das Bruxas 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP07.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 08 - Eu Mudd 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP08.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 09 - Metamorfose 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP09.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 10 - A Caminho De Babel 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP10.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 11 - O Sucessor 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP11.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 12 - Os Anos Mortais 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP12.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 13 - Obsessão 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP13.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 14 - Um Lobo Entre Os Cordeiros 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP14.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 15 - Problemas Aos Pingos 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP15.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 16 - Os Senhores De Triskelion 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP16.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 17 - Um Pedaço Da Ação 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP17.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 18 - A Síndrome Da Imunidade 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP18.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 19 - Uma Guerra Particular 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP19.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 20 - Volta Ao Amanhã 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP20.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 21 - Padrões De Força 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP21.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 22 - Por Qualquer Outro Nome 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP22.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 23 - A Glória De Ômega 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP23.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 24 - O Computador Supremo 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP24.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 25 - Pão & Circo 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP25.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 26 - Missão Terra 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT02EP26.mp4

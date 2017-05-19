@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP01
+rdc://RCServer09/ondemand/SCBDHHLEP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP02
+rdc://RCServer09/ondemand/SCBDHHLEP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP03
+rdc://RCServer09/ondemand/SCBDHHLEP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP04
+rdc://RCServer09/ondemand/SCBDHHLEP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP05
+rdc://RCServer09/ondemand/SCBDHHLEP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP06
+rdc://RCServer09/ondemand/SCBDHHLEP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP07
+rdc://RCServer09/ondemand/SCBDHHLEP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP08
+rdc://RCServer09/ondemand/SCBDHHLEP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP09
+rdc://RCServer09/ondemand/SCBDHHLEP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP10
+rdc://RCServer09/ondemand/SCBDHHLEP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP11
+rdc://RCServer09/ondemand/SCBDHHLEP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP12
+rdc://RCServer09/ondemand/SCBDHHLEP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP13
+rdc://RCServer09/ondemand/SCBDHHLEP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP14
+rdc://RCServer09/ondemand/SCBDHHLEP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP15
+rdc://RCServer09/ondemand/SCBDHHLEP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP16
+rdc://RCServer09/ondemand/SCBDHHLEP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP17
+rdc://RCServer09/ondemand/SCBDHHLEP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP18
+rdc://RCServer09/ondemand/SCBDHHLEP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP19
+rdc://RCServer09/ondemand/SCBDHHLEP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP20
+rdc://RCServer09/ondemand/SCBDHHLEP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP21
+rdc://RCServer09/ondemand/SCBDHHLEP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP22
+rdc://RCServer09/ondemand/SCBDHHLEP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP23
+rdc://RCServer09/ondemand/SCBDHHLEP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ntCQlzY" group-title="Scooby Doo e Os Ho-Ho-Límpicos",EP24
+rdc://RCServer09/ondemand/SCBDHHLEP24.mp4

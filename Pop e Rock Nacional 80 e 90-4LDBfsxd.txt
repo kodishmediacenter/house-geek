@@ -1,0 +1,45 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="",[COLOR yellow]Pop Rock e Flash Back 80 e 90 [/COLOR]
+
+#EXTINF:-1 tvg-logo="",Megamix Nacional Anos 80
+https://raw.githubusercontent.com/kodishmediacenter/store/master/musicas/rock-Popbrazuca/01MegamixNacionalAnos80_vbr.m3u
+
+#EXTINF:-1 tvg-logo="",Sequencia Rock Brasil
+https://raw.githubusercontent.com/kodishmediacenter/store/master/musicas/rock-Popbrazuca/01SEQUENCIAROCKBRASIL_vbr.m3u
+
+#EXTINF:-1 tvg-logo="",Megamix Nacional 80 e 90
+https://raw.githubusercontent.com/kodishmediacenter/store/master/musicas/rock-Popbrazuca/MegamixNacional80-90.m3u
+
+#EXTINF:-1 tvg-logo="",Remix Brasil
+https://raw.githubusercontent.com/kodishmediacenter/store/master/musicas/rock-Popbrazuca/Remix-brasil.m3u
+
+#EXTINF:-1 tvg-logo="",Pop Nacional 90
+https://raw.githubusercontent.com/kodishmediacenter/store/master/musicas/rock-Popbrazuca/pop-nacional-90.m3u
+
+#EXTINF:-1 tvg-logo="",Pop romantico Nacional
+https://raw.githubusercontent.com/kodishmediacenter/store/master/musicas/rock-Popbrazuca/pop-romantico-nacional.m3u
+
+#EXTINF:-1 tvg-logo="",Flash Back 
+https://raw.githubusercontent.com/kodishmediacenter/store/master/m3u-play/flashback.m3u
+
+#EXTINF:-1 tvg-logo="",Melhor das Novelas Internacionais 80 e 90 
+https://archive.org/download/18MilliVanilliImGonnaMissYou/18MilliVanilliImGonnaMissYou_vbr.m3u
+
+#EXTINF:-1 tvg-logo="",Melhor das Novelas nacional 80 e 90 
+https://archive.org/download/65DaltoGuru/65DaltoGuru_vbr.m3u
+
+#EXTINF:-1 tvg-logo="",Melhor das Novelas Internacionais 70 
+https://archive.org/download/GladysKnightYouAndMeAgainstTheWorld/GladysKnightYouAndMeAgainstTheWorld_vbr.m3u
+
+#EXTINF:-1 tvg-logo="",211 sons dos anos 70 80 90 - Parte 1
+https://archive.org/download/OsMelhoresComoEBomTeAmarLifeIsLife/OsMelhoresComoEBomTeAmarLifeIsLife_vbr.m3u
+
+#EXTINF:-1 tvg-logo="",195 sons dos anos 70 80 90 - Parte 2
+https://archive.org/download/Classic80sMegamix/Classic80sMegamix_vbr.m3u
+
+#EXTINF:-1 tvg-logo="",157 sons dos anos 70 80 90 - Parte 3
+https://archive.org/download/SilviaPatriciaMilPedaosE...CracRemix/SilviaPatriciaMilPedaosE...CracRemix_vbr.m3u
+
+#EXTINF:-1 tvg-logo="",238 sons dos anos 70 80 90 - Parte 4
+https://archive.org/download/118SupertrampItsRainingAgain_201605/118SupertrampItsRainingAgain_201605_vbr.m3u

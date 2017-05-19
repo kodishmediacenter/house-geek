@@ -1,0 +1,79 @@
+<layouttype>thumbnail</layouttype>
+ 
+<item>
+<title>Jovem Pan na Balada  01</title>
+<m3u>https://archive.org/download/14AlyUsFollowMe_201705/14AlyUsFollowMe_201705_vbr.m3u</m3u>
+<thumbnail>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</thumbnail>
+<fanart>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</fanart>
+</item>
+
+
+<item>
+<title>Jovem Pan na Balada  02</title>
+<m3u>https://archive.org/download/01NewtonSkyHigh_201705/01NewtonSkyHigh_201705_vbr.m3u</m3u>
+<thumbnail>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</thumbnail>
+<fanart>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</fanart>
+</item>
+
+<item>
+<title>Jovem Pan na Balada  03</title>
+<m3u>https://archive.org/download/08FunForceSeFue_201705/08FunForceSeFue_201705_vbr.m3u</m3u>
+<thumbnail>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</thumbnail>
+<fanart>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</fanart>
+</item>
+
+<item>
+<title>Jovem Pan na Balada  04</title>
+<m3u>https://archive.org/download/02NickiFrenchDidYouEverReallyLoveMe_201705/02NickiFrenchDidYouEverReallyLoveMe_201705_vbr.m3u</m3u>
+<thumbnail>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</thumbnail>
+<fanart>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</fanart>
+</item>
+
+<item>
+<title>Jovem Pan na Balada  05</title>
+<m3u>https://archive.org/download/04BandidoIDroveAllNight_201705/04BandidoIDroveAllNight_201705_vbr.m3u</m3u>
+<thumbnail>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</thumbnail>
+<fanart>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</fanart>
+</item>
+
+<item>
+<title>Jovem Pan na Balada  06</title>
+<m3u>https://archive.org/download/05SuzannRyeBecauseYouLovedMeSpanishMix_201705/05SuzannRyeBecauseYouLovedMeSpanishMix_201705_vbr.m3u</m3u>
+<thumbnail>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</thumbnail>
+<fanart>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</fanart>
+</item>
+
+<item>
+<title>Jovem Pan na Balada  07</title>
+<m3u>https://archive.org/download/14DjQuicksilverBelissma_201705/14DjQuicksilverBelissma_201705_vbr.m3u</m3u>
+<thumbnail>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</thumbnail>
+<fanart>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</fanart>
+</item>
+
+<item>
+<title>Jovem Pan na Balada  08</title>
+<m3u>https://archive.org/download/06XponeFeatQueenReginaStrangerInParadise_201705/06XponeFeatQueenReginaStrangerInParadise_201705_vbr.m3u</m3u>
+<thumbnail>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</thumbnail>
+<fanart>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</fanart>
+</item>
+
+<item>
+<title>Tecno Pan</title>
+<m3u>https://archive.org/download/24GouryellaGigoloRemix/24GouryellaGigoloRemix_vbr.m3u</m3u>
+<thumbnail>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</thumbnail>
+<fanart>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</fanart>
+</item>
+
+<item>
+<title>Maxi Pan</title>
+<m3u>https://archive.org/download/13YouveLostThatLovingFeeling/13YouveLostThatLovingFeeling_vbr.m3u</m3u>
+<thumbnail>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</thumbnail>
+<fanart>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</fanart>
+</item>
+
+<item>
+<title>Jovem Pan na Balada</title>
+<m3u>https://archive.org/download/04Mp3_201604/04Mp3_201604_vbr.m3u</m3u>
+<thumbnail>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</thumbnail>
+<fanart>https://media.lovemondays.com.br/logos/9549a4/jovem-pan-original.jpg</fanart>
+</item>

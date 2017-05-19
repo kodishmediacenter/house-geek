@@ -1,0 +1,11 @@
+name="Marcio Addon Install (Addons do Marcio)"
+url="1"
+img="http://kodish.esy.es/store/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addons do Marcio Candido"
+
+name="Marcio Addon Install (Addons do Marcio)"
+url="2"
+img="http://kodish.esy.es/store/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addons do Marcio Candido"

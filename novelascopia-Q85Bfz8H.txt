@@ -1,0 +1,902 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',[COLOR yellow]Maratona Desenhos 24 Horas[/COLOR]
+https://openload.co/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',[COLOR yellow]Update 29/12 [/COLOR]
+https://openload.co/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Scooby-Doo Cade Vc teste 24 hrs (Playlist Loader GX 3.0 e Kodi List Pro) 
+https://raw.githubusercontent.com/kodishmediacenter/store/master/m3u-play/scooby_doo_cada_vc.m3u
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Pequeno Scooby-Doo 24 hrs (Playlist Loader GX 3.0 e Kodi List Pro) 
+https://raw.githubusercontent.com/kodishmediacenter/store/master/m3u-play/pequeno-scoobydoo.m3u
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',[COLOR yellow]Pedidos de Filmes[/COLOR]
+https://openload.co/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',12 Anos De Escravidao
+https://openload.co/embed/mdbcTTo0dVI
+
+
+#EXTINF:-1 tvg-logo='' group-title='Filme',[COLOR yellow] Filmes Biblicos Record[/COLOR]
+https://openload.co/
+
+#EXTINF:-1 tvg-logo='https://4.bp.blogspot.com/-DDCxj1RoqTI/WGQNWqLGK9I/AAAAAAAAFpk/VqOS63eCpS4IgaUZLA1q4-FQUYSxtitRwCLcB/s1600/jose-do-egito-g1.jpg' group-title='Filme',Jose do Egito
+https://openload.co/embed/xJQw2PpezTg/
+
+#EXTINF:-1 tvg-logo='http://4.bp.blogspot.com/-DHRsrX_mntE/VkodYBOz6RI/AAAAAAAAEQ8/o5n-S2XDdQY/s1600/Rei-Davi-g1novelas.jpg' group-title='Filme',Rei Davi 
+https://openload.co/embed/Eh1mvMsxh2s/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',[COLOR yellow]Novelas[/COLOR]
+https://openload.co/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 28
+http://www.dailymotion.com/embed/video/k3Hyi8boKnpXrBldo0P
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 27
+http://www.dailymotion.com/embed/video/k5KNgH0us2MM1flcxpn
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 26
+http://www.dailymotion.com/embed/video/k6s6pTf2xnT1mqlbMAi
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 25
+http://www.dailymotion.com/embed/video/k3Hyi8boKnpXrBldo0P
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 24
+http://www.dailymotion.com/embed/video/krsvfXGYSXX1otl9k6B
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 23
+http://www.dailymotion.com/embed/video/k7CKWSFVB390hvl8Cal
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 22
+http://www.dailymotion.com/embed/video/k6W0HzLUpJkteEl7GmX
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 21
+http://www.dailymotion.com/embed/video/k3vhp9M1NGucPTl6XTs
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 20
+http://www.dailymotion.com/embed/video/k5XGUJr2DbUyD2l59x7
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 19
+http://www.dailymotion.com/embed/video/k1vprodV8Oadncl4rVn
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 18
+http://www.dailymotion.com/embed/video/k4ICNFtp8G7XLgl3O4m
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 17
+https://openload.co/embed/coDXTiJwOTY
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 16
+http://www.dailymotion.com/embed/video/k6mtwj6VqA6GbGl2cIT
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 15
+http://www.dailymotion.com/embed/video/k6S5AthWKZ9i5Al0EJ3
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 14
+http://www.dailymotion.com/embed/video/k3p8H9vZcOSGBfl00IQ
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 13
+http://www.dailymotion.com/embed/video/k3W4uZKIhyqWCwkZlrW
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 12
+http://www.dailymotion.com/embed/video/kNCKCoyJcaTvJSkYLsQ
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 11
+http://www.dailymotion.com/embed/video/k78eWoXGeHESAckY8xa
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 10
+http://www.dailymotion.com/embed/video/k78eWoXGeHESAckY8xa
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 09
+http://www.dailymotion.com/embed/video/k2ceBRcUEWDN5ekW2Vg
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 08
+http://www.dailymotion.com/embed/video/k6UKdaCJ29ztR7kVnay
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 07
+https://openload.co/embed/s8jVoQGVlts/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 06
+https://openload.co/embed/z1AKjEALu9U/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 05
+http://www.dailymotion.com/embed/video/k1S8Z0L6muB37MkRxeX
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 04
+http://www.dailymotion.com/embed/video/kjwy5fPjqnN3m2kQBy6
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 03
+http://www.dailymotion.com/embed/video/k3iMK9FkAaEWnWkPrM8
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 02
+http://www.dailymotion.com/embed/video/k7c9V59cOfi8qPkOfEz
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 01
+http://www.dailymotion.com/embed/video/k7GTYQ2M8RamkGkNeBs
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 43
+http://thevideo.me/embed-m5e7wcnv5x3i.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 42
+http://thevideo.me/embed-19fotg2dxi9o.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 41
+http://thevideo.me/embed-vutw59e7eppz.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 40
+http://thevideo.me/embed-sr4vjkpgoo96.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 39
+http://thevideo.me/embed-lz9mqoo98sqr.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 38
+http://thevideo.me/embed-ynl9qafr2rdq.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 37
+http://thevideo.me/embed-howjfin8bngy.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 36
+http://thevideo.me/embed-eayhcwg6kerd.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 35
+http://thevideo.me/embed-2gniyjauxefh.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 34
+http://thevideo.me/embed-7zb179lzwrom.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 33
+http://thevideo.me/embed-tbfajrpeq2i4.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 32
+http://thevideo.me/embed-pi6374owroyd.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 31
+http://thevideo.me/embed-68lmjiyd7ysg.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 30
+http://thevideo.me/embed-vcenodmmif7i.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 29
+http://thevideo.me/embed-x6qwbpr2aqba.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 28
+http://thevideo.me/embed-zos1pej3fhzz.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 27
+http://thevideo.me/embed-ud023pbcgnjd.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 26
+http://thevideo.me/embed-pcmbuflqbe59.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 25
+http://thevideo.me/embed-su2bglnvg4gl.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 24
+http://thevideo.me/embed-uolse9u3ig9r.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 23
+http://thevideo.me/embed-1u7t1o7cp03a.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 22
+http://thevideo.me/embed-0j8715d30nby.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 21
+http://thevideo.me/embed-u9mtsz7fven7.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 20
+http://thevideo.me/embed-46a17gpanf9j.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 19
+http://thevideo.me/embed-wy4zhme9xk1x.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 18
+http://thevideo.me/embed-b43az5lzi6dr.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 17
+http://thevideo.me/embed-b43az5lzi6dr.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 16
+http://thevideo.me/embed-v37di9b20ng2.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 15
+http://thevideo.me/embed-lm08ldmhnuyq.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 14
+http://thevideo.me/embed-crgy7gae22my.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 13
+http://thevideo.me/embed-2lir36atr2pp.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 12
+http://thevideo.me/embed-hod74ze6s9ol.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 11
+http://thevideo.me/embed-lh1t9m551981.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 10
+http://thevideo.me/embed-5cywptcxl7zl.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 09
+http://thevideo.me/embed-sukjgbyoouil.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 08
+http://thevideo.me/embed-mx5by3ex6n1b.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 07 
+http://thevideo.me/embed-6yhjao26kipn.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 06
+http://thevideo.me/embed-wt8ry9iniezp.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 05
+http://thevideo.me/embed-m7tkfq765cxu.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 04
+http://thevideo.me/embed-pyk10fsipfqd.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 03
+http://thevideo.me/embed-3jxs5yfxorah.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 02
+http://thevideo.me/embed-li7ckmgphum1.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 01
+http://thevideo.me/embed-yu8f0wdvht3g.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 75
+http://thevideo.me/embed-prhppmlhgqqc.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 74
+http://thevideo.me/embed-yflutztauaow.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 73
+http://thevideo.me/embed-4za8pj7l0tl7.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 72
+http://thevideo.me/embed-grb2iuu6aljy.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 71
+http://thevideo.me/embed-cv5qalofh6po.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 70
+http://thevideo.me/embed-nkcptaxfro1z.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 69
+http://thevideo.me/embed-dknmd1cuzdn6.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 68
+http://thevideo.me/embed-8wobps5rtizy.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 67
+http://thevideo.me/embed-zrftx7l4uu51.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 66
+http://thevideo.me/embed-jxv9z1es7uyg.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 65
+http://thevideo.me/embed-uaukthi3x972.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 64
+http://thevideo.me/embed-5j9wwon4eaet.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 63
+http://thevideo.me/embed-m0r82vicsqc1.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 62
+http://thevideo.me/embed-vjz5eomgb0u2.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 61
+http://thevideo.me/embed-32ar6m7nw0jp.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 60
+http://thevideo.me/embed-gobi3t4opf3p.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 59
+hevideo.me/embed-1kema8du8wv8.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 58
+http://thevideo.me/embed-ed8u5wrt1vgk.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 57
+http://thevideo.me/embed-xbvn7jc4lk4p.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 56
+http://thevideo.me/embed-2xj8b400oi7v.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 55
+http://thevideo.me/embed-mckf39a54kxb.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 54
+http://thevideo.me/embed-k3r5wrtf70mo.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 53
+http://thevideo.me/embed-eq5euh1ut3ju.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 52
+http://thevideo.me/embed-36qi5caino4o.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 51
+http://thevideo.me/embed-ckxj2ggr75p3.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 50
+http://thevideo.me/embed-ioktr585sz9x.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 49
+http://thevideo.me/embed-xlgr829b5wjb.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 48
+http://thevideo.me/embed-yl17ncbs85xc.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 47
+http://thevideo.me/embed-ixkuy7w3e6m7.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 46
+http://thevideo.me/embed-xu1gjjtcn924.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 45
+http://thevideo.me/embed-ttpbfgs5msa9.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 44
+http://thevideo.me/embed-hkr1qc7t5v7b.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 43
+http://thevideo.me/embed-a4yt33b48j3x.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 42
+http://thevideo.me/embed-zr5l85f5fs0d.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 41
+http://thevideo.me/embed-hue5o9zgfmrk.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 40
+http://thevideo.me/embed-dftkp89o1vag.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 39
+http://thevideo.me/embed-xrzgpyup72xt.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 38
+http://thevideo.me/embed-n4nm7ny3l2iz.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 37
+http://thevideo.me/embed-8rmi3bi6j95g.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 36
+http://thevideo.me/embed-0qfucirmw6ms.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 35
+http://thevideo.me/embed-0crr4o49q0gx.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 34
+http://thevideo.me/embed-92b5bqjzph90.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 33 
+http://thevideo.me/embed-ig84uwo3u7sy.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 32
+http://thevideo.me/embed-ocp0mxkl92o2.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 31
+http://thevideo.me/embed-aesl1h7j6108.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 30 Sab
+https://openload.co/embed/z8rlUx3Em8Q/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 29
+http://thevideo.me/embed-lxh8jmkyssti.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 28 
+http://thevideo.me/embed-wz9cs86eaire.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 27 
+http://thevideo.me/embed-pf90xxis7hv8.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Lei do Amor 26 
+http://thevideo.me/embed-ugdeca1nifbs.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  126
+https://openload.co/embed/Tmf-xDs0xMY/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  125
+https://openload.co/embed/T3rNYsQQJbs/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  124
+https://openload.co/embed/D8u7Ik1jy_w/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  123
+https://openload.co/embed/9pOuKXKa4r8/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  122
+https://openload.co/embed/M2He63-7Rr4/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  121
+https://openload.co/embed/KNHLUmK1Yoc/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  120
+https://openload.co/embed/VNPoy2tEzFc/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  119
+https://openload.co/embed/KogVStyRnBU/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  118
+https://openload.co/embed/wmQd9I23nPU/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  117
+https://openload.co/embed/tBguaLQzQL0/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  116
+https://openload.co/embed/UWuOqtcbLKs/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  115
+https://openload.co/embed/Qf_nuyvLOUk/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  114
+https://openload.co/embed/QzSKoCZTScs/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  113
+https://openload.co/embed/Xf3fQ0x-h0M/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  112
+https://openload.co/embed/Rf_rRAJOiBE/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  111
+https://openload.co/embed/yPjK0_4-aNE/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  110
+http://www.dailymotion.com/embed/video/k5W462ssRyPGE6kYHx7
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  109
+http://www.dailymotion.com/embed/video/k2kb45Uy0q9aTSkY6Rv
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  108
+https://openload.co/embed/DnTR7v7lwIE/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  107
+https://openload.co/embed/rSl9Mrs8_pE/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  106
+https://openload.co/embed/PoCC7EkymUI/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  105
+https://openload.co/embed/WM8zjTconlw/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  104
+https://openload.co/embed/HYEgkZEPtSM/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  103
+https://openload.co/embed/uyAjZSG35-I/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  102
+https://openload.co/embed/RzYKY7qaaOQ/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  101
+https://openload.co/embed/d7L4ES1pePM/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida  100
+http://www.dailymotion.com/embed/video/k6DEoCzB1TOa8qkOZcz
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 99
+https://openload.co/embed/_doAgnYFdsc/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 98
+https://openload.co/embed/_zcliOJPCj8/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 97
+https://openload.co/embed/PcYVpp-g6h4/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 96
+https://openload.co/embed/DhcDZofZRAo/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 95
+https://openload.co/embed/0_VoyYO14vI/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 94
+https://openload.co/embed/UlpLfB2Ivnw/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 93
+https://openload.co/embed/7WNfmx0VKWk/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 92
+https://openload.co/embed/KNgwrNJQACg/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 91 
+http://www.dailymotion.com/embed/video/k4x05w06FIM3EvkCaMJ
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 90
+http://thevideo.me/embed-8x651gp6fs1g.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 89
+http://thevideo.me/embed-j1d244xvzo1r.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 88
+https://openload.co/embed/mIGW2K9dB1M/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 87
+https://openload.co/embed/ylW4hKLCbx0/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 86
+https://openload.co/embed/HWTXUAK-vPI/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 85
+https://openload.co/embed/mWuNjPeYxjg/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Terra Prometida 84
+https://openload.co/embed/xWng3NK5Ycs/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 151
+https://openload.co/embed/Luu71YIBMHQ/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 150
+https://openload.co/embed/DNBDf8vpqMY/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 149
+https://openload.co/embed/ZalCYBlUhc8/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 148
+https://openload.co/embed/uKQFy0MJ27k/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 147
+https://openload.co/embed/pfteCvrF0Bo/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 146
+https://openload.co/embed/O1iBVyubL1c/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 145
+https://openload.co/embed/fbvlS22Iky4/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 144
+https://openload.co/embed/mpvpg04OFhk/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 143
+https://openload.co/embed/LnGRPjgaEsA/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 142
+https://openload.co/embed/053JnuFqZ4w/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 141
+https://openload.co/embed/nS5iGj8zN6c/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 140
+https://openload.co/embed/3U27sdHBYiE/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 139
+https://openload.co/embed/ffHWB9Y8kSc/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 138
+https://openload.co/embed/EqcycJwSSNo/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 137
+https://openload.co/embed/R0CJj8qAC2Y/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 136
+https://openload.co/embed/2CU8_0f5VUU/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 135
+https://openload.co/embed/1KvjhLHny8Y/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 134
+https://openload.co/embed/ZTh6nL9Kd9M/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 133
+https://openload.co/embed/_hkIu-rfrFA/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 132
+https://openload.co/embed/8fGTMRpkGzg/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 131
+https://openload.co/embed/kz3dakAKeQY/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 130
+https://openload.co/embed/Of8nPT4JX8Y/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 129
+https://openload.co/embed/Qsy1CDRglCE/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 128
+https://openload.co/embed/SYs9BEqnSgg/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 127
+https://openload.co/embed/n3OTnrwt2qI/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 126
+https://openload.co/embed/DnjyF29F_sM/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 125
+https://openload.co/embed/DX6VFm7wGK8/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 124
+https://openload.co/embed/TycTm6tD104/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 123
+https://openload.co/embed/LIyTozUaE2E/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 122 
+https://openload.co/embed/Z0ZLplaET-M/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 121
+https://openload.co/embed/-qsJZgTBB2o/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 120
+https://openload.co/embed/N23sBDkkhlk/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 119
+https://openload.co/embed/eUbyFqR2HxQ/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 118
+https://openload.co/embed/tJNKAx9mevU/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 117
+https://openload.co/embed/xeZP-C_q2y8/EM-116
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 116
+https://openload.co/embed/xeZP-C_q2y8/EM-116
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 115
+http://thevideo.me/embed-36rgzmjsjco5.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 114
+http://thevideo.me/embed-1qtyu5wl7jun.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 113
+https://openload.co/embed/SirpqHrnafQ/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 112
+https://openload.co/embed/-G_8xMMXE50/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 111
+https://openload.co/embed/0Vu4IPJLiVA/ 
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Escrava Mae 110
+https://openload.co/embed/OITf01-zkEs/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 73
+https://openload.co/embed/1wj0712qkns/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 72
+https://openload.co/embed/7-f2GU2Nbgo/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 71
+https://openload.co/embed/8LxG6N_INBo/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 70
+https://openload.co/embed/0-Ej2xDvIXs/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 69
+https://openload.co/embed/4j3LC5s9Bts/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 68
+https://openload.co/embed/CQrPIF8P9bY/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 67
+https://openload.co/embed/2LpwX4rc5a4/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 66
+https://openload.co/embed/yfF5Qo3YYJs/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 65
+https://openload.co/embed/uPjMsTBwcSE/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 64
+https://openload.co/embed/roeXqdfWuM8/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 63
+https://openload.co/embed/4-LXzqyYk2Q/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 62
+https://openload.co/embed/6q79kWHjvIM/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 61
+https://openload.co/embed/IDhQB4u01QU/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 60
+https://openload.co/embed/j8sUt0ewrSc/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 59
+https://openload.co/embed/yHVlmVlUXoA/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 58
+https://openload.co/embed/zdky1upGYrI/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 57
+https://openload.co/embed/b1cyzu0zLd0/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 56
+https://openload.co/embed/JHxU6VURc-I/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 55
+https://openload.co/embed/7hnpTePFpW4/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 54
+https://openload.co/embed/a0WtLMg2ukc/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 53
+https://openload.co/embed/2AZgkOjySnI/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 52
+https://openload.co/embed/kdVqt_5gqOw/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 51
+https://openload.co/embed/Cup-61ggSz0/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 52
+https://openload.co/embed/kdVqt_5gqOw/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 51
+https://openload.co/embed/Cup-61ggSz0/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 50
+https://openload.co/embed/4LekZr4-Hww/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 49
+https://openload.co/embed/ZcNdtig1kzg/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 48
+https://openload.co/embed/5MV26sv4-Z0/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 47
+https://openload.co/embed/KQtmHgUJLUY/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 46
+https://openload.co/embed/cnqA4hzHdUA/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 45
+https://openload.co/embed/m-wW2BCLUW0/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 44
+https://openload.co/embed/R8wLD8Rr5SY/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 43
+https://openload.co/embed/7IoHK1ujLxk/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 42
+https://openload.co/embed/hNKqmHb_ZJk/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 41
+https://openload.co/embed/dqgGxVDbwOw/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 40
+https://openload.co/embed/9SLPZ4c1a4Q/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 39
+http://thevideo.me/embed-%20uq3mdqps4oth.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 38
+https://openload.co/embed/GctkmBB50pM/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 37
+http://thevideo.me/embed-gu087wdmpr46.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 36
+http://thevideo.me/embed-f23hy1ui8d8d.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 35
+https://openload.co/embed/_t33dC7SSeY/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 34
+https://openload.co/embed/3o1ceAWQnc0/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 33
+https://openload.co/embed/TGGkic5wgeI/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 32
+https://openload.co/embed/iUPqIasWKTM/
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 93
+http://thevideo.me/embed-744irq9523vr.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 92
+http://thevideo.me/embed-j8i7v3byqlgj.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 91
+http://thevideo.me/embed-f3htgav4ez33.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 90
+http://thevideo.me/embed-z7orfl496cdr.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 89
+http://thevideo.me/embed-sf11s0qyfs02.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 88
+http://thevideo.me/embed-arxykh434p0c.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 87
+http://thevideo.me/embed-j4yt22bjry99.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 86
+http://thevideo.me/embed-3plolziadzhc.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 85
+http://thevideo.me/embed-8klsoeziz5lv.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 84
+http://thevideo.me/embed-3sfwvmjigqzn.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 83
+http://thevideo.me/embed-n5sqb434w0do.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 82
+http://thevideo.me/embed-qwa8vusv92lf.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 81
+http://thevideo.me/embed-qyn3j4i5clhh.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 80
+http://thevideo.me/embed-fdbkr95k1wr8.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 79
+http://thevideo.me/embed-66ljhjp4ync7.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 78
+http://thevideo.me/embed-vk0y0kyznsxq.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 77
+http://thevideo.me/embed-qtc3kuu70uy2.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 76
+http://thevideo.me/embed-i6doddhxbcfs.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 75
+http://thevideo.me/embed-bjuhfu4mg3fc.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 74
+http://thevideo.me/embed-zjn3mnbr8r8w.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 73
+http://thevideo.me/embed-1sxi24h26eb0.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 71
+http://thevideo.me/embed-q04dwe1ta70s.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 70
+http://thevideo.me/embed-k1k1g5dviwai.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 69
+http://thevideo.me/embed-lza7a2bbtxay.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 68
+http://thevideo.me/embed-ibq1n1dg3fkw.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 67
+http://thevideo.me/embed-6zkwpmyemytv.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 66
+http://thevideo.me/embed-3ed3ottfoac3.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 65
+http://thevideo.me/embed-k831ro87dw0q.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 64
+http://thevideo.me/embed-si4ei633zefm.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 63
+http://thevideo.me/embed-fsfqgl238j50.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 62
+http://thevideo.me/embed-z88uwl7ui2ue.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 61
+http://thevideo.me/embed-gsq7u8gjkanx.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 60
+http://thevideo.me/embed-1kc6f9tl7zzk.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 59
+http://thevideo.me/embed-gnlwd0zevu2n.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 58
+http://thevideo.me/embed-l3elgzesvsp7.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 57
+http://thevideo.me/embed-8emc5ikfbkwg.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 56
+http://thevideo.me/embed-4m6c59pa25p8.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 55
+http://thevideo.me/embed-ip69khmkn3u9.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 54
+http://thevideo.me/embed-6or4iux7hgla.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 53
+http://thevideo.me/embed-cies4did241b.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Malhacao 52
+http://thevideo.me/embed-wnk8b9gvehlq.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 103
+http://thevideo.me/embed-4064hu35s3i7.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 102
+https://openload.co/embed/LjLbhfld2og/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 101
+http://thevideo.me/embed-ipyq7kct3p0s.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 100
+http://thevideo.me/embed-bcivfpdxucm1.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 99
+http://thevideo.me/embed-pttqo922thls.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 98
+http://thevideo.me/embed-bcivfpdxucm1.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 97
+http://thevideo.me/embed-fvccuibsa9wb.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 96
+http://thevideo.me/embed-eayhcwg6kerd.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 95
+http://thevideo.me/embed-2gniyjauxefh.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 94
+http://thevideo.me/embed-bd0ve6eshv1b.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 93
+http://thevideo.me/embed-6pyqmz66uqlr.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 92
+http://thevideo.me/embed-wzrn33kxv9cc.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 91
+http://thevideo.me/embed-4es8yky83ebi.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 90
+http://thevideo.me/embed-6sw6gcaeiqe3.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 89
+http://thevideo.me/embed-rbjypilzw98v.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 88
+http://thevideo.me/embed-25qmtyv4dflm.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 87
+http://thevideo.me/embed-as30if26irqu.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 86
+http://thevideo.me/embed-ybtqyq0o7p96.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 85
+http://thevideo.me/embed-rs3brdhpwc9c.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 84
+http://thevideo.me/embed-7d7p77ehpw1v.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 83
+http://thevideo.me/embed-36ahq1fmy0qw.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 82
+http://thevideo.me/embed-srkgfo4mu3vv.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 81
+http://thevideo.me/embed-2qf4ss82qotx.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 80
+http://thevideo.me/embed-klynu77wuhdr.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 79
+http://thevideo.me/embed-sa29kxhzgg6d.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 78
+http://thevideo.me/embed-i29okkm8u33y.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 77
+http://thevideo.me/embed-r7zyxsng194b.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 76
+http://thevideo.me/embed-p7d9dr8pf9oo.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 75
+http://thevideo.me/embed-vwx627gc9vx4.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 74
+http://thevideo.me/embed-gkmtrrgnve9z.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 73
+http://thevideo.me/embed-dn86o50pu9mo.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 72
+http://thevideo.me/embed-a1zz1aev2hz0.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 71
+http://thevideo.me/embed-2f85hj0f4wcu.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 70
+http://thevideo.me/embed-o9sai9n574n1.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 69
+http://thevideo.me/embed-3wacvcogne7n.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 68
+http://thevideo.me/embed-lym4rq13c0v5.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 67
+http://thevideo.me/embed-qyohmebgboqi.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 66
+http://thevideo.me/embed-epl3c01h1glf.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 65
+http://thevideo.me/embed-0gcmk8i0f7or.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 64
+http://thevideo.me/embed-b7zulweiog6v.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 63
+http://thevideo.me/embed-crl4zumqs8mg.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 62
+http://thevideo.me/embed-ktajm9264a3c.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 61
+http://thevideo.me/embed-l34eaq0icord.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 60 sab
+http://thevideo.me/embed-3b93crshp8lk.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 58
+http://thevideo.me/embed-gksj34rhihev.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 57
+http://thevideo.me/embed-5060778xdn6i.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 56 
+http://thevideo.me/embed-j5axsm2ljw3n.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Sol Nascente 55
+http://thevideo.me/embed-t22g79k24yxd.html

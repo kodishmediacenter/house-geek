@@ -1,0 +1,14 @@
+Comando => 
+base    = 'plugin://plugin.video.youtube/'
+
+
+Comand Line
+
+canal
+/channel/UCGP5DYw3sWT4zLKENplOPvQ
+
+playlist 
+/playlist/PLVgcsG4LS0NPYDuPIKIYTGtRYpLi4SV7d/
+
+user 
+/user/nomecanal

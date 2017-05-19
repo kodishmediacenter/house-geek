@@ -1,0 +1,494 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/y2vwMD93ef0WeSIQ54o_BGBIn0c=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/01/16177838_1833154376932340_8486066288229609809_o.jpg" group-title="Lancamentos Dublados", INTERNET: O FILME
+rdc://RCFServer3/ondemand/INTNET.mp4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TT39LAqoflQ/WIY9q1XKXoI/AAAAAAAAM3Y/dobLW4Q096wgB0BWb3OysuHpTsmcmcHGACLcB/s1600/resident%2Bevil.jpg" group-title="Lancamentos Dublados", RESIDENT EVIL 6: O CAPÍTULO FINAL - Dublados
+rdc://RCFServer3/ondemand/REVIL06.mp4
+
+#EXTINF:-1 tvg-logo="https://1339165948.rsc.cdn77.org/wp-content/uploads/2017/01/Vizinhos-Nada-Secretos-2017-Torrent-%E2%80%93-BluRay-720p-e-1080p-5.1-Dual-%C3%81udio-Donwnload.jpg" group-title="Lancamentos Dublados", VIZINHOS NADA SECRETOS - Dublados
+rdc://RCFServer3/ondemand/VZNHSNDSCRTS.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WBlmzuc.jpg" group-title="Lancamentos Dublados", LAVANDA - Dublados
+rdc://RCFServer3/ondemand/LVNDA.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/11/21/15/29/457312.jpg" group-title="Lancamentos Dublados", ATÉ O ÚLTIMO HOMEM - Dublados
+rdc://RCFServer3/ondemand/ATOULHMN.mp4
+
+#EXTINF:-1 tvg-logo="http://www.thepiratetorrent.org/wp-content/uploads/2017/04/O-Chamado-3.jpg" group-title="Lancamentos Dublados", O CHAMADO 3 - Dublados
+rdc://RCFServer3/ondemand/OCHMD3.mp4
+
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/A-6k83WMf4X3dKxnFBGUmFTx1zs=/206x305/v1.bTsxMjM2MzM0MztqOzE3MzMzOzEyMDA7NDgwOzcyMA", THE WARRIOR'S GATE - Dublados
+rdc://RCFServer3/ondemand/WRISGT.mp4
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/c2/3b/46/c23b46acad9c063ad629a17eb47c84cf.jpg" group-title="Lancamentos Dublados", MAX STEEL - Dublados
+rdc://RCFServer3/ondemand/MXSTL.mp4
+
+#EXTINF:-1 tvg-logo="http://www.baixedetudo.net/imagens/jovenstit%C3%A3s.jpg" group-title="Lancamentos Dublados", JOVENS TITÃS: O CONTRATO DE JUDAS - Dublados
+rdc://RCFServer3/ondemand/JVNSTSOCTRTDJDS.mp4
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/zLJIs836DRDV5Du8xisBKDvnWIk=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/03/unnamed_GjRbVNM.jpg" group-title="Lancamentos Dublados", DEIDRA E LANEY ASSALTAM UM TREM - Dublados
+rdc://RCFServer3/ondemand/DEDRELNYASTMUTRM.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/9dbZqft6gS34f4qVncU6APBAKWU.jpg" group-title="Lancamentos Dublados", BUSCA EXPLOSIVA 5: CAMPO DE BATALHA - Dublados
+rdc://RCFServer3/ondemand/BSCEXPLSV5.mp4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-X9K_yEoEMUg/WPdM1QNLBWI/AAAAAAAACL0/HML4o4Cqv90mGJOSpuJzSYrMB4qOl4wnwCLcB/s1600/Win-It-All-2017-Apostando-Tudo.jpg" group-title="Lancamentos Dublados", APOSTANDO TUDO - Dublados
+rdc://RCFServer3/ondemand/APSTNDTD.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g2nNpWx.jpg" group-title="Lancamentos Dublados", A FABULOSA GILLY HOPKINS - Dublados
+rdc://RCFServer3/ondemand/AFBLSGLHP.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gITFmnq.jpg" group-title="Lancamentos Dublados", A DESCOBERTA - Dublados
+rdc://RCFServer3/ondemand/ADSCBRT.mp4
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/0xjytdvV58auLemWDaDLEmpSzkM=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/10/fences-1.jpg" group-title="Lancamentos Dublados", UM LIMITE ENTRE NÓS
+rdc://RCFServer3/ondemand/UMLMTENTNS.mp4
+
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/dad83/e5511fa4f57187b66cc17644eb0477fdc37dad83.jpg" group-title="Lancamentos Dublados", SANDY WEXLER - Dublados
+rdc://RCFServer3/ondemand/SNDYWXLR.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200_and_h300_bestv2/aUbTVTJpRLINDx56OoIJfvNAmg5.jpg" group-title="Lancamentos Dublados", PELES - Dublados
+rdc://RCFServer3/ondemand/PLES.mp4
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Gie6Z907YNz2I3NQqtnpjmc9l8E=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/02/manchester-by-the-sea-poster.jpg" group-title="Lancamentos Dublados", MANCHESTER À BEIRA-MAR - Dublados
+rdc://RCFServer3/ondemand/MACHABRMR.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nFsDEcI.jpg" group-title="Lancamentos Dublados", FAZENDA DOS CISNES - Dublados
+rdc://RCFServer3/ondemand/FZNDSCSN.mp4
+
+#EXTINF:-1 tvg-logo="http://www.comandotorrents.com/wp-content/uploads/2017/03/s7hqHQR1.jpg" group-title="Lancamentos Dublados", CORAGEM EM CAMPO - Dublados
+rdc://RCFServer3/ondemand/CRGMEMCMP.mp4
+
+#EXTINF:-1 tvg-logo="http://www.cinemadebuteco.com.br/wp-content/uploads/2017/01/Armas-na-Mesa-Poster.jpg" group-title="Lancamentos Dublados", ARMAS NA MESA - Dublados
+rdc://RCFServer3/ondemand/ARMSNMSA.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/01/16/19/23/124426.jpg" group-title="Lancamentos Dublados", A BAILARINA - Dublados
+rdc://RCFServer3/ondemand/ABLRN.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/filer_public/3f/ba/3fba4713-a8e9-4e36-8040-a73e49788ea4/roguecapa.jpg" group-title="Lancamentos Dublados", ROGUE ONE: UMA HISTÓRIA STAR WARS - Dublado
+rdc://RCFServer3/ondemand/RGONUHSTRWRS.mp4?
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/JbMdGSe2Gh99k8z9Jd4a2HTJqgQ=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/11/monstertrucks-poster-full.jpg" group-title="Lancamentos Dublados", MONSTER TRUCKS   - Dublado
+rdc://RCFServer3/ondemand/MNSTRRCK.mp4?
+
+#EXTINF:-1 tvg-logo="https://img3.ewmix.com/13951/c.jpg" group-title="Lancamentos Dublados", RESGATE SUICIDA  - Dublado
+rdc://RCFServer3/ondemand/RSGTSCD.mp4?
+
+#EXTINF:-1 tvg-logo="http://assets0.minhaserie.com.br/uploads/editor_pictures/000/039/922/content_pic.jpg" group-title="Lancamentos Dublados", ASSASSIN'S CREED - 2017   - Dublado
+rdc://RCFServer3/ondemand/ASINSCRD.mp4?
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/xOT7VfunV10ALsJCl6HFeipvkg0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/09/passengers.jpg" group-title="Lancamentos Dublados", PASSAGEIROS - 2017 - Dublado
+rdc://RCFServer3/ondemand/PASGRIOS.mp4?
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-5swZ2sokQA0/WHRC1-hIQJI/AAAAAAAAB64/BSxqnCh5Z94T_bwl30qWnlajJbM7fhn3QCLcB/s1600/moana_ver8.jpg" group-title="Lancamentos Dublados", MOANA - 2017  - Dublado
+rdc://RCFServer3/ondemand/MONUMRDAVTRA.mp4?
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/09/28/18/45/072693.jpg" group-title="Lancamentos Dublados", ANIMAIS FANTÁSTICOS E ONDE HABITAM - Dublado
+rdc://RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4?
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/07/07/18/06/104239.jpg" group-title="Lancamentos Dublados", ASSASSINO A PREÇO FIXO 2: A RESSURREIÇÃO  - Dublado
+rdc://RCFServer3/ondemand/ASASINOAPRCFX2.mp4?
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/02/03/19/11/303307.jpg" group-title="Lancamentos Dublados", COMO EU ERA ANTES DE VOCE - Dublado
+rdc://RCFServer3/ondemand/CMEUERANTSDVC.mp4?
+
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/01/closet_monster_PIai6ZA.jpg" group-title="Lancamentos Dublados", O MONSTRO NO ARMÁRIO - 2017 - Dublado
+rdc://RCFServer3/ondemand/OMSNTNARMR.mp4?
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/wVcbTsFWV3rYmDlmFFbwcmDw3qM=/fit-in/210x312/smart/https://cdn.fstatic.com/media/movies/covers/2016/03/the-exorcism-of-anna-ecklund_tNone.jpg" group-title="Lancamentos Dublados", O EXORCISMO DE ANNA ECKLUND - 2017  - Dublado
+rdc://RCFServer3/ondemand/OEXCSMDANECKLN.mp4?
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v5vix1IuCKY/WM8wpLU5E3I/AAAAAAAADy4/xxzACPoyFJ828_uuCrxopUQY1PxIavn4wCLcB/s320/1489957529139941.JPG" group-title="Lancamentos Dublados", PANDORA - 2017  - Dublado
+rdc://RCFServer3/ondemand/PNDRA.mp4?
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/tNJd9Iy9XcQKBByG81qEGyvC1DM=/fit-in/210x312/smart/https://cdn.fstatic.com/media/movies/covers/2017/01/12horasparasobreviver_9.jpg" group-title="Lancamentos Dublados", 12 HORAS PARA SOBREVIVER: O ANO DA ELEIÇÃO - 2016  - Dublado
+rdc://RCFServer3/ondemand/UMNTDCRM3.mp4?
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/11/18/15/20/442595.jpg" group-title="Lancamentos Dublados", MINHA MÃE É UMA PEÇA 2 - 2016  - Dublado
+rdc://RCFServer3/ondemand/MNHMAEUMPC2.mp4?
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/XdAxy2cDfngRMaswMU3ynYpy4RY=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/10/260x365_1475091213.jpg" group-title="Lancamentos Dublados", HORIZONTE PROFUNDO: DESASTRE NO GOLFO - 2016  - Dublado
+rdc://RCFServer3/ondemand/HRZNTPRFNDSTRDGLF.mp4?
+
+#EXTINF:-1 tvg-logo="http://www.baixetorrent.net/wp-content/uploads/2016/10/Call-to-Duty-Fora-de-Alcance.jpg" group-title="Lancamentos Dublados", CALL TO DUTY: FORA DE ALCANCE - 2016 - Dublado
+rdc://RCFServer3/ondemand/CLTDTY.mp4?
+
+#EXTINF:-1 tvg-logo="http://www.ninjadosdownloads.com/wp-content/uploads/2017/03/capa-35.jpg" group-title="Lancamentos Dublados", A ÚLTIMA RESSACA DO ANO - 2016  - Dublado
+rdc://RCFServer3/ondemand/AULTMRSCDAN.mp4?
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/JkA30A38gcKpMPbLmbg_lONUC7s=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/10/o-shaolin-do-sertao-2016-001.jpg" group-title="Lancamentos Dublados", O SHAOLIN DO SERTÃO - 2016  - Dublado
+rdc://RCFServer3/ondemand/OSHLINDSRT.mp4?
+
+#EXTINF:-1 tvg-logo="http://megafilmestorrents.net/wp-content/uploads/2016/11/294204.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="Lancamentos Dublados", OUIJA: ORIGEM DO MAL 2017 - Dublado
+rdc://RCFServer3/ondemand/OUJORGMDML.mp4
+
+#EXTINF:-1 tvg-logo="https://www.thepiratefilmes.club/wp-content/uploads/2017/01/stereo-capa.jpg" group-title="Lancamentos Dublados", STEREO 2017  - Dublado
+rdc://RCFServer3/ondemand/STRO.mp4
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ogOAYiQtsT0/WJpc_PGWzuI/AAAAAAAAFyc/YmHtcvggj8Q5xYTZwq2_rDWkOJ95rKSVQCLcB/s400/Capa-2016.png" group-title="Lancamentos Dublados", ESQUADRÃO DE ELITE 2017  - Dublado
+rdc://RCFServer3/ondemand/ESQDRDELT.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/09/29/22/18/446399.jpg" group-title="Lancamentos Dublados", JACK REACHER: SEM RETORNO 2016 - Dublado
+rdc://RCFServer3/ondemand/JCKRCHSRTN.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_300_300/pictures/16/10/07/20/26/295252.jpg" group-title="Lancamentos Dublados", ANJOS DA NOITE: GUERRAS DE SANGUE 2016  - Dublado
+rdc://RCFServer3/ondemand/ANJSDNT5.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/04/13/08/40/350465.jpg" group-title="Lancamentos Dublados", DOUTOR ESTRANHO 2016  - Dublado
+rdc://RCFServer3/ondemand/DRESTNHO.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/10/19/01/57/552532.jpg" group-title="Lancamentos Dublados", A CHEGADA  2016   - Dublado
+rdc://RCFServer3/ondemand/ACHGDA.mp4
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-xftBx3Vorwg/WHQSrTlir6I/AAAAAAAAITQ/dcfynkAqiuIHlLTk8ygG7g6XXuJLtRk5QCLcB/s320/capa%2B10.jpg" group-title="Lancamentos Dublados", BRUXA DE BLAIR  2016  - Dublado
+rdc://RCFServer3/ondemand/BRXDBLR.mp4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0jWuJzLGurw/WKZF6vdQ2XI/AAAAAAAABJU/mo4R-QlATicUaldfndhR4Kp8Onm59Sl1gCLcB/s400/Capa%252C%2BFugindo%2Bdo%2BInferno.jpg" group-title="Lancamentos Dublados", FUGINDO DO INFERNO 2016 - Dublado
+rdc://RCFServer3/ondemand/FGNDINFNO.mp4
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.superfilmesonlinehd.net/wp-content/uploads/2016/09/MV5BMTkyMTkxMzY0MF5BMl5BanBnXkFtZTgwNTMxNjM4NjE@._V1_SY1000_CR007071000_AL_-212x300.jpg?fit=212%2C300" group-title="Lancamentos Dublados", OUIJA EXORCISMO 2016  - Dublado
+rdc://RCFServer3/ondemand/OUJEXRCMS.mp4
+
+#EXTINF:-1 tvg-logo="http://filmeja.com/wp-content/uploads/2017/02/day-of-reckoning-2016-syfy-original-movie-400x225.jpg" group-title="Lancamentos Dublados", A VOLTA DO JUÍZO FINAL 2016 - Dublado
+rdc://RCFServer3/ondemand/AVLTDJZFNL.mp4
+
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pR7VugPmavc/WAgCmFh9kiI/AAAAAAAAKyk/vm_EwrYVcb0FdglA3uBgyXIwvQSH4juYQCEw/s320/trolls_uma_grande_aventura.jpg" group-title="Lancamentos Dublados", TROLLS - Dublado
+rdc://RCFServer3/ondemand/TRLS.mp4
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-4kt7W-m8eC0/WIsSgGPloVI/AAAAAAAAFrc/Ja8inh0du9MOuCX1ux1r4Ph3Ng8c4ox0QCLcB/s400/CAPA.png" group-title="Lancamentos Dublados", SACRIFICIO - Dublado
+rdc://RCFServer3/ondemand/SCRFC.mp4
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/zLsl6yHa-KqkcTZ-r9157iGCSWQ=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/01/IBoy_poster.jpg" group-title="Lancamentos Dublados", IBOY - Dublado
+rdc://RCFServer3/ondemand/IBOY.mp4
+
+#EXTINF:-1 tvg-logo="http://www.aquidownload.com.br/wp-content/uploads/2017/01/capa-29.jpg" group-title="Lancamentos Dublados", AMOR E AMIZADE - Dublado
+rdc://RCFServer3/ondemand/AMREAMZD.mp4
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/4XvhRUDsw2swKXljeoZzsVVJ_zs=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/07/1b878e483fb415de7678b354caa7926ea796660a.jpg" group-title="Lancamentos Dublados", ABRIL E O MUNDO EXTRAORDINARIO - Dublado
+rdc://RCFServer3/ondemand/ABRLEOMSNEXTR.mp4
+
+#EXTINF:-1 tvg-logo="http://filmesonlineassistir.org/series/uploads/filmes/2017/01/10000-anos-depois-assistir-online-legendado-capa.png" group-title="Lancamentos Dublados", 10000 ANOS DEPOIS - Dublado
+rdc://RCFServer3/ondemand/1000ANSDPS.mp4
+
+#EXTINF:-1 tvg-logo="http://i360.photobucket.com/albums/oo42/Renato2009/Os%20Ninjas%202/UnderworldAwakening-Capa.jpg" group-title="Lancamentos Dublados", Anjos da Noite: O Despertar  2012 - Dublado
+rdc://RCFServer3/ondemand/ANJSDNT4.mp4
+
+#EXTINF:-1 tvg-logo="http://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=2658388&qld=90&l=430&a=-1" group-title="Lancamentos Dublados", Anjos da Noite: A Rebelião 2009 - Dublado
+rdc://RCFServer3/ondemand/ANJSDNT3.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/8XrwIWym87NJZkP43zY1BwAI4V4.jpg" group-title="Lancamentos Dublados", Anjos da Noite: A Evolução 2006- Dublado
+rdc://RCFServer3/ondemand/ANJSDNT2.mp4
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/xLGYn10OnHl2arW_PzQaKwrN_G8=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2011/06/0a055c82feb3651fddd991fdb141efc9.jpg" group-title="Lancamentos Dublados",Anjos da Noite: Underworld 2003 - Dublado
+rdc://RCFServer3/ondemand/ANJSDNT1.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/d7FGOJuAfgCwypol5r1qs1OtqZr.jpg" group-title="Lancamentos Dublados", INFERNO - Dublado
+rdc://RCFServer3/ondemand/INFRNO.mp4
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-p-zAYzSFSsk/UToCohdE1MI/AAAAAAAAqvk/I8HkoiwqJ70/s1600/capa.jpg" group-title="Filmes Lancamento", ANJOS E DEMONIOS - 2009 - Dublado
+rdc://RCFServer3/ondemand/ANJSEDMNIS.mp4
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/S_14363-MLB184734450_8461-O.jpg" group-title="Filmes Lancamento", O CODIGO DA VINCI  - 2006 - Dublado
+rdc://RCFServer3/ondemand/OCODVNC.mp4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-51BuERGPVp0/WEbL67A91xI/AAAAAAAAH90/J5erb9ErNhgs6Kb1R5j-NfaF2SwnTPj1wCLcB/s1600/hyujhytt.jpg" group-title="Lancamentos Dublados", 7 HOMENS E UM DESTINO - Dublado
+rdc://RCFServer3/ondemand/SETHMNSEUDSTN.mp4
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-75IBsNe-cTU/Vu6WGIwQTyI/AAAAAAAAN7Q/ae_Q9hO3eSUjb2F0-HdrqYim94GC3xiqg/s1600/O%2Blar%2Bdas%2Bcrian%25C3%25A7as%2Bpeculiares.jpg" group-title="Lancamentos Dublados", O LAR DAS CRIANÇAS PECULIARES - Dublado
+rdc://RCFServer3/ondemand/OLRDSCRNPCLRS.mp4
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kTfXj0OrK2I/V_gJfJM-FSI/AAAAAAAAa2c/65ObWxtKTJ8muSopecla1UIpnq0lVM_7wCLcB/s1600/G%25C3%25AAnios%2Bdo%2BCrime%2Bposter.jpg" group-title="Lancamentos Dublados", GENIOS DO CRIME - Dublado
+rdc://RCFServer3/ondemand/GNSDCRM.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_520_690/newsv7/16/04/27/22/53/235439.jpg" group-title="Lancamentos Dublados", MAIS FORTE QUE O MUNDO - A HITORIA DE JOSE ALDO
+rdc://RCFServer3/ondemand/MSFRTQOMUND.mp4
+
+#EXTINF:-1 tvg-logo="http://www.pipocao.com.br/images/cinema/579x818/o-contador.jpg" group-title="Lancamentos Dublados", O CONTADOR - Dublado
+rdc://RCFServer3/ondemand/OCNTDR.mp4
+
+#EXTINF:-1 tvg-logo="http://planetalan.com.br/wp-content/uploads/2016/12/Agente-Mirim-2016.jpg" group-title="Lancamentos Dublados", AGENTE MIRIN - Dublado
+rdc://RCFServer3/ondemand/AGNTMRIM.mp4
+
+#EXTINF:-1 tvg-logo="http://www.filmesandseries.com/wp-content/uploads/2016/10/carrossel-2-capa.jpg" group-title="Lancamentos Dublados", CARROSSEL 2 - Dublado
+rdc://RCFServer3/ondemand/CARSL2.mp4
+
+#EXTINF:-1 tvg-logo="http://www.filmesonlinegratis.com/wp-content/uploads/2016/10/c6852ee86d.jpg" group-title="Lancamentos Dublados", FESTA DA SALSICHA - Dublado
+rdc://RCFServer3/ondemand/FSTDSLSCHA.mp4
+
+#EXTINF:1 tvg-logo="https://aserotonina.files.wordpress.com/2016/10/nerve_-_um_jogo_sem_regras.jpg" group-title="Lancamentos Dublados", NERVE UM JOGO SEM REGRAS - Dublado
+rdc://RCFServer3/ondemand/NRVUJSR.mp4
+
+#EXTINF:-1 tvg-logo="http://www.baixetorrent.net/wp-content/uploads/2016/12/O-Bom-Gigante-Amigo-Capa-Bluray-1.jpg" group-title="Lancamentos Dublados", O BOM GIGANTE AMIGO - Dublado
+rdc://RCFServer3/ondemand/OBMGIGNTAMG.mp4
+
+#EXTINF:-1 tvg-logo="http://www.baixeviatorrents.net/wp-content/uploads/2016/12/O-Mestre-dos-G%C3%AAnios-Capa-Bluray.jpg" group-title="Lancamentos Dublados", O MESTRE DOS GÊNIOS - Dublado
+rdc://RCFServer3/ondemand/OMSTRDSGNS.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/01/03/14/19/379106.jpg" group-title="Lancamentos Dublados", O PROGRAMA - Dublado
+rdc://RCFServer3/ondemand/OPRGMA.mp4
+
+#EXTINF:-1 tvg-logo="http://i1.wp.com/solegendas.com.br/wp-content/uploads/2016/12/Spectral.jpg" group-title="Lancamentos Dublados", SPECTRAL - Dublado
+rdc://RCFServer3/ondemand/SPCTRL.mp4
+
+#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/Poster_BadMoms_Fingers_BR_64x94cm_v7.jpg.jpeg" group-title="Lancamentos Dublados", PERFEITA É A MÃE - Dublado
+rdc://RCFServer3/ondemand/PRFTEAMA.mp4
+
+#EXTINF:-1 tvg-logo="http://megafilmes.org/wp-content/uploads/2016/11/capa-1.jpg" group-title="Lancamentos Dublados", PORQUE É NOVEMBRO Dublado
+rdc://RCFServer3/ondemand/PQENVBRO.mp4
+
+#EXTINF:-1 tvg-logo="http://www.toptx.net/wp-content/uploads/2016/10/f40b4634d1.jpg" group-title="Lancamentos Dublados", POPSTAR: SEMPARAR, SEM LIMITES Dublado
+rdc://RCFServer3/ondemand/POPSTSMPRSMLMT.mp4
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-sgCbBesKThM/WCDsPbXTxEI/AAAAAAAAbjQ/OterhkbTB4UBV7BsqL372ERdcpTMDEODQCLcB/s1600/legendas_tv_20161101151400.jpg" group-title="Lancamentos Dublados", UMA NOITE COM A FAMILIA BLACKS Dublado
+rdc://RCFServer3/ondemand/UMANTCMAFMLBLC.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/11/13/08/11/157426.jpg" group-title="Lancamentos Dublados", UMA CANÇÃO Dublado
+rdc://RCFServer3/ondemand/UMACNCAO.mp4
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/DAgl6WnE8Po8KUY1NwEpYJLyzns=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/09/images_1.jpg" group-title="Lancamentos Dublados", O DRAGAO DO NATAL Dublado
+rdc://RCFServer3/ondemand/ODRGODNTL.mp4
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/ETtvwSMr2Qn5LKbQKHABxvxw5-Y=/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/06/nosso-fiel-traidor_t73988.jpg" group-title="Lancamentos Dublados", NOSSO FIEL TRAIDOR Dublado
+rdc://RCFServer3/ondemand/NOSSFILTRDR.mp4
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-vCPmhAVpH5g/VFltVIsVAJI/AAAAAAAAWoo/73QGGG5CKPc/s1600/capa-filme-mercy-stephen-king.jpg" group-title="Lancamentos Dublados", MERCY Dublado
+rdc://RCFServer3/ondemand/MRCY.mp4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JhfmmH-npoI/WCXB3SKRDtI/AAAAAAAAblA/AhcUxoTTCVYcyAEDfne_1heI4YSuZ_fRgCLcB/s320/Jason%2BBourne%2B-%2BCapa%2B02%2BFilme%2BDVD%2B%2528Copy%2529.jpg" group-title="Lancamentos Dublados", JASON BOURNE Dublado
+rdc://RCFServer3/ondemand/JSONBRNE.mp4
+
+#EXTINF:-1 tvg-logo="http://www.baixeviatorrents.net/wp-content/uploads/2016/03/Horas-Decisivas-Capa-Bluray.jpg" group-title="Lancamentos Dublados", HORAS DECISIVAS Dublado
+rdc://RCFServer3/ondemand/HRSDCSVS.mp4
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-iIAil8OVgfg/V8B4E5NaUsI/AAAAAAAAY7o/UEk2u2PV9voN-V1hqmi-NdG9aWkqsAOIQCLcB/s1600/tt4677938.jpg" group-title="Lancamentos Dublados", HONEY 3: NO RITMO DO AMOR Dublado
+rdc://RCFServer3/ondemand/HONY3.mp4
+
+#EXTINF:-1 tvg-logo="http://www.filmesandseries.com/wp-content/uploads/2016/09/elvis-e-nixon-capa.jpg" group-title="Lancamentos Dublados", ELVIS E NIXON Dublado
+rdc://RCFServer3/ondemand/ELVSENIXN.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/07/27/12/37/174206.jpg" group-title="Lancamentos Dublados", CANTANDO DE GALO Dublado
+rdc://RCFServer3/ondemand/CATNDGL.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.embrulha.com.br/wp-content/uploads/2016/06/Truque-de-mestre-segundo-ato-galeria11-blog-embrulha.jpg" group-title="Lancamentos Dublados", TRUQUE DE MESTRE: O SEGUNDO ATO Dublado
+rdc://RCFServer3/ondemand/TRQDMSTR2.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.filmesonlinehd11.cc/wp-content/uploads/2016/08/QUANDO-AS-LUZES.jpg" group-title="Lancamentos Dublados", QUANDO AS LUZES SE APAGAM Dublado
+rdc://RCFServer3/ondemand/QNDASLZSAPGM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-y0rx4eWJzS4/V4rCMwPhOMI/AAAAAAAAAVU/AVJRFsvpSQ0upO7uhswt6FA1aXvHbdFPwCLcB/s1600/a.jpg" group-title="Lancamentos Dublados", ÁGUAS RASAS Dublado
+rdc://RCFServer3/ondemand/AGUSRAS.mp4
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fe/Suicide_squad_poster.jpg" group-title="Lancamentos Dublados", ESQUADRÃO SUICIDA Dublado
+rdc://RCFServer3/ondemand/ESQDSUCDA.mp4
+ 
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/03/14/19/36/003567.jpg" group-title="Lancamentos Dublados", TINI: DEPOIS DE VIOLETTA Dublado
+rdc://RCFServer3/ondemand/TNDPSDVLTA.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.plugou.com/wp-content/uploads/2016/06/empire-star-trek.jpg" group-title="Lancamentos Dublados", STAR TREK: SEM FRONTEIRAS Dublado
+rdc://RCFServer3/ondemand/STRTRK13.mp4
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BuWwXw5.jpg" group-title="Lancamentos Dublados", OS CAÇADORES Dublado
+rdc://RCFServer3/ondemand/OSCDRS.mp4
+ 
+#EXTINF:-1 tvg-logo="http://grupoautentica.com.br/img/capas/x/1358-20160504171458.jpg" group-title="Lancamentos Dublados", INDEPENDENCE DAY: O RESSURGIMENTO Dublado
+rdc://RCFServer3/ondemand/INDPNDAYORSGMNT.mp4
+ 
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/53f3c12de4b03c2842de21be/56400cd7e4b0e65bf79acf91/57cc37be5016e1462159e918/1473001415149/marauders-2016-01.jpg?format=1500w", ASSALTO AO PODER Dublado
+rdc://RCFServer3/ondemand/ASLTOAOPDR.mp4
+ 
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/se5fYMnvkL2cHDJyggNT-vrcZeQ=/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/07/uma-noite-de-aventuras_t196553.jpeg", UMA AVENTURA DE BABAS Dublado
+rdc://RCFServer3/ondemand/UMAVNTRDBABS.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.themediafire.net/wp-content/uploads/2016/08/Invoca%C3%A7%C3%A3o-do-Mal-2.jpg" group-title="Lancamentos Dublados", INVOCACAO DO MAL 2 Dublado
+rdc://RCFServer3/ondemand/INVCAODML2.mp4
+ 
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/rfKD77k2Q4PtveA6nbDkx1RipLc=/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/07/perdiendo-el-norte_t98138.jpg" group-title="Lancamentos Dublados", DESNORTEADOS Dublado
+rdc://RCFServer3/ondemand/DESNRTAD.mp4
+ 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/03/02/21/30/273982.jpg" group-title="Lancamentos Dublados", MENTE CRIMONOSA Dublado
+rdc://RCFServer3/ondemand/MENTCRMINSA.mp4
+ 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/03/16/21/50/048517.jpg" group-title="Lancamentos Dublados", HARDCORE: MISSÃO EXTREMA Dublado
+rdc://RCFServer3/ondemand/HARDCRMSEXTRM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-d2Jo6_RFMl4/V5u8-6BcpVI/AAAAAAAABCU/m4qOQJCDJj08k7H8LAXXgmpXXmceSONngCLcB/s400/Frankenstein%2B%25E2%2580%2593%2BDubladolado%2B%25E2%2580%2593%2B2016.jpg" group-title="Lancamentos Dublados", FRANKENSTEIN Dublado
+rdc://RCFServer3/ondemand/FRNKSTEN.mp4
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bhHEBlEm1Ks/V7HIuaFsIAI/AAAAAAAAAic/Rcl7X-fdjg8CrNAWLvwPnodZtwpK7m9dgCLcB/s1600/never.jpg" group-title="Lancamentos Dublados", ELE NUNCA MORRE Dublado
+rdc://RCFServer3/ondemand/ELENCMRR.mp4
+ 
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/14/07/09/16/27/398352.jpg" group-title="Lancamentos Dublados", DEUS NÃO ESTÁ MORTO Dublado
+rdc://RCFServer2/ondemand/DSNESTMRT.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.cinemariopreto.com.br/assets/img/filmes/filme2002_cp.jpg" group-title="Lancamentos Dublados", DEUS NÃO ESTÁ MORTO 2 Dublado
+rdc://RCFServer3/ondemand/DSNESTMRT2.mp4
+ 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/02/22/15/04/196967.jpg" group-title="Lancamentos Dublados", A SÉRIE DIVERGENTE: CONVERGENTE Dublado
+rdc://RCFServer3/ondemand/ASREDVRGNTCNVGNT.mp4
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-0dPDnT7tZis/V5kNCtB3SGI/AAAAAAAABfw/nEXvShcJqj4MqXTAwABn0EqgvqR5Bj_VACLcB/s1600/Baixar%2BA%2BProcura%2Bda%2BLiberdade%2B%25282016%2529%2BDubladolado%2BTorrent.jpg" group-title="Lancamentos Dublados", À PROCURA DA LIBERDADE Dublado
+rdc://RCFServer3/ondemand/APRCURDLBRD.mp4
+ 
+#EXTINF:-1 tvg-logo="https://media.pathe.nl/nocropthumb/620x955/gfx_content/posters/triple_9_43008801_ps_1_s-high.jpg" group-title="Lancamentos Dublados", TRIPLE 9 Dublado
+rdc://RCFServer2/ondemand/TRPL9.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.usabit.com/wp-content/uploads/2016/02/rsz_diablo-30sz0thul2hjikms44vbi8.jpg" group-title="Lancamentos Dublados", DIABLO Dublado
+rdc://RCFServer2/ondemand/DIABLODublado.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.metropolitanshoppingbetim.com.br/uploads/filme/567bf7ed18e0b1.69262288.jpg" group-title="Lancamentos Dublados", ATÉ QUE A SORTE NOS SEPARE 3 Dublado
+rdc://RCFServer2/ondemand/ATQASRTNSPR3.mp4
+ 
+#EXTINF:-1 tvg-logo="http://baixakifilmes.net/wp-content/uploads/2016/01/The-Ridiculous-6-Baixaki-Filmes.jpg" group-title="Lancamentos Dublados", THE RIDICULOUS 6 Dublado
+rdc://RCFServer2/ondemand/THRDCULOS6.mp4
+ 
+#EXTINF:-1 tvg-logo="http://imgc.allpostersimages.com/images/P-473-488-90/55/5578/491VG00Z/posters/south-park-maior-melhor-e-sem-cortes.jpg" group-title="Lancamentos Dublados", SOUTH PARK: MAIOR, MELHOR E SEM CORTES Dublado
+rdc://RCServer01/videos/STHPRKFILME01.mp4
+ 
+#EXTINF:-1 tvg-logo="http://cdn.cinepop.com.br/2015/05/ted2-poster2705.jpg" group-title="Lancamentos Dublados", TED 2 Dublado
+rdc://RCFServer2/ondemand/TED2.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.imagemfilmes.com.br/resources/capas/164464_000_p.jpg" group-title="Lancamentos Dublados", O ENCONTRO Dublado
+rdc://RCFServer2/ondemand/OENCTRO.mp4
+ 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/05/27/10/20/096070.jpg" group-title="Lancamentos Dublados", A VIATURA Dublado
+rdc://RCFServer1/ondemand/AVIATURA.mp4
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KYFr90X.jpg" group-title="Lancamentos Dublados", UM SENHOR ESTAGIÁRIO Dublado
+rdc://RCFServer2/ondemand/UMSNHRESTGIARIO.mp4
+ 
+#EXTINF:-1 tvg-logo="http://themontclarion.org/montclarion/wp-content/uploads/2015/11/The_33_film_poster-2.jpg" group-title="Lancamentos Dublados", OS 33 Dublado
+rdc://RCFServer2/ondemand/OS33.mp4
+ 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dddMs71BNjmkzvmpSrMdcrKYXZR.jpg" group-title="Lancamentos Dublados", DOCE VINGANÇA 3: A VINGANÇA É MINHA Dublado
+rdc://RCFServer2/ondemand/DCVNGCA3.mp4
+ 
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/02/15/22/40/327086.jpg" group-title="Lancamentos Dublados", ALICE ATRAVÉS DO ESPELHO Dublado
+rdc://RCFServer2/ondemand/ALCATRVSDESLHO.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.filmesonlinehd1.com/wp-content/uploads/2016/03/Voltando-do-Inferno-200x300.jpg" group-title="Lancamentos Dublados", VOLTANDO DO INFERNO Dublado
+rdc://RCFServer2/ondemand/VLTNDINF.mp4
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wpudU8dmi-4/U0_vFzTFhvI/AAAAAAAAI8s/avfCzHihfiY/s1600/Velozes+e+Furiosos+7.jpeg", VELOZES & FURIOSOS 7 Dublado
+rdc://RCFServer1/ondemand/VLZEFROSOS07.mp4
+ 
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/14/11/14/13/47/211678.jpg" group-title="Lancamentos Dublados", CINQUENTA TONS DE CINZA Dublado
+rdc://RCFServer1/ondemand/CNQNTNSDCNZ.mp4
+ 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/UM1MefOnmh34trY6aCa1C-JJUJH76JhM0JdUUWlebYTX=w404-h593-no", TOMORROWLAND: UM LUGAR ONDE NADA É IMPOSSÍVEL Dublado
+rdc://RCFServer2/ondemand/TOMROWLND.mp4
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-InBr989GZzE/VSdD3MtDKhI/AAAAAAAAAJ0/PD3OyHYCw4o/s1600/Bravetwon%2BMovie%2BPoster%2B(1).jpg" group-title="Lancamentos Dublados", BRAVETOWN Dublado
+rdc://RCFServer2/ondemand/BRVTWN.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.megatorrentshd.com/wp-content/uploads/2015/12/Jogos-Vorazes-A-Esperanca-O-Final.jpg" group-title="Lancamentos Dublados", JOGOS VORAZES: A ESPERANÇA - O FINAL Dublado
+rdc://RCFServer2/ondemand/JGSVRZSAESPRPT2.mp4
+ 
+#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/capas/P%C3%B4ster_Online.jpg" group-title="Lancamentos Dublados", COMO SOBREVIVER A UM ATAQUE ZUMBI Dublado
+rdc://RCFServer2/ondemand/CMSBRVVERAUATQZMB.mp4
+ 
+#EXTINF:-1 tvg-logo="http://assistirhdonline.net/uploads/posts/2016-03/1458893744_poster-de-vai-que-da-certo-2-1451915029513_300x420.jpg" group-title="Lancamentos Dublados", VAI QUE DÁ CERTO 2 Dublado
+rdc://RCFServer2/ondemand/VQDRCRT2.mp4
+ 
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/15/12/11/13/14/181510.jpg" group-title="Lancamentos Dublados", SPOTILIGHT: SEGREDOS REVELADOS Dublado
+rdc://RCFServer2/ondemand/SPTGHTSCRDSRVLDS.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.thepiratefilmes.com/wp-content/uploads/2016/02/O-Tigre-e-o-Drag%C3%A3o-A-Espada-do-Destino-Copy.jpg" group-title="Lancamentos Dublados", O TIGRE E O DRAGÃO: A ESPADA DO DESTINO Dublado
+rdc://RCFServer2/ondemand/OTRIGEDRG.mp4
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OPTMlQqehU0/Vud6NRofsrI/AAAAAAAAWlc/9md68pLd9VU-v0mFzzTSPJqSOoj2c6GHg/s400/O-Grande-Mestre-3-ip-man-3-yp-man-3-Dubladolado-Legendadoendado-filme-online-hd-2016-2015.jpg" group-title="Lancamentos Dublados", O GRANDE MESTRE 3 Dublado
+rdc://RCFServer2/ondemand/OGRNDMSTR3.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.muambeirostorrent.com/wp-content/uploads/2016/01/capa-16.jpg" group-title="Lancamentos Dublados", IRMÃS Dublado
+rdc://RCFServer2/ondemand/IRMAS.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.pic.lilup.net/uploads/up270081460796504_4.png", A RESSURREICAO DO ANTICRISTO Dublado
+rdc://RCFServer2/ondemand/ARSRCAODANTCRST.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.cinecompipoca.com.br/wp-content/uploads/2016/01/10-capa.jpg" group-title="Lancamentos Dublados", OS DEZ MANDAMENTOS: O FILME Dublado
+rdc://RCFServer2/ondemand/OSDZMANDMTS.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.claquete.com/fotos/galeria_fotos/37817.jpg" group-title="Lancamentos Dublados", CINQUENTA TONS DE PRETO Dublado
+rdc://RCFServer2/ondemand/CQNTATNSDPRT.mp4
+ 
+#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/2/2/0/5/7/5/220575-deadpool-0-230-0-345-crop.jpg?k=bdc79b669a", DEADPOOL Dublado
+rdc://RCFServer2/ondemand/DEADP.mp4
+ 
+#EXTINF:-1 tvg-logo="http://cinemacomrapadura.com.br/imagens/2016/01/20160118-steve-jobs_t111136_jpg_290x478_upscale_q90.jpg" group-title="Lancamentos Dublados", STEVE JOBS Dublado
+rdc://RCFServer2/ondemand/STVJBS.mp4
+ 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-FNjlwdbl1fo/VvAo92ozvuI/AAAAAAAADlw/Obrr36Dy0moJvS9TfUtOXjs7_-CnUH7kw/s320/riot_t123446_jpg_290x478_upscale_q90.jpg" group-title="Lancamentos Dublados", REBELIÃO Dublado
+rdc://RCFServer2/ondemand/RBLOA.mp4
+ 
+#EXTINF:-1 tvg-logo="http://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9259107&qld=90&l=370&a=-1" group-title="Lancamentos Dublados", PERSEGUINDO ABBOTT Dublado
+rdc://RCFServer2/ondemand/PRSGUNDABOT.mp4
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-lONtMDLkg78/VuLo0TBP12I/AAAAAAAAMBA/GEwNOoIPuMoCNV9N6AUiG6ATryx1_ypuQ/s1600/o-regresso.jpg" group-title="Lancamentos Dublados", O REGRESSO Dublado
+rdc://RCFServer2/ondemand/ORGRSODublado.mp4
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-J6EWKsxU0sI/Vu2Zj5lJDRI/AAAAAAAAQAA/5mmNAsTqoQgr6FATjgrQF3szGOw9_JPJQ/s1600/Extraction%2BTorrent%2B-%2BBDRip%2BDual%2B%25C3%2581udio%2B%25282016%2529.jpg" group-title="Lancamentos Dublados", OPERACAO RESGATE Dublado
+rdc://RCFServer2/ondemand/OPRCORSGT.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.megatorrentshd.com/wp-content/uploads/2016/04/capa-Ensina-me-o-Amor-HD-204x300.jpg" group-title="Lancamentos Dublados", ENSINA-ME O AMOR Dublado
+rdc://RCFServer2/ondemand/ESNMOAMR.mp4
+ 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lcakm85uf1QaN2gzeLcDOUej82F.jpg" group-title="Lancamentos Dublados", A SEITA Dublado
+rdc://RCFServer2/ondemand/ASITA.mp4
+ 
+#EXTINF:-1 tvg-logo="http://cinema10.com.br/upload/filmes/filmes_9871_5675220.jpg-r_x_600-f_jpg-q_x-xxyxx.jpg" group-title="Lancamentos Dublados", MACBETH: AMBICAO & GUERRA Dublado
+rdc://RCFServer2/ondemand/MCBETHABCOEGURR.mp4
+ 
+#EXTINF:-1 tvg-logo="https://jackeltuerto.files.wordpress.com/2016/01/6321872_greenville-sc-win-passes-to-an-advance_d340d1c3_m.jpg?w=416&h=600", JEM E AS HOLOGRAMAS Dublado
+rdc://RCFServer2/ondemand/JMEASHLFRMS.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.muambeiros.org/wp-content/uploads/2016/03/capa-8.jpg" group-title="Lancamentos Dublados", GRACE DE MÔNACO Dublado
+rdc://RCFServer2/ondemand/GRCDMNC.mp4
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYqPY8m4jA-GN7oeRL9f-q8hVMa3Tfia9Npy4IvffSqTnDenE3", CAROL Dublado
+rdc://RCFServer2/ondemand/CRL.mp4
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-eZdbducv1ZQ/VYyRPZ2gv2I/AAAAAAAAcEY/MdIu1qOZfXI/w272-h400-p/canibais.jpg" group-title="Lancamentos Dublados", CANIBAIS Dublado
+rdc://RCFServer2/ondemand/CANBS.mp4
+ 
+#EXTINF:-1 tvg-logo="http://horrorcultfilms.co.uk/wp-content/uploads/2016/02/filmes_9480_brek5.jpg" group-title="Lancamentos Dublados", CACADORES DE EMOCAO: ALÉM DO LIMITE Dublado
+rdc://RCFServer2/ondemand/CACDRSDEMCOSALMDLMT.mp4
+ 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/03/02/16/17/293278.jpg" group-title="Lancamentos Dublados", AMOR POR ACIDENTE Dublado
+rdc://RCFServer2/ondemand/AMRPRACDNT.mp4
+ 
+#EXTINF:-1 tvg-logo="http://images.comunidades.net/bai/baixefilmeshd/perseguicao_capa.jpg" group-title="Lancamentos Dublados", PERSEGUICAO Dublado
+rdc://RCFServer2/ondemand/PRSGCAO.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.filmesonlinehd1.com/wp-content/uploads/2016/02/Woodlawn-Talento-e-Fe.jpg" group-title="Lancamentos Dublados", WOODLAWN: TALENTO E FÉ Dublado
+rdc://RCFServer2/ondemand/TLNTEFWODLWN.mp4
+ 
+#EXTINF:-1 tvg-logo="http://poseseneuroses.com.br/wordpress/wp-content/uploads/2016/04/The-Beach-Boys-Uma-Hist%C3%B3ria-de-Sucesso-Poster.jpg" group-title="Lancamentos Dublados", THE BEACH BOYS: UMA HISTÓRIA DE SUCESSO Dublado
+rdc://RCFServer2/ondemand/THBCHBYSUHDS.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/teaser-trailer.com/wp-content/uploads/pay-the-ghost-new-poster.jpg" group-title="Lancamentos Dublados", REGRESSO DO MAL Dublado
+rdc://RCFServer2/ondemand/RGRSDMAL.mp4
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-hCZ6pGKyzUU/Vqtuek6lXjI/AAAAAAAAEk0/OF0AFOsxZns/s1600/Irrational%2BMan.jpg" group-title="Lancamentos Dublados", HOMEM IRRACIONAL Dublado
+rdc://RCFServer2/ondemand/OHOMNIRCIONL.mp4
+ 
+#EXTINF:-1 tvg-logo="http://megafilmestorrent.org/wp-content/uploads/2016/01/Jogo-de-Assassinos-Torrent.jpg" group-title="Lancamentos Dublados", JOGO DE ASSASSINOS Dublado
+rdc://RCFServer2/ondemand/JGSDASINS.mp4
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-3hgp5qcYQhQ/Vqi7F9FjNqI/AAAAAAAAAfs/Z-Gxr8ZSLLs/s1600/capa.jpg" group-title="Lancamentos Dublados", APRENDENDO COM A VOVÓ Dublado
+rdc://RCFServer2/ondemand/APRNDOCMAVO.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.themediafire.net/wp-content/uploads/2016/01/01aaaoculusa4sd4asdsasdjasdAherdeira-351x520.jpg" group-title="Lancamentos Dublados", A HERDEIRA Dublado
+rdc://RCFServer2/ondemand/AHRDIRA.mp4
+ 
+#EXTINF:-1 tvg-logo="http://apontadl.com/wp-content/uploads/2016/02/apontadl_img_destacada4.jpg" group-title="Lancamentos Dublados", 90 MINUTOS NO PARAÍSO Dublado
+rdc://RCFServer2/ondemand/90MINPRSO.mp4
+ 
+#EXTINF:-1 tvg-logo="http://www.filmesonlinehd1.com/wp-content/uploads/2016/01/Os-Condenados-2-200x300.jpg" group-title="Lancamentos Dublados", OS CONDENADOS 2 Dublado
+rdc://RCFServer2/ondemand/OSCNDNS2.mp4
+ 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/11/18/21/21/419781.jpg" group-title="Lancamentos Dublados", ESPECIALISTA EM CRISE Dublado
+rdc://RCFServer2/ondemand/ESPCLSEMCRS.mp4

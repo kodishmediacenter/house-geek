@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR yellow][B]1 litro de Lagrimas EP01[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=ZbQZ6cxb6Cw</link>
+<thumbnail>https://goo.gl/hwncdP</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR yellow][B]1 litro de Lagrimas EP02[/B][/COLOR]</title>
+<link>https://openload.co/embed/XNSIHuE-r1I/29720_1482451655mq.mp4</link>
+<thumbnail>https://goo.gl/hwncdP</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR yellow][B]1 litro de Lagrimas EP03[/B][/COLOR]</title>
+<link>https://openload.co/embed/BcaSJLo7vok/29721_1482870922mq.mp4</link>
+<thumbnail>https://goo.gl/hwncdP</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR yellow][B]1 litro de Lagrimas EP04[/B][/COLOR]</title>
+<link>https://openload.co/embed/uBm_xqsjQbo/29722_1482451643mq.mp4</link>
+<thumbnail>https://goo.gl/hwncdP</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]1 litro de Lagrimas EP05[/B][/COLOR]</title>
+<link>https://openload.co/embed/zO10HIke2_A/29723_1482451635mq.mp4</link>
+<thumbnail>https://goo.gl/hwncdP</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]1 litro de Lagrimas EP06[/B][/COLOR]</title>
+<link>https://openload.co/embed/TczE1i7--fg/29724_1482451622mq.mp4</link>
+<thumbnail>https://goo.gl/hwncdP</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]1 litro de Lagrimas EP07[/B][/COLOR]</title>
+<link>https://openload.co/embed/67XPv2KSr_Y/29725_1482451614mq.mp4</link>
+<thumbnail>https://goo.gl/hwncdP</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]1 litro de Lagrimas EP08[/B][/COLOR]</title>
+<link>https://openload.co/embed/-9euJwx4Nx0/29726_1482451607mq.mp4</link>
+<thumbnail>https://goo.gl/hwncdP</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]1 litro de Lagrimas EP09[/B][/COLOR]</title>
+<link>https://openload.co/embed/ySuYsIbfLUo/29727_1482870880mq.mp4</link>
+<thumbnail>https://goo.gl/hwncdP</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]1 litro de Lagrimas EP10[/B][/COLOR]</title>
+<link>https://openload.co/embed/FYDhHm1ORx8/29728_1482870877mq.mp4</link>
+<thumbnail>https://goo.gl/hwncdP</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]1 litro de Lagrimas EP11[/B][/COLOR]</title>
+<link>https://openload.co/embed/lNnhInvvhIg/29729_1482870877mq.mp4</link>
+<thumbnail>https://goo.gl/hwncdP</thumbnail>
+<fanart></fanart>
+</item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR yellow][B]100 Scene No Koi EP01[/B][/COLOR]</title>
+<link>https://openload.co/embed/ZgNOVd1-IJA/14945_1482944814mq.mp4/link>
+<thumbnail>https://goo.gl/hwncdP</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]100 Scene No Koi EP02[/B][/COLOR]</title>
+<link>https://openload.co/embed/EC7gHEzIUnc/14946_1491429276mq.mp4</link>
+<thumbnail>https://goo.gl/hwncdP</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]100 Scene No Koi  EP03[/B][/COLOR]</title>
+<link>https://openload.co/embed/VhgUoJlNQms/14947_1491429264mq.mp4</link>
+<thumbnail>https://goo.gl/hwncdP</thumbnail>
+<fanart></fanart>
+</item>

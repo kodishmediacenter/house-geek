@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP01
+rdc://RCServer09/ondemand/DNMTOBONCEP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP02
+rdc://RCServer09/ondemand/DNMTOBONCEP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP03
+rdc://RCServer09/ondemand/DNMTOBONCEP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP04
+rdc://RCServer09/ondemand/DNMTOBONCEP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP05
+rdc://RCServer09/ondemand/DNMTOBONCEP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP06
+rdc://RCServer09/ondemand/DNMTOBONCEP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP07
+rdc://RCServer09/ondemand/DNMTOBONCEP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP08
+rdc://RCServer09/ondemand/DNMTOBONCEP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP09
+rdc://RCServer09/ondemand/DNMTOBONCEP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP10
+rdc://RCServer09/ondemand/DNMTOBONCEP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP11
+rdc://RCServer09/ondemand/DNMTOBONCEP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP12
+rdc://RCServer09/ondemand/DNMTOBONCEP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP13
+rdc://RCServer09/ondemand/DNMTOBONCEP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP14
+rdc://RCServer09/ondemand/DNMTOBONCEP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP15
+rdc://RCServer09/ondemand/DNMTOBONCEP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FS3SZY" group-title="Scooby Doo e Dinamite o Bionicão",EP16
+rdc://RCServer09/ondemand/DNMTOBONCEP16.mp4

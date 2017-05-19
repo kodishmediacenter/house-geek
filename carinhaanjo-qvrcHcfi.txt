@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 50
+http://www.dailymotion.com/embed/video/k4Kuhh1MzXVt44lAqE8
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 49
+http://www.dailymotion.com/embed/video/k4b9nTzcFT4aCIlzz4O
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 48
+http://www.dailymotion.com/embed/video/k7FLCXCckp8lZVlyNDm
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 47
+http://www.dailymotion.com/embed/video/k6JmYtV1BuE3U8lxXnC
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 46
+http://www.dailymotion.com/embed/video/kuEvECfJoEsc7Klx6VB
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 45
+http://www.dailymotion.com/embed/video/k4TxyGgqUssZ64lvwRw
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 44
+http://www.dailymotion.com/embed/video/k71j4s31HK3sx4lutM7
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 43
+http://www.dailymotion.com/embed/video/k2hke4W7Y1nOfNltIPt
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 42
+http://www.dailymotion.com/embed/video/k1qqsuaXLQ7mialsYBq
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 41
+http://www.dailymotion.com/embed/video/k2frEU3X8AxSpcls9Sc
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 40
+http://www.dailymotion.com/embed/video/k1z7xcByhwZK7llpWRf
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 39
+http://www.dailymotion.com/embed/video/k6UN5AvTLVgY0Glp3Nf
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 38
+http://www.dailymotion.com/embed/video/k2bwbOw5NF7CNQlo7g0
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 37
+http://www.dailymotion.com/embed/video/k1Y0ASYZfcCEmslnjE1
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 36
+http://www.dailymotion.com/embed/video/k2e4GkMEEeCZsJlmrEd
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 35
+http://www.dailymotion.com/embed/video/k7j5G8CInxKJoHlkpcH
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 34
+http://www.dailymotion.com/embed/video/k6LJS0Uip8MI9XljwDZ
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 33
+http://www.dailymotion.com/embed/video/k1giGhOeRyRa0eliK5Q
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 32
+http://www.dailymotion.com/embed/video/k3tra4Ie97hDKylhX3u
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 31
+http://www.dailymotion.com/embed/video/k6Ic9YvZtTqX9hlh66b
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 30
+http://www.dailymotion.com/embed/video/k4LflC5Uwh2f8slfeRy
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 29
+http://www.dailymotion.com/embed/video/kIane16e2UPQvzlejEY
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 28
+http://www.dailymotion.com/embed/video/k3Hyi8boKnpXrBldo0P
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 27
+http://www.dailymotion.com/embed/video/k5KNgH0us2MM1flcxpn
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 26
+http://www.dailymotion.com/embed/video/k6s6pTf2xnT1mqlbMAi
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 25
+http://www.dailymotion.com/embed/video/k3Hyi8boKnpXrBldo0P
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 24
+http://www.dailymotion.com/embed/video/krsvfXGYSXX1otl9k6B
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 23
+http://www.dailymotion.com/embed/video/k7CKWSFVB390hvl8Cal
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 22
+http://www.dailymotion.com/embed/video/k6W0HzLUpJkteEl7GmX
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 21
+http://www.dailymotion.com/embed/video/k3vhp9M1NGucPTl6XTs
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 20
+http://www.dailymotion.com/embed/video/k5XGUJr2DbUyD2l59x7
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 19
+http://www.dailymotion.com/embed/video/k1vprodV8Oadncl4rVn
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 18
+http://www.dailymotion.com/embed/video/k4ICNFtp8G7XLgl3O4m
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 17
+https://openload.co/embed/coDXTiJwOTY
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 16
+http://www.dailymotion.com/embed/video/k6mtwj6VqA6GbGl2cIT
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 15
+http://www.dailymotion.com/embed/video/k6S5AthWKZ9i5Al0EJ3
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 14
+http://www.dailymotion.com/embed/video/k3p8H9vZcOSGBfl00IQ
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 13
+http://www.dailymotion.com/embed/video/k3W4uZKIhyqWCwkZlrW
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 12
+http://www.dailymotion.com/embed/video/kNCKCoyJcaTvJSkYLsQ
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 11
+http://www.dailymotion.com/embed/video/k78eWoXGeHESAckY8xa
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 10
+http://www.dailymotion.com/embed/video/k78eWoXGeHESAckY8xa
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 09
+http://www.dailymotion.com/embed/video/k2ceBRcUEWDN5ekW2Vg
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 08
+http://www.dailymotion.com/embed/video/k6UKdaCJ29ztR7kVnay
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 07
+https://openload.co/embed/s8jVoQGVlts/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 06
+https://openload.co/embed/z1AKjEALu9U/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 05
+http://www.dailymotion.com/embed/video/k1S8Z0L6muB37MkRxeX
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 04
+http://www.dailymotion.com/embed/video/kjwy5fPjqnN3m2kQBy6
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 03
+http://www.dailymotion.com/embed/video/k3iMK9FkAaEWnWkPrM8
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 02
+http://www.dailymotion.com/embed/video/k7c9V59cOfi8qPkOfEz
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Carinha de Anjo 01
+http://www.dailymotion.com/embed/video/k7GTYQ2M8RamkGkNeBs

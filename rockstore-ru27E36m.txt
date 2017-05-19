@@ -1,0 +1,142 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 64
+https://thevideo.me/embed-wypx1q4gl6bt.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 63
+https://thevideo.me/embed-h60xflpsxtg1.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 62
+https://thevideo.me/embed-u83pbvi53syt.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 61
+https://thevideo.me/embed-ctrwahn56p1d.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 60
+http://thevideo.me/embed-v8pix38o4shf.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 59
+http://thevideo.me/embed-l7bfysjtd98c.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 58
+http://thevideo.me/embed-zgw3p5td9er5.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 57
+http://thevideo.me/embed-xuedhthoxl0o.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 56
+http://thevideo.me/embed-jq2ulza6ulcm.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 55
+http://thevideo.me/embed-mz354bjmy3iq.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 54
+http://thevideo.me/embed-6rqkntylhw1j.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 53
+http://thevideo.me/embed-hbny01o8j1s1.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 52
+http://thevideo.me/embed-49duisvnbu1y.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 51
+http://thevideo.me/embed-rt1s2ju8z3zq.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 50
+https://openload.co/embed/vDouxxSQtGg/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 49
+http://thevideo.me/embed-5u5116scgkt8.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 48
+http://thevideo.me/embed-zbzu2n1w01by.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 47
+http://thevideo.me/embed-3juh1aaotl5e.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 46
+http://thevideo.me/embed-xm3lqzz8nzqu.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 45
+http://thevideo.me/embed-yyx3c1azpyfb.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 44
+http://thevideo.me/embed-nd5280bi0izr.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 43
+http://thevideo.me/embed-m5e7wcnv5x3i.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 42
+http://thevideo.me/embed-19fotg2dxi9o.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 41
+http://thevideo.me/embed-vutw59e7eppz.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 40
+http://thevideo.me/embed-sr4vjkpgoo96.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 39
+http://thevideo.me/embed-lz9mqoo98sqr.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 38
+http://thevideo.me/embed-ynl9qafr2rdq.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 37
+http://thevideo.me/embed-howjfin8bngy.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 36
+http://thevideo.me/embed-eayhcwg6kerd.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 35
+http://thevideo.me/embed-2gniyjauxefh.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 34
+http://thevideo.me/embed-7zb179lzwrom.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 33
+http://thevideo.me/embed-tbfajrpeq2i4.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 32
+http://thevideo.me/embed-pi6374owroyd.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 31
+http://thevideo.me/embed-68lmjiyd7ysg.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 30
+http://thevideo.me/embed-vcenodmmif7i.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 29
+http://thevideo.me/embed-x6qwbpr2aqba.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 28
+http://thevideo.me/embed-zos1pej3fhzz.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 27
+http://thevideo.me/embed-ud023pbcgnjd.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 26
+http://thevideo.me/embed-pcmbuflqbe59.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 25
+http://thevideo.me/embed-su2bglnvg4gl.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 24
+http://thevideo.me/embed-uolse9u3ig9r.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 23
+http://thevideo.me/embed-1u7t1o7cp03a.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 22
+http://thevideo.me/embed-0j8715d30nby.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 21
+http://thevideo.me/embed-u9mtsz7fven7.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 20
+http://thevideo.me/embed-46a17gpanf9j.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 19
+http://thevideo.me/embed-wy4zhme9xk1x.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 18
+http://thevideo.me/embed-b43az5lzi6dr.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 17
+http://thevideo.me/embed-b43az5lzi6dr.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 16
+http://thevideo.me/embed-v37di9b20ng2.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 15
+http://thevideo.me/embed-lm08ldmhnuyq.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 14
+http://thevideo.me/embed-crgy7gae22my.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 13
+http://thevideo.me/embed-2lir36atr2pp.html
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 12
+http://thevideo.me/embed-hod74ze6s9ol.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 11
+http://thevideo.me/embed-lh1t9m551981.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 10
+http://thevideo.me/embed-5cywptcxl7zl.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 09
+http://thevideo.me/embed-sukjgbyoouil.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 08
+http://thevideo.me/embed-mx5by3ex6n1b.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 07 
+http://thevideo.me/embed-6yhjao26kipn.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 06
+http://thevideo.me/embed-wt8ry9iniezp.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 05
+http://thevideo.me/embed-m7tkfq765cxu.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 04
+http://thevideo.me/embed-pyk10fsipfqd.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 03
+http://thevideo.me/embed-3jxs5yfxorah.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 02
+http://thevideo.me/embed-li7ckmgphum1.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Rock Store 01
+http://thevideo.me/embed-yu8f0wdvht3g.html

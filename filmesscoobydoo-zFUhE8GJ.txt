@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP01
+rdc://RCServer09/ondemand/ONFDSCBDEP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP02
+rdc://RCServer09/ondemand/ONFDSCBDEP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP03
+rdc://RCServer09/ondemand/ONFDSCBDEP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP04
+rdc://RCServer09/ondemand/ONFDSCBDEP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP05
+rdc://RCServer09/ondemand/ONFDSCBDEP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP06
+rdc://RCServer09/ondemand/ONFDSCBDEP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP07
+rdc://RCServer09/ondemand/ONFDSCBDEP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP08
+rdc://RCServer09/ondemand/ONFDSCBDEP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP09
+rdc://RCServer09/ondemand/ONFDSCBDEP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP10
+rdc://RCServer09/ondemand/ONFDSCBDEP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP11
+rdc://RCServer09/ondemand/ONFDSCBDEP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP12
+rdc://RCServer09/ondemand/ONFDSCBDEP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP13
+rdc://RCServer09/ondemand/ONFDSCBDEP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP14
+rdc://RCServer09/ondemand/ONFDSCBDEP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP15
+rdc://RCServer09/ondemand/ONFDSCBDEP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP16
+rdc://RCServer09/ondemand/ONFDSCBDEP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP17
+rdc://RCServer09/ondemand/ONFDSCBDEP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP18
+rdc://RCServer09/ondemand/ONFDSCBDEP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP19
+rdc://RCServer09/ondemand/ONFDSCBDEP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP20
+rdc://RCServer09/ondemand/ONFDSCBDEP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP21
+rdc://RCServer09/ondemand/ONFDSCBDEP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP22
+rdc://RCServer09/ondemand/ONFDSCBDEP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP23
+rdc://RCServer09/ondemand/ONFDSCBDEP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wo7CFd" group-title="Scooby Doo Filmes",EP24
+rdc://RCServer09/ondemand/ONFDSCBDEP24.mp4

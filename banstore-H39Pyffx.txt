@@ -1,0 +1,11 @@
+name="Redes de Canais (Marcos Alvarenga)"
+url="http://kodish.esy.es/3rd/plugin.video.redecanais-0.01.zip"
+img="https://raw.githubusercontent.com/listamilton/supermilton.repository/supermilton.repository/plugin.video.redecanais/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
+
+name="Build Lexdan (New Update)"
+url="http://lexdan.co/lexdan/plugin.video.lexdan.zip"
+img="https://raw.githubusercontent.com/listamilton/supermilton.repository/supermilton.repository/plugin.video.lexdan0.0.2/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Wizard da Build Lexdan"

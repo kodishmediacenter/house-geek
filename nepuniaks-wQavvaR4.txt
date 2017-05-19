@@ -1,0 +1,5 @@
+name="Kodish Store Krypton-Nepunia(Foliver Update)"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/store/Kodish.repo.store.zip"
+img="http://addons-kodish.esy.es/fabio-addons/kripton/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"

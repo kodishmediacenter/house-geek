@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo='https://maniacosporfilme.files.wordpress.com/2011/12/uma-historia-de-natal.jpg' ,Uma historia de natal
+https://www.youtube.com/watch?v=a8qodnBq3Is
+
+#EXTINF:-1 tvg-logo='http://1.bp.blogspot.com/-IEMhKnyyJTc/Vlbn-QqIgYI/AAAAAAAANoI/eIP3vz85m7Y/s1600/O%2BPotro%2Bde%2BNatal.jpg' ,Potro de Natal
+https://www.youtube.com/watch?v=bJ9yvaEvtmQ
+
+#EXTINF:-1 tvg-logo='http://br.web.img3.acsta.net/pictures/14/07/16/20/37/103955.jpg',Desejo de Natal
+https://www.youtube.com/watch?v=gkJtmxfVY6g
+
+#EXTINF:-1 tvg-logo='https://goo.gl/7rs90b' ,Estrela do Natal
+https://www.youtube.com/watch?v=53FnaBuGDsQ
+
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/9/9f/Achristmascarol.jpg' ,A Christmas Carol
+https://www.youtube.com/watch?v=5R3BeaACSkU
+
+#EXTINF:-1 tvg-logo='https://princesarefinada.files.wordpress.com/2015/12/35763_1_large.jpg' ,Natal na realeza
+https://www.youtube.com/watch?v=gC_eY1QVtiY
+
+#EXTINF:-1 tvg-logo='https://snitt.hu/system/covers/big/covers_11139.jpg' ,O Natal dos Padrinhos Magicos
+https://www.youtube.com/watch?v=FSJjWOqHdZg
+
+#EXTINF:-1 tvg-logo='https://2.bp.blogspot.com/-gCvGTWImqQ8/V5fGFTkFozI/AAAAAAAACdw/BNtcbpeaRykrDi7SsZ0ezBB7uz_nESSbACLcB/s1600/K%2B9%2BUm%2BConto%2Bde%2BNatal.jpg' ,K9 Conto de Natal
+https://www.youtube.com/watch?v=hL4CUEvNVGc
+
+#EXTINF:-1 tvg-logo='http://cinema10.com.br/upload/filmes/filmes_4132_Milagre%20na%20Rua03.jpg' ,Milagre na Rua 34 
+https://www.youtube.com/watch?v=iMnyZgHTxmo
+
+#EXTINF:-1 tvg-logo='https://heartbeatofamovie.files.wordpress.com/2016/10/missperegrine-cover.jpg' , Lar Das Crianças Peculiares
+https://www.youtube.com/watch?v=BpzC08lLsyk

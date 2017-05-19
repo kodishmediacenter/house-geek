@@ -1,0 +1,338 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',[COLOR yellow][B]Batman Serie Animada[/B][/COLOR]
+rdc://RCServer09/ondemand/
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP1
+rdc://RCServer09/ondemand/BTMNASRANMDEP01.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP2
+rdc://RCServer09/ondemand/BTMNASRANMDEP02.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP3
+rdc://RCServer09/ondemand/BTMNASRANMDEP03.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP4
+rdc://RCServer09/ondemand/BTMNASRANMDEP04.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP5
+rdc://RCServer09/ondemand/BTMNASRANMDEP05.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP6
+rdc://RCServer09/ondemand/BTMNASRANMDEP06.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP7
+rdc://RCServer09/ondemand/BTMNASRANMDEP07.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP8
+rdc://RCServer09/ondemand/BTMNASRANMDEP08.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP9
+rdc://RCServer09/ondemand/BTMNASRANMDEP09.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP10
+rdc://RCServer09/ondemand/BTMNASRANMDEP10.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP11
+rdc://RCServer09/ondemand/BTMNASRANMDEP11.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP12
+rdc://RCServer09/ondemand/BTMNASRANMDEP12.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP13
+rdc://RCServer09/ondemand/BTMNASRANMDEP13.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP14
+rdc://RCServer09/ondemand/BTMNASRANMDEP14.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP15
+rdc://RCServer09/ondemand/BTMNASRANMDEP15.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP16
+rdc://RCServer09/ondemand/BTMNASRANMDEP16.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP17
+rdc://RCServer09/ondemand/BTMNASRANMDEP17.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP18
+rdc://RCServer09/ondemand/BTMNASRANMDEP18.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP19
+rdc://RCServer09/ondemand/BTMNASRANMDEP19.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP20
+rdc://RCServer09/ondemand/BTMNASRANMDEP20.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP21
+rdc://RCServer09/ondemand/BTMNASRANMDEP21.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP22
+rdc://RCServer09/ondemand/BTMNASRANMDEP22.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP23
+rdc://RCServer09/ondemand/BTMNASRANMDEP23.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP24
+rdc://RCServer09/ondemand/BTMNASRANMDEP24.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP25
+rdc://RCServer09/ondemand/BTMNASRANMDEP25.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP26
+rdc://RCServer09/ondemand/BTMNASRANMDEP26.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP27
+rdc://RCServer09/ondemand/BTMNASRANMDEP27.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP28
+rdc://RCServer09/ondemand/BTMNASRANMDEP28.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP29
+rdc://RCServer09/ondemand/BTMNASRANMDEP29.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP30
+rdc://RCServer09/ondemand/BTMNASRANMDEP30.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP31
+rdc://RCServer09/ondemand/BTMNASRANMDEP31.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP32
+rdc://RCServer09/ondemand/BTMNASRANMDEP32.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP33
+rdc://RCServer09/ondemand/BTMNASRANMDEP33.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP34
+rdc://RCServer09/ondemand/BTMNASRANMDEP34.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP35
+rdc://RCServer09/ondemand/BTMNASRANMDEP35.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP36
+rdc://RCServer09/ondemand/BTMNASRANMDEP36.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP37
+rdc://RCServer09/ondemand/BTMNASRANMDEP37.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP38
+rdc://RCServer09/ondemand/BTMNASRANMDEP38.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP39
+rdc://RCServer09/ondemand/BTMNASRANMDEP39.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP40
+rdc://RCServer09/ondemand/BTMNASRANMDEP40.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP41
+rdc://RCServer09/ondemand/BTMNASRANMDEP41.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP42
+rdc://RCServer09/ondemand/BTMNASRANMDEP42.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP43
+rdc://RCServer09/ondemand/BTMNASRANMDEP43.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP44
+rdc://RCServer09/ondemand/BTMNASRANMDEP44.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP45
+rdc://RCServer09/ondemand/BTMNASRANMDEP45.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP46
+rdc://RCServer09/ondemand/BTMNASRANMDEP46.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP47
+rdc://RCServer09/ondemand/BTMNASRANMDEP47.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP48
+rdc://RCServer09/ondemand/BTMNASRANMDEP48.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP49
+rdc://RCServer09/ondemand/BTMNASRANMDEP49.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP50
+rdc://RCServer09/ondemand/BTMNASRANMDEP50.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP51
+rdc://RCServer09/ondemand/BTMNASRANMDEP51.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP52
+rdc://RCServer09/ondemand/BTMNASRANMDEP52.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP53
+rdc://RCServer09/ondemand/BTMNASRANMDEP53.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP54
+rdc://RCServer09/ondemand/BTMNASRANMDEP54.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP55
+rdc://RCServer09/ondemand/BTMNASRANMDEP55.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP56
+rdc://RCServer09/ondemand/BTMNASRANMDEP56.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP57
+rdc://RCServer09/ondemand/BTMNASRANMDEP57.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP58
+rdc://RCServer09/ondemand/BTMNASRANMDEP58.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP59
+rdc://RCServer09/ondemand/BTMNASRANMDEP59.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP60
+rdc://RCServer09/ondemand/BTMNASRANMDEP60.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP61
+rdc://RCServer09/ondemand/BTMNASRANMDEP61.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP62
+rdc://RCServer09/ondemand/BTMNASRANMDEP62.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP63
+rdc://RCServer09/ondemand/BTMNASRANMDEP63.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP64
+rdc://RCServer09/ondemand/BTMNASRANMDEP64.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP65
+rdc://RCServer09/ondemand/BTMNASRANMDEP65.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP66
+rdc://RCServer09/ondemand/BTMNASRANMDEP66.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP67
+rdc://RCServer09/ondemand/BTMNASRANMDEP67.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP68
+rdc://RCServer09/ondemand/BTMNASRANMDEP68.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP69
+rdc://RCServer09/ondemand/BTMNASRANMDEP69.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP70
+rdc://RCServer09/ondemand/BTMNASRANMDEP70.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP71
+rdc://RCServer09/ondemand/BTMNASRANMDEP71.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP72
+rdc://RCServer09/ondemand/BTMNASRANMDEP72.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP73
+rdc://RCServer09/ondemand/BTMNASRANMDEP73.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP74
+rdc://RCServer09/ondemand/BTMNASRANMDEP74.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP75
+rdc://RCServer09/ondemand/BTMNASRANMDEP75.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP76
+rdc://RCServer09/ondemand/BTMNASRANMDEP76.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP77
+rdc://RCServer09/ondemand/BTMNASRANMDEP77.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP78
+rdc://RCServer09/ondemand/BTMNASRANMDEP78.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP79
+rdc://RCServer09/ondemand/BTMNASRANMDEP79.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP80
+rdc://RCServer09/ondemand/BTMNASRANMDEP80.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP81
+rdc://RCServer09/ondemand/BTMNASRANMDEP81.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP82
+rdc://RCServer09/ondemand/BTMNASRANMDEP82.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP83
+rdc://RCServer09/ondemand/BTMNASRANMDEP83.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP84
+rdc://RCServer09/ondemand/BTMNASRANMDEP84.mp4
+#EXTINF:-7 tvg-logo='http://3.bp.blogspot.com/-GcfEhcWb4SE/UqX7ftLnlOI/AAAAAAAAALg/3nO6cwuvXRY/s640/BatmanTheAnimatedSeriesSekoboro.png' group-title='Batman Serie Animada',EP85
+rdc://RCServer09/ondemand/BTMNASRANMDEP85.mp4
+
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',[COLOR yellow][B]Batman do Futuro[/B][COLOR]
+rdc://RCServer09/ondemand/
+
+
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP1
+rdc://RCServer09/ondemand/BTMNDFTROEP01.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP2
+rdc://RCServer09/ondemand/BTMNDFTROEP02.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP3
+rdc://RCServer09/ondemand/BTMNDFTROEP03.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP4
+rdc://RCServer09/ondemand/BTMNDFTROEP04.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP5
+rdc://RCServer09/ondemand/BTMNDFTROEP05.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP6
+rdc://RCServer09/ondemand/BTMNDFTROEP06.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP7
+rdc://RCServer09/ondemand/BTMNDFTROEP07.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP8
+rdc://RCServer09/ondemand/BTMNDFTROEP08.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP9
+rdc://RCServer09/ondemand/BTMNDFTROEP09.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP10
+rdc://RCServer09/ondemand/BTMNDFTROEP10.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP11
+rdc://RCServer09/ondemand/BTMNDFTROEP11.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP12
+rdc://RCServer09/ondemand/BTMNDFTROEP12.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP13
+rdc://RCServer09/ondemand/BTMNDFTROEP13.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP14
+rdc://RCServer09/ondemand/BTMNDFTROEP14.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP15
+rdc://RCServer09/ondemand/BTMNDFTROEP15.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP16
+rdc://RCServer09/ondemand/BTMNDFTROEP16.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP17
+rdc://RCServer09/ondemand/BTMNDFTROEP17.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP18
+rdc://RCServer09/ondemand/BTMNDFTROEP18.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP19
+rdc://RCServer09/ondemand/BTMNDFTROEP19.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP20
+rdc://RCServer09/ondemand/BTMNDFTROEP20.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP21
+rdc://RCServer09/ondemand/BTMNDFTROEP21.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP22
+rdc://RCServer09/ondemand/BTMNDFTROEP22.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP23
+rdc://RCServer09/ondemand/BTMNDFTROEP23.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP24
+rdc://RCServer09/ondemand/BTMNDFTROEP24.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP25
+rdc://RCServer09/ondemand/BTMNDFTROEP25.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP26
+rdc://RCServer09/ondemand/BTMNDFTROEP26.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP27
+rdc://RCServer09/ondemand/BTMNDFTROEP27.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP28
+rdc://RCServer09/ondemand/BTMNDFTROEP28.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP29
+rdc://RCServer09/ondemand/BTMNDFTROEP29.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP30
+rdc://RCServer09/ondemand/BTMNDFTROEP30.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP31
+rdc://RCServer09/ondemand/BTMNDFTROEP31.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP32
+rdc://RCServer09/ondemand/BTMNDFTROEP32.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP33
+rdc://RCServer09/ondemand/BTMNDFTROEP33.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP34
+rdc://RCServer09/ondemand/BTMNDFTROEP34.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP35
+rdc://RCServer09/ondemand/BTMNDFTROEP35.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP36
+rdc://RCServer09/ondemand/BTMNDFTROEP36.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP37
+rdc://RCServer09/ondemand/BTMNDFTROEP37.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP38
+rdc://RCServer09/ondemand/BTMNDFTROEP38.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP39
+rdc://RCServer09/ondemand/BTMNDFTROEP39.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP40
+rdc://RCServer09/ondemand/BTMNDFTROEP40.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP41
+rdc://RCServer09/ondemand/BTMNDFTROEP41.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP42
+rdc://RCServer09/ondemand/BTMNDFTROEP42.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP43
+rdc://RCServer09/ondemand/BTMNDFTROEP43.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP44
+rdc://RCServer09/ondemand/BTMNDFTROEP44.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP45
+rdc://RCServer09/ondemand/BTMNDFTROEP45.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP46
+rdc://RCServer09/ondemand/BTMNDFTROEP46.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP47
+rdc://RCServer09/ondemand/BTMNDFTROEP47.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP48
+rdc://RCServer09/ondemand/BTMNDFTROEP48.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP49
+rdc://RCServer09/ondemand/BTMNDFTROEP49.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP50
+rdc://RCServer09/ondemand/BTMNDFTROEP50.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP51
+rdc://RCServer09/ondemand/BTMNDFTROEP51.mp4
+#EXTINF:-7 tvg-logo='http://goo.gl/cxyj0F' group-title='Batman do Futuro',EP52
+rdc://RCServer09/ondemand/BTMNDFTROEP52.mp4
+
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',[COLOR yellow] [B] Batman: Os Bravos e Destemidos[/B][COLOR]
+rdc://RCServer10/ondemand
+
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP1
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP01.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP2
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP02.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP3
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP03.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP4
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP04.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP5
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP05.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP6
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP06.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP7
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP07.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP8
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP08.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP9
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP09.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP10
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP10.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP11
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP11.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP12
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP12.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP13
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP13.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP14
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP14.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP15
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP15.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP16
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP16.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP17
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP17.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP18
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP18.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP19
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP19.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP20
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP20.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP21
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP21.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP22
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP22.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP23
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP23.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP24
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP24.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP25
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP25.mp4
+#EXTINF:-7 tvg-logo='http://191.252.1.241/arquivos_loja/15342/Fotos/thumbs3/produto_Foto1_4015462.jpg' group-title='Batman: Os Bravos e Destemidos',EP26
+rdc://RCServer10/ondemand/BTMNOBRVEDSTMDT01EP26.mp4

@@ -1,0 +1,86 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-29tOWhMf8Ts/VAeE7aJ7LjI/AAAAAAAATmE/n06nIEuYU14/s1600/02.png" group-title="Mazzaropi", Sai da frente 1952
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/66f48d156890feb60a1b5360bf45318e.mp4?st=MBPPl7CfjCPq1JxI177RNA
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-z9uXyt0lW3Y/VAeETLDP0BI/AAAAAAAATl8/XMOhZ_AoYmo/s1600/01.png" group-title="Mazzaropi", Nadando em Dinheiro 1952
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/6843a72427e81f7ee92dde62e49169fd.mp4?st=XWeRv7XaAktHs59hYN79uA
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ss2yjmIJc5Q/VAeHCwHdw4I/AAAAAAAATmM/ylhNXK0mGCw/s1600/03.png" group-title="Mazzaropi", Candinho 1953
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/b0486f301da6262af32c1d677bd2ab31.mp4?st=rpwvNc84pmDzz8w1yD1olA
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-8cpHIyFijU8/VAeHj9AIzgI/AAAAAAAATmU/iSb6DaVNEtw/s1600/04.png" group-title="Mazzaropi", A Carrocinha 1955
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/925554bb0a52ae0481978b868f670fa7.mp4?st=eRgh0KuJu5uzRHl1_fUCJw
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JkHElCHLZtg/VAeIjmDLnYI/AAAAAAAATmc/9bBjYeneyq8/s1600/05.png" group-title="Mazzaropi", Fuzileiro Do Amor 1956
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/1ca0ac6a39bee551fcba76ee983261a2.mp4?st=ObJKaAamjMgNpRPwErodFg
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-evq0WPVvMZ0/VAj5x8jcPjI/AAAAAAAATnQ/3loBTv9uz2Q/s1600/06.png" group-title="Mazzaropi", O Gato de Madame 1956 (yt)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8hZ7_V2gk7k
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-p8G7OWMJ9MQ/VAj8BhJBvWI/AAAAAAAATnc/P5s5IgDP7R4/s1600/07.png" group-title="Mazzaropi", O Noivo Da Girafa 1957
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/a5f07fdcdee12f03e34b95d6e7221a2c.mp4?st=1PkWoGFbjR4C05ZLXLWC9A
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_KoIThja_qYI/S62QnZLDz3I/AAAAAAAAAK0/xhK3CD6t-S4/s280/GRD_mazzaropi+chico+fuma%C3%A7a.jpg" group-title="Mazzaropi", Chico Fumaça 1958
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/28ccd983305af9f9bc1c4c3352d2ad13.mp4?st=nt8ZpieQoZ2rKpobkCHkKA
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_KoIThja_qYI/S62R1_PyrMI/AAAAAAAAAK8/Kqb0dOa1s70/s280/MAZZAROPI+-+CHOFER+DE+PRACA+(1959)+(DVD).jpg" group-title="Mazzaropi", Chofer de Praça 1959
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/ae852afe661d06cec58603cdce7a6fae.mp4?st=_t_QO_uS7VYkS-vAgM0WfQ
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wzLw43RmoVI/VAj_5E7ZRuI/AAAAAAAATn0/Lm9lbHy-r3Q/s1600/10.png" group-title="Mazzaropi", Jeca Tatú
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/0877a5084fba7ae0b2ad070731f45584.mp4?st=_jOp_NCHHySaJxpJeUS02g
+
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-1b34OBHeW1Y/VAkCtTHSh9I/AAAAAAAAToM/qpPZ4DxpAm8/s1600/11.png" group-title="Mazzaropi", As Aventuras de Pedro Malazartes 1960
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/3638f9e7e172d01804e01e3cecfc4d10.mp4?st=pj2_xE7Pd7ipUdlB_l59RQ
+
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-AKs5-G9Grws/VAkD4puSxHI/AAAAAAAAToU/loXSpdNTies/s1600/12.png" group-title="Mazzaropi", Zé Periquito 1960
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/db2ebd05104b5854ee9a1db9fb32b10b.mp4?st=OMtf9v3nHIv6TkhTIeKLIw
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-D9KNc1_LPCI/VAkF3bVyL8I/AAAAAAAAToc/iAnj1aTM57c/s1600/13.png" group-title="Mazzaropi", Tristeza do Jeca 1961
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/988548398071f1fdbbace161abbafab3.mp4?st=j11tlwKCEaFPQE_m4stkUA
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-nydnJoLsM3U/VAkG34qjOfI/AAAAAAAATok/coovxsa-JGk/s1600/04.png" group-title="Mazzaropi", O Vendedor de Lingüiça 1962
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/6aa5f4c3617feb0e4bbb17107363926a.mp4?st=u3cJOy7YSmbfOSpOymxurw
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Pb_aLb6kzIQ/VAkKfB13Y9I/AAAAAAAATos/I9yfwEw302M/s1600/14.png" group-title="Mazzaropi", Casinha Pequenina 1963 (yt)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wLqBmXfRGnE
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_KoIThja_qYI/TDWSKlsrmqI/AAAAAAAAAME/q3LDu_EP6qU/s280/meu-japao-brasileiro-poster01.jpg" group-title="Mazzaropi", Meu Japão Brasileiro 1964 (yt)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=54L8q9ipJWg
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-t8aXHp7QrHE/VAkY75CpVLI/AAAAAAAATpE/l8LlqIP9Pi4/s1600/01.png" group-title="Mazzaropi", O Lamparina 1964
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/4633c8223624753eb6b2a05ae08aad6e.mp4?st=9oxzCkWORlglqil1poYskQ
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-NMnoY6MI7Ws/VAkb3ECQlCI/AAAAAAAATpY/1xQqCJS3VuI/s1600/03.png" group-title="Mazzaropi", O Corintiano 1966
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/cecf838f77436e5632fff27cf1a8ba20.mp4?st=UCFHtUiSYHyW8gpjGviaZw
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-isebEavYFy0/VAkaUlvvH6I/AAAAAAAATpM/Y_lhLoRIXBw/s1600/02.png" group-title="Mazzaropi", O Puritano da rua augusta 1965
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/6a1c62cf0522454673e1334056ee55a9.mp4?st=hjuLI0KN1ObkkXkNqHqyDw
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-PDFguC_iuLI/VAkdhCFeTCI/AAAAAAAATpk/7w2wZzc7vqE/s1600/04.png" group-title="Mazzaropi", O Jeca e a Freira 1967
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/43f29c43bf6bccc2fa155149f524d971.mp4?st=g6lio7aUKe9PdXUV0y8gZw
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-G_Kd7Ckv6-s/VAkfEgWaVCI/AAAAAAAATpw/RdzBHwvG3-I/s1600/05.png" group-title="Mazzaropi", No paraiso das solteironas 1968
+http://www.video.tt/watch_video.php?v=PS7C67u2h
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_pn4yaoyBnaM/TDRrjxF2cSI/AAAAAAAAA10/XXd5_hw4kcs/s1600/pistola-para-djeca-poster01.jpg" group-title="Mazzaropi",Uma Pistola para Djeca 1966
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/0dbd5ba9a7a32a694a5729419b701dd5.mp4?st=bsVnrJeWtDKv2-o6oMovMQ
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-NPhwZ6Z9mq0/VAkhgKL5KGI/AAAAAAAATqA/VZIT_zphJxU/s1600/07.png" group-title="Mazzaropi",Betao Ronca Ferro 1970
+http://d3.neodrive.co/stream/1T5S1TLPPLB9/70ab5366c79a8611932c7f02a7d92681.mp4?st=8gsqc0GDO7zukptqZPYZKQ
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-DwlVKSJSKKU/VAuDNb-3sgI/AAAAAAAATsI/3ag5gva6ix0/s1600/01.png" group-title="Mazzaropi",O Grande Xerife 1972
+http://d3.neodrive.co/stream/1T5S1TLPPLB9/e48bd2aac0e5a0a192cca7fb6a796971.mp4?st=sSZ4SmFmofGCqA9nzU5CTg
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-DwlVKSJSKKU/VAuDNb-3sgI/AAAAAAAATsI/3ag5gva6ix0/s1600/01.png" group-title="Mazzaropi",Portugal Minha Saudade 1973
+http://d3.neodrive.co/stream/1T5S1TLPPLB9/d5745078c2ede12a3e5e119f931949f3.mp4?st=f56-F1i5ujWnyXtnX0V9vA
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-DwlVKSJSKKU/VAuDNb-3sgI/AAAAAAAATsI/3ag5gva6ix0/s1600/01.png" group-title="Mazzaropi", O Jeca Macumbeiro 1974
+http://d3.neodrive.co/stream/1T5S1TLPPLB9/d7e6a0ff42a36a00100be6e623cff2f3.mp4?st=qocTRR2YnJPoCuEBc7O9LA
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-7y2Bv8uBQKY/VAuJ8J87XbI/AAAAAAAATs4/hDHn3zkWT3I/s1600/05.png" group-title="Mazzaropi", O cineasta das plateias 1975
+http://d3.neodrive.co/stream/1T5S1TLPPLB9/d56631a1f1faa195a627edd028ce730a.mp4?st=Se-R63xlX9ZBbTk52r08Zw
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-7U1HTk1r5LI/VAuL6XTwWII/AAAAAAAATtE/qk5CBzbsoSA/s1600/06.png" group-title="Mazzaropi", Jeca contra o Capeta 1976
+http://d3.neodrive.co/stream/1T5S1TLPPLB9/75f70310d55fec7901becaf48c34ccfc.mp4?st=2Gv52URuxmlhJomVYKPe6g
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-C3hkSEogGRI/VAuPO2-xUEI/AAAAAAAATtQ/icixZNanG0E/s1600/07.png" group-title="Mazzaropi", Jecão Um Fofoqueiro No Céu 1979
+http://d3.neodrive.co/stream/1T5S1TLPPLB9/49680e804a7c057febb0f45cc6d433df.mp4?st=B7G1asITuH1k1JxXWBP0fQ
+
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ql0-BFMcYjQ/VAuQWzdBzQI/AAAAAAAATtY/q5WDbjdh-mY/s1600/08.png" group-title="Mazzaropi", Jeca e Seu Filho Preto 1978
+http://d3.neodrive.co/stream/1T5S1TLPPLB9/d071eae61f9b6664c411ed4de47c99b7.mp4?st=pEKhZV3dEROJoo9F_37fdQ
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--EAnQZIcmq4/VAuRW6-pBGI/AAAAAAAATtg/1y1wGGoIL0o/s1600/09.png" group-title="Mazzaropi", A Banda Das Velhas Virgens 1979
+http://d3.neodrive.co/stream/1T5S1TLPPLB9/a6f23a76b4f819291f9f79ff26d7457d.mp4?st=8uiztL-R99mdrVfVwL2Xwg
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--EAnQZIcmq4/VAuRW6-pBGI/AAAAAAAATtg/1y1wGGoIL0o/s1600/09.png" group-title="Mazzaropi", O Jeca e a Egua Milagrosa 1980
+http://d3.neodrive.co/stream/1TUV1TLPPLB9/b895dd8ec825faba4df53bf8ac512b33.mp4?st=18U7SluOU3lP8_7qRn6F4g

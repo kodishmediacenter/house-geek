@@ -1,0 +1,174 @@
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E1
+http://media-br-am.crackle.com/1/e/r6/w02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E2
+http://media-br-am.crackle.com/1/e/r6/v02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E3
+http://media-br-am.crackle.com/1/e/r6/u02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E4
+http://media-br-am.crackle.com/1/k/r6/j12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E5
+http://media-br-am.crackle.com/1/d/r6/s02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E6
+http://media-br-am.crackle.com/1/d/r6/t02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E7
+http://media-br-am.crackle.com/1/n/r6/y12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E8
+http://media-br-am.crackle.com/1/n/r6/z12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E9
+http://media-br-am.crackle.com/1/o/r6/012lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E10
+http://media-br-am.crackle.com/1/o/r6/312lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E11
+http://media-br-am.crackle.com/1/o/r6/112lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E12
+http://media-br-am.crackle.com/1/o/r6/212lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E13
+http://media-br-am.crackle.com/1/n/r6/w12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E1
+http://media-br-am.crackle.com/1/q/r6/812lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E2
+http://media-br-am.crackle.com/1/p/r6/712lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E3
+http://media-br-am.crackle.com/1/p/r6/612lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E4
+http://media-br-am.crackle.com/1/p/r6/512lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E5
+http://media-br-am.crackle.com/1/p/r6/412lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E6
+http://media-br-am.crackle.com/1/d/r6/r02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E7
+http://media-br-am.crackle.com/1/c/r6/n02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E8
+http://media-br-am.crackle.com/1/c/r6/o02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E9
+http://media-br-am.crackle.com/1/c/r6/p02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E10
+http://media-br-am.crackle.com/1/d/r6/q02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E11
+http://media-br-am.crackle.com/1/b/r6/i02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E12
+http://media-br-am.crackle.com/1/b/r6/j02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E13
+http://media-br-am.crackle.com/1/b/r6/k02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E14
+http://media-br-am.crackle.com/1/b/r6/l02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E15
+http://media-br-am.crackle.com/1/c/r6/m02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E1
+http://media-br-am.crackle.com/1/a/r6/h02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E2
+http://media-br-am.crackle.com/1/_/n6/c02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E3
+http://media-br-am.crackle.com/1/n/r6/v12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E4
+http://media-br-am.crackle.com/1/m/r6/u12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E5
+http://media-br-am.crackle.com/1/m/r6/t12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E6
+http://media-br-am.crackle.com/1/l/r6/q12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E7
+http://media-br-am.crackle.com/1/m/r6/r12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E8
+http://media-br-am.crackle.com/1/m/r6/s12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E9
+http://media-br-am.crackle.com/1/l/r6/p12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E10
+http://media-br-am.crackle.com/1/_/n6/d02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E11
+http://media-br-am.crackle.com/1/a/r6/e02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E12
+http://media-br-am.crackle.com/1/a/r6/f02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E13
+http://media-br-am.crackle.com/1/a/r6/g02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E14
+http://media-br-am.crackle.com/1/_/n6/a02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E15
+http://media-br-am.crackle.com/1/_/n6/b02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E1
+http://media-br-am.crackle.com/1/e/r6/w02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E2
+http://media-br-am.crackle.com/1/e/r6/v02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E3
+http://media-br-am.crackle.com/1/e/r6/u02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E4
+http://media-br-am.crackle.com/1/k/r6/j12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E5
+http://media-br-am.crackle.com/1/d/r6/s02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E6
+http://media-br-am.crackle.com/1/d/r6/t02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E7
+http://media-br-am.crackle.com/1/n/r6/y12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E8
+http://media-br-am.crackle.com/1/n/r6/z12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E9
+http://media-br-am.crackle.com/1/o/r6/012lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E10
+http://media-br-am.crackle.com/1/o/r6/312lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E11
+http://media-br-am.crackle.com/1/o/r6/112lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E12
+http://media-br-am.crackle.com/1/o/r6/212lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S1-E13
+http://media-br-am.crackle.com/1/n/r6/w12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E1
+http://media-br-am.crackle.com/1/q/r6/812lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E2
+http://media-br-am.crackle.com/1/p/r6/712lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E3
+http://media-br-am.crackle.com/1/p/r6/612lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E4
+http://media-br-am.crackle.com/1/p/r6/512lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E5
+http://media-br-am.crackle.com/1/p/r6/412lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E6
+http://media-br-am.crackle.com/1/d/r6/r02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E7
+http://media-br-am.crackle.com/1/c/r6/n02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E8
+http://media-br-am.crackle.com/1/c/r6/o02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E9
+http://media-br-am.crackle.com/1/c/r6/p02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E10
+http://media-br-am.crackle.com/1/d/r6/q02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E11
+http://media-br-am.crackle.com/1/b/r6/i02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E12
+http://media-br-am.crackle.com/1/b/r6/j02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E13
+http://media-br-am.crackle.com/1/b/r6/k02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E14
+http://media-br-am.crackle.com/1/b/r6/l02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S2-E15
+http://media-br-am.crackle.com/1/c/r6/m02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E1
+http://media-br-am.crackle.com/1/a/r6/h02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E2
+http://media-br-am.crackle.com/1/_/n6/c02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E3
+http://media-br-am.crackle.com/1/n/r6/v12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E4
+http://media-br-am.crackle.com/1/m/r6/u12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E5
+http://media-br-am.crackle.com/1/m/r6/t12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E6
+http://media-br-am.crackle.com/1/l/r6/q12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E7
+http://media-br-am.crackle.com/1/m/r6/r12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E8
+http://media-br-am.crackle.com/1/m/r6/s12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E9
+http://media-br-am.crackle.com/1/l/r6/p12lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E10
+http://media-br-am.crackle.com/1/_/n6/d02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E11
+http://media-br-am.crackle.com/1/a/r6/e02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E12
+http://media-br-am.crackle.com/1/a/r6/f02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E13
+http://media-br-am.crackle.com/1/a/r6/g02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E14
+http://media-br-am.crackle.com/1/_/n6/a02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E15
+http://media-br-am.crackle.com/1/_/n6/b02lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cVSuPj" group-title="Leverage DUB",Leverage S3-E16
+http://media-br-am.crackle.com/1/-/n6/9z2lf_480p.mp4

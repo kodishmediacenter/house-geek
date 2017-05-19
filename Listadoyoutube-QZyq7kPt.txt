@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2012/04/thumbs/0c36c2a7df4cb4bd61694fc657b40a2e_jpg_290x478_upscale_q90.jpg' group-title='',A Arvore Dos Sonhos
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=z0DX8vX5598
+#EXTINF:-1 tvg-logo='http://2.bp.blogspot.com/-ggyivpGjU0Q/T10cbZkZ6iI/AAAAAAAATsY/2jmfalBbCeY/s1600/DVD%2BAMOR%2BSEM%2BLIMITES%2B1.jpg' group-title='',Amor sem Limites
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qNgnAOwoLlc
+#EXTINF:-1 tvg-logo='http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/90/55/19962754.jpg' group-title='',O Estudante
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KL-RvZYvFfM

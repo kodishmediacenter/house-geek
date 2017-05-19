@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP001.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP2
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP002.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP3
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP003.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP4
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP004.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP5
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP005.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP6
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP006.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP7
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP007.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP8
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP008.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP9
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP009.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP10
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP010.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP11
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP011.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP12
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP012.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP13
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP013.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP14
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP014.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP15
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP015.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP16
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP016.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP17
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP017.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP18
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP018.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP19
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP019.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP20
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP020.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP21
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP021.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP22
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP022.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP23
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP023.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP24
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP024.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP25
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP025.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP26
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP026.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP27
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP027.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP28
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP028.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP29
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP029.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP30
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP030.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP31
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP031.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP32
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP032.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP33
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP033.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP34
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP034.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP35
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP035.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP36
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP036.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP37
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP037.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP38
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP038.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP39
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP039.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP40
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP040.mp4
+#EXTINF:-1 tvg-logo='' group-title='Bob Espoja',EP41
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/BOBESPJEP041.mp4

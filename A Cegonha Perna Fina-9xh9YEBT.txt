@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 01
+rdc://RCServer09/ondemand/ACGNPRFNEP01.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 02
+rdc://RCServer09/ondemand/ACGNPRFNEP02.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 03
+rdc://RCServer09/ondemand/ACGNPRFNEP03.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 04
+rdc://RCServer09/ondemand/ACGNPRFNEP04.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 05
+rdc://RCServer09/ondemand/ACGNPRFNEP05.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 06
+rdc://RCServer09/ondemand/ACGNPRFNEP06.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 07
+rdc://RCServer09/ondemand/ACGNPRFNEP07.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 08
+rdc://RCServer09/ondemand/ACGNPRFNEP08.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 09
+rdc://RCServer09/ondemand/ACGNPRFNEP09.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 10
+rdc://RCServer09/ondemand/ACGNPRFNEP10.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 11
+rdc://RCServer09/ondemand/ACGNPRFNEP11.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 12
+rdc://RCServer09/ondemand/ACGNPRFNEP12.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 13
+rdc://RCServer09/ondemand/ACGNPRFNEP13.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 14
+rdc://RCServer09/ondemand/ACGNPRFNEP14.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 15
+rdc://RCServer09/ondemand/ACGNPRFNEP15.mp4
+#EXTINF:-1,Crane, A Cegonha Perna Fina Ep 16
+rdc://RCServer09/ondemand/ACGNPRFNEP16.mp4
+#EXTINF:-1,Se Inscreva em Nosso Canal http://bit.ly/canalkodish
+rdc://

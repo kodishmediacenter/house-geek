@@ -1,0 +1,58 @@
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 01 - O Sal da Terra
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP01.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 02 - O Estranho Charlie
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 03 - Onde Nenhum Homem Jamais Esteve
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 04 - Tempo De Nudez
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 05 - O Inimigo Interior
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 06 - As Mulheres de Mudds 
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 07 - E as Meninas, de Que São Feitas
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 08 - Miri
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 09 - O Punhal Imaginário
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP09.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 10 - O Ardil Corbomite
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 11 - A Coleção (Parte 1)
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP11.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 12 - A Coleção (Parte 2)
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP12.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 13 - A Consciência do Rei
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP13.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 14 - O Equilíbrio do Terror
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP14.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 15 - A Licença
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP15.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 16 - O Primeiro Comando
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP16.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 17 - O Senhor de Gothos
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP17.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 18 - Arena
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP18.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 19 - Amanhã é Ontem
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP19.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 20 - Corte Marcial
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP20.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 21 - A Hora Rubra
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP21.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 22 - Sementes do Espaço
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP22.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 23 - Um Gosto de Armagedom
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP23.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 24 - Deste Lado do Paraíso
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP24.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 25 - O Demônio na Escuridão
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP25.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 26 - Missão de Misericórdia
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP26.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 27 - O Fator Alternativo
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP27.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 28 - A Cidade a Beira da Eternidade
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP28.mp4
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/C4j3FTG.jpg", Episódio 29 - Operação Aniquilar!
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/STRTRKT01EP29.mp4

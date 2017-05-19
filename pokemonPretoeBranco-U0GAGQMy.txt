@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP661
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP661.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP662
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP662.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP663
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP663.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP664
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP664.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP665
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP665.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP666
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP666.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP667
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP667.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP668
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP668.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP669
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP669.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP670
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP670.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP671
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP671.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP672
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP672.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP673
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP673.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP674
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP674.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP675
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP675.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP676
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP676.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP677
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP677.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP678
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP678.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP679
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP679.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP680
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP680.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP681
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP681.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP682
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP682.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP683
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP683.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP684
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP684.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP685
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP685.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP686
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP686.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP687
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP687.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP688
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP688.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP689
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP689.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP690
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP690.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP691
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP691.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP692
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP692.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP693
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP693.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP694
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP694.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP695
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP695.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP696
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP696.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP697
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP697.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP698
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP698.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP699
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP699.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP700
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP700.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP701
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP701.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP702
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP702.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP703
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP703.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP704
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP704.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP705
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP705.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP706
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP706.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP707
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP707.mp4
+#EXTINF:-7 tvg-logo='http://4.bp.blogspot.com/-E9uwWDmfF5o/VXMpgp6ivrI/AAAAAAAAF2I/40ohngWdZjI/s1600/season14_logo.png' group-title='Preto e Branco',EP708
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PKMONEP708.mp4

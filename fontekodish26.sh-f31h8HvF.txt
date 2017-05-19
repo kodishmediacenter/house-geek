@@ -1,0 +1,45 @@
+# Script do Kodish
+# Fabio Luiz Matioli Gonçalves
+# 26 de Agosto de 2016
+# NUC Kodish 2.5
+
+sudo apt-get purge libreoffice-*
+sudo apt-get purge thunderbird 
+sudo apt-get purge amazon
+sudo apt-get install xubuntu-core^
+sudo apt-get purge unity-*
+sudo apt-get install openssh-server
+sudo apt-get install software-properties-common
+sudo add-apt-repository ppa:team-xbmc/ppa 
+sudo apt-get update 
+sudo apt-get install kodi 
+sudo apt-get install samba 
+sudo apt-get install proftpd
+sudo apt-get autoremove
+sudo apt-get upgrade
+sudo apt-get update
+sudo apt-get install vlc
+sudo apt-get install gparted
+sudo mkdir /kodish
+sudo chmod 777 /kodish
+kodi
+wget http://kodish.esy.es/update/sp-001.sh
+wget http://kodish.esy.es/update/kodishupdate.sh
+wget http://kodish.esy.es/update/sp-002.sh
+wget http://kodish.esy.es/update/kodishupdate2.sh
+wget http://kodish.esy.es/update/sp-003.sh
+wget http://kodish.esy.es/update/kodishupdate4.sh
+wget http://kodish.esy.es/update/updates-kd-2.1/kodishupdate5.sh
+sudo apt-get update
+sh sp-001.sh
+sh kodishupdate.sh
+sh sp-002.sh
+sh kodishupdate2.sh
+sh sp-003.sh
+sh kodishupdate4.sh
+sh kodishupdate5.sh
+mkdir k2.5
+sudo chmod 777 k2.5
+cd k2.5
+wget http://kodish.esy.es/update/2.5/kodishupdate.sh
+sh kodishupdate.sh

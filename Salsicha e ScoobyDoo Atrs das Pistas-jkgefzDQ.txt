@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP01
+rdc://RCServer09/ondemand/SLCHESCBDADPEP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP02
+rdc://RCServer09/ondemand/SLCHESCBDADPEP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP03
+rdc://RCServer09/ondemand/SLCHESCBDADPEP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP04
+rdc://RCServer09/ondemand/SLCHESCBDADPEP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP05
+rdc://RCServer09/ondemand/SLCHESCBDADPEP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP06
+rdc://RCServer09/ondemand/SLCHESCBDADPEP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP07
+rdc://RCServer09/ondemand/SLCHESCBDADPEP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP08
+rdc://RCServer09/ondemand/SLCHESCBDADPEP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP09
+rdc://RCServer09/ondemand/SLCHESCBDADPEP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP10
+rdc://RCServer09/ondemand/SLCHESCBDADPEP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP11
+rdc://RCServer09/ondemand/SLCHESCBDADPEP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP12
+rdc://RCServer09/ondemand/SLCHESCBDADPEP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP13
+rdc://RCServer09/ondemand/SLCHESCBDADPEP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP14
+rdc://RCServer09/ondemand/SLCHESCBDADPEP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP15
+rdc://RCServer09/ondemand/SLCHESCBDADPEP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP16
+rdc://RCServer09/ondemand/SLCHESCBDADPEP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP17
+rdc://RCServer09/ondemand/SLCHESCBDADPEP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP18
+rdc://RCServer09/ondemand/SLCHESCBDADPEP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP19
+rdc://RCServer09/ondemand/SLCHESCBDADPEP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP20
+rdc://RCServer09/ondemand/SLCHESCBDADPEP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP21
+rdc://RCServer09/ondemand/SLCHESCBDADPEP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP22
+rdc://RCServer09/ondemand/SLCHESCBDADPEP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP23
+rdc://RCServer09/ondemand/SLCHESCBDADPEP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP24
+rdc://RCServer09/ondemand/SLCHESCBDADPEP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP25
+rdc://RCServer09/ondemand/SLCHESCBDADPEP25.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/x1wRNC" group-title="Salsicha e Scooby-Doo Atrás das Pistas",EP26
+rdc://RCServer09/ondemand/SLCHESCBDADPEP26.mp4

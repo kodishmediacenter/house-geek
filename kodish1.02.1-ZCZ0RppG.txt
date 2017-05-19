@@ -1,0 +1,16 @@
+wget http://kodish.esy.es/update/sp-001.sh
+wget http://kodish.esy.es/update/kodishupdate.sh
+wget http://kodish.esy.es/update/sp-002.sh
+wget http://kodish.esy.es/update/kodishupdate2.sh
+wget http://kodish.esy.es/update/sp-003.sh
+wget http://kodish.esy.es/update/kodishupdate4.sh
+wget http://kodish.esy.es/update/updates-kd-2.1/kodishupdate5.sh
+
+sudo apt-get update
+sh sp-001.sh
+sh kodishupdate.sh
+sh sp-002.sh
+sh kodishupdate2.sh
+sh sp-003.sh
+sh kodishupdate4.sh
+sh kodishupdate5.sh

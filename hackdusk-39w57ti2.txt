@@ -1,0 +1,24 @@
+#EXTINF:-7 tvg-logo='',EP01
+http://158.69.224.214/Uploads/Animes/1/hack-dusk/01.mp4
+#EXTINF:-7 tvg-logo='',EP02
+http://158.69.224.214/Uploads/Animes/1/hack-dusk/02.mp4
+#EXTINF:-7 tvg-logo='',EP03
+http://158.69.224.214/Uploads/Animes/1/hack-dusk/03.mp4
+#EXTINF:-7 tvg-logo='',EP04
+http://158.69.224.214/Uploads/Animes/1/hack-dusk/04.mp4
+#EXTINF:-7 tvg-logo='',EP05
+http://158.69.224.214/Uploads/Animes/1/hack-dusk/05.mp4
+#EXTINF:-7 tvg-logo='',EP06
+http://158.69.224.214/Uploads/Animes/1/hack-dusk/06.mp4
+#EXTINF:-7 tvg-logo='',EP07
+http://158.69.224.214/Uploads/Animes/1/hack-dusk/07.mp4
+#EXTINF:-7 tvg-logo='',EP08
+http://158.69.224.214/Uploads/Animes/1/hack-dusk/08.mp4
+#EXTINF:-7 tvg-logo='',EP09
+http://158.69.224.214/Uploads/Animes/1/hack-dusk/09.mp4
+#EXTINF:-7 tvg-logo='',EP10
+http://158.69.224.214/Uploads/Animes/1/hack-dusk/10.mp4
+#EXTINF:-7 tvg-logo='',EP11
+http://158.69.224.214/Uploads/Animes/1/hack-dusk/11.mp4
+#EXTINF:-7 tvg-logo='',EP12
+http://158.69.224.214/Uploads/Animes/1/hack-dusk/12.mp4

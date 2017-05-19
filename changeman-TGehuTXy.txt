@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP1
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/01.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP2
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/02.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP3
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/03.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP4
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/04.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP5
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/05.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP6
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/06.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP7
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/07.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP8
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/08.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP9
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/09.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP10
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/10.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP11
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/11.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP12
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/12.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP13
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/13.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP14
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/14.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP15
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/15.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP16
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/16.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP17
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/17.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP18
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/18.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP19
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/19.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP20
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/20.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP21
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/21.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP22
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/22.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP23
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/23.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP24
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/24.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP25
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/25.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP26
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/26.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP27
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/27.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP28
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/28.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP29
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/29.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP30
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/30.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP31
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/31.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP32
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/32.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP33
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/33.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP34
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/34.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP35
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/35.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP36
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/36.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP37
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/37.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP38
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/38.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP39
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/39.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP40
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/40.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP41
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/41.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP42
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/42.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP43
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/43.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP44
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/44.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP45
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/45.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP46
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/46.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP47
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/47.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP48
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/48.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP49
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/49.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP50
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/50.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP51
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/51.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP52
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/52.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP53
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/53.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP54
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/54.mp4
+#EXTINF:-1 tvg-logo='https://cdn.fstatic.com/media/movies/covers/2010/01/thumbs/ae29d514be77f161a1cedbcc4bbd3ec0_jpg_290x478_upscale_q90.jpg' group-title='Changeman',EP55
+http://149.56.20.73/Upload/Tokusatsu/Super-Sentai/changeman-legendado/55.mp4

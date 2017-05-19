@@ -1,0 +1,19 @@
+
+<layouttype>thumbnail</layouttype>
+<channels>
+<channel>
+<name>[COLOR gold][B][COLOR blue][B]Lista canais Denis[/B][/COLOR][/B][/COLOR]</name>
+<thumbnail>http://pastebin.com/raw/rUniVMea</thumbnail>
+<externallink>http://pastebin.com/raw/rUniVMea</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Filmes diversos[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>http://pastebin.com/raw/5VcWp3ur</externallink>
+<fanart></fanart>
+<info></info>
+</channel>

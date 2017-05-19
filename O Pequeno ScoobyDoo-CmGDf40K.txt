@@ -1,0 +1,62 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP01
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP02
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP03
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP04
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP05
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP06
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP07
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP08
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP09
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP10
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP11
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP12
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP13
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP14
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP15
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP16
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP17
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP18
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP19
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP20
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP21
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP22
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP23
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP24
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP25
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP25.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP26
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP26.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP27
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP27.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP28
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP28.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP29
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP29.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Ut7W4z" group-title="O Pequeno Scooby-Doo",EP30
+http://transforrede.com/vd/dd/RC/RCServer09/ondemand/OPQNSCBDEP30.mp4

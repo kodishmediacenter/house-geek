@@ -1,0 +1,64 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>Treta News</title>
+<utube>UCfk5MMR4k6ulPmvvzkGe5kg</utube>
+<thumbnail>https://yt3.ggpht.com/-99BV9bTMdxI/AAAAAAAAAAI/AAAAAAAAAAA/c5rGWQ8NJSo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>O Curioso</title>
+<utube>UC-qeHsCIc4DiYhmPq7cmLkQ</utube>
+<thumbnail>https://yt3.ggpht.com/-8l044YCIpCA/AAAAAAAAAAI/AAAAAAAAAAA/7tPJiiy1bdE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Neko Tenshi</title>
+<utube>GiovanAnileMisachan</utube>
+<thumbnail>https://yt3.ggpht.com/-Oc0vZiGA4GU/AAAAAAAAAAI/AAAAAAAAAAA/CJl8PAhIJRk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Contv</title>
+<utube>UCoAIs3PTLcYEVMLzAERUkvQ</utube>
+<thumbnail>https://yt3.ggpht.com/-NrOiSIX0EbE/AAAAAAAAAAI/AAAAAAAAAAA/ppmPF_LIdnQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Canal do Contente</title>
+<utube>UCI5FpEHcKVIJlhv-f7ed_Zg</utube>
+<thumbnail>https://yt3.ggpht.com/-NrOiSIX0EbE/AAAAAAAAAAI/AAAAAAAAAAA/ppmPF_LIdnQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Kai Fansings</title>
+<utube>xTheKaiBRx</utube>
+<thumbnail>https://yt3.ggpht.com/-linJkEvJZas/AAAAAAAAAAI/AAAAAAAAAAA/L0NNSPIEkQw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Japao por Outros Olhos</title>
+<utube>UCP-bdbQG7rkx5_w5x3QUiCg</utube>
+<thumbnail>https://yt3.ggpht.com/-Q6yFRbPogCg/AAAAAAAAAAI/AAAAAAAAAAA/xmhIUUr5LLA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ucolecionador</title>
+<utube>UCYQWpNzyDn-88Wm4G0W8UPw</utube>
+<thumbnail>https://yt3.ggpht.com/-PWIPDNQgBCw/AAAAAAAAAAI/AAAAAAAAAAA/m0zrBBNycwM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Colecao Nintendo</title>
+<utube>UCADV2FgLb4URxDYBwEllOSQ</utube>
+<thumbnail>https://yt3.ggpht.com/-Txc1AuSxX5U/AAAAAAAAAAI/AAAAAAAAAAA/p0Wvp3N5fJA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>

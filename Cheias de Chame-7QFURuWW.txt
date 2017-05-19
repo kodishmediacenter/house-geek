@@ -1,0 +1,151 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 90 (Openload)
+https://openload.co/embed/n1Ud5lbkMss/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 89
+https://thevideo.me/embed-ukpfrqfyhi1s.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 88
+https://thevideo.me/embed-ywc9hd9xt7im.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 87
+http://thevideo.me/embed-fl3lucspkii2.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 86
+http://thevideo.me/embed-6ndr4zk37lzp.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 85
+http://thevideo.me/embed-dajo2tzm4tgx.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 84
+http://thevideo.me/embed-z80jcj4s1jzm.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 83
+http://thevideo.me/embed-tfwr0kl4n08v.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 82
+http://thevideo.me/embed-r8y6oyh1339h.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 81
+http://thevideo.me/embed-auc6x2gk6caf.html
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 80
+https://openload.co/embed/_2Ah4TTSPHM/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 79
+https://openload.co/embed/fmiVko_Vir0/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 78
+https://openload.co/embed/KzurpRw4azE/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 77
+https://openload.co/embed/mcMQFN7sw6k/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 76
+https://openload.co/embed/S7xMoNRJlXA/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 75
+https://openload.co/embed/4Pob4lw_4NE/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 74
+https://openload.co/embed/7t-dzouVjbY/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 73
+https://openload.co/embed/1wj0712qkns/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 72
+https://openload.co/embed/7-f2GU2Nbgo/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 71
+https://openload.co/embed/8LxG6N_INBo/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 70
+https://openload.co/embed/0-Ej2xDvIXs/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 69
+https://openload.co/embed/4j3LC5s9Bts/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 68
+https://openload.co/embed/CQrPIF8P9bY/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 67
+https://openload.co/embed/2LpwX4rc5a4/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 66
+https://openload.co/embed/yfF5Qo3YYJs/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 65
+https://openload.co/embed/uPjMsTBwcSE/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 64
+https://openload.co/embed/roeXqdfWuM8/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 63
+https://openload.co/embed/4-LXzqyYk2Q/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 62
+https://openload.co/embed/6q79kWHjvIM/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 61
+https://openload.co/embed/IDhQB4u01QU/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 60
+https://openload.co/embed/j8sUt0ewrSc/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 59
+https://openload.co/embed/yHVlmVlUXoA/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 58
+https://openload.co/embed/zdky1upGYrI/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 57
+https://openload.co/embed/b1cyzu0zLd0/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 56
+https://openload.co/embed/JHxU6VURc-I/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 55
+https://openload.co/embed/7hnpTePFpW4/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 54
+https://openload.co/embed/a0WtLMg2ukc/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 53
+https://openload.co/embed/2AZgkOjySnI/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 52
+https://openload.co/embed/kdVqt_5gqOw/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 51
+https://openload.co/embed/Cup-61ggSz0/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 52
+https://openload.co/embed/kdVqt_5gqOw/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 51
+https://openload.co/embed/Cup-61ggSz0/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 50
+https://openload.co/embed/4LekZr4-Hww/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 49
+https://openload.co/embed/ZcNdtig1kzg/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 48
+https://openload.co/embed/5MV26sv4-Z0/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 47
+https://openload.co/embed/KQtmHgUJLUY/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 46
+https://openload.co/embed/cnqA4hzHdUA/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 45
+https://openload.co/embed/m-wW2BCLUW0/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 44
+https://openload.co/embed/R8wLD8Rr5SY/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 43
+https://openload.co/embed/7IoHK1ujLxk/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 42
+https://openload.co/embed/hNKqmHb_ZJk/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 41
+https://openload.co/embed/dqgGxVDbwOw/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 40
+https://openload.co/embed/9SLPZ4c1a4Q/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 39
+http://thevideo.me/embed-%20uq3mdqps4oth.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 38
+https://openload.co/embed/GctkmBB50pM/
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 37
+http://thevideo.me/embed-gu087wdmpr46.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 36
+http://thevideo.me/embed-f23hy1ui8d8d.html
+ 
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 35
+https://openload.co/embed/_t33dC7SSeY/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 34
+https://openload.co/embed/3o1ceAWQnc0/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 33
+https://openload.co/embed/TGGkic5wgeI/
+#EXTINF:-1 tvg-logo='' group-title='Novelas',Cheias de Chame 32
+https://openload.co/embed/iUPqIasWKTM/

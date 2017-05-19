@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP470
+tdc://RCServer01/videos/PKMONEP470.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP471
+tdc://RCServer01/videos/PKMONEP471.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP472
+tdc://RCServer01/videos/PKMONEP472.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP473
+tdc://RCServer01/videos/PKMONEP473.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP474
+tdc://RCServer01/videos/PKMONEP474.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP475
+tdc://RCServer01/videos/PKMONEP475.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP476
+tdc://RCServer01/videos/PKMONEP476.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP477
+tdc://RCServer01/videos/PKMONEP477.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP478
+tdc://RCServer01/videos/PKMONEP478.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP479
+tdc://RCServer01/videos/PKMONEP479.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP480
+tdc://RCServer01/videos/PKMONEP480.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP481
+tdc://RCServer01/videos/PKMONEP481.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP482
+tdc://RCServer01/videos/PKMONEP482.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP483
+tdc://RCServer01/videos/PKMONEP483.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP484
+tdc://RCServer01/videos/PKMONEP484.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP485
+tdc://RCServer01/videos/PKMONEP485.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP486
+tdc://RCServer01/videos/PKMONEP486.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP487
+tdc://RCServer01/videos/PKMONEP487.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP488
+tdc://RCServer01/videos/PKMONEP488.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP489
+tdc://RCServer01/videos/PKMONEP489.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP490
+tdc://RCServer01/videos/PKMONEP490.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP491
+tdc://RCServer01/videos/PKMONEP491.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP492
+tdc://RCServer01/videos/PKMONEP492.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP493
+tdc://RCServer01/videos/PKMONEP493.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP494
+tdc://RCServer01/videos/PKMONEP494.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP495
+tdc://RCServer01/videos/PKMONEP495.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP496
+tdc://RCServer01/videos/PKMONEP496.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP497
+tdc://RCServer01/videos/PKMONEP497.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP498
+tdc://RCServer01/videos/PKMONEP498.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP499
+tdc://RCServer01/videos/PKMONEP499.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP500
+tdc://RCServer01/videos/PKMONEP500.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP501
+tdc://RCServer01/videos/PKMONEP501.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP502
+tdc://RCServer01/videos/PKMONEP502.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP503
+tdc://RCServer01/videos/PKMONEP503.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP504
+tdc://RCServer01/videos/PKMONEP504.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP505
+tdc://RCServer01/videos/PKMONEP505.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP506
+tdc://RCServer01/videos/PKMONEP506.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP507
+tdc://RCServer01/videos/PKMONEP507.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP508
+tdc://RCServer01/videos/PKMONEP508.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP509
+tdc://RCServer01/videos/PKMONEP509.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP510
+tdc://RCServer01/videos/PKMONEP510.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP511
+tdc://RCServer01/videos/PKMONEP511.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP512
+tdc://RCServer01/videos/PKMONEP512.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP513
+tdc://RCServer01/videos/PKMONEP513.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP514
+tdc://RCServer01/videos/PKMONEP514.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP515
+tdc://RCServer01/videos/PKMONEP515.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP516
+tdc://RCServer01/videos/PKMONEP516.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP517
+tdc://RCServer01/videos/PKMONEP517.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP518
+tdc://RCServer01/videos/PKMONEP518.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP519
+tdc://RCServer01/videos/PKMONEP519.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP520
+tdc://RCServer01/videos/PKMONEP520.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/b199caa3a2bbb9a1f0917469a1bda8a6.jpg' group-title='Diamante e Perola ',EP521
+tdc://RCServer01/videos/PKMONEP521.mp4

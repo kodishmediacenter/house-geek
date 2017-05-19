@@ -1,0 +1,85 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>POP MUSIC 2017 (HIT MUSIC) 24/7 LIVE STREAM - HUNTER.FM</title>
+<utube>CxTqW7c_oeY</utube>
+<thumbnail>http://i.ytimg.com/vi/CxTqW7c_oeY/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NoCopyrightSounds 24/7: Gaming Music Live Stream • Chill Out Mix • Electronic Radio </title>
+<utube>1-AODuJpCG4</utube>
+<thumbnail>http://i.ytimg.com/vi/1-AODuJpCG4/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Trap Music 24/7 Live Stream Radio | Best Trap & Bass Boosted | Gaming Music </title>
+<utube>4KJpXriYC9A</utube>
+<thumbnail>http://i.ytimg.com/vi/4KJpXriYC9A/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Good Life Radio • 24/7 Music Live Stream | Deep & Tropical House | Chill Out | Dance Music Mix </title>
+<utube>K-heSQmydtE</utube>
+<thumbnail>http://i.ytimg.com/vi/K-heSQmydtE/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>POP MUSIC Radio 24/7 | Deep & Tropical House | Chill Out | Dance Music Mix | Trap Music </title>
+<utube>6F3liPRGVEs</utube>
+<thumbnail>http://i.ytimg.com/vi/6F3liPRGVEs/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>24/7 Best Deep House | Chillout Music | EDM 2017 Live Radio </title>
+<utube>0e5Bbu4ZGdw</utube>
+<thumbnail>http://i.ytimg.com/vi/0e5Bbu4ZGdw/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>lofi hip hop radio - beats to relax/study to</title>
+<utube>xrbrQhpvn8E</utube>
+<thumbnail>http://i.ytimg.com/vi/xrbrQhpvn8E/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ClubTools 24/7 Live Radio powered by Kontor.TV [Deep House, Tropical & Melodic Deep]</title>
+<utube>c2TNz4TPoh4</utube>
+<thumbnail>http://i.ytimg.com/vi/c2TNz4TPoh4/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ChillYourMind Radio • 24/7 Music Live Stream | Deep & Tropical House | Chill Out | </title>
+<utube>f5cXwgjs0aE</utube>
+<thumbnail>http://i.ytimg.com/vi/f5cXwgjs0aE/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ClubTools 24/7 Live Radio powered by Kontor.TV [Deep House, Tropical & Melodic Deep]</title>
+<utube>c2TNz4TPoh4</utube>
+<thumbnail>http://i.ytimg.com/vi/c2TNz4TPoh4/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Pixl Radio – 24/7 EDM / Pop Music Live Stream ft. House Music, Future House, Trap Music, ... </title>
+<utube>CN9h7BrckSU</utube>
+<thumbnail>http://i.ytimg.com/vi/CN9h7BrckSU/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Tomorrowland 2017 - Ultra Music Festival RADIO 24/7 - Electro House / TOP Musica Electronica </title>
+<utube>Cn2AoJey5hY</utube>
+<thumbnail>http://i.ytimg.com/vi/Cn2AoJey5hY/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>

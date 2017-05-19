@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1,Dom Pixote T01E01
+rdc://RCServer09/ondemand/DMPXTEP01.mp4
+#EXTINF:-1,Dom Pixote T01E02
+rdc://RCServer09/ondemand/DMPXTEP02.mp4
+#EXTINF:-1,Dom Pixote T01E03
+rdc://RCServer09/ondemand/DMPXTEP03.mp4
+#EXTINF:-1,Dom Pixote T01E04
+rdc://RCServer09/ondemand/DMPXTEP04.mp4
+#EXTINF:-1,Dom Pixote T01E05
+rdc://RCServer09/ondemand/DMPXTEP05.mp4
+#EXTINF:-1,Dom Pixote T01E06
+rdc://RCServer09/ondemand/DMPXTEP06.mp4
+#EXTINF:-1,Dom Pixote T01E07
+rdc://RCServer09/ondemand/DMPXTEP07.mp4
+#EXTINF:-1,Dom Pixote T01E08
+rdc://RCServer09/ondemand/DMPXTEP08.mp4
+#EXTINF:-1,Dom Pixote T01E09
+rdc://RCServer09/ondemand/DMPXTEP09.mp4
+#EXTINF:-1,Dom Pixote T01E10
+rdc://RCServer09/ondemand/DMPXTEP10.mp4
+#EXTINF:-1,Dom Pixote T01E11
+rdc://RCServer09/ondemand/DMPXTEP11.mp4
+#EXTINF:-1,Dom Pixote T01E12
+rdc://RCServer09/ondemand/DMPXTEP12.mp4
+#EXTINF:-1,Dom Pixote T01E13
+rdc://RCServer09/ondemand/DMPXTEP13.mp4
+#EXTINF:-1,Dom Pixote T01E14
+rdc://RCServer09/ondemand/DMPXTEP14.mp4
+#EXTINF:-1,Dom Pixote T01E15
+rdc://RCServer09/ondemand/DMPXTEP15.mp4
+#EXTINF:-1,Dom Pixote T01E16
+rdc://RCServer09/ondemand/DMPXTEP16.mp4
+#EXTINF:-1,Dom Pixote T01E17
+rdc://RCServer09/ondemand/DMPXTEP17.mp4
+#EXTINF:-1,Dom Pixote T01E18
+rdc://RCServer09/ondemand/DMPXTEP18.mp4
+#EXTINF:-1,Dom Pixote T01E19
+rdc://RCServer09/ondemand/DMPXTEP19.mp4
+#EXTINF:-1,Dom Pixote T01E20
+rdc://RCServer09/ondemand/DMPXTEP20.mp4
+#EXTINF:-1,Dom Pixote T01E21
+rdc://RCServer09/ondemand/DMPXTEP21.mp4
+#EXTINF:-1,Dom Pixote T01E22
+rdc://RCServer09/ondemand/DMPXTEP22.mp4
+#EXTINF:-1,Dom Pixote T02E01
+rdc://RCServer09/ondemand/DMPXTEP23.mp4
+#EXTINF:-1,Dom Pixote T02E02
+rdc://RCServer09/ondemand/DMPXTEP24.mp4
+#EXTINF:-1,Dom Pixote T02E03
+rdc://RCServer09/ondemand/DMPXTEP25.mp4
+#EXTINF:-1,Dom Pixote T02E04
+rdc://RCServer09/ondemand/DMPXTEP26.mp4
+#EXTINF:-1,Dom Pixote T02E05
+rdc://RCServer09/ondemand/DMPXTEP27.mp4
+#EXTINF:-1,Dom Pixote T02E06
+rdc://RCServer09/ondemand/DMPXTEP28.mp4
+#EXTINF:-1,Dom Pixote T02E07
+rdc://RCServer09/ondemand/DMPXTEP29.mp4
+#EXTINF:-1,Dom Pixote T02E08
+rdc://RCServer09/ondemand/DMPXTEP30.mp4
+#EXTINF:-1,Dom Pixote T02E09
+rdc://RCServer09/ondemand/DMPXTEP31.mp4
+#EXTINF:-1,Dom Pixote T02E10
+rdc://RCServer09/ondemand/DMPXTEP32.mp4
+#EXTINF:-1,Dom Pixote T02E11
+rdc://RCServer09/ondemand/DMPXTEP33.mp4
+#EXTINF:-1,Dom Pixote T02E12
+rdc://RCServer09/ondemand/DMPXTEP34.mp4
+#EXTINF:-1,Dom Pixote T02E13
+rdc://RCServer09/ondemand/DMPXTEP35.mp4
+#EXTINF:-1,Se Inscreva em Nosso Canal http://bit.ly/canalkodish
+rdc://

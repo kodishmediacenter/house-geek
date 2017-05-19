@@ -1,0 +1,58 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>Mister Will Informatica 2</title>
+<utube>UCy-4KL5pfEYena_FDWPHmxA</utube>
+<thumbnail>https://yt3.ggpht.com/-RpCxMtYziHc/AAAAAAAAAAI/AAAAAAAAAAA/Vg2Jm6qdxdw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Alex</title>
+<utube>UCe0K_VF6Wz16fHVWKwIuSqQ</utube>
+<thumbnail>https://yt3.ggpht.com/-Znqtiox_9FA/AAAAAAAAAAI/AAAAAAAAAAA/CXi60ATODlM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Anderson Guimaraes</title>
+<utube>UC2KyF1gOamOpKv37xiiKGsw</utube>
+<thumbnail>https://yt3.ggpht.com/-B8Ih4gMHNrU/AAAAAAAAAAI/AAAAAAAAAAA/0K7LRAj_n2U/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Jorge deJorge</title>
+<utube>tvhdmais</utube>
+<thumbnail>https://yt3.ggpht.com/-qb29X_nrwak/AAAAAAAAAAI/AAAAAAAAAAA/pMEwZlOuTQY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Kadu Sat</title>
+<utube>ERASMOCARLOS1000</utube>
+<thumbnail>https://yt3.ggpht.com/-4lt57Ee8zVU/AAAAAAAAAAI/AAAAAAAAAAA/r_8ajjhPbxA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>GFS Games e Tutoriais</title>
+<utube>UCY31tBqxpDq4PuPVQ8IOVWA</utube>
+<thumbnail>https://yt3.ggpht.com/-nZyLGVscpKg/AAAAAAAAAAI/AAAAAAAAAAA/tRSZ08o088o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Solo Man</title>
+<utube>UCuSdObYHdjize3ziP951org</utube>
+<thumbnail>https://yt3.ggpht.com/-YUHW44PfRLU/AAAAAAAAAAI/AAAAAAAAAAA/TMK9xizbGJU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Touchtome</title>
+<utube>UCgRxR05Lmy_KVVW5I0PcTDA</utube>
+<thumbnail>https://yt3.ggpht.com/-PZf6tIaQqC4/AAAAAAAAAAI/AAAAAAAAAAA/LWrigWjcmcE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>

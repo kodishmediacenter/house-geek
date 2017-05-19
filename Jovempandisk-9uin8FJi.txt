@@ -1,0 +1,32 @@
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Joven Pan 7 Melhores Disco 1
+https://raw.githubusercontent.com/kodishmediacenter/store/master/m3u-play/jp/disco01.m3u
+
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Joven Pan 7 Melhores Disco 2 
+https://raw.githubusercontent.com/kodishmediacenter/store/master/m3u-play/jp/disco2.m3u
+
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Joven Pan 7 Melhores Disco 3
+https://raw.githubusercontent.com/kodishmediacenter/store/master/m3u-play/jp/disco3.m3u
+
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Joven Pan 7 Melhores Disco 4
+https://archive.org/download/02NickiFrenchDidYouEverReallyLoveMe/02NickiFrenchDidYouEverReallyLoveMe_vbr.m3u
+
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Joven Pan 7 Melhores Disco 5
+https://archive.org/download/04BandidoIDroveAllNight/04BandidoIDroveAllNight_vbr.m3u
+
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Joven Pan 7 Melhores Disco 6 
+https://archive.org/download/05SuzannRyeBecauseYouLovedMeSpanishMix/05SuzannRyeBecauseYouLovedMeSpanishMix_vbr.m3u
+
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Joven Pan 7 Melhores Disco 7 
+https://archive.org/download/14DjQuicksilverBelissma/14DjQuicksilverBelissma_vbr.m3u
+
+#EXTINF:-1 tvg-logo="https://goo.gl/MmTvGO",Joven Pan 7 Melhores Disco 8 
+https://archive.org/download/06XponeFeatQueenReginaStrangerInParadise/06XponeFeatQueenReginaStrangerInParadise_vbr.m3u
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/S_13889-MLB63327049_7994-O.jpg",Joven Pan Disco 9 Tecno Pan
+https://archive.org/download/24GouryellaGigoloRemix/24GouryellaGigoloRemix_vbr.m3u
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-BAmIFdihtX0/VbA2MBNiNlI/AAAAAAAAE7U/xO0_JsxBsWo/s1600/Maxi%2BPan%2B%2528frente%2529.jpg",Joven Pan Disco 10 Maxi Pan 
+https://archive.org/download/13YouveLostThatLovingFeeling/13YouveLostThatLovingFeeling_vbr.m3u
+
+#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/318x318/extaudio/1/d/d/3/9583-3217-4fdc-8bac-af17fffd620c",Joven Pan Disco 11 Joven Pan na Balada
+https://archive.org/download/04Mp3_201604/04Mp3_201604_vbr.m3u

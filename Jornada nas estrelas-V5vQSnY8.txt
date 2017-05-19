@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-n3e_nI2wcWY/VoCjdQiddaI/AAAAAAAABoE/4ilsQxIYBOA/s320/STNGMPColl_BRD_3D_Jcard.jpg", Jornada nas Estrelas: O Filme (Dublado)
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/STRTRK01.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-n3e_nI2wcWY/VoCjdQiddaI/AAAAAAAABoE/4ilsQxIYBOA/s320/STNGMPColl_BRD_3D_Jcard.jpg", Jornada nas Estrelas II: A Ira de Khan (Dublado) 
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/STRTRK02.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-n3e_nI2wcWY/VoCjdQiddaI/AAAAAAAABoE/4ilsQxIYBOA/s320/STNGMPColl_BRD_3D_Jcard.jpg", Jornada nas Estrelas III: À Procura de Spock 
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/STRTRK03.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-n3e_nI2wcWY/VoCjdQiddaI/AAAAAAAABoE/4ilsQxIYBOA/s320/STNGMPColl_BRD_3D_Jcard.jpg", Jornada nas Estrelas IV: A Volta para Casa 
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/STRTRK04.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-n3e_nI2wcWY/VoCjdQiddaI/AAAAAAAABoE/4ilsQxIYBOA/s320/STNGMPColl_BRD_3D_Jcard.jpg", Jornada nas Estrelas V: A Fronteira Final 
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/STRTRK05.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-n3e_nI2wcWY/VoCjdQiddaI/AAAAAAAABoE/4ilsQxIYBOA/s320/STNGMPColl_BRD_3D_Jcard.jpg", Jornada nas Estrelas VI: A Terra Desconhecida 
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/STRTRK06.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-n3e_nI2wcWY/VoCjdQiddaI/AAAAAAAABoE/4ilsQxIYBOA/s320/STNGMPColl_BRD_3D_Jcard.jpg", Jornada nas estrelas VII Generations
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/STRTRK07.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-n3e_nI2wcWY/VoCjdQiddaI/AAAAAAAABoE/4ilsQxIYBOA/s320/STNGMPColl_BRD_3D_Jcard.jpg", Jornada nas estrelas VIII : Primeiro Contato 
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/STRTRK08.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-n3e_nI2wcWY/VoCjdQiddaI/AAAAAAAABoE/4ilsQxIYBOA/s320/STNGMPColl_BRD_3D_Jcard.jpg", Jornada nas estrelas IX : Insurreição 
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/STRTRK09.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-n3e_nI2wcWY/VoCjdQiddaI/AAAAAAAABoE/4ilsQxIYBOA/s320/STNGMPColl_BRD_3D_Jcard.jpg", Jornada nas estrelas X :  Nemesis 
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/STRTRK10.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-n3e_nI2wcWY/VoCjdQiddaI/AAAAAAAABoE/4ilsQxIYBOA/s320/STNGMPColl_BRD_3D_Jcard.jpg", Jornada nas estrelas XI : Star Trek
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/STRTRK11.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-n3e_nI2wcWY/VoCjdQiddaI/AAAAAAAABoE/4ilsQxIYBOA/s320/STNGMPColl_BRD_3D_Jcard.jpg", Jornada nas estrelas XII : Além da Escuridão
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/STRTRK12.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-n3e_nI2wcWY/VoCjdQiddaI/AAAAAAAABoE/4ilsQxIYBOA/s320/STNGMPColl_BRD_3D_Jcard.jpg", Jornada nas estrelas XIII : Sem Fronteiras
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/STRTRK13.mp4

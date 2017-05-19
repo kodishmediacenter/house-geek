@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+<channels>
+<channels>
+<channel>
+<name>Meus Youtubers</name>
+<thumbnail>https://archive.org/download/musica_201705/youtubers.png</thumbnail>
+<externallink>https://pastebin.com/raw/FY6mfxdt</externallink>
+<fanart>http://toyoutome.es/wp-content/uploads/2013/07/19072013.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Koditubers</name>
+<thumbnail>https://archive.org/download/musica_201705/koditubers.png</thumbnail>
+<externallink>https://pastebin.com/raw/S31LJRTz</externallink>
+<fanart>http://noobsandnerds.com/addons/cache/Addons/plugin.video.koditubers/icon.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Playlist de Musicas</name>
+<thumbnail>https://archive.org/download/musica_201705/musica.png</thumbnail>
+<externallink>https://pastebin.com/raw/TUTVLW3H</externallink>
+<fanart>http://www.ciego.cult.cu/wp-content/uploads/2016/07/corso-musica.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Summer Eletrohits</name>
+<thumbnail>http://3.bp.blogspot.com/-Amk9tC4aD0I/TvEE7sOCDhI/AAAAAAAABLw/Fil_4FSKATU/s1600/Colet%25C3%25A2nea+Summer+Eletrohits+%25E2%2580%2593+CD+1+ao+CD+8.png</thumbnail>
+<externallink>https://pastebin.com/raw/xbtMtMW2</externallink>
+<fanart>http://www.ciego.cult.cu/wp-content/uploads/2016/07/corso-musica.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Jovem Pan Discos</name>
+<thumbnail>https://ia601509.us.archive.org/24/items/fabiolmglgeo_gmail_Jp/jp.png</thumbnail>
+<externallink>https://pastebin.com/raw/mBZxXukx</externallink>
+<fanart>https://ia601509.us.archive.org/24/items/fabiolmglgeo_gmail_Jp/jp.png</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>Faz me Rir</name>
+<thumbnail>https://ia601507.us.archive.org/30/items/fabiolmglgeo_gmail_Rir/rir.png</thumbnail>
+<externallink>https://pastebin.com/raw/Vjh5xPCf</externallink>
+<fanart>https://ia601507.us.archive.org/30/items/fabiolmglgeo_gmail_Rir/rir.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Tube Radio ao Vivo</name>
+<thumbnail>https://archive.org/download/musica_201705/tuberadio.png</thumbnail>
+<externallink>https://pastebin.com/raw/31DrGd3X</externallink>
+<fanart>http://www.ciego.cult.cu/wp-content/uploads/2016/07/corso-musica.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Flash Back Hits</name>
+<thumbnail>https://pbs.twimg.com/profile_images/1164674121/avatar_flash.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/cSVHBgRn</externallink>
+<fanart>https://pbs.twimg.com/profile_images/1164674121/avatar_flash.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+<channel>
+<name>Comedy Tube - Creditos Marcio Candido</name>
+<thumbnail>http://s26.postimg.org/3regx0to9/comedy_tube2.png</thumbnail>
+<externallink>http://pastebin.com/raw/XKpxiyL5</externallink>
+<fanart>http://4.bp.blogspot.com/-fZdkhwxEGys/VpIhB2iDKvI/AAAAAAAAEPE/kH_gsRrq9dI/s1600/12516596_914644041924347_1817520250_o.png</fanart>
+<info></info>
+</channel>

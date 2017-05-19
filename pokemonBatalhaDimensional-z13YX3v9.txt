@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP522
+tdc://RCServer01/videos/PKMONEP522.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP523
+tdc://RCServer01/videos/PKMONEP523.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP524
+tdc://RCServer01/videos/PKMONEP524.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP525
+tdc://RCServer01/videos/PKMONEP525.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP526
+tdc://RCServer01/videos/PKMONEP526.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP527
+tdc://RCServer01/videos/PKMONEP527.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP528
+tdc://RCServer01/videos/PKMONEP528.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP529
+tdc://RCServer01/videos/PKMONEP529.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP530
+tdc://RCServer01/videos/PKMONEP530.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP531
+tdc://RCServer01/videos/PKMONEP531.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP532
+tdc://RCServer01/videos/PKMONEP532.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP533
+tdc://RCServer01/videos/PKMONEP533.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP534
+tdc://RCServer01/videos/PKMONEP534.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP535
+tdc://RCServer01/videos/PKMONEP535.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP536
+tdc://RCServer01/videos/PKMONEP536.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP537
+tdc://RCServer01/videos/PKMONEP537.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP538
+tdc://RCServer01/videos/PKMONEP538.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP539
+tdc://RCServer01/videos/PKMONEP539.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP540
+tdc://RCServer01/videos/PKMONEP540.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP541
+tdc://RCServer01/videos/PKMONEP541.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP542
+tdc://RCServer01/videos/PKMONEP542.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP543
+tdc://RCServer01/videos/PKMONEP543.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP544
+tdc://RCServer01/videos/PKMONEP544.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP545
+tdc://RCServer01/videos/PKMONEP545.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP546
+tdc://RCServer01/videos/PKMONEP546.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP547
+tdc://RCServer01/videos/PKMONEP547.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP548
+tdc://RCServer01/videos/PKMONEP548.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP549
+tdc://RCServer01/videos/PKMONEP549.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP550
+tdc://RCServer01/videos/PKMONEP550.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP551
+tdc://RCServer01/videos/PKMONEP551.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP552
+tdc://RCServer01/videos/PKMONEP552.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP553
+tdc://RCServer01/videos/PKMONEP553.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP554
+tdc://RCServer01/videos/PKMONEP554.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP555
+tdc://RCServer01/videos/PKMONEP555.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP556
+tdc://RCServer01/videos/PKMONEP556.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP557
+tdc://RCServer01/videos/PKMONEP557.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP558
+tdc://RCServer01/videos/PKMONEP558.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP559
+tdc://RCServer01/videos/PKMONEP559.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP560
+tdc://RCServer01/videos/PKMONEP560.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP561
+tdc://RCServer01/videos/PKMONEP561.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP562
+tdc://RCServer01/videos/PKMONEP562.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP563
+tdc://RCServer01/videos/PKMONEP563.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP564
+tdc://RCServer01/videos/PKMONEP564.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP565
+tdc://RCServer01/videos/PKMONEP565.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP566
+tdc://RCServer01/videos/PKMONEP566.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP567
+tdc://RCServer01/videos/PKMONEP567.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP568
+tdc://RCServer01/videos/PKMONEP568.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP569
+tdc://RCServer01/videos/PKMONEP569.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP570
+tdc://RCServer01/videos/PKMONEP570.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP571
+tdc://RCServer01/videos/PKMONEP571.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP572
+tdc://RCServer01/videos/PKMONEP572.mp4
+#EXTINF:-7 tvg-logo='http://ssdvds.loja2.com.br/img/5fee6f1836c03d727fbd3756d7ca48ec.jpg' group-title='Batalha Dimensional',EP573
+tdc://RCServer01/videos/PKMONEP573.mp4

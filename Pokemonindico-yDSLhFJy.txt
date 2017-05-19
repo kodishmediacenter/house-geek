@@ -1,0 +1,168 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP01
+tdc://RCServer01/videos/PKMONEP001.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP02
+tdc://RCServer01/videos/PKMONEP002.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP03
+tdc://RCServer01/videos/PKMONEP003.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP04
+tdc://RCServer01/videos/PKMONEP004.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP05
+tdc://RCServer01/videos/PKMONEP005.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP06
+tdc://RCServer01/videos/PKMONEP006.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP07
+tdc://RCServer01/videos/PKMONEP007.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP08
+tdc://RCServer01/videos/PKMONEP008.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP09
+tdc://RCServer01/videos/PKMONEP009.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP010
+tdc://RCServer01/videos/PKMONEP0010.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP11
+tdc://RCServer01/videos/PKMONEP011.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP12
+tdc://RCServer01/videos/PKMONEP012.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP13
+tdc://RCServer01/videos/PKMONEP013.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP14
+tdc://RCServer01/videos/PKMONEP014.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP15
+tdc://RCServer01/videos/PKMONEP015.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP16
+tdc://RCServer01/videos/PKMONEP016.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP17
+tdc://RCServer01/videos/PKMONEP017.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP18
+tdc://RCServer01/videos/PKMONEP018.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP19
+tdc://RCServer01/videos/PKMONEP019.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP20
+tdc://RCServer01/videos/PKMONEP020.mp4
+#EXTINF:-2 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP21
+tdc://RCServer01/videos/PKMONEP021.mp4
+#EXTINF:-2 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP22
+tdc://RCServer01/videos/PKMONEP022.mp4
+#EXTINF:-2 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP23
+tdc://RCServer01/videos/PKMONEP023.mp4
+#EXTINF:-2 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP24
+tdc://RCServer01/videos/PKMONEP024.mp4
+#EXTINF:-2 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP25
+tdc://RCServer01/videos/PKMONEP025.mp4
+#EXTINF:-2 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP26
+tdc://RCServer01/videos/PKMONEP026.mp4
+#EXTINF:-2 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP27
+tdc://RCServer01/videos/PKMONEP027.mp4
+#EXTINF:-2 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP28
+tdc://RCServer01/videos/PKMONEP028.mp4
+#EXTINF:-2 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP29
+tdc://RCServer01/videos/PKMONEP029.mp4
+#EXTINF:-2 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP030
+tdc://RCServer01/videos/PKMONEP030.mp4
+#EXTINF:-3 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP31
+tdc://RCServer01/videos/PKMONEP031.mp4
+#EXTINF:-3 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP33
+tdc://RCServer01/videos/PKMONEP032.mp4
+#EXTINF:-3 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP33
+tdc://RCServer01/videos/PKMONEP033.mp4
+#EXTINF:-3 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP34
+tdc://RCServer01/videos/PKMONEP034.mp4
+#EXTINF:-3 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP35
+tdc://RCServer01/videos/PKMONEP035.mp4
+#EXTINF:-3 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP36
+tdc://RCServer01/videos/PKMONEP036.mp4
+#EXTINF:-3 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP37
+tdc://RCServer01/videos/PKMONEP037.mp4
+#EXTINF:-3 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP38
+tdc://RCServer01/videos/PKMONEP038.mp4
+#EXTINF:-3 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP39
+tdc://RCServer01/videos/PKMONEP039.mp4
+#EXTINF:-3 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP030
+tdc://RCServer01/videos/PKMONEP040.mp4
+#EXTINF:-4 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP41
+tdc://RCServer01/videos/PKMONEP041.mp4
+#EXTINF:-4 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP44
+tdc://RCServer01/videos/PKMONEP042.mp4
+#EXTINF:-4 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP44
+tdc://RCServer01/videos/PKMONEP043.mp4
+#EXTINF:-4 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP44
+tdc://RCServer01/videos/PKMONEP044.mp4
+#EXTINF:-4 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP45
+tdc://RCServer01/videos/PKMONEP045.mp4
+#EXTINF:-4 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP46
+tdc://RCServer01/videos/PKMONEP046.mp4
+#EXTINF:-4 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP47
+tdc://RCServer01/videos/PKMONEP047.mp4
+#EXTINF:-4 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP48
+tdc://RCServer01/videos/PKMONEP048.mp4
+#EXTINF:-4 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP49
+tdc://RCServer01/videos/PKMONEP049.mp4
+#EXTINF:-4 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP050
+tdc://RCServer01/videos/PKMONEP050.mp4
+#EXTINF:-5 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP51
+tdc://RCServer01/videos/PKMONEP051.mp4
+#EXTINF:-5 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP55
+tdc://RCServer01/videos/PKMONEP052.mp4
+#EXTINF:-5 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP55
+tdc://RCServer01/videos/PKMONEP053.mp4
+#EXTINF:-5 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP54
+tdc://RCServer01/videos/PKMONEP054.mp4
+#EXTINF:-5 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP55
+tdc://RCServer01/videos/PKMONEP055.mp4
+#EXTINF:-5 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP56
+tdc://RCServer01/videos/PKMONEP056.mp4
+#EXTINF:-5 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP57
+tdc://RCServer01/videos/PKMONEP057.mp4
+#EXTINF:-5 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP58
+tdc://RCServer01/videos/PKMONEP058.mp4
+#EXTINF:-5 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP59
+tdc://RCServer01/videos/PKMONEP059.mp4
+#EXTINF:-5 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP060
+tdc://RCServer01/videos/PKMONEP060.mp4
+#EXTINF:-6 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP61
+tdc://RCServer01/videos/PKMONEP061.mp4
+#EXTINF:-6 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP66
+tdc://RCServer01/videos/PKMONEP062.mp4
+#EXTINF:-6 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP66
+tdc://RCServer01/videos/PKMONEP063.mp4
+#EXTINF:-6 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP64
+tdc://RCServer01/videos/PKMONEP064.mp4
+#EXTINF:-6 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP65
+tdc://RCServer01/videos/PKMONEP065.mp4
+#EXTINF:-6 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP66
+tdc://RCServer01/videos/PKMONEP066.mp4
+#EXTINF:-6 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP67
+tdc://RCServer01/videos/PKMONEP067.mp4
+#EXTINF:-6 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP68
+tdc://RCServer01/videos/PKMONEP068.mp4
+#EXTINF:-6 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP69
+tdc://RCServer01/videos/PKMONEP069.mp4
+#EXTINF:-6 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP070
+tdc://RCServer01/videos/PKMONEP070.mp4
+#EXTINF:-7 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP71
+tdc://RCServer01/videos/PKMONEP071.mp4
+#EXTINF:-7 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP77
+tdc://RCServer01/videos/PKMONEP072.mp4
+#EXTINF:-7 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP77
+tdc://RCServer01/videos/PKMONEP073.mp4
+#EXTINF:-7 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP74
+tdc://RCServer01/videos/PKMONEP074.mp4
+#EXTINF:-7 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP75
+tdc://RCServer01/videos/PKMONEP075.mp4
+#EXTINF:-7 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP76
+tdc://RCServer01/videos/PKMONEP076.mp4
+#EXTINF:-7 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP77
+tdc://RCServer01/videos/PKMONEP077.mp4
+#EXTINF:-7 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP78
+tdc://RCServer01/videos/PKMONEP078.mp4
+#EXTINF:-7 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP79
+tdc://RCServer01/videos/PKMONEP079.mp4
+#EXTINF:-7 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP080
+tdc://RCServer01/videos/PKMONEP080.mp4
+#EXTINF:-7 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP081
+tdc://RCServer01/videos/PKMONEP081.mp4
+#EXTINF:-7 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP082
+tdc://RCServer01/videos/PKMONEP082.mp4
+#EXTINF:-7 tvg-logo="http://goo.gl/cxyj0F" group-title="Pokemon",EP083
+tdc://RCServer01/videos/PKMONEP083.mp4

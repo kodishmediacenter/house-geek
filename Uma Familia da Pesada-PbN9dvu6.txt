@@ -1,0 +1,503 @@
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , UMA FAMILIA DA PESADA
+http://0.0.0.0
+
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 01 - EPISODIO 01
+rdc://RCServer05/ondemand/UFMLDPSDT01EP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 01 - EPISODIO 02
+rdc://RCServer05/ondemand/UFMLDPSDT01EP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 01 - EPISODIO 03
+rdc://RCServer05/ondemand/UFMLDPSDT01EP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 01 - EPISODIO 04
+rdc://RCServer05/ondemand/UFMLDPSDT01EP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 01 - EPISODIO 05
+rdc://RCServer05/ondemand/UFMLDPSDT01EP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 01 - EPISODIO 06
+rdc://RCServer05/ondemand/UFMLDPSDT01EP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 01 - EPISODIO 07
+rdc://RCServer05/ondemand/UFMLDPSDT01EP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 01
+rdc://RCServer05/ondemand/UFMLDPSDT02EP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 02
+rdc://RCServer05/ondemand/UFMLDPSDT02EP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 03
+rdc://RCServer05/ondemand/UFMLDPSDT02EP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 04
+rdc://RCServer05/ondemand/UFMLDPSDT02EP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 05
+rdc://RCServer05/ondemand/UFMLDPSDT02EP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 06
+rdc://RCServer05/ondemand/UFMLDPSDT02EP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 07
+rdc://RCServer05/ondemand/UFMLDPSDT02EP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 08
+rdc://RCServer05/ondemand/UFMLDPSDT02EP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 09
+rdc://RCServer05/ondemand/UFMLDPSDT02EP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 10
+rdc://RCServer05/ondemand/UFMLDPSDT02EP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 11
+rdc://RCServer05/ondemand/UFMLDPSDT02EP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 12
+rdc://RCServer05/ondemand/UFMLDPSDT02EP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 13
+rdc://RCServer05/ondemand/UFMLDPSDT02EP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 14
+rdc://RCServer05/ondemand/UFMLDPSDT02EP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 15
+rdc://RCServer05/ondemand/UFMLDPSDT02EP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 16
+rdc://RCServer05/ondemand/UFMLDPSDT02EP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 17
+rdc://RCServer05/ondemand/UFMLDPSDT02EP17.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 18
+rdc://RCServer05/ondemand/UFMLDPSDT02EP18.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 19
+rdc://RCServer05/ondemand/UFMLDPSDT02EP19.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 20
+rdc://RCServer05/ondemand/UFMLDPSDT02EP20.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 02 - EPISODIO 21
+rdc://RCServer05/ondemand/UFMLDPSDT02EP21.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 01
+rdc://RCServer05/ondemand/UFMLDPSDT03EP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 02
+rdc://RCServer05/ondemand/UFMLDPSDT03EP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 03
+rdc://RCServer05/ondemand/UFMLDPSDT03EP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 04
+rdc://RCServer05/ondemand/UFMLDPSDT03EP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 05
+rdc://RCServer05/ondemand/UFMLDPSDT03EP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 06
+rdc://RCServer05/ondemand/UFMLDPSDT03EP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 07
+rdc://RCServer05/ondemand/UFMLDPSDT03EP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 08
+rdc://RCServer05/ondemand/UFMLDPSDT03EP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 09
+rdc://RCServer05/ondemand/UFMLDPSDT03EP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 10
+rdc://RCServer05/ondemand/UFMLDPSDT03EP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 11
+rdc://RCServer05/ondemand/UFMLDPSDT03EP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 12
+rdc://RCServer05/ondemand/UFMLDPSDT03EP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 13
+rdc://RCServer05/ondemand/UFMLDPSDT03EP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 14
+rdc://RCServer05/ondemand/UFMLDPSDT03EP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 15
+rdc://RCServer05/ondemand/UFMLDPSDT03EP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 16
+rdc://RCServer05/ondemand/UFMLDPSDT03EP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 17
+rdc://RCServer05/ondemand/UFMLDPSDT03EP17.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 18
+rdc://RCServer05/ondemand/UFMLDPSDT03EP18.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 19
+rdc://RCServer05/ondemand/UFMLDPSDT03EP19.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 20
+rdc://RCServer05/ondemand/UFMLDPSDT03EP20.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 21
+rdc://RCServer05/ondemand/UFMLDPSDT03EP21.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 03 - EPISODIO 22
+rdc://RCServer05/ondemand/UFMLDPSDT03EP22.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 01
+rdc://RCServer05/ondemand/UFMLDPSDT04EP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 02
+rdc://RCServer05/ondemand/UFMLDPSDT04EP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 03
+rdc://RCServer05/ondemand/UFMLDPSDT04EP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 04
+rdc://RCServer05/ondemand/UFMLDPSDT04EP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 05
+rdc://RCServer05/ondemand/UFMLDPSDT04EP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 06
+rdc://RCServer05/ondemand/UFMLDPSDT04EP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 07
+rdc://RCServer05/ondemand/UFMLDPSDT04EP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 08
+rdc://RCServer05/ondemand/UFMLDPSDT04EP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 09
+rdc://RCServer05/ondemand/UFMLDPSDT04EP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 10
+rdc://RCServer05/ondemand/UFMLDPSDT04EP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 11
+rdc://RCServer05/ondemand/UFMLDPSDT04EP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 12
+rdc://RCServer05/ondemand/UFMLDPSDT04EP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 13
+rdc://RCServer05/ondemand/UFMLDPSDT04EP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 14
+rdc://RCServer05/ondemand/UFMLDPSDT04EP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 15
+rdc://RCServer05/ondemand/UFMLDPSDT04EP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 16
+rdc://RCServer05/ondemand/UFMLDPSDT04EP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 17
+rdc://RCServer05/ondemand/UFMLDPSDT04EP17.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 18
+rdc://RCServer05/ondemand/UFMLDPSDT04EP18.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 19
+rdc://RCServer05/ondemand/UFMLDPSDT04EP19.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 20
+rdc://RCServer05/ondemand/UFMLDPSDT04EP20.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 21
+rdc://RCServer05/ondemand/UFMLDPSDT04EP21.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 22
+rdc://RCServer05/ondemand/UFMLDPSDT04EP22.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 23
+rdc://RCServer05/ondemand/UFMLDPSDT04EP23.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 24
+rdc://RCServer05/ondemand/UFMLDPSDT04EP24.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 25
+rdc://RCServer05/ondemand/UFMLDPSDT04EP25.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 26
+rdc://RCServer05/ondemand/UFMLDPSDT04EP26.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 27
+rdc://RCServer05/ondemand/UFMLDPSDT04EP27.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 28
+rdc://RCServer05/ondemand/UFMLDPSDT04EP28.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 29
+rdc://RCServer05/ondemand/UFMLDPSDT04EP29.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 04 - EPISODIO 30
+rdc://RCServer05/ondemand/UFMLDPSDT04EP30.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 01
+rdc://RCServer05/ondemand/UFMLDPSDT05EP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 02
+rdc://RCServer05/ondemand/UFMLDPSDT05EP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 03
+rdc://RCServer05/ondemand/UFMLDPSDT05EP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 04
+rdc://RCServer05/ondemand/UFMLDPSDT05EP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 05
+rdc://RCServer05/ondemand/UFMLDPSDT05EP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 06
+rdc://RCServer05/ondemand/UFMLDPSDT05EP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 07
+rdc://RCServer05/ondemand/UFMLDPSDT05EP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 08
+rdc://RCServer05/ondemand/UFMLDPSDT05EP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 09
+rdc://RCServer05/ondemand/UFMLDPSDT05EP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 10
+rdc://RCServer05/ondemand/UFMLDPSDT05EP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 11
+rdc://RCServer05/ondemand/UFMLDPSDT05EP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 12
+rdc://RCServer05/ondemand/UFMLDPSDT05EP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 13
+rdc://RCServer05/ondemand/UFMLDPSDT05EP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 14
+rdc://RCServer05/ondemand/UFMLDPSDT05EP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 15
+rdc://RCServer05/ondemand/UFMLDPSDT05EP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 16
+rdc://RCServer05/ondemand/UFMLDPSDT05EP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 17
+rdc://RCServer05/ondemand/UFMLDPSDT05EP17.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 05 - EPISODIO 18
+rdc://RCServer05/ondemand/UFMLDPSDT05EP18.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 06 - EPISODIO 01
+rdc://RCServer05/ondemand/UFMLDPSDT06EP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 06 - EPISODIO 02
+rdc://RCServer05/ondemand/UFMLDPSDT06EP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 06 - EPISODIO 03
+rdc://RCServer05/ondemand/UFMLDPSDT06EP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 06 - EPISODIO 04
+rdc://RCServer05/ondemand/UFMLDPSDT06EP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 06 - EPISODIO 05
+rdc://RCServer05/ondemand/UFMLDPSDT06EP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 06 - EPISODIO 06
+rdc://RCServer05/ondemand/UFMLDPSDT06EP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 06 - EPISODIO 07
+rdc://RCServer05/ondemand/UFMLDPSDT06EP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 06 - EPISODIO 08
+rdc://RCServer05/ondemand/UFMLDPSDT06EP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 06 - EPISODIO 09
+rdc://RCServer05/ondemand/UFMLDPSDT06EP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 06 - EPISODIO 10
+rdc://RCServer05/ondemand/UFMLDPSDT06EP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 06 - EPISODIO 11
+rdc://RCServer05/ondemand/UFMLDPSDT06EP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 06 - EPISODIO 12
+rdc://RCServer05/ondemand/UFMLDPSDT06EP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 01
+rdc://RCServer05/ondemand/UFMLDPSDT07EP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 02
+rdc://RCServer05/ondemand/UFMLDPSDT07EP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 03
+rdc://RCServer05/ondemand/UFMLDPSDT07EP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 04
+rdc://RCServer05/ondemand/UFMLDPSDT07EP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 05
+rdc://RCServer05/ondemand/UFMLDPSDT07EP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 06
+rdc://RCServer05/ondemand/UFMLDPSDT07EP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 07
+rdc://RCServer05/ondemand/UFMLDPSDT07EP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 08
+rdc://RCServer05/ondemand/UFMLDPSDT07EP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 09
+rdc://RCServer05/ondemand/UFMLDPSDT07EP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 10
+rdc://RCServer05/ondemand/UFMLDPSDT07EP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 11
+rdc://RCServer05/ondemand/UFMLDPSDT07EP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 12
+rdc://RCServer05/ondemand/UFMLDPSDT07EP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 13
+rdc://RCServer05/ondemand/UFMLDPSDT07EP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 14
+rdc://RCServer05/ondemand/UFMLDPSDT07EP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 15
+rdc://RCServer05/ondemand/UFMLDPSDT07EP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 07 - EPISODIO 16
+rdc://RCServer05/ondemand/UFMLDPSDT07EP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 01
+rdc://RCServer05/ondemand/UFMLDPSDT08EP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 02
+rdc://RCServer05/ondemand/UFMLDPSDT08EP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 03
+rdc://RCServer05/ondemand/UFMLDPSDT08EP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 04
+rdc://RCServer05/ondemand/UFMLDPSDT08EP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 05
+rdc://RCServer05/ondemand/UFMLDPSDT08EP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 06
+rdc://RCServer05/ondemand/UFMLDPSDT08EP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 07
+rdc://RCServer05/ondemand/UFMLDPSDT08EP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 08
+rdc://RCServer05/ondemand/UFMLDPSDT08EP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 09
+rdc://RCServer05/ondemand/UFMLDPSDT08EP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 10
+rdc://RCServer05/ondemand/UFMLDPSDT08EP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 11
+rdc://RCServer05/ondemand/UFMLDPSDT08EP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 12
+rdc://RCServer05/ondemand/UFMLDPSDT08EP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 13
+rdc://RCServer05/ondemand/UFMLDPSDT08EP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 14
+rdc://RCServer05/ondemand/UFMLDPSDT08EP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 15
+rdc://RCServer05/ondemand/UFMLDPSDT08EP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 16
+rdc://RCServer05/ondemand/UFMLDPSDT08EP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 17
+rdc://RCServer05/ondemand/UFMLDPSDT08EP17.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 18
+rdc://RCServer05/ondemand/UFMLDPSDT08EP18.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 19
+rdc://RCServer05/ondemand/UFMLDPSDT08EP19.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 20
+rdc://RCServer05/ondemand/UFMLDPSDT08EP20.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 08 - EPISODIO 21
+rdc://RCServer05/ondemand/UFMLDPSDT08EP21.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 01
+rdc://RCServer05/ondemand/UFMLDPSDT09EP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 02
+rdc://RCServer05/ondemand/UFMLDPSDT09EP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 03
+rdc://RCServer05/ondemand/UFMLDPSDT09EP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 04
+rdc://RCServer05/ondemand/UFMLDPSDT09EP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 05
+rdc://RCServer05/ondemand/UFMLDPSDT09EP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 06
+rdc://RCServer05/ondemand/UFMLDPSDT09EP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 07
+rdc://RCServer05/ondemand/UFMLDPSDT09EP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 08
+rdc://RCServer05/ondemand/UFMLDPSDT09EP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 09
+rdc://RCServer05/ondemand/UFMLDPSDT09EP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 10
+rdc://RCServer05/ondemand/UFMLDPSDT09EP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 11
+rdc://RCServer05/ondemand/UFMLDPSDT09EP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 12
+rdc://RCServer05/ondemand/UFMLDPSDT09EP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 13
+rdc://RCServer05/ondemand/UFMLDPSDT09EP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 14
+rdc://RCServer05/ondemand/UFMLDPSDT09EP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 15
+rdc://RCServer05/ondemand/UFMLDPSDT09EP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 16
+rdc://RCServer05/ondemand/UFMLDPSDT09EP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 17
+rdc://RCServer05/ondemand/UFMLDPSDT09EP17.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 09 - EPISODIO 18
+rdc://RCServer05/ondemand/UFMLDPSDT09EP18.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 01
+rdc://RCServer05/ondemand/UFMLDPSDT10EP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 02
+rdc://RCServer05/ondemand/UFMLDPSDT10EP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 03
+rdc://RCServer05/ondemand/UFMLDPSDT10EP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 04
+rdc://RCServer05/ondemand/UFMLDPSDT10EP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 05
+rdc://RCServer05/ondemand/UFMLDPSDT10EP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 06
+rdc://RCServer05/ondemand/UFMLDPSDT10EP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 07
+rdc://RCServer05/ondemand/UFMLDPSDT10EP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 08
+rdc://RCServer05/ondemand/UFMLDPSDT10EP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 09
+rdc://RCServer05/ondemand/UFMLDPSDT10EP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 10
+rdc://RCServer05/ondemand/UFMLDPSDT10EP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 11
+rdc://RCServer05/ondemand/UFMLDPSDT10EP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 12
+rdc://RCServer05/ondemand/UFMLDPSDT10EP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 13
+rdc://RCServer05/ondemand/UFMLDPSDT10EP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 14
+rdc://RCServer05/ondemand/UFMLDPSDT10EP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 15
+rdc://RCServer05/ondemand/UFMLDPSDT10EP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 16
+rdc://RCServer05/ondemand/UFMLDPSDT10EP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 17
+rdc://RCServer05/ondemand/UFMLDPSDT10EP17.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 18
+rdc://RCServer05/ondemand/UFMLDPSDT10EP18.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 19
+rdc://RCServer05/ondemand/UFMLDPSDT10EP19.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 20
+rdc://RCServer05/ondemand/UFMLDPSDT10EP20.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 21
+rdc://RCServer05/ondemand/UFMLDPSDT10EP21.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 22
+rdc://RCServer05/ondemand/UFMLDPSDT10EP22.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 10 - EPISODIO 23
+rdc://RCServer05/ondemand/UFMLDPSDT10EP23.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 01
+rdc://RCServer05/ondemand/UFMLDPSDT11EP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 02
+rdc://RCServer05/ondemand/UFMLDPSDT11EP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 03
+rdc://RCServer05/ondemand/UFMLDPSDT11EP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 04
+rdc://RCServer05/ondemand/UFMLDPSDT11EP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 05
+rdc://RCServer05/ondemand/UFMLDPSDT11EP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 06
+rdc://RCServer05/ondemand/UFMLDPSDT11EP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 07
+rdc://RCServer05/ondemand/UFMLDPSDT11EP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 08
+rdc://RCServer05/ondemand/UFMLDPSDT11EP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 09
+rdc://RCServer05/ondemand/UFMLDPSDT11EP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 10
+rdc://RCServer05/ondemand/UFMLDPSDT11EP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 11
+rdc://RCServer05/ondemand/UFMLDPSDT11EP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 12
+rdc://RCServer05/ondemand/UFMLDPSDT11EP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 13
+rdc://RCServer05/ondemand/UFMLDPSDT11EP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 14
+rdc://RCServer05/ondemand/UFMLDPSDT11EP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 15
+rdc://RCServer05/ondemand/UFMLDPSDT11EP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 16
+rdc://RCServer05/ondemand/UFMLDPSDT11EP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 17
+rdc://RCServer05/ondemand/UFMLDPSDT11EP17.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 18
+rdc://RCServer05/ondemand/UFMLDPSDT11EP18.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 19
+rdc://RCServer05/ondemand/UFMLDPSDT11EP19.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 20
+rdc://RCServer05/ondemand/UFMLDPSDT11EP20.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 21
+rdc://RCServer05/ondemand/UFMLDPSDT11EP21.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 11 - EPISODIO 22
+rdc://RCServer05/ondemand/UFMLDPSDT11EP22.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 01
+rdc://RCServer05/ondemand/UFMLDPSDT12EP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 02
+rdc://RCServer05/ondemand/UFMLDPSDT12EP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 03
+rdc://RCServer05/ondemand/UFMLDPSDT12EP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 04
+rdc://RCServer05/ondemand/UFMLDPSDT12EP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 05
+rdc://RCServer05/ondemand/UFMLDPSDT12EP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 06
+rdc://RCServer05/ondemand/UFMLDPSDT12EP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 07
+rdc://RCServer05/ondemand/UFMLDPSDT12EP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 08
+rdc://RCServer05/ondemand/UFMLDPSDT12EP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 09
+rdc://RCServer05/ondemand/UFMLDPSDT12EP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 10
+rdc://RCServer05/ondemand/UFMLDPSDT12EP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 11
+rdc://RCServer05/ondemand/UFMLDPSDT12EP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 12
+rdc://RCServer05/ondemand/UFMLDPSDT12EP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 13
+rdc://RCServer05/ondemand/UFMLDPSDT12EP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 14
+rdc://RCServer05/ondemand/UFMLDPSDT12EP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 15
+rdc://RCServer05/ondemand/UFMLDPSDT12EP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 16
+rdc://RCServer05/ondemand/UFMLDPSDT12EP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 17
+rdc://RCServer05/ondemand/UFMLDPSDT12EP17.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 18
+rdc://RCServer05/ondemand/UFMLDPSDT12EP18.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 19
+rdc://RCServer05/ondemand/UFMLDPSDT12EP19.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 20
+rdc://RCServer05/ondemand/UFMLDPSDT12EP20.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 12 - EPISODIO 21
+rdc://RCServer05/ondemand/UFMLDPSDT12EP21.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 01
+rdc://RCServer05/ondemand/UFMLDPSDT13EP01.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 02
+rdc://RCServer05/ondemand/UFMLDPSDT13EP02.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 03
+rdc://RCServer05/ondemand/UFMLDPSDT13EP03.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 04
+rdc://RCServer05/ondemand/UFMLDPSDT13EP04.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 05
+rdc://RCServer05/ondemand/UFMLDPSDT13EP05.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 06
+rdc://RCServer05/ondemand/UFMLDPSDT13EP06.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 07
+rdc://RCServer09/ondemand/UFMLDPSDT13EP07.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 08
+rdc://RCServer09/ondemand/UFMLDPSDT13EP08.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 09
+rdc://RCServer09/ondemand/UFMLDPSDT13EP09.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 10
+rdc://RCServer09/ondemand/UFMLDPSDT13EP10.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 11
+rdc://RCServer09/ondemand/UFMLDPSDT13EP11.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 12
+rdc://RCServer09/ondemand/UFMLDPSDT13EP12.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 13
+rdc://RCServer09/ondemand/UFMLDPSDT13EP13.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 14
+rdc://RCServer09/ondemand/UFMLDPSDT13EP14.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 15
+rdc://RCServer09/ondemand/UFMLDPSDT13EP15.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 16
+rdc://RCServer09/ondemand/UFMLDPSDT13EP16.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 17
+rdc://RCServer09/ondemand/UFMLDPSDT13EP17.mp4
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/bIE2lZs.jpg" , 13 - EPISODIO 18
+rdc://RCServer09/ondemand/UFMLDPSDT13EP18.mp4
+#EXTINF:-1,Se Inscreva em Nosso Canal http://bit.ly/canalkodish
+rdc://

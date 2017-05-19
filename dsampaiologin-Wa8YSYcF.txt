@@ -1,0 +1,391 @@
+#EXTM3U
+#EXTINF:-1,A&E
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/87.ts
+#EXTINF:-1,ALL SPORTS
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/340.ts
+#EXTINF:-1,ANIMAL PLANET
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/86.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/295.ts
+#EXTINF:-1,APARECIDA
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/161.ts
+#EXTINF:-1,ARTE 1
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/160.ts
+#EXTINF:-1,AXN
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/85.ts
+#EXTINF:-1,AXN HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/504.ts
+#EXTINF:-1,BAND
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/88.ts
+#EXTINF:-1,BAND HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/296.ts
+#EXTINF:-1,BAND ALTERNATIVO
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/350.ts
+#EXTINF:-1,BAND SPORT
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/84.ts
+#EXTINF:-1,BAND SPORT HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/534.ts
+#EXTINF:-1,BAND NEWS
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/89.ts
+#EXTINF:-1,BIG BROTHER BRASIL HD - CAMERA 1
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/287.ts
+#EXTINF:-1,BIS
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/83.ts
+#EXTINF:-1,BIS HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/535.ts
+#EXTINF:-1,BOOMERANG
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/90.ts
+#EXTINF:-1,CANAL BRASIL
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/159.ts
+#EXTINF:-1,CANAL RURAL
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/158.ts
+#EXTINF:-1,CANCAO NOVA
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/157.ts
+#EXTINF:-1,CARTOON NETWORK
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/82.ts
+#EXTINF:-1,CINEMAX
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/91.ts
+#EXTINF:-1,CURTA!
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/155.ts
+#EXTINF:-1,COMBATE
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/135.ts
+#EXTINF:-1,COMBATE HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/136.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/156.ts
+#EXTINF:-1,CULTURA
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/81.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/96.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/80.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/288.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/79.ts
+#EXTINF:-1,DISCOVERY HOME & HELT
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/92.ts
+#EXTINF:-1,DISCOVERY H&H HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/297.ts
+#EXTINF:-1,DISCOVERY KIDS
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/93.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/94.ts
+#EXTINF:-1,DSICOVERY TURBO
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/95.ts
+#EXTINF:-1,DISCOVERY TURBO HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/298.ts
+#EXTINF:-1,DISCOVERY WORLD HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/537.ts
+#EXTINF:-1,DISNEY JR
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/97.ts
+#EXTINF:-1,DISNEY XD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/98.ts
+#EXTINF:-1,E!
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/99.ts
+#EXTINF:-1,EIMAX
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/100.ts
+#EXTINF:-1,EI MAXX HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/300.ts
+#EXTINF:-1,EIMAX 2
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/43.ts
+#EXTINF:-1,EI MAXX 2 HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/299.ts
+#EXTINF:-1,ESPN
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/77.ts
+#EXTINF:-1,ESPN HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/538.ts
+#EXTINF:-1,ESPN BRASIL
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/101.ts
+#EXTINF:-1,ESPN BRASIL HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/301.ts
+#EXTINF:-1,FISH TV
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/162.ts
+#EXTINF:-1,FOOD NETWORK
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/173.ts
+#EXTINF:-1,FOX
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/75.ts
+#EXTINF:-1,FOX HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/291.ts
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/302.ts
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/303.ts
+#EXTINF:-1,FOX LIFE
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/74.ts
+#EXTINF:-1,FOX LIFE HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/539.ts
+#EXTINF:-1,FOX SPORT
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/73.ts
+#EXTINF:-1,FOX SPORT HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/304.ts
+#EXTINF:-1,FOX SPORT 2
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/72.ts
+#EXTINF:-1,FOX SPORT 2 HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/518.ts
+#EXTINF:-1,FX
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/103.ts
+#EXTINF:-1,FX HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/513.ts
+#EXTINF:-1,FUTURA
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/102.ts
+#EXTINF:-1,GLOBO NEWS
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/71.ts
+#EXTINF:-1,GLOBO RJ HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/329.ts
+#EXTINF:-1,GLOBO MINAS
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/175.ts
+#EXTINF:-1,GLOBO MG HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/170.ts
+#EXTINF:-1,GLOBO SP
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/351.ts
+#EXTINF:-1,GLOBO SP HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/528.ts
+#EXTINF:-1,GLOOB
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/70.ts
+#EXTINF:-1,GNT
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/105.ts
+#EXTINF:-1,GNT HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/541.ts
+#EXTINF:-1,H2
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/106.ts
+#EXTINF:-1,H2 HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/523.ts
+#EXTINF:-1,HBO
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/69.ts
+#EXTINF:-1,HBO HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/306.ts
+#EXTINF:-1,HBO 2
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/107.ts
+#EXTINF:-1,HBO 2 HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/305.ts
+#EXTINF:-1,HISTORY
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/109.ts
+#EXTINF:-1,HBO FAMILY
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/108.ts
+#EXTINF:-1,HBO FAMILY HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/524.ts
+#EXTINF:-1,HBO PLUS
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/68.ts
+#EXTINF:-1,HBO PLUS HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/525.ts
+#EXTINF:-1,HBO PLUS E
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/352.ts
+#EXTINF:-1,HBO SIGNATURE
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/67.ts
+#EXTINF:-1,HISTORY HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/290.ts
+#EXTINF:-1,I-SAT
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/166.ts
+#EXTINF:-1,ID
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/110.ts
+#EXTINF:-1,ID HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/508.ts
+#EXTINF:-1,LIFETIME
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/152.ts
+#EXTINF:-1,LIVRE TV
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/342.ts
+#EXTINF:-1,MAIS GLOBOSAT
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/151.ts
+#EXTINF:-1,MAX
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/111.ts
+#EXTINF:-1,MAX PRIME
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/112.ts
+#EXTINF:-1,MAX PRIME E
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/353.ts
+#EXTINF:-1,MAX PRIME PLUS
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/172.ts
+#EXTINF:-1,MAX UP
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/66.ts
+#EXTINF:-1,MEGAPIX
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/113.ts
+#EXTINF:-1,MEGAPIX HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/505.ts
+#EXTINF:-1,MIX TV
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/341.ts
+#EXTINF:-1,MULTISHOW
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/114.ts
+#EXTINF:-1,MULTISHOW HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/514.ts
+#EXTINF:-1,MUSIC BOX BRASIL
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/150.ts
+#EXTINF:-1,MTV
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/65.ts
+#EXTINF:-1,NAT GEO
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/115.ts
+#EXTINF:-1,NAT GEO HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/307.ts
+#EXTINF:-1,NAT GEO WILD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/354.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/520.ts
+#EXTINF:-1,NICK
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/116.ts
+#EXTINF:-1,NICK JR.
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/117.ts
+#EXTINF:-1,NHK
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/355.ts
+#EXTINF:-1,NBR
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/149.ts
+#EXTINF:-1,NOVO TEMPO
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/171.ts
+#EXTINF:-1,OFF
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/64.ts
+#EXTINF:-1,OFF HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/529.ts
+#EXTINF:-1,PARAMOUNT
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/63.ts
+#EXTINF:-1,PARAMOUNT HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/543.ts
+#EXTINF:-1,PLAYBOY
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/62.ts
+#EXTINF:-1,PLAY TV
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/148.ts
+#EXTINF:-1,PREMIERE CLUBES
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/123.ts
+#EXTINF:-1,PREMIERE CLUBES HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/312.ts
+#EXTINF:-1,PREMIERE 2
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/118.ts
+#EXTINF:-1,PREMIERE 2 HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/308.ts
+#EXTINF:-1,PREMIERE 3
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/119.ts
+#EXTINF:-1,PREMIERE 3 HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/309.ts
+#EXTINF:-1,PREMIERE 4
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/120.ts
+#EXTINF:-1,PREMIERE 4 HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/310.ts
+#EXTINF:-1,PREMIERE 5
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/59.ts
+#EXTINF:-1,PREMIERE 5 HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/311.ts
+#EXTINF:-1,PREMIERE 6
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/61.ts
+#EXTINF:-1,PREMIERE 7
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/121.ts
+#EXTINF:-1,PREMIERE 8
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/60.ts
+#EXTINF:-1,PREMIERE 9
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/122.ts
+#EXTINF:-1,PRIME BOX BRASIL
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/147.ts
+#EXTINF:-1,RBI
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/178.ts
+#EXTINF:-1,RBS TV PORTO ALEGRE
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/179.ts
+#EXTINF:-1,RECORD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/58.ts
+#EXTINF:-1,RECORD HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/313.ts
+#EXTINF:-1,RECORD NEWS
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/57.ts
+#EXTINF:-1,REDE BRASIL
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/146.ts
+#EXTINF:-1,REDE TV
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/124.ts
+#EXTINF:-1,REDE VIDA
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/145.ts
+#EXTINF:-1,RIT
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/180.ts
+#EXTINF:-1,SBT
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/47.ts
+#EXTINF:-1,SBT HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/314.ts
+#EXTINF:-1,SEXY HOT
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/55.ts
+#EXTINF:-1,SEXTREME
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/56.ts
+#EXTINF:-1,SIC INTERNACIONAL
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/144.ts
+#EXTINF:-1,SONY
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/125.ts
+#EXTINF:-1,SONY HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/517.ts
+#EXTINF:-1,SPACE
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/126.ts
+#EXTINF:-1,SPACE HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/512.ts
+#EXTINF:-1,SPORTV
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/127.ts
+#EXTINF:-1,SPORTV HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/317.ts
+#EXTINF:-1,SPORTV 2
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/54.ts
+#EXTINF:-1,SPORTV 2 HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/315.ts
+#EXTINF:-1,SPORTV 3
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/128.ts
+#EXTINF:-1,SPORTV 3 HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/316.ts
+#EXTINF:-1,SPORTV ALTERNATIVO
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/142.ts
+#EXTINF:-1,SPORTV 2 ALTERNATIVO
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/143.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/129.ts
+#EXTINF:-1,SYFY
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/141.ts
+#EXTINF:-1,TBS
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/130.ts
+#EXTINF:-1,TCM
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/41.ts
+#EXTINF:-1,TELECINE PREMIUM
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/51.ts
+#EXTINF:-1,TELECINE PREMIUM HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/321.ts
+#EXTINF:-1,TELECINE ACTION
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/53.ts
+#EXTINF:-1,TELECINE ACTION HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/318.ts
+#EXTINF:-1,TELECINE PIPOCA
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/132.ts
+#EXTINF:-1,TELECINE PIPOCA HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/320.ts
+#EXTINF:-1,TELECINE TOUCH
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/50.ts
+#EXTINF:-1,TELECINE TOUCH HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/521.ts
+#EXTINF:-1,TELECINE FUN
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/131.ts
+#EXTINF:-1,TELECINE FUN HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/319.ts
+#EXTINF:-1,TELECINE CULT
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/52.ts
+#EXTINF:-1,TERRA VIVA
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/181.ts
+#EXTINF:-1,TLC
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/133.ts
+#EXTINF:-1,TLC HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/522.ts
+#EXTINF:-1,TNT
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/49.ts
+#EXTINF:-1,TNT HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/322.ts
+#EXTINF:-1,TNT SERIES
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/140.ts
+#EXTINF:-1,TNT SERIES HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/545.ts
+#EXTINF:-1,TOONCAST
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/139.ts
+#EXTINF:-1,TRUTV
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/138.ts
+#EXTINF:-1,TVE
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/357.ts
+#EXTINF:-1,TV SAN
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/580.ts
+#EXTINF:-1,UNIVERSAL
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/48.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/546.ts
+#EXTINF:-1,VIVA
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/46.ts
+#EXTINF:-1,VIVA HD
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/515.ts
+#EXTINF:-1,VH1 MEGA HITS
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/165.ts
+#EXTINF:-1,WARNER
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/45.ts
+#EXTINF:-1,WOOHOO
+http://iptv.servidorfull.com:8081/live/dsampaiom/dsampaiom/134.ts

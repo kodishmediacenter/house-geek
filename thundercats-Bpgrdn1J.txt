@@ -1,0 +1,54 @@
+#EXTM3U
+
+#EXTINF:0,Episodio 01 - Pressagios (Parte 1) 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP01.mp4
+#EXTINF:0,Episodio 02 - Pressagios (Parte 2) 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP02.mp4
+#EXTINF:0,Episodio 03 - Ramlak Ressurge 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP03.mp4
+#EXTINF:0,Episodio 04 - A Canção dos Petalars 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP04.mp4
+#EXTINF:0,Episodio 05 - Velhos Amigos 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP05.mp4
+#EXTINF:0,Episodio 06 - A Jornada à Torre da Justiça 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP06.mp4
+#EXTINF:0,Episodio 07 - O Legado 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP07.mp4
+#EXTINF:0,Episodio 08 - O Guerreiro e o Andarilho 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP08.mp4
+#EXTINF:0,Episodio 09 - Berbils 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP09.mp4
+#EXTINF:0,Episodio 10 - Visão Além do Alcance 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP10.mp4
+#EXTINF:0,Episodio 11 - A Floresta de Magi Oar 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP11.mp4
+#EXTINF:0,Episodio 12 - O Plano Astral 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP12.mp4
+#EXTINF:0,Episodio 13 - Entre Irmãos  
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP13.mp4
+#EXTINF:0,Episodio 14 - Novas Alianças 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP14.mp4
+#EXTINF:0,Episodio 15 - Provas de Lion-O - Parte Um 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP15.mp4
+#EXTINF:0,Episodio 16 - Provas de Lion-O - Parte Dois 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP16.mp4
+#EXTINF:0,Episodio 17 - O Filho da Terra 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP17.mp4
+#EXTINF:0,Episodio 18 - Sobrevivência dos mais Fortes 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP18.mp4
+#EXTINF:0,Episodio 19 - A Cova  
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP19.mp4
+#EXTINF:0,Episodio 20 - A Maldição de Ratilla 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP20.mp4
+#EXTINF:0,Episodio 21 - O Nascimento da Espada 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP21.mp4
+#EXTINF:0,Episodio 22 - A Bolsa Eterna  
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP22.mp4
+#EXTINF:0,Episodio 23 - Receita para o Desastre  
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP23.mp4
+#EXTINF:0,Episodio 24 - O Capturador de Almas 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP24.mp4
+#EXTINF:0,Episodio 25 - O Que Esta Acima, Parte 1 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP25.mp4
+#EXTINF:0,Episodio 26 - O Que Esta Acima, Parte 2 
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer03/ondemand/THUNDCTSRMKEP26.mp4

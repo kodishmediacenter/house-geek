@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP01
+rdc://RCServer09/ondemand/SCBDMISAEP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP02
+rdc://RCServer09/ondemand/SCBDMISAEP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP03
+rdc://RCServer09/ondemand/SCBDMISAEP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP04
+rdc://RCServer09/ondemand/SCBDMISAEP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP05
+rdc://RCServer09/ondemand/SCBDMISAEP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP06
+rdc://RCServer09/ondemand/SCBDMISAEP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP07
+rdc://RCServer09/ondemand/SCBDMISAEP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP08
+rdc://RCServer09/ondemand/SCBDMISAEP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP09
+rdc://RCServer09/ondemand/SCBDMISAEP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP10
+rdc://RCServer09/ondemand/SCBDMISAEP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP11
+rdc://RCServer09/ondemand/SCBDMISAEP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP12
+rdc://RCServer09/ondemand/SCBDMISAEP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP13
+rdc://RCServer09/ondemand/SCBDMISAEP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP14
+rdc://RCServer09/ondemand/SCBDMISAEP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP15
+rdc://RCServer09/ondemand/SCBDMISAEP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP16
+rdc://RCServer09/ondemand/SCBDMISAEP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP17
+rdc://RCServer09/ondemand/SCBDMISAEP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP18
+rdc://RCServer09/ondemand/SCBDMISAEP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP19
+rdc://RCServer09/ondemand/SCBDMISAEP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP20
+rdc://RCServer09/ondemand/SCBDMISAEP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP21
+rdc://RCServer09/ondemand/SCBDMISAEP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP22
+rdc://RCServer09/ondemand/SCBDMISAEP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP23
+rdc://RCServer09/ondemand/SCBDMISAEP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP24
+rdc://RCServer09/ondemand/SCBDMISAEP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP25
+rdc://RCServer09/ondemand/SCBDMISAEP25.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP26
+rdc://RCServer09/ondemand/SCBDMISAEP26.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP27
+rdc://RCServer09/ondemand/SCBDMISAEP27.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP28
+rdc://RCServer09/ondemand/SCBDMISAEP28.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP29
+rdc://RCServer09/ondemand/SCBDMISAEP29.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP30
+rdc://RCServer09/ondemand/SCBDMISAEP30.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP31
+rdc://RCServer09/ondemand/SCBDMISAEP31.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP32
+rdc://RCServer09/ondemand/SCBDMISAEP32.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP33
+rdc://RCServer09/ondemand/SCBDMISAEP33.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP34
+rdc://RCServer09/ondemand/SCBDMISAEP34.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP35
+rdc://RCServer09/ondemand/SCBDMISAEP35.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP36
+rdc://RCServer09/ondemand/SCBDMISAEP36.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP37
+rdc://RCServer09/ondemand/SCBDMISAEP37.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP38
+rdc://RCServer09/ondemand/SCBDMISAEP38.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP39
+rdc://RCServer09/ondemand/SCBDMISAEP39.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP40
+rdc://RCServer09/ondemand/SCBDMISAEP40.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP41
+rdc://RCServer09/ondemand/SCBDMISAEP41.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP42
+rdc://RCServer09/ondemand/SCBDMISAEP42.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP43
+rdc://RCServer09/ondemand/SCBDMISAEP43.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP44
+rdc://RCServer09/ondemand/SCBDMISAEP44.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP45
+rdc://RCServer09/ondemand/SCBDMISAEP45.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP46
+rdc://RCServer09/ondemand/SCBDMISAEP46.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP47
+rdc://RCServer09/ondemand/SCBDMISAEP47.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP48
+rdc://RCServer09/ondemand/SCBDMISAEP48.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP49
+rdc://RCServer09/ondemand/SCBDMISAEP49.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP50
+rdc://RCServer09/ondemand/SCBDMISAEP50.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP51
+rdc://RCServer09/ondemand/SCBDMISAEP51.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/KU8Ofs" group-title="Scooby-Doo Mistério S/A",EP52
+rdc://RCServer09/ondemand/SCBDMISAEP52.mp4

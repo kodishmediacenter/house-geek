@@ -1,0 +1,15 @@
+<layouttype>thumbnail</layouttype>
+ 
+<item>
+<title>MG MÚSICAS</title>
+<utube>UCwcULgXf7TkS75iw1yT8IOA</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NoCopyrightSounds</title>
+<utube>UC_aEa8K-EOJ3D6gOs7HcyNg</utube>
+<thumbnail>https://yt3.ggpht.com/-p-S-magPRTs/AAAAAAAAAAI/AAAAAAAAAAA/VkK9BqrRyuU/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>

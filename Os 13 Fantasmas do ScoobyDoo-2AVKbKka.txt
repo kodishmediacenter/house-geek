@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/I0T2xu" group-title="Os 13 Fantasmas do Scooby-Doo",EP01
+rdc://RCServer09/ondemand/O13FNTSDSCBDEP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/I0T2xu" group-title="Os 13 Fantasmas do Scooby-Doo",EP02
+rdc://RCServer09/ondemand/O13FNTSDSCBDEP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/I0T2xu" group-title="Os 13 Fantasmas do Scooby-Doo",EP03
+rdc://RCServer09/ondemand/O13FNTSDSCBDEP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/I0T2xu" group-title="Os 13 Fantasmas do Scooby-Doo",EP04
+rdc://RCServer09/ondemand/O13FNTSDSCBDEP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/I0T2xu" group-title="Os 13 Fantasmas do Scooby-Doo",EP05
+rdc://RCServer09/ondemand/O13FNTSDSCBDEP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/I0T2xu" group-title="Os 13 Fantasmas do Scooby-Doo",EP06
+rdc://RCServer09/ondemand/O13FNTSDSCBDEP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/I0T2xu" group-title="Os 13 Fantasmas do Scooby-Doo",EP07
+rdc://RCServer09/ondemand/O13FNTSDSCBDEP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/I0T2xu" group-title="Os 13 Fantasmas do Scooby-Doo",EP08
+rdc://RCServer09/ondemand/O13FNTSDSCBDEP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/I0T2xu" group-title="Os 13 Fantasmas do Scooby-Doo",EP09
+rdc://RCServer09/ondemand/O13FNTSDSCBDEP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/I0T2xu" group-title="Os 13 Fantasmas do Scooby-Doo",EP10
+rdc://RCServer09/ondemand/O13FNTSDSCBDEP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/I0T2xu" group-title="Os 13 Fantasmas do Scooby-Doo",EP11
+rdc://RCServer09/ondemand/O13FNTSDSCBDEP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/I0T2xu" group-title="Os 13 Fantasmas do Scooby-Doo",EP12
+rdc://RCServer09/ondemand/O13FNTSDSCBDEP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/I0T2xu" group-title="Os 13 Fantasmas do Scooby-Doo",EP13
+rdc://RCServer09/ondemand/O13FNTSDSCBDEP13.mp4
