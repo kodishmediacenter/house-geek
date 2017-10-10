@@ -1,0 +1,513 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="►►►  Canais Tv Nacionais  ◄◄◄" tvg-logo="" group-title="",►►►  Canais Tv Nacionais  ◄◄◄
+http://zonanorteiptv.ddns.net:8000/live/username/password/876.m3u8
+#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png/medium" group-title="PORTUGAL",RTP 1
+http://zonanorteiptv.ddns.net:8000/live/username/password/88.m3u8
+#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1 ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png/medium" group-title="PORTUGAL",RTP 1 ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3233.m3u8
+#EXTINF:-1 tvg-ID="RTP 1 HD" tvg-name="RTP 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qpvqrt1438183972.png/medium" group-title="PORTUGAL",RTP 1 HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/151.m3u8
+#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP1 FULL HD" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png/medium" group-title="PORTUGAL",RTP1 FULL HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/4027.m3u8
+#EXTINF:-1 tvg-ID="RTP 2" tvg-name="RTP 2" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png/medium" group-title="PORTUGAL",RTP 2
+http://zonanorteiptv.ddns.net:8000/live/username/password/87.m3u8
+#EXTINF:-1 tvg-ID="RTP 2" tvg-name="RTP 2 ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png/medium" group-title="PORTUGAL",RTP 2 ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3232.m3u8
+#EXTINF:-1 tvg-ID="RTP 2 FHD" tvg-name="RTP 2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png/medium" group-title="PORTUGAL",RTP 2 HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/152.m3u8
+#EXTINF:-1 tvg-ID="RTP2" tvg-name="RTP 2 FULL HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png/medium" group-title="PORTUGAL",RTP 2 FULL HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/4894.m3u8
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC" tvg-logo="http://www.thelogodb.com/images/media/logo/wvwtwt1435096287.png/medium" group-title="PORTUGAL",SIC
+http://zonanorteiptv.ddns.net:8000/live/username/password/86.m3u8
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/wvwtwt1435096287.png/medium" group-title="PORTUGAL",SIC ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3234.m3u8
+#EXTINF:-1 tvg-ID="SIC FHD" tvg-name="SIC HD" tvg-logo="http://www.thelogodb.com/images/media/logo/wvwtwt1435096287.png/medium" group-title="PORTUGAL",SIC HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/153.m3u8
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC FULL HD" tvg-logo="http://www.thelogodb.com/images/media/logo/wvwtwt1435096287.png/medium" group-title="PORTUGAL",SIC FULL HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/4029.m3u8
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png/medium" group-title="PORTUGAL",TVI
+http://zonanorteiptv.ddns.net:8000/live/username/password/85.m3u8
+#EXTINF:-1 tvg-ID="TVI.pt" tvg-name="TVI ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png/medium" group-title="PORTUGAL",TVI ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3231.m3u8
+#EXTINF:-1 tvg-ID="TVI.pt" tvg-name="TVI HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium" group-title="PORTUGAL",TVI HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/154.m3u8
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI FULL HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png/medium" group-title="PORTUGAL",TVI FULL HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/4028.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV  FATIMA" tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-grelha/maio2017/fatimatv-logo/large_fatimatv.jpg" group-title="PORTUGAL",TV  FATIMA
+http://zonanorteiptv.ddns.net:8000/live/username/password/4832.m3u8
+#EXTINF:-1 tvg-ID="TVI24.pt" tvg-name="TVI 24" tvg-logo="http://www.thelogodb.com/images/media/logo/rspyuw1433341651.png/medium" group-title="PORTUGAL",TVI 24
+http://zonanorteiptv.ddns.net:8000/live/username/password/83.m3u8
+#EXTINF:-1 tvg-ID="TVI Ficção" tvg-name="TVI FICÇAO" tvg-logo="http://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png/medium" group-title="PORTUGAL",TVI FICÇAO
+http://zonanorteiptv.ddns.net:8000/live/username/password/80.m3u8
+#EXTINF:-1 tvg-ID="TVIReal.pt" tvg-name="TVI REALITY" tvg-logo="http://213.32.2.159/LOGOSPT/TVI%20REALITY.png" group-title="PORTUGAL",TVI REALITY
+http://zonanorteiptv.ddns.net:8000/live/username/password/81.m3u8
+#EXTINF:-1 tvg-ID="TVI Reality: Mosaico" tvg-name="TVI REALITY MOSAICO" tvg-logo="http://213.32.2.159/LOGOSPT/TVI%20REALITY.png" group-title="PORTUGAL",TVI REALITY MOSAICO
+http://zonanorteiptv.ddns.net:8000/live/username/password/157.m3u8
+#EXTINF:-1 tvg-ID="TVI Reality: Câmara Exclusiva" tvg-name="TVI REALITY CAMARA 1" tvg-logo="http://213.32.2.159/LOGOSPT/TVI%20REALITY.png" group-title="PORTUGAL",TVI REALITY CAMARA 1
+http://zonanorteiptv.ddns.net:8000/live/username/password/541.m3u8
+#EXTINF:-1 tvg-ID="TVI Reality: Câmara Exclusiva" tvg-name="TVI REALITY CAMARA 2" tvg-logo="http://213.32.2.159/LOGOSPT/TVI%20REALITY.png" group-title="PORTUGAL",TVI REALITY CAMARA 2
+http://zonanorteiptv.ddns.net:8000/live/username/password/542.m3u8
+#EXTINF:-1 tvg-ID="TVI Reality: Câmara Exclusiva" tvg-name="TVI REALITY CAMARA 3" tvg-logo="http://213.32.2.159/LOGOSPT/TVI%20REALITY.png" group-title="PORTUGAL",TVI REALITY CAMARA 3
+http://zonanorteiptv.ddns.net:8000/live/username/password/543.m3u8
+#EXTINF:-1 tvg-ID="TVI Reality: Câmara Exclusiva" tvg-name="TVI REALITY CAMARA 4" tvg-logo="http://213.32.2.159/LOGOSPT/TVI%20REALITY.png" group-title="PORTUGAL",TVI REALITY CAMARA 4
+http://zonanorteiptv.ddns.net:8000/live/username/password/156.m3u8
+#EXTINF:-1 tvg-ID="SICN" tvg-name="SIC NOTICIAS" tvg-logo="http://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium" group-title="PORTUGAL",SIC NOTICIAS
+http://zonanorteiptv.ddns.net:8000/live/username/password/82.m3u8
+#EXTINF:-1 tvg-ID="sicnoticias.pt" tvg-name="SIC NOTICIAS HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium" group-title="PORTUGAL",SIC NOTICIAS HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/2745.m3u8
+#EXTINF:-1 tvg-ID="sicradical.pt" tvg-name="SIC RADICAL" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png/medium" group-title="PORTUGAL",SIC RADICAL
+http://zonanorteiptv.ddns.net:8000/live/username/password/79.m3u8
+#EXTINF:-1 tvg-ID="sicradical.pt" tvg-name="SIC RADICAL HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png/medium" group-title="PORTUGAL",SIC RADICAL HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/2014.m3u8
+#EXTINF:-1 tvg-ID="SICM" tvg-name="SIC MULHER" tvg-logo="http://www.thelogodb.com/images/media/logo/suyuur1436891341.png/medium" group-title="PORTUGAL",SIC MULHER
+http://zonanorteiptv.ddns.net:8000/live/username/password/155.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SIC MULHER HD" tvg-logo="" group-title="PORTUGAL",SIC MULHER HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/6938.m3u8
+#EXTINF:-1 tvg-ID="SICCARAS" tvg-name="SIC CARAS" tvg-logo="http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png/medium" group-title="PORTUGAL",SIC CARAS
+http://zonanorteiptv.ddns.net:8000/live/username/password/78.m3u8
+#EXTINF:-1 tvg-ID="SicCaras.pt" tvg-name="SIC CARAS HD" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/SIC%20CARAS.png" group-title="PORTUGAL",SIC CARAS HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/3371.m3u8
+#EXTINF:-1 tvg-ID="RTP3" tvg-name="RTP 3" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium" group-title="PORTUGAL",RTP 3
+http://zonanorteiptv.ddns.net:8000/live/username/password/84.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTP3 HD" tvg-logo="" group-title="PORTUGAL",RTP3 HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/6940.m3u8
+#EXTINF:-1 tvg-ID="RTPM" tvg-name="RTP MEMORIA" tvg-logo="http://www.thelogodb.com/images/media/logo/rpquyv1446848022.png/medium" group-title="PORTUGAL",RTP MEMORIA
+http://zonanorteiptv.ddns.net:8000/live/username/password/73.m3u8
+#EXTINF:-1 tvg-ID="RTPMAD" tvg-name="RTP MADEIRA" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png/medium" group-title="PORTUGAL",RTP MADEIRA
+http://zonanorteiptv.ddns.net:8000/live/username/password/72.m3u8
+#EXTINF:-1 tvg-ID="RTPAcores.pt" tvg-name="RTP AÇORES" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png/medium" group-title="PORTUGAL",RTP AÇORES
+http://zonanorteiptv.ddns.net:8000/live/username/password/71.m3u8
+#EXTINF:-1 tvg-ID="RTPA" tvg-name="RTP ÃFRICA" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png/medium" group-title="PORTUGAL",RTP ÃFRICA
+http://zonanorteiptv.ddns.net:8000/live/username/password/158.m3u8
+#EXTINF:-1 tvg-ID="CMTV" tvg-name="CMTV" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png/medium" group-title="PORTUGAL",CMTV
+http://zonanorteiptv.ddns.net:8000/live/username/password/69.m3u8
+#EXTINF:-1 tvg-ID="CMTV" tvg-name="CMTV HD ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png/medium" group-title="PORTUGAL",CMTV HD ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/7997.m3u8
+#EXTINF:-1 tvg-ID="CMTV" tvg-name="CMTV HD" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png/medium" group-title="PORTUGAL",CMTV HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/2220.m3u8
+#EXTINF:-1 tvg-ID="PORTO" tvg-name="PORTO CANAL" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png/medium" group-title="PORTUGAL",PORTO CANAL
+http://zonanorteiptv.ddns.net:8000/live/username/password/70.m3u8
+#EXTINF:-1 tvg-ID="PORTO" tvg-name="PORTO CANAL HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png/medium" group-title="PORTUGAL",PORTO CANAL HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/4895.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="KURIAKOS TV" tvg-logo="http://151.80.40.102/FILMES/clasicos/KURIAKOS.png" group-title="PORTUGAL",KURIAKOS TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/3861.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL ANGELUS TV" tvg-logo="http://151.80.40.102/FILMES/Angelus%20TV.jpg" group-title="PORTUGAL",CANAL ANGELUS TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/4893.m3u8
+#EXTINF:-1 tvg-ID="CanalQ.pt" tvg-name="CANAL Q" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqqwq1436891473.png/medium" group-title="PORTUGAL",CANAL Q
+http://zonanorteiptv.ddns.net:8000/live/username/password/89.m3u8
+#EXTINF:-1 tvg-ID="ARTV.pt" tvg-name="AR TV" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/artv.jpg" group-title="PORTUGAL",AR TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/1981.m3u8
+#EXTINF:-1 tvg-ID="Localvisao.pt" tvg-name="LOCALVISAO TV HD" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/LOCALVISAO%20TV%20HD.jpg" group-title="PORTUGAL",LOCALVISAO TV HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/1978.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Canais Tv Internacionais ◄◄◄" tvg-logo="" group-title="",►►► Canais Tv Internacionais ◄◄◄
+http://zonanorteiptv.ddns.net:8000/live/username/password/884.m3u8
+#EXTINF:-1 tvg-ID="RECORDNEWS" tvg-name="RECORD NEWS" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/Record%20News.png" group-title="PORTUGAL",RECORD NEWS
+http://zonanorteiptv.ddns.net:8000/live/username/password/483.m3u8
+#EXTINF:-1 tvg-ID="TVR" tvg-name="TV RECORD" tvg-logo="http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png/medium" group-title="PORTUGAL",TV RECORD
+http://zonanorteiptv.ddns.net:8000/live/username/password/77.m3u8
+#EXTINF:-1 tvg-ID="TVR" tvg-name="TV RECORD HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png/medium" group-title="PORTUGAL",TV RECORD HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/478.m3u8
+#EXTINF:-1 tvg-ID="Globo Premium" tvg-name="TV GLOBO PREMIUM" tvg-logo="http://www.thelogodb.com/images/media/logo/vqxxxt1436898683.png/medium" group-title="PORTUGAL",TV GLOBO PREMIUM
+http://zonanorteiptv.ddns.net:8000/live/username/password/75.m3u8
+#EXTINF:-1 tvg-ID="Globo Premium" tvg-name="GLOBO PREMIUM HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vqxxxt1436898683.png/medium" group-title="PORTUGAL",GLOBO PREMIUM HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/4896.m3u8
+#EXTINF:-1 tvg-ID="TVGlobo.pt" tvg-name="TV GLOBO PORTUGAL" tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png/medium" group-title="PORTUGAL",TV GLOBO PORTUGAL
+http://zonanorteiptv.ddns.net:8000/live/username/password/74.m3u8
+#EXTINF:-1 tvg-ID="Rede TV [Brazil]" tvg-name="REDE TV" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/Rede%20TV.png" group-title="PORTUGAL",REDE TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/482.m3u8
+#EXTINF:-1 tvg-ID="TVE24" tvg-name="TVE 24 HORAS" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/24horas.png" group-title="PORTUGAL",TVE 24 HORAS
+http://zonanorteiptv.ddns.net:8000/live/username/password/699.m3u8
+#EXTINF:-1 tvg-ID="TVEINT" tvg-name="TVE INTERNACIONAL" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tveinternacional.png" group-title="PORTUGAL",TVE INTERNACIONAL
+http://zonanorteiptv.ddns.net:8000/live/username/password/700.m3u8
+#EXTINF:-1 tvg-ID="TV Galicia" tvg-name="TV GALICIA" tvg-logo="https://www.thelogodb.com/images/media/logo/wwvxvw1435103671.png/medium" group-title="PORTUGAL",TV GALICIA
+http://zonanorteiptv.ddns.net:8000/live/username/password/1065.m3u8
+#EXTINF:-1 tvg-ID="TCVINT" tvg-name="TCV INTERNACIONAL" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/tcv.png" group-title="PORTUGAL",TCV INTERNACIONAL
+http://zonanorteiptv.ddns.net:8000/live/username/password/2012.m3u8
+#EXTINF:-1 tvg-ID="TPA Internacional" tvg-name="TPA INTERNACIONAL" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/tpa%201.png" group-title="PORTUGAL",TPA INTERNACIONAL
+http://zonanorteiptv.ddns.net:8000/live/username/password/3235.m3u8
+#EXTINF:-1 tvg-ID="SUPER RTL" tvg-name="SUPER RTL" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/super.rtl.png" group-title="PORTUGAL",SUPER RTL
+http://zonanorteiptv.ddns.net:8000/live/username/password/2013.m3u8
+#EXTINF:-1 tvg-ID="RTL" tvg-name="RTL" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/RTL%20HD.jpg" group-title="PORTUGAL",RTL
+http://zonanorteiptv.ddns.net:8000/live/username/password/2015.m3u8
+#EXTINF:-1 tvg-ID="FRANCE24FR" tvg-name="FRANCE 24" tvg-logo="https://www.thelogodb.com/images/media/logo/ywxyxx1434552642.png/medium" group-title="PORTUGAL",FRANCE 24
+http://zonanorteiptv.ddns.net:8000/live/username/password/1068.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Canais Tv Series e Filmes ◄◄◄" tvg-logo="" group-title="",►►► Canais Tv Series e Filmes ◄◄◄
+http://zonanorteiptv.ddns.net:8000/live/username/password/878.m3u8
+#EXTINF:-1 tvg-ID="TVC1" tvg-name="TVCINE 1" tvg-logo="http://www.thelogodb.com/images/media/logo/tswwqy1436896045.png/medium" group-title="PORTUGAL",TVCINE 1
+http://zonanorteiptv.ddns.net:8000/live/username/password/48.m3u8
+#EXTINF:-1 tvg-ID="TVC1" tvg-name="TVCINE 1 HD ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/tswwqy1436896045.png/medium" group-title="PORTUGAL",TVCINE 1 HD ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3224.m3u8
+#EXTINF:-1 tvg-ID="TVC 1 HD" tvg-name="TVCINE 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/tswwqy1436896045.png/medium" group-title="PORTUGAL",TVCINE 1 HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/201.m3u8
+#EXTINF:-1 tvg-ID="TVC2" tvg-name="TVCINE 2" tvg-logo="http://www.thelogodb.com/images/media/logo/qrxsyy1436896058.png/medium" group-title="PORTUGAL",TVCINE 2
+http://zonanorteiptv.ddns.net:8000/live/username/password/47.m3u8
+#EXTINF:-1 tvg-ID="TVC2" tvg-name="TVCINE 2 HD ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/qrxsyy1436896058.png/medium" group-title="PORTUGAL",TVCINE 2 HD ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3223.m3u8
+#EXTINF:-1 tvg-ID="TVC2" tvg-name="TVCINE 2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qrxsyy1436896058.png/medium" group-title="PORTUGAL",TVCINE 2 HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/205.m3u8
+#EXTINF:-1 tvg-ID="TVC3" tvg-name="TVCINE 3" tvg-logo="http://www.thelogodb.com/images/media/logo/tqtpqv1436896067.png/medium" group-title="PORTUGAL",TVCINE 3
+http://zonanorteiptv.ddns.net:8000/live/username/password/46.m3u8
+#EXTINF:-1 tvg-ID="TVC3" tvg-name="TVCINE 3 HD ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/tqtpqv1436896067.png/medium" group-title="PORTUGAL",TVCINE 3 HD ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3222.m3u8
+#EXTINF:-1 tvg-ID="TVC3" tvg-name="TVCINE 3 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/tqtpqv1436896067.png/medium" group-title="PORTUGAL",TVCINE 3 HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/203.m3u8
+#EXTINF:-1 tvg-ID="TVC4" tvg-name="TVCINE 4" tvg-logo="http://www.thelogodb.com/images/media/logo/vwwvss1436896140.png/medium" group-title="PORTUGAL",TVCINE 4
+http://zonanorteiptv.ddns.net:8000/live/username/password/45.m3u8
+#EXTINF:-1 tvg-ID="TVC4" tvg-name="TVCINE 4 HD ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/vwwvss1436896140.png/medium" group-title="PORTUGAL",TVCINE 4 HD ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3221.m3u8
+#EXTINF:-1 tvg-ID="TVC4" tvg-name="TVCINE 4 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vwwvss1436896140.png/medium" group-title="PORTUGAL",TVCINE 4 HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/204.m3u8
+#EXTINF:-1 tvg-ID="TV CINE SERIES HD (LOW BITRATE)" tvg-name="TV SERIES" tvg-logo="http://www.thelogodb.com/images/media/logo/tvutvp1436848633.png/medium" group-title="PORTUGAL",TV SERIES
+http://zonanorteiptv.ddns.net:8000/live/username/password/477.m3u8
+#EXTINF:-1 tvg-ID="TVSERIES" tvg-name="TV SERIES HD" tvg-logo="http://www.thelogodb.com/images/media/logo/tvutvp1436848633.png/medium" group-title="PORTUGAL",TV SERIES HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/44.m3u8
+#EXTINF:-1 tvg-ID="HOLLY" tvg-name="HOLLYWOOD" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqyuy1433356382.png/medium" group-title="PORTUGAL",HOLLYWOOD
+http://zonanorteiptv.ddns.net:8000/live/username/password/39.m3u8
+#EXTINF:-1 tvg-ID="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qtrwyq1436883840.png/medium" group-title="PORTUGAL",HOLLYWOOD HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/171.m3u8
+#EXTINF:-1 tvg-ID="Cinemundo" tvg-name="CINEMUNDO" tvg-logo="http://www.thelogodb.com/images/media/logo/yxtstt1436845865.png/medium" group-title="PORTUGAL",CINEMUNDO
+http://zonanorteiptv.ddns.net:8000/live/username/password/33.m3u8
+#EXTINF:-1 tvg-ID="SyFy" tvg-name="SYFY" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/SyFy.png" group-title="PORTUGAL",SYFY
+http://zonanorteiptv.ddns.net:8000/live/username/password/31.m3u8
+#EXTINF:-1 tvg-ID="SyFy" tvg-name="SYFY HD" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/SyFy.png" group-title="PORTUGAL",SYFY HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/501.m3u8
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="http://www.thelogodb.com/images/media/logo/txvtyy1441049730.png/medium" group-title="PORTUGAL",AMC
+http://zonanorteiptv.ddns.net:8000/live/username/password/32.m3u8
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/amc.png" group-title="PORTUGAL",AMC HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/698.m3u8
+#EXTINF:-1 tvg-ID="SUNDANCE" tvg-name="SUNDANCE HD" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/SUNDANCE.png" group-title="PORTUGAL",SUNDANCE HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/910.m3u8
+#EXTINF:-1 tvg-ID="M6" tvg-name="M6" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/M6%20HD.png" group-title="PORTUGAL",M6
+http://zonanorteiptv.ddns.net:8000/live/username/password/2016.m3u8
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX" tvg-logo="http://www.thelogodb.com/images/media/logo/xquwxv1436847349.png/medium" group-title="PORTUGAL",FOX
+http://zonanorteiptv.ddns.net:8000/live/username/password/1172.m3u8
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xquwxv1436847349.png/medium" group-title="PORTUGAL",FOX HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/35.m3u8
+#EXTINF:-1 tvg-ID="FOX News" tvg-name="FOX NEWS" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/Fox%20News%20HD.png" group-title="PORTUGAL",FOX NEWS
+http://zonanorteiptv.ddns.net:8000/live/username/password/486.m3u8
+#EXTINF:-1 tvg-ID="FOXLIFE" tvg-name="FOX LIFE" tvg-logo="http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png/medium" group-title="PORTUGAL",FOX LIFE
+http://zonanorteiptv.ddns.net:8000/live/username/password/4900.m3u8
+#EXTINF:-1 tvg-ID="FOX LIFE LOW" tvg-name="FOX LIFE HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png/medium" group-title="PORTUGAL",FOX LIFE HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/36.m3u8
+#EXTINF:-1 tvg-ID="FOX MOVIES HD" tvg-name="FOX MOVIES" tvg-logo="http://www.thelogodb.com/images/media/logo/vptxrq1436890170.png/medium" group-title="PORTUGAL",FOX MOVIES
+http://zonanorteiptv.ddns.net:8000/live/username/password/487.m3u8
+#EXTINF:-1 tvg-ID="FOX MOVIES HD" tvg-name="FOX MOVIES HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vptxrq1436890170.png/medium" group-title="PORTUGAL",FOX MOVIES HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/38.m3u8
+#EXTINF:-1 tvg-ID="FOX COMEDY HD" tvg-name="FOX COMEDY" tvg-logo="http://www.thelogodb.com/images/media/logo/rvvqvx1458557365.png/medium" group-title="PORTUGAL",FOX COMEDY
+http://zonanorteiptv.ddns.net:8000/live/username/password/37.m3u8
+#EXTINF:-1 tvg-ID="FOX COMEDY HD" tvg-name="FOX COMEDY HD" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/FOX%20COMEDY%20HD.png" group-title="PORTUGAL",FOX COMEDY HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/503.m3u8
+#EXTINF:-1 tvg-ID="FOX CRIME LOW" tvg-name="FOX CRIME" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxut1436892701.png/medium" group-title="PORTUGAL",FOX CRIME
+http://zonanorteiptv.ddns.net:8000/live/username/password/1174.m3u8
+#EXTINF:-1 tvg-ID="FOX CRIME LOW" tvg-name="FOX CRIME HD" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxut1436892701.png/medium" group-title="PORTUGAL",FOX CRIME HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/34.m3u8
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="http://www.thelogodb.com/images/media/logo/rysqvw1445113783.png/medium" group-title="PORTUGAL",AXN
+http://zonanorteiptv.ddns.net:8000/live/username/password/1170.m3u8
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/rysqvw1445113783.png/medium" group-title="PORTUGAL",AXN HD ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3220.m3u8
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rysqvw1445113783.png/medium" group-title="PORTUGAL",AXN HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/43.m3u8
+#EXTINF:-1 tvg-ID="AXN White" tvg-name="AXN WHITE" tvg-logo="http://www.thelogodb.com/images/media/logo/vvwysx1445114035.png/medium" group-title="PORTUGAL",AXN WHITE
+http://zonanorteiptv.ddns.net:8000/live/username/password/1171.m3u8
+#EXTINF:-1 tvg-ID="AXN White" tvg-name="AXN WHITE HD ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/vvwysx1445114035.png/medium" group-title="PORTUGAL",AXN WHITE HD ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3219.m3u8
+#EXTINF:-1 tvg-ID="AXN White" tvg-name="AXN WHITE HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vvwysx1445114035.png/medium" group-title="PORTUGAL",AXN WHITE HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/42.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AXN BLACK" tvg-logo="" group-title="PORTUGAL",AXN BLACK
+http://zonanorteiptv.ddns.net:8000/live/username/password/6931.m3u8
+#EXTINF:-1 tvg-ID="AXN Black" tvg-name="AXN BLACK HD ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/tstsvx1445114284.png/medium" group-title="PORTUGAL",AXN BLACK HD ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3218.m3u8
+#EXTINF:-1 tvg-ID="AXN BLACK HD (LOW BITRATE)" tvg-name="AXN Black HD" tvg-logo="http://www.thelogodb.com/images/media/logo/tstsvx1445114284.png/medium" group-title="PORTUGAL",AXN Black HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/41.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="►►►  Canais Tv Desporto  ◄◄◄" tvg-logo="" group-title="",►►►  Canais Tv Desporto  ◄◄◄
+http://zonanorteiptv.ddns.net:8000/live/username/password/877.m3u8
+#EXTINF:-1 tvg-ID="SPORT.TV+" tvg-name="SPORTV +" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="PORTUGAL",SPORTV +
+http://zonanorteiptv.ddns.net:8000/live/username/password/629.m3u8
+#EXTINF:-1 tvg-ID="SPORT.TV+" tvg-name="SPORTV + FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="PORTUGAL",SPORTV + FHD
+http://zonanorteiptv.ddns.net:8000/live/username/password/911.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORTV 1" tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png/medium" group-title="PORTUGAL",SPORTV 1
+http://zonanorteiptv.ddns.net:8000/live/username/password/66.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORTV 1 ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/xvrxyp1437951106.png/medium" group-title="PORTUGAL",SPORTV 1 ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/7996.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORTV 1 HD ( NET MUITO FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/xvrxyp1437951106.png/medium" group-title="PORTUGAL",SPORTV 1 HD ( NET MUITO FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3113.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORTV 1 HD ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/xvrxyp1437951106.png/medium" group-title="PORTUGAL",SPORTV 1 HD ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3114.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORTV 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xvrxyp1437951106.png/medium" group-title="PORTUGAL",SPORTV 1 HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/160.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORTV 1 FULL HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xvrxyp1437951106.png/medium" group-title="PORTUGAL",SPORTV 1 FULL HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/67.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORTV 2" tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png/medium" group-title="PORTUGAL",SPORTV 2
+http://zonanorteiptv.ddns.net:8000/live/username/password/64.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORTV 2 HD ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/qrvxvq1436886129.png/medium" group-title="PORTUGAL",SPORTV 2 HD ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3230.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qrvxvq1436886129.png/medium" group-title="PORTUGAL",SPORTV 2 HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/161.m3u8
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="SPORTV 2 FULL HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qrvxvq1436886129.png/medium" group-title="PORTUGAL",SPORTV 2 FULL HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/65.m3u8
+#EXTINF:-1 tvg-ID="SPTV3" tvg-name="SPORTV 3" tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png/medium" group-title="PORTUGAL",SPORTV 3
+http://zonanorteiptv.ddns.net:8000/live/username/password/63.m3u8
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="SPORTV 3 HD ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/qrwvps1436886569.png/medium" group-title="PORTUGAL",SPORTV 3 HD ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3229.m3u8
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="SPORTV 3 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qrwvps1436886569.png/medium" group-title="PORTUGAL",SPORTV 3 HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/162.m3u8
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="SPORTV 3 FULL HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qrwvps1436886569.png/medium" group-title="PORTUGAL",SPORTV 3 FULL HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/159.m3u8
+#EXTINF:-1 tvg-ID="SPTV4" tvg-name="SPORTV 4" tvg-logo="http://www.thelogodb.com/images/media/logo/wywyss1436887367.png/medium" group-title="PORTUGAL",SPORTV 4
+http://zonanorteiptv.ddns.net:8000/live/username/password/62.m3u8
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="SPORTV 4 HD ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/vtxqpw1436886719.png/medium" group-title="PORTUGAL",SPORTV 4 HD ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3228.m3u8
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="SPORTV 4 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vtxqpw1436886719.png/medium" group-title="PORTUGAL",SPORTV 4 HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/163.m3u8
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="SPORTV 4 FULL  HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vtxqpw1436886719.png/medium" group-title="PORTUGAL",SPORTV 4 FULL  HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/61.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 5 HD" tvg-name="SPORTV 5" tvg-logo="http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png/medium" group-title="PORTUGAL",SPORTV 5
+http://zonanorteiptv.ddns.net:8000/live/username/password/60.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 5 HD" tvg-name="SPORTV 5 HD ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/ruyqvt1436886834.png/medium" group-title="PORTUGAL",SPORTV 5 HD ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3227.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 5 HD" tvg-name="SPORTV 5 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ruyqvt1436886834.png/medium" group-title="PORTUGAL",SPORTV 5 HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/91.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 5 HD" tvg-name="SPORTV 5 FULL HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ruyqvt1436886834.png/medium" group-title="PORTUGAL",SPORTV 5 FULL HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/480.m3u8
+#EXTINF:-1 tvg-ID="Benfica TV" tvg-name="BTV 1" tvg-logo="http://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png/medium" group-title="PORTUGAL",BTV 1
+http://zonanorteiptv.ddns.net:8000/live/username/password/165.m3u8
+#EXTINF:-1 tvg-ID="Benfica TV" tvg-name="BTV 1 ( NET FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png/medium" group-title="PORTUGAL",BTV 1 ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3226.m3u8
+#EXTINF:-1 tvg-ID="BENFICA TV 1 HD" tvg-name="BTV 1 HD ( NET MUITO FRACA )" tvg-logo="http://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png/medium" group-title="PORTUGAL",BTV 1 HD ( NET MUITO FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/3115.m3u8
+#EXTINF:-1 tvg-ID="BENFICA TV 1 HD." tvg-name="BTV 1 HD ( NET FRACA )" tvg-logo="" group-title="PORTUGAL",BTV 1 HD ( NET FRACA )
+http://zonanorteiptv.ddns.net:8000/live/username/password/4966.m3u8
+#EXTINF:-1 tvg-ID="BENFICA TV 1 HD" tvg-name="BTV 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png/medium" group-title="PORTUGAL",BTV 1 HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/59.m3u8
+#EXTINF:-1 tvg-ID="BENFICA TV 1 HD." tvg-name="BTV 1 FULL HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv1hd.png" group-title="PORTUGAL",BTV 1 FULL HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/697.m3u8
+#EXTINF:-1 tvg-ID="SPORTINGTV" tvg-name="SPORTING TV" tvg-logo="http://www.thelogodb.com/images/media/logo/twpvrs1433477118.png/medium" group-title="PORTUGAL",SPORTING TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/57.m3u8
+#EXTINF:-1 tvg-ID="SPORTINGTV" tvg-name="SPORTING HD" tvg-logo="http://www.thelogodb.com/images/media/logo/twpvrs1433477118.png/medium" group-title="PORTUGAL",SPORTING HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/481.m3u8
+#EXTINF:-1 tvg-ID="A Bola TV" tvg-name="BOLA TV" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png/medium" group-title="PORTUGAL",BOLA TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/68.m3u8
+#EXTINF:-1 tvg-ID="PFC" tvg-name="PFC" tvg-logo="http://www.thelogodb.com/images/media/logo/tsqstw1436894693.png/medium" group-title="PORTUGAL",PFC
+http://zonanorteiptv.ddns.net:8000/live/username/password/51.m3u8
+#EXTINF:-1 tvg-ID="REAL MADRID TV" tvg-name="REAL MADRID" tvg-logo="http://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium" group-title="PORTUGAL",REAL MADRID
+http://zonanorteiptv.ddns.net:8000/live/username/password/169.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BARÇA TV" tvg-logo="" group-title="PORTUGAL",BARÇA TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/6930.m3u8
+#EXTINF:-1 tvg-ID="CHELSEA TV" tvg-name="CHELSEA TV" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/Chelsea%20TV.png" group-title="PORTUGAL",CHELSEA TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/495.m3u8
+#EXTINF:-1 tvg-ID="EURON" tvg-name="EUROSPORT NEWS" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/eru%20sporte%20news%201234567.jpg" group-title="PORTUGAL",EUROSPORT NEWS
+http://zonanorteiptv.ddns.net:8000/live/username/password/491.m3u8
+#EXTINF:-1 tvg-ID="EUROSPORT 1" tvg-name="EUROSPORT 1" tvg-logo="http://www.thelogodb.com/images/media/logo/sqtsts1436891637.png/medium" group-title="PORTUGAL",EUROSPORT 1
+http://zonanorteiptv.ddns.net:8000/live/username/password/255.m3u8
+#EXTINF:-1 tvg-ID="EUROS" tvg-name="EUROSPORT 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/sqtsts1436891637.png/medium" group-title="PORTUGAL",EUROSPORT 1 HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/167.m3u8
+#EXTINF:-1 tvg-ID="Eurosport2.pt" tvg-name="EUROSPORT 2" tvg-logo="http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png/medium" group-title="PORTUGAL",EUROSPORT 2
+http://zonanorteiptv.ddns.net:8000/live/username/password/54.m3u8
+#EXTINF:-1 tvg-ID="MOTORVISIONHD" tvg-name="MOTORVISION HD" tvg-logo="http://www.thelogodb.com/images/media/logo/tprpvy1453990598.png/medium" group-title="PORTUGAL",MOTORVISION HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/52.m3u8
+#EXTINF:-1 tvg-ID="Motors TV" tvg-name="MOTORS TV" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/Motors%20TV.png" group-title="PORTUGAL",MOTORS TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/254.m3u8
+#EXTINF:-1 tvg-ID="NBATV" tvg-name="NBA" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/NBA%20TV.png" group-title="PORTUGAL",NBA
+http://zonanorteiptv.ddns.net:8000/live/username/password/200.m3u8
+#EXTINF:-1 tvg-ID="FUEL TV HD" tvg-name="FUEL TV" tvg-logo="http://www.thelogodb.com/images/media/logo/yxxrqw1436895628.png/medium" group-title="PORTUGAL",FUEL TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/170.m3u8
+#EXTINF:-1 tvg-ID="FUEL TV HD" tvg-name="FUEL TV HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yxxrqw1436895628.png/medium" group-title="PORTUGAL",FUEL TV HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/909.m3u8
+#EXTINF:-1 tvg-ID="FIGHTHD" tvg-name="FIGHT NETWORK  HD" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/fighthd.png" group-title="PORTUGAL",FIGHT NETWORK  HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/489.m3u8
+#EXTINF:-1 tvg-ID="FINE LIVING NETWORK HD" tvg-name="FINE LIVING NETWORK HD" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/fine_living_network_emea.jpg" group-title="PORTUGAL",FINE LIVING NETWORK HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/488.m3u8
+#EXTINF:-1 tvg-ID="MCS EXTREME" tvg-name="MCS EXTREME" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/mcs%20extreme.png" group-title="PORTUGAL",MCS EXTREME
+http://zonanorteiptv.ddns.net:8000/live/username/password/705.m3u8
+#EXTINF:-1 tvg-ID="KOMBAT SPORT" tvg-name="KOMBAT SPORT" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/KOMBAT%20SPORT.png" group-title="PORTUGAL",KOMBAT SPORT
+http://zonanorteiptv.ddns.net:8000/live/username/password/168.m3u8
+#EXTINF:-1 tvg-ID="OUTDOOR HD" tvg-name="OUTDOOR HD" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/Outdoor%20Channel%20HD%20logo%20peq.png" group-title="PORTUGAL",OUTDOOR HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/504.m3u8
+#EXTINF:-1 tvg-ID="Caza & Pesca 2" tvg-name="CAÇA E PESCA" tvg-logo="http://www.thelogodb.com/images/media/logo/vxwput1438005508.png/medium" group-title="PORTUGAL",CAÇA E PESCA
+http://zonanorteiptv.ddns.net:8000/live/username/password/49.m3u8
+#EXTINF:-1 tvg-ID="Caça e Pesca" tvg-name="CACA E PESCA HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vxwput1438005508.png/medium" group-title="PORTUGAL",CACA E PESCA HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/4899.m3u8
+#EXTINF:-1 tvg-ID="Caça Vision" tvg-name="CAÇAVISION" tvg-logo="http://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png/medium" group-title="PORTUGAL",CAÇAVISION
+http://zonanorteiptv.ddns.net:8000/live/username/password/50.m3u8
+#EXTINF:-1 tvg-ID="Toros TV" tvg-name="TOROS TV" tvg-logo="http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png/medium" group-title="PORTUGAL",TOROS TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/166.m3u8
+#EXTINF:-1 tvg-ID="Toros TV" tvg-name="TOROS TV HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png/medium" group-title="PORTUGAL",TOROS TV HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/4898.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Canais Tv Documentarios ◄◄◄" tvg-logo="" group-title="",►►► Canais Tv Documentarios ◄◄◄
+http://zonanorteiptv.ddns.net:8000/live/username/password/883.m3u8
+#EXTINF:-1 tvg-ID="DiscoveryHDShowcase.pt" tvg-name="DISCOVERY HD SHOWCASE" tvg-logo="http://www.thelogodb.com/images/media/logo/qqwypw1435092052.png/medium" group-title="PORTUGAL",DISCOVERY HD SHOWCASE
+http://zonanorteiptv.ddns.net:8000/live/username/password/180.m3u8
+#EXTINF:-1 tvg-ID="Discovery" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium" group-title="PORTUGAL",DISCOVERY CHANNEL
+http://zonanorteiptv.ddns.net:8000/live/username/password/17.m3u8
+#EXTINF:-1 tvg-ID="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png/medium" group-title="PORTUGAL",NATIONAL GEOGRAPHIC
+http://zonanorteiptv.ddns.net:8000/live/username/password/4901.m3u8
+#EXTINF:-1 tvg-ID="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png/medium" group-title="PORTUGAL",NATIONAL GEOGRAPHIC HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/19.m3u8
+#EXTINF:-1 tvg-ID="Nat Geo Wild" tvg-name="NAT GEO WILD" tvg-logo="http://www.thelogodb.com/images/media/logo/qpssup1433966447.png/medium" group-title="PORTUGAL",NAT GEO WILD
+http://zonanorteiptv.ddns.net:8000/live/username/password/176.m3u8
+#EXTINF:-1 tvg-ID="Nat Geo Wild" tvg-name="NAT GEO WILD HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/natgeowildhd.png" group-title="PORTUGAL",NAT GEO WILD HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/704.m3u8
+#EXTINF:-1 tvg-ID="HistoryChannel.pt" tvg-name="CANAL HISTORIA" tvg-logo="http://www.thelogodb.com/images/media/logo/upusvx1436899667.png/medium" group-title="PORTUGAL",CANAL HISTORIA
+http://zonanorteiptv.ddns.net:8000/live/username/password/13.m3u8
+#EXTINF:-1 tvg-ID="odisseia.pt" tvg-name="ODISSEIA" tvg-logo="http://www.thelogodb.com/images/media/logo/vpyypr1462122978.png/medium" group-title="PORTUGAL",ODISSEIA
+http://zonanorteiptv.ddns.net:8000/live/username/password/20.m3u8
+#EXTINF:-1 tvg-ID="A&E" tvg-name="A & E" tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png/medium" group-title="PORTUGAL",A & E
+http://zonanorteiptv.ddns.net:8000/live/username/password/15.m3u8
+#EXTINF:-1 tvg-ID="MCS LifeStyle" tvg-name="MCS LIFESTYLE" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/MCS%20Lifestyle.png" group-title="PORTUGAL",MCS LIFESTYLE
+http://zonanorteiptv.ddns.net:8000/live/username/password/177.m3u8
+#EXTINF:-1 tvg-ID="EENTER" tvg-name="E! ENTERTAINMENT" tvg-logo="http://www.thelogodb.com/images/media/logo/vrrvwt1436890500.png/medium" group-title="PORTUGAL",E! ENTERTAINMENT
+http://zonanorteiptv.ddns.net:8000/live/username/password/179.m3u8
+#EXTINF:-1 tvg-ID="EENTER" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vrrvwt1436890500.png/medium" group-title="PORTUGAL",E! ENTERTAINMENT HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/4903.m3u8
+#EXTINF:-1 tvg-ID="CBSReality.pt" tvg-name="CBS REALITY" tvg-logo="http://www.thelogodb.com/images/media/logo/tywuvw1434287895.png/medium" group-title="PORTUGAL",CBS REALITY
+http://zonanorteiptv.ddns.net:8000/live/username/password/183.m3u8
+#EXTINF:-1 tvg-ID="CRIME INVESTIGATION" tvg-name="CRIME INVESTIGATION" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/CrimeInvestigation.jpg" group-title="PORTUGAL",CRIME INVESTIGATION
+http://zonanorteiptv.ddns.net:8000/live/username/password/1169.m3u8
+#EXTINF:-1 tvg-ID="24 Kitchen" tvg-name="24 KITCHEN HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qpsqps1436892971.png/medium" group-title="PORTUGAL",24 KITCHEN HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/14.m3u8
+#EXTINF:-1 tvg-ID="TRAVEL" tvg-name="TRAVEL CHANNEL" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/Travel%20Channel.png" group-title="PORTUGAL",TRAVEL CHANNEL
+http://zonanorteiptv.ddns.net:8000/live/username/password/4902.m3u8
+#EXTINF:-1 tvg-ID="TRAVEL" tvg-name="TRAVEL CHANNEL HD" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/Travel%20Channel.png" group-title="PORTUGAL",TRAVEL CHANNEL HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/505.m3u8
+#EXTINF:-1 tvg-ID="FOODNETWORKHD" tvg-name="FOOD NETWORK HD" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/Food%20Network%20hd.png" group-title="PORTUGAL",FOOD NETWORK HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/241.m3u8
+#EXTINF:-1 tvg-ID="TLC.pt" tvg-name="TLC" tvg-logo="http://www.thelogodb.com/images/media/logo/rprruu1433942038.png/medium" group-title="PORTUGAL",TLC
+http://zonanorteiptv.ddns.net:8000/live/username/password/16.m3u8
+#EXTINF:-1 tvg-ID="DOGTV" tvg-name="DOG TV" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/DOG%20TV.png" group-title="PORTUGAL",DOG TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/913.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL 180" tvg-logo="http://151.80.40.102/FILMES/180-logo-new-scale.png" group-title="PORTUGAL",CANAL 180
+http://zonanorteiptv.ddns.net:8000/live/username/password/4892.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FTV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fashiontv.png" group-title="PORTUGAL",FTV
+http://zonanorteiptv.ddns.net:8000/live/username/password/624.m3u8
+#EXTINF:-1 tvg-ID="FASHIONTVHD" tvg-name="FTV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fashiontv.png" group-title="PORTUGAL",FTV HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/1979.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DEUTSCH WELLE" tvg-logo="" group-title="PORTUGAL",DEUTSCH WELLE
+http://zonanorteiptv.ddns.net:8000/live/username/password/6934.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DEUTSCHE WELLE" tvg-logo="" group-title="PORTUGAL",DEUTSCHE WELLE
+http://zonanorteiptv.ddns.net:8000/live/username/password/6933.m3u8
+#EXTINF:-1 tvg-ID="BBC Entertainment" tvg-name="BBC ENTERTAINMENT" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/bbc-entertainment-logo.png" group-title="PORTUGAL",BBC ENTERTAINMENT
+http://zonanorteiptv.ddns.net:8000/live/username/password/497.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Canais Tv Kids ◄◄◄" tvg-logo="" group-title="",►►► Canais Tv Kids ◄◄◄
+http://zonanorteiptv.ddns.net:8000/live/username/password/879.m3u8
+#EXTINF:-1 tvg-ID="disneychannel.pt" tvg-name="DISNEY CHANNEL" tvg-logo="http://www.thelogodb.com/images/media/logo/supsrs1433943151.png/medium" group-title="PORTUGAL",DISNEY CHANNEL
+http://zonanorteiptv.ddns.net:8000/live/username/password/30.m3u8
+#EXTINF:-1 tvg-ID="DisneyJunior.pt" tvg-name="DISNEY JUNIOR" tvg-logo="http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png/medium" group-title="PORTUGAL",DISNEY JUNIOR
+http://zonanorteiptv.ddns.net:8000/live/username/password/29.m3u8
+#EXTINF:-1 tvg-ID="canalpanda.pt" tvg-name="CANAL PANDA" tvg-logo="http://www.thelogodb.com/images/media/logo/ruptxu1434712542.png/medium" group-title="PORTUGAL",CANAL PANDA
+http://zonanorteiptv.ddns.net:8000/live/username/password/28.m3u8
+#EXTINF:-1 tvg-ID="PANDABIGGS" tvg-name="PANDA BIGGS" tvg-logo="http://www.thelogodb.com/images/media/logo/sypyqw1456252768.png/medium" group-title="PORTUGAL",PANDA BIGGS
+http://zonanorteiptv.ddns.net:8000/live/username/password/23.m3u8
+#EXTINF:-1 tvg-ID="SIC K" tvg-name="SIC KIDS" tvg-logo="http://www.thelogodb.com/images/media/logo/vuxyry1436891832.png/medium" group-title="PORTUGAL",SIC KIDS
+http://zonanorteiptv.ddns.net:8000/live/username/password/26.m3u8
+#EXTINF:-1 tvg-ID="Nickelodeon.pt" tvg-name="NICKELODEON" tvg-logo="http://www.thelogodb.com/images/media/logo/turwts1438374001.png/medium" group-title="PORTUGAL",NICKELODEON
+http://zonanorteiptv.ddns.net:8000/live/username/password/27.m3u8
+#EXTINF:-1 tvg-ID="CART" tvg-name="CARTOON NETWORK" tvg-logo="http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png/medium" group-title="PORTUGAL",CARTOON NETWORK
+http://zonanorteiptv.ddns.net:8000/live/username/password/24.m3u8
+#EXTINF:-1 tvg-ID="Baby TV" tvg-name="BABY TV" tvg-logo="http://www.thelogodb.com/images/media/logo/qwyswv1433940875.png/medium" group-title="PORTUGAL",BABY TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/22.m3u8
+#EXTINF:-1 tvg-ID="BABYFIRST" tvg-name="BABY FIRST" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/BABY%20FIRST%20BABY%20FIRST.png" group-title="PORTUGAL",BABY FIRST
+http://zonanorteiptv.ddns.net:8000/live/username/password/246.m3u8
+#EXTINF:-1 tvg-ID="JimJam" tvg-name="JIMJAM" tvg-logo="http://www.thelogodb.com/images/media/logo/suvqtv1433943639.png/medium" group-title="PORTUGAL",JIMJAM
+http://zonanorteiptv.ddns.net:8000/live/username/password/25.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Canais Tv Musica ◄◄◄" tvg-logo="" group-title="",►►► Canais Tv Musica ◄◄◄
+http://zonanorteiptv.ddns.net:8000/live/username/password/880.m3u8
+#EXTINF:-1 tvg-ID="Afro Music" tvg-name="AFRO MUSIC" tvg-logo="http://www.thelogodb.com/images/media/logo/yywtqx1456252794.png/medium" group-title="PORTUGAL",AFRO MUSIC
+http://zonanorteiptv.ddns.net:8000/live/username/password/11.m3u8
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV PORTUGAL" tvg-logo="http://www.thelogodb.com/images/media/logo/xtuvyw1436892766.png/medium" group-title="PORTUGAL",MTV PORTUGAL
+http://zonanorteiptv.ddns.net:8000/live/username/password/18.m3u8
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV PORTUGAL HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/mtvportugalhd.png" group-title="PORTUGAL",MTV PORTUGAL HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/702.m3u8
+#EXTINF:-1 tvg-ID="MTVDance" tvg-name="MTV DANCE" tvg-logo="https://www.thelogodb.com/images/media/logo/vpxwty1438373956.png/medium" group-title="PORTUGAL",MTV DANCE
+http://zonanorteiptv.ddns.net:8000/live/username/password/1650.m3u8
+#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png/medium" group-title="PORTUGAL",VH1
+http://zonanorteiptv.ddns.net:8000/live/username/password/9.m3u8
+#EXTINF:-1 tvg-ID="VH1Classic" tvg-name="VH1 CLASSIC" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/VH1%20Classic.png" group-title="PORTUGAL",VH1 CLASSIC
+http://zonanorteiptv.ddns.net:8000/live/username/password/475.m3u8
+#EXTINF:-1 tvg-ID="MCMPOP" tvg-name="MCM POP" tvg-logo="http://www.thelogodb.com/images/media/logo/rvtqvs1435092184.png/medium" group-title="PORTUGAL",MCM POP
+http://zonanorteiptv.ddns.net:8000/live/username/password/174.m3u8
+#EXTINF:-1 tvg-ID="TRACE TV" tvg-name="TRACE TV" tvg-logo="http://www.thelogodb.com/images/media/logo/qxqsxq1436847475.png/medium" group-title="PORTUGAL",TRACE TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/21.m3u8
+#EXTINF:-1 tvg-ID="TRACE TV" tvg-name="TRACE TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/traceurbanhd.png" group-title="PORTUGAL",TRACE TV HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/703.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TRACE URBAN" tvg-logo="" group-title="PORTUGAL",TRACE URBAN
+http://zonanorteiptv.ddns.net:8000/live/username/password/6941.m3u8
+#EXTINF:-1 tvg-ID="TRACEURBANHD" tvg-name="TRACE URBAN HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qxqsxq1436847475.png/medium" group-title="PORTUGAL",TRACE URBAN HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/4897.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="C MUSIC" tvg-logo="http://www.thelogodb.com/images/media/logo/rxysrq1435105996.png/medium" group-title="PORTUGAL",C MUSIC
+http://zonanorteiptv.ddns.net:8000/live/username/password/12.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CLUBBING TV" tvg-logo="" group-title="PORTUGAL",CLUBBING TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/6932.m3u8
+#EXTINF:-1 tvg-ID="iconcertshd" tvg-name="ICONCERTS" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/iconsertes.jpg" group-title="PORTUGAL",ICONCERTS
+http://zonanorteiptv.ddns.net:8000/live/username/password/484.m3u8
+#EXTINF:-1 tvg-ID="MEZZO" tvg-name="MEZZO" tvg-logo="https://www.thelogodb.com/images/media/logo/xvwrsp1436893825.png/medium" group-title="PORTUGAL",MEZZO
+http://zonanorteiptv.ddns.net:8000/live/username/password/1175.m3u8
+#EXTINF:-1 tvg-ID="MEZZO LIVE HD" tvg-name="MEZZO LIVE HD" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/MEZZO%20LIVE%20HD.png" group-title="PORTUGAL",MEZZO LIVE HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/914.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Canais Tv Varios ◄◄◄" tvg-logo="" group-title="",►►► Canais Tv Varios ◄◄◄
+http://zonanorteiptv.ddns.net:8000/live/username/password/885.m3u8
+#EXTINF:-1 tvg-ID="CANAL UM EUROPA" tvg-name="CANAL UM  EUROPA" tvg-logo="" group-title="PORTUGAL",CANAL UM  EUROPA
+http://zonanorteiptv.ddns.net:8000/live/username/password/1980.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV5 MONDE" tvg-logo="" group-title="PORTUGAL",TV5 MONDE
+http://zonanorteiptv.ddns.net:8000/live/username/password/3803.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 24 ( INGLES )" tvg-logo="" group-title="PORTUGAL",FRANCE 24 ( INGLES )
+http://zonanorteiptv.ddns.net:8000/live/username/password/6937.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="I24 NEWS" tvg-logo="" group-title="PORTUGAL",I24 NEWS
+http://zonanorteiptv.ddns.net:8000/live/username/password/6936.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="I24 NEWS ( FR )" tvg-logo="" group-title="PORTUGAL",I24 NEWS ( FR )
+http://zonanorteiptv.ddns.net:8000/live/username/password/6935.m3u8
+#EXTINF:-1 tvg-ID="1+1" tvg-name="1+1" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/1+1.jpg" group-title="PORTUGAL",1+1
+http://zonanorteiptv.ddns.net:8000/live/username/password/1982.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MAX" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/max%20tv.png" group-title="PORTUGAL",MAX
+http://zonanorteiptv.ddns.net:8000/live/username/password/3372.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SET ASIA" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/SET%20ASIA.png" group-title="PORTUGAL",SET ASIA
+http://zonanorteiptv.ddns.net:8000/live/username/password/3373.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Zee TV" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/Zee%20TV.jpg" group-title="PORTUGAL",Zee TV
+http://zonanorteiptv.ddns.net:8000/live/username/password/3374.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="STV NOTICIAS" tvg-logo="" group-title="PORTUGAL",STV NOTICIAS
+http://zonanorteiptv.ddns.net:8000/live/username/password/3607.m3u8
+#EXTINF:-1 tvg-ID="EURON" tvg-name="EURONEWS" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/Euronews.png" group-title="PORTUGAL",EURONEWS
+http://zonanorteiptv.ddns.net:8000/live/username/password/502.m3u8
+#EXTINF:-1 tvg-ID="KBS WORLD HD" tvg-name="KBS WORLD HD" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/kbs_world.png" group-title="PORTUGAL",KBS WORLD HD
+http://zonanorteiptv.ddns.net:8000/live/username/password/2017.m3u8
+#EXTINF:-1 tvg-ID="BVN" tvg-name="BVN" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/bvn.png" group-title="PORTUGAL",BVN
+http://zonanorteiptv.ddns.net:8000/live/username/password/2018.m3u8
+#EXTINF:-1 tvg-ID="CNN" tvg-name="CNN" tvg-logo="http://www.thelogodb.com/images/media/logo/uyswus1433941237.png/medium" group-title="PORTUGAL",CNN
+http://zonanorteiptv.ddns.net:8000/live/username/password/181.m3u8
+#EXTINF:-1 tvg-ID="BLOOM" tvg-name="BLOOMBERG" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/Bloomberg.png" group-title="PORTUGAL",BLOOMBERG
+http://zonanorteiptv.ddns.net:8000/live/username/password/496.m3u8
+#EXTINF:-1 tvg-ID="BBCW" tvg-name="BBC WORLD NEWS" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/" group-title="PORTUGAL",BBC WORLD NEWS
+http://zonanorteiptv.ddns.net:8000/live/username/password/613.m3u8
+#EXTINF:-1 tvg-ID="SKYN" tvg-name="SKY NEWS" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/sky-news.jpg" group-title="PORTUGAL",SKY NEWS
+http://zonanorteiptv.ddns.net:8000/live/username/password/500.m3u8
+#EXTINF:-1 tvg-ID="CANCAONOVA" tvg-name="CANÇAO NOVA" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/cancao_nova1.jpg" group-title="PORTUGAL",CANÇAO NOVA
+http://zonanorteiptv.ddns.net:8000/live/username/password/609.m3u8
+#EXTINF:-1 tvg-ID="CAPELINHA DAS APARIÇÕES" tvg-name="CAPELINHA DAS APARIÇÕES" tvg-logo="http://www.tudoparasatelit.16mb.com/logos/Capelinha_de_Fatima_TV_Fatima.png" group-title="PORTUGAL",CAPELINHA DAS APARIÇÕES
+http://zonanorteiptv.ddns.net:8000/live/username/password/189.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Canais Radios Portuguesas ◄◄◄" tvg-logo="" group-title="",►►► Canais Radios Portuguesas ◄◄◄
+http://zonanorteiptv.ddns.net:8000/live/username/password/882.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO TSF" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/tsf.png" group-title="PORTUGAL",RADIO TSF
+http://zonanorteiptv.ddns.net:8000/live/username/password/593.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RÃDIO SMOOTH FM" tvg-logo="http://www.thelogodb.com/images/media/logo/tuqsqu1435098558.png/medium" group-title="PORTUGAL",RÃDIO SMOOTH FM
+http://zonanorteiptv.ddns.net:8000/live/username/password/595.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO SIM" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/sim.png" group-title="PORTUGAL",RADIO SIM
+http://zonanorteiptv.ddns.net:8000/live/username/password/591.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RÃDIO RENASCENCA" tvg-logo="http://www.thelogodb.com/images/media/logo/sqsyux1435094370.png/medium" group-title="PORTUGAL",RÃDIO RENASCENCA
+http://zonanorteiptv.ddns.net:8000/live/username/password/596.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO ORBITAL" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/orbitalfm.png" group-title="PORTUGAL",RADIO ORBITAL
+http://zonanorteiptv.ddns.net:8000/live/username/password/592.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO MEO MUSIC" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/mmusic.png" group-title="PORTUGAL",RADIO MEO MUSIC
+http://zonanorteiptv.ddns.net:8000/live/username/password/590.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RÃDIO COMERCIAL" tvg-logo="http://www.thelogodb.com/images/media/logo/txtrqy1435096777.png/medium" group-title="PORTUGAL",RÃDIO COMERCIAL
+http://zonanorteiptv.ddns.net:8000/live/username/password/594.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RFM" tvg-logo="http://www.thelogodb.com/images/media/logo/wsrpqu1435094246.png/medium" group-title="PORTUGAL",RFM
+http://zonanorteiptv.ddns.net:8000/live/username/password/585.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO RADAR" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/radar.jpg" group-title="PORTUGAL",RADIO RADAR
+http://zonanorteiptv.ddns.net:8000/live/username/password/588.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO  SATURNO" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/wradio/radiosaturno.png" group-title="PORTUGAL",RADIO  SATURNO
+http://zonanorteiptv.ddns.net:8000/live/username/password/587.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO  MARGINAL" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/marginal.png" group-title="PORTUGAL",RADIO  MARGINAL
+http://zonanorteiptv.ddns.net:8000/live/username/password/589.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO  AMALIA" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/amalia.png" group-title="PORTUGAL",RADIO  AMALIA
+http://zonanorteiptv.ddns.net:8000/live/username/password/586.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RÃDIO CIDADE FM" tvg-logo="http://www.thelogodb.com/images/media/logo/vtxsxr1435078410.png/medium" group-title="PORTUGAL",RÃDIO CIDADE FM
+http://zonanorteiptv.ddns.net:8000/live/username/password/584.m3u8
