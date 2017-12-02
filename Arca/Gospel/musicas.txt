@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+ 
+<item>
+<title>[COLOR white][B]REGIS DANESE FAZ UM MILAGRE EM MIM[/B][/COLOR]</title>
+<utube>omD6vG1Bk64</utube>
+<thumbnail>https://goo.gl/LFNjyO</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]VICTORINO SILVA[/B][/COLOR]</title>
+<utube>b8g4-KNY8bY</utube>
+<thumbnail>https://goo.gl/p496Ct</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]LAURIETE AO VIVO 1 DVD[/B][/COLOR]</title>
+<utube>rHkzzve2h-w</utube>
+<thumbnail>https://goo.gl/01S199</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]LAURIETE AO VIVO DEUS[/B][/COLOR]</title>
+<utube>pLFQeT_CSg0</utube>
+<thumbnail>https://goo.gl/hl7x6P</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]SANDRO NAZIREL[/B][/COLOR]</title>
+<utube>pS0f1Kb0x5I</utube>
+<thumbnail>https://goo.gl/zVh8vV</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Banda Som & Louvor De Janeiro a Janeiro[/B][/COLOR]</title>
+<utube>Uma3s0-gVVU</utube>
+<thumbnail>https://i.imgur.com/0y1B73S.jpg</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Banda Expresso Pentecostal[/B][/COLOR]</title>
+<utube>7o75vUaEFVo</utube>
+<thumbnail>https://i.imgur.com/vCQhyfW.jpg</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]BANDA EXPRESSO PENTECOSTAL[/B][/COLOR]</title>
+<utube>_EWVBFS9AXM</utube>
+<thumbnail>https://goo.gl/d6nNPJ</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ATMOSFERA DA ADORAÇÃO 1[/B][/COLOR]</title>
+<utube>IJOZcbgnFcg</utube>
+<thumbnail>https://s2.vagalume.com/ministerio-irineo-grubert/discografia/atmosfera-de-adoracao-ao-vivo-vol-1-W320.jpg</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ATMOSFERA DA ADORAÇÃO 2[/B][/COLOR]</title>
+<utube>NrC8US4mz9Q</utube>
+<thumbnail>https://s2.vagalume.com/ministerio-irineo-grubert/discografia/atmosfera-de-adoracao-ao-vivo-vol-2-W320.jpg</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ALIÇE MACIEL[/B][/COLOR]</title>
+<utube>kiw8xNOFAfw</utube>
+<thumbnail>http://i.imgur.com/GLRV9pc.png</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]SOFIA CARDOSO[/B][/COLOR]</title>
+<utube>OPihVeKP3ag</utube>
+<thumbnail>https://goo.gl/Rs68rR</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]RAQUEL SANTOS DVD COMPLETO[/B][/COLOR]</title>
+<utube>ATfM3NpPDgA</utube>
+<thumbnail>https://goo.gl/NXpZns</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]NANI AZEVEDO BENDITO SEREI[/B][/COLOR]</title>
+<utube>vGmiXeGK2Uw</utube>
+<thumbnail>https://i.imgur.com/kO0Qd2g.jpg</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]NANI AZEVEDO - AS MELHORES[/B][/COLOR]</title>
+<utube>D18DgJRUYH4</utube>
+<thumbnail>https://goo.gl/BRZJg9</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]MARCO ANTONIO DE CORPO E ALMA 01[/B][/COLOR]</title>
+<utube>cweiS-X0VLU</utube>
+<thumbnail>https://goo.gl/gcq611</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]MARCO ANTONIO DE CORPO E ALMA 02[/B][/COLOR]</title>
+<utube>w8-DdZq2cAQ</utube>
+<thumbnail>https://goo.gl/gcq611</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]FOGO NO PÉ DVD LODEBAR[/B][/COLOR]</title>
+<utube>1-K8eBs2hNo</utube>
+<thumbnail>https://goo.gl/jCPEYc</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]MARA LIMA[/B][/COLOR]</title>
+<utube>nvjhgtRLz8Y</utube>
+<thumbnail>https://goo.gl/kccWhv</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]SUELLEN LIMA[/B][/COLOR]</title>
+<utube>6PDkwhvcPdo</utube>
+<thumbnail>http://i.imgur.com/9G5aIsc.png</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ELIEZER ROZA O HOMEM DE BRANCO[/B][/COLOR]</title>
+<utube>NC2OVfXOnUA</utube>
+<thumbnail>https://goo.gl/aVEJWb</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ARMANDO FILHO DVD 28 ANOS[/B][/COLOR]</title>
+<utube>u8aSiazDNk8</utube>
+<thumbnail>https://goo.gl/hAhyMj</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ESTEVES JACINTO O DONO DA IGREJA[/B][/COLOR]</title>
+<utube>y7W2x63WHog</utube>
+<thumbnail>https://goo.gl/648d2A</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ELIEZER ROZA[/B][/COLOR]</title>
+<utube>Cgpxs36i9Ug</utube>
+<thumbnail>https://goo.gl/nMxoSI</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]NELSON NED[/B][/COLOR]</title>
+<utube>nByYHfJxqUA</utube>
+<thumbnail>https://goo.gl/6JWHHF</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]WELLINGTON JUNIOR O FILHO DO FOGO[/B][/COLOR]</title>
+<utube>FFnwTSNQ7AM</utube>
+<thumbnail>https://goo.gl/hUXE32</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]GERSON RUFINO E BARONY[/B][/COLOR]</title>
+<utube>mej639gelH0</utube>
+<thumbnail>http://i.imgur.com/PU1kFSJ.png</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]PR MELVIN AO VIVO 01[/B][/COLOR]</title>
+<utube>nu76ZAbIqeY</utube>
+<thumbnail>https://goo.gl/YLftW7</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]NOÉMI NONATO[/B][/COLOR]</title>
+<utube>HeDY8_bWYNs</utube>
+<thumbnail>https://goo.gl/kQu7XA</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]FABYANO BARCELLOS[/B][/COLOR]</title>
+<utube>XUGBNA-ktFo</utube>
+<thumbnail>https://goo.gl/en70Bb</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]FABYANO BARCELLOS EM ARARUAMA[/B][/COLOR]</title>
+<utube>U_ycMKufwh8</utube>
+<thumbnail>http://img.youtube.com/vi/U_ycMKufwh8/0.jpg</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]MARCELO AGUIAR CORAÇÃO DE ADORADOR[/B][/COLOR]</title>
+<utube>WD4LYX5_Kbo</utube>
+<thumbnail>http://i.imgur.com/hHLyBop.png</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]RUDNEY E RUABY[/B][/COLOR]</title>
+<utube>bahaLJYhydU</utube>
+<thumbnail>https://goo.gl/qnT7dE</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ELAINE DE JESUS DVD 15 ANOS[/B][/COLOR]</title>
+<utube>xS_3MOQec20</utube>
+<thumbnail>http://i.imgur.com/9zDsnrV.png</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]GERSON RUFINO[/B][/COLOR]</title>
+<utube>jRgAIzNrygw</utube>
+<thumbnail>https://goo.gl/xa3JV7</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]MATTOS NASCIMENTO[/B][/COLOR]</title>
+<utube>cWr_sY6X_OI</utube>
+<thumbnail>https://goo.gl/cmKAXl</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A HISTORIA CONTINUA DANIEL E SAMUEL[/B][/COLOR]</title>
+<utube>0IQgBchqBs8</utube>
+<thumbnail>https://goo.gl/aMgJsR</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]SAMUEL MARIANO E BANDA AO VIVO DVD OFICIAL[/B][/COLOR]</title>
+<utube>R2mNVbcfQPQ</utube>
+<thumbnail>https://goo.gl/WTno2x</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]SAMUEL MARIANO GINÁSIO GIDEÕES 2015[/B][/COLOR]</title>
+<utube>kOxD1CBi2-M</utube>
+<thumbnail>https://goo.gl/PLnk4w</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]OPUS DEI[/B][/COLOR]</title>
+<utube>v6TZuY37SFI</utube>
+<thumbnail>https://goo.gl/I4kVvn</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ROSE NASCIMENTO[/B][/COLOR]</title>
+<utube>XBwonh7YWw4</utube>
+<thumbnail>https://goo.gl/rnl8jo</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ROSE NASCIMENTO  PARA O MUNDO OUVIR[/B][/COLOR]</title>
+<utube>Kj7eo1k5LgY</utube>
+<thumbnail>https://goo.gl/CnzrC2</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]SHIRLEY CARVALHAES TUDO SOBRE MIM[/B][/COLOR]</title>
+<utube>BiTleQuS6E4</utube>
+<thumbnail>https://goo.gl/rdR0BC</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ANDERSON FREIRE[/B][/COLOR]</title>
+<utube>LOXSkuCws38</utube>
+<thumbnail>https://goo.gl/9xahHs</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ELIAS SILVA[/B][/COLOR]</title>
+<utube>aleaBPxDqSc</utube>
+<thumbnail>https://goo.gl/v2lxul</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]SUELLEN LIMA[/B][/COLOR]</title>
+<utube>6PDkwhvcPdo</utube>
+<thumbnail>https://goo.gl/IjaJL5</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EYSHILA[/B][/COLOR]</title>
+<utube>sc_A3JSk-wU</utube>
+<thumbnail>https://goo.gl/mkL2ty</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]J NETO[/B][/COLOR]</title>
+<utube>XLMMuDH6vvc</utube>
+<thumbnail>https://goo.gl/fdRV1o</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]FERNANDINHO AO VIVO GALILEU[/B][/COLOR]</title>
+<utube>tkqXIywOaVk</utube>
+<thumbnail>https://goo.gl/X2xcWF</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]FERNANDINHO TEUS SONHOS[/B][/COLOR]</title>
+<utube>rwqUlMSS-fo</utube>
+<thumbnail>https://goo.gl/yoVnC1</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CANÇÃO E LOUVOR ACONTECIMENTOS ACÚSTICO[/B][/COLOR]</title>
+<utube>rrdawGHezuw</utube>
+<thumbnail>https://goo.gl/8o7QwD</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ADERSON BARONY[/B][/COLOR]</title>
+<utube>ZqABjsAKaK8</utube>
+<thumbnail>https://goo.gl/eh0uWB</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]SERGIO LOPES O AMOR DE DEUS[/B][/COLOR]</title>
+<utube>LTg5puj4s0A</utube>
+<thumbnail>https://goo.gl/40WCcQ</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]GABRIELA ROCHA NOITE DE ADORAÇÃO[/B][/COLOR]</title>
+<utube>3IxncjGVMLA</utube>
+<thumbnail>https://goo.gl/ABz3nX</thumbnail>
+<fanart>https://i.imgur.com/XkOsWrD.jpg</fanart>
+</item>
